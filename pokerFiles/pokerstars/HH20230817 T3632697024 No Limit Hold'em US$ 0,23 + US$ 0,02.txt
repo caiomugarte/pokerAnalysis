@@ -1,0 +1,3312 @@
+﻿PokerStars Hand #245447217152: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 18:11:30 AT [2023/08/17 17:11:30 ET]
+Table '3632697024 1' 9-max Seat #6 is the button
+Seat 1: jrodriguessg (1491 in chips) 
+Seat 2: Marilica0 (1481 in chips) 
+Seat 3: Galodoido031 (1442 in chips) 
+Seat 4: Sissy6 (1500 in chips) 
+Seat 5: Caio Mugarte (1500 in chips) 
+Seat 6: Sparkle0110 (1391 in chips) 
+Seat 7: cerlin 33 (2961 in chips) 
+Seat 8: BARCO VAZIO (1451 in chips) 
+Seat 9: du47 (1786 in chips) 
+jrodriguessg: posts the ante 3
+Marilica0: posts the ante 3
+Galodoido031: posts the ante 3
+Sissy6: posts the ante 3
+Caio Mugarte: posts the ante 3
+Sparkle0110: posts the ante 3
+cerlin 33: posts the ante 3
+BARCO VAZIO: posts the ante 3
+du47: posts the ante 3
+cerlin 33: posts small blind 10
+BARCO VAZIO: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qc 3s]
+du47: folds 
+jrodriguessg: folds 
+Marilica0: folds 
+Galodoido031: folds 
+Sissy6: calls 20
+Caio Mugarte: folds 
+Sparkle0110: folds 
+cerlin 33: calls 10
+BARCO VAZIO: raises 80 to 100
+Sissy6: calls 80
+cerlin 33: folds 
+*** FLOP *** [Jc 9h Tc]
+BARCO VAZIO: bets 82
+Sissy6: calls 82
+*** TURN *** [Jc 9h Tc] [2c]
+BARCO VAZIO: checks 
+Sissy6: checks 
+*** RIVER *** [Jc 9h Tc 2c] [6c]
+BARCO VAZIO: checks 
+Sissy6: bets 260
+BARCO VAZIO: folds 
+Uncalled bet (260) returned to Sissy6
+Sissy6 collected 411 from pot
+Sissy6: doesn't show hand 
+*** SUMMARY ***
+Total pot 411 | Rake 0 
+Board [Jc 9h Tc 2c 6c]
+Seat 1: jrodriguessg folded before Flop (didn't bet)
+Seat 2: Marilica0 folded before Flop (didn't bet)
+Seat 3: Galodoido031 folded before Flop (didn't bet)
+Seat 4: Sissy6 collected (411)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Sparkle0110 (button) folded before Flop (didn't bet)
+Seat 7: cerlin 33 (small blind) folded before Flop
+Seat 8: BARCO VAZIO (big blind) folded on the River
+Seat 9: du47 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447243346: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 18:12:49 AT [2023/08/17 17:12:49 ET]
+Table '3632697024 1' 9-max Seat #7 is the button
+Seat 1: jrodriguessg (1488 in chips) 
+Seat 2: Marilica0 (1478 in chips) 
+Seat 3: Galodoido031 (1439 in chips) 
+Seat 4: Sissy6 (1726 in chips) 
+Seat 5: Caio Mugarte (1497 in chips) 
+Seat 6: Sparkle0110 (1388 in chips) 
+Seat 7: cerlin 33 (2938 in chips) 
+Seat 8: BARCO VAZIO (1266 in chips) 
+Seat 9: du47 (1783 in chips) 
+jrodriguessg: posts the ante 3
+Marilica0: posts the ante 3
+Galodoido031: posts the ante 3
+Sissy6: posts the ante 3
+Caio Mugarte: posts the ante 3
+Sparkle0110: posts the ante 3
+cerlin 33: posts the ante 3
+BARCO VAZIO: posts the ante 3
+du47: posts the ante 3
+BARCO VAZIO: posts small blind 10
+du47: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5d Jh]
+jrodriguessg: folds 
+Marilica0: folds 
+Galodoido031: folds 
+Sissy6: folds 
+Caio Mugarte: folds 
+Sparkle0110: folds 
+cerlin 33: calls 20
+BARCO VAZIO: raises 40 to 60
+du47: folds 
+cerlin 33: calls 40
+*** FLOP *** [5c 7d Js]
+BARCO VAZIO: bets 55
+cerlin 33: calls 55
+*** TURN *** [5c 7d Js] [9c]
+BARCO VAZIO: checks 
+cerlin 33: checks 
+*** RIVER *** [5c 7d Js 9c] [Jc]
+Sissy6 is sitting out
+BARCO VAZIO: bets 119
+cerlin 33: calls 119
+*** SHOW DOWN ***
+BARCO VAZIO: shows [Ac 8c] (a flush, Ace high)
+cerlin 33: mucks hand 
+BARCO VAZIO collected 515 from pot
+*** SUMMARY ***
+Total pot 515 | Rake 0 
+Board [5c 7d Js 9c Jc]
+Seat 1: jrodriguessg folded before Flop (didn't bet)
+Seat 2: Marilica0 folded before Flop (didn't bet)
+Seat 3: Galodoido031 folded before Flop (didn't bet)
+Seat 4: Sissy6 folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Sparkle0110 folded before Flop (didn't bet)
+Seat 7: cerlin 33 (button) mucked [8s 8d]
+Seat 8: BARCO VAZIO (small blind) showed [Ac 8c] and won (515) with a flush, Ace high
+Seat 9: du47 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245447280622: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 18:14:39 AT [2023/08/17 17:14:39 ET]
+Table '3632697024 2' 9-max Seat #2 is the button
+Seat 1: Saiyagym (3093 in chips) 
+Seat 2: el_gorren (849 in chips) 
+Seat 3: rafaegert (1415 in chips) 
+Seat 4: julio neto082 (1794 in chips) 
+Seat 5: NIX2013 (1579 in chips) 
+Seat 6: mosesrules (1412 in chips) 
+Seat 7: JúniorGóz (1870 in chips) 
+Seat 8: Caio Mugarte (1494 in chips) 
+Saiyagym: posts the ante 3
+el_gorren: posts the ante 3
+rafaegert: posts the ante 3
+julio neto082: posts the ante 3
+NIX2013: posts the ante 3
+mosesrules: posts the ante 3
+JúniorGóz: posts the ante 3
+Caio Mugarte: posts the ante 3
+rafaegert: posts small blind 10
+julio neto082: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7s Jc]
+NIX2013: calls 20
+mosesrules: folds 
+JúniorGóz: folds 
+Caio Mugarte: folds 
+Saiyagym: calls 20
+el_gorren: folds 
+rafaegert: folds 
+julio neto082: checks 
+*** FLOP *** [Qd 6s Js]
+julio neto082: checks 
+NIX2013: checks 
+Saiyagym: bets 40
+julio neto082: folds 
+NIX2013: folds 
+Uncalled bet (40) returned to Saiyagym
+Saiyagym collected 94 from pot
+Saiyagym: doesn't show hand 
+*** SUMMARY ***
+Total pot 94 | Rake 0 
+Board [Qd 6s Js]
+Seat 1: Saiyagym collected (94)
+Seat 2: el_gorren (button) folded before Flop (didn't bet)
+Seat 3: rafaegert (small blind) folded before Flop
+Seat 4: julio neto082 (big blind) folded on the Flop
+Seat 5: NIX2013 folded on the Flop
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: JúniorGóz folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447290941: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 18:15:10 AT [2023/08/17 17:15:10 ET]
+Table '3632697024 2' 9-max Seat #3 is the button
+Seat 1: Saiyagym (3164 in chips) 
+Seat 2: el_gorren (846 in chips) 
+Seat 3: rafaegert (1402 in chips) 
+Seat 4: julio neto082 (1771 in chips) 
+Seat 5: NIX2013 (1556 in chips) 
+Seat 6: mosesrules (1409 in chips) 
+Seat 7: JúniorGóz (1867 in chips) 
+Seat 8: Caio Mugarte (1491 in chips) 
+Saiyagym: posts the ante 3
+el_gorren: posts the ante 3
+rafaegert: posts the ante 3
+julio neto082: posts the ante 3
+NIX2013: posts the ante 3
+mosesrules: posts the ante 3
+JúniorGóz: posts the ante 3
+Caio Mugarte: posts the ante 3
+julio neto082: posts small blind 10
+NIX2013: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d 4d]
+mosesrules: folds 
+JúniorGóz: folds 
+Caio Mugarte: folds 
+Saiyagym: calls 20
+el_gorren: folds 
+rafaegert: folds 
+julio neto082: raises 1748 to 1768 and is all-in
+NIX2013: folds 
+Saiyagym: folds 
+Uncalled bet (1748) returned to julio neto082
+julio neto082 collected 84 from pot
+julio neto082: doesn't show hand 
+*** SUMMARY ***
+Total pot 84 | Rake 0 
+Seat 1: Saiyagym folded before Flop
+Seat 2: el_gorren folded before Flop (didn't bet)
+Seat 3: rafaegert (button) folded before Flop (didn't bet)
+Seat 4: julio neto082 (small blind) collected (84)
+Seat 5: NIX2013 (big blind) folded before Flop
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: JúniorGóz folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447299837: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 18:15:37 AT [2023/08/17 17:15:37 ET]
+Table '3632697024 2' 9-max Seat #4 is the button
+Seat 1: Saiyagym (3141 in chips) 
+Seat 2: el_gorren (843 in chips) 
+Seat 3: rafaegert (1399 in chips) 
+Seat 4: julio neto082 (1832 in chips) 
+Seat 5: NIX2013 (1533 in chips) 
+Seat 6: mosesrules (1406 in chips) 
+Seat 7: JúniorGóz (1864 in chips) 
+Seat 8: Caio Mugarte (1488 in chips) 
+Saiyagym: posts the ante 3
+el_gorren: posts the ante 3
+rafaegert: posts the ante 3
+julio neto082: posts the ante 3
+NIX2013: posts the ante 3
+mosesrules: posts the ante 3
+JúniorGóz: posts the ante 3
+Caio Mugarte: posts the ante 3
+NIX2013: posts small blind 10
+mosesrules: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d Jc]
+JúniorGóz: folds 
+Caio Mugarte: folds 
+Saiyagym: folds 
+el_gorren: calls 20
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: calls 10
+mosesrules: checks 
+*** FLOP *** [As Kc 2c]
+NIX2013: checks 
+mosesrules: checks 
+el_gorren: bets 40
+NIX2013: calls 40
+mosesrules: folds 
+*** TURN *** [As Kc 2c] [Qs]
+NIX2013: bets 164
+el_gorren: calls 164
+*** RIVER *** [As Kc 2c Qs] [Th]
+NIX2013: bets 246
+el_gorren: calls 246
+*** SHOW DOWN ***
+NIX2013: shows [Qd Ks] (two pair, Kings and Queens)
+el_gorren: mucks hand 
+NIX2013 collected 984 from pot
+*** SUMMARY ***
+Total pot 984 | Rake 0 
+Board [As Kc 2c Qs Th]
+Seat 1: Saiyagym folded before Flop (didn't bet)
+Seat 2: el_gorren mucked [Ac 5d]
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 (button) folded before Flop (didn't bet)
+Seat 5: NIX2013 (small blind) showed [Qd Ks] and won (984) with two pair, Kings and Queens
+Seat 6: mosesrules (big blind) folded on the Flop
+Seat 7: JúniorGóz folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447323751: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 18:16:48 AT [2023/08/17 17:16:48 ET]
+Table '3632697024 2' 9-max Seat #5 is the button
+Seat 1: Saiyagym (3138 in chips) 
+Seat 2: el_gorren (370 in chips) 
+Seat 3: rafaegert (1396 in chips) 
+Seat 4: julio neto082 (1829 in chips) 
+Seat 5: NIX2013 (2044 in chips) 
+Seat 6: mosesrules (1383 in chips) 
+Seat 7: JúniorGóz (1861 in chips) 
+Seat 8: Caio Mugarte (1485 in chips) 
+Saiyagym: posts the ante 4
+el_gorren: posts the ante 4
+rafaegert: posts the ante 4
+julio neto082: posts the ante 4
+NIX2013: posts the ante 4
+mosesrules: posts the ante 4
+JúniorGóz: posts the ante 4
+Caio Mugarte: posts the ante 4
+mosesrules: posts small blind 15
+JúniorGóz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jh 9s]
+Caio Mugarte: folds 
+Saiyagym: folds 
+el_gorren: folds 
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: calls 30
+mosesrules: calls 15
+JúniorGóz: checks 
+*** FLOP *** [Kd Kc 9d]
+mosesrules: checks 
+JúniorGóz: checks 
+NIX2013: checks 
+*** TURN *** [Kd Kc 9d] [8s]
+mosesrules: checks 
+JúniorGóz: bets 75
+NIX2013: folds 
+mosesrules: folds 
+Uncalled bet (75) returned to JúniorGóz
+JúniorGóz collected 122 from pot
+JúniorGóz: doesn't show hand 
+*** SUMMARY ***
+Total pot 122 | Rake 0 
+Board [Kd Kc 9d 8s]
+Seat 1: Saiyagym folded before Flop (didn't bet)
+Seat 2: el_gorren folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 (button) folded on the Turn
+Seat 6: mosesrules (small blind) folded on the Turn
+Seat 7: JúniorGóz (big blind) collected (122)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447341405: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 18:17:40 AT [2023/08/17 17:17:40 ET]
+Table '3632697024 2' 9-max Seat #6 is the button
+Seat 1: Saiyagym (3134 in chips) 
+Seat 2: el_gorren (366 in chips) 
+Seat 3: rafaegert (1392 in chips) 
+Seat 4: julio neto082 (1825 in chips) 
+Seat 5: NIX2013 (2010 in chips) 
+Seat 6: mosesrules (1349 in chips) 
+Seat 7: JúniorGóz (1949 in chips) 
+Seat 8: Caio Mugarte (1481 in chips) 
+Saiyagym: posts the ante 4
+el_gorren: posts the ante 4
+rafaegert: posts the ante 4
+julio neto082: posts the ante 4
+NIX2013: posts the ante 4
+mosesrules: posts the ante 4
+JúniorGóz: posts the ante 4
+Caio Mugarte: posts the ante 4
+JúniorGóz: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8c 2d]
+Saiyagym: calls 30
+el_gorren: folds 
+rafaegert: raises 45 to 75
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: folds 
+JúniorGóz: folds 
+Caio Mugarte: folds 
+Saiyagym: calls 45
+*** FLOP *** [8h 9h Qs]
+Saiyagym: checks 
+rafaegert: bets 91
+Saiyagym: calls 91
+*** TURN *** [8h 9h Qs] [Ts]
+Saiyagym: checks 
+rafaegert: bets 210
+Saiyagym: calls 210
+*** RIVER *** [8h 9h Qs Ts] [Ac]
+Saiyagym: checks 
+rafaegert: checks 
+*** SHOW DOWN ***
+Saiyagym: shows [Tc 8s] (two pair, Tens and Eights)
+rafaegert: shows [Jc 9c] (a straight, Eight to Queen)
+rafaegert collected 829 from pot
+*** SUMMARY ***
+Total pot 829 | Rake 0 
+Board [8h 9h Qs Ts Ac]
+Seat 1: Saiyagym showed [Tc 8s] and lost with two pair, Tens and Eights
+Seat 2: el_gorren folded before Flop (didn't bet)
+Seat 3: rafaegert showed [Jc 9c] and won (829) with a straight, Eight to Queen
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules (button) folded before Flop (didn't bet)
+Seat 7: JúniorGóz (small blind) folded before Flop
+Seat 8: Caio Mugarte (big blind) folded before Flop
+
+
+
+PokerStars Hand #245447362672: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 18:18:43 AT [2023/08/17 17:18:43 ET]
+Table '3632697024 2' 9-max Seat #7 is the button
+Seat 1: Saiyagym (2754 in chips) 
+Seat 2: el_gorren (362 in chips) 
+Seat 3: rafaegert (1841 in chips) 
+Seat 4: julio neto082 (1821 in chips) 
+Seat 5: NIX2013 (2006 in chips) 
+Seat 6: mosesrules (1345 in chips) 
+Seat 7: JúniorGóz (1930 in chips) 
+Seat 8: Caio Mugarte (1447 in chips) 
+Saiyagym: posts the ante 4
+el_gorren: posts the ante 4
+rafaegert: posts the ante 4
+julio neto082: posts the ante 4
+NIX2013: posts the ante 4
+mosesrules: posts the ante 4
+JúniorGóz: posts the ante 4
+Caio Mugarte: posts the ante 4
+Caio Mugarte: posts small blind 15
+Saiyagym: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s Td]
+el_gorren: calls 30
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: calls 30
+JúniorGóz: raises 90 to 120
+Caio Mugarte: folds 
+Saiyagym: folds 
+el_gorren: calls 90
+mosesrules: calls 90
+*** FLOP *** [4d Qh 8d]
+el_gorren: checks 
+mosesrules: checks 
+JúniorGóz: checks 
+*** TURN *** [4d Qh 8d] [Js]
+el_gorren: checks 
+mosesrules: bets 219
+JúniorGóz: folds 
+el_gorren: folds 
+Uncalled bet (219) returned to mosesrules
+mosesrules collected 437 from pot
+*** SUMMARY ***
+Total pot 437 | Rake 0 
+Board [4d Qh 8d Js]
+Seat 1: Saiyagym (big blind) folded before Flop
+Seat 2: el_gorren folded on the Turn
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules collected (437)
+Seat 7: JúniorGóz (button) folded on the Turn
+Seat 8: Caio Mugarte (small blind) folded before Flop
+
+
+
+PokerStars Hand #245447380901: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 18:19:38 AT [2023/08/17 17:19:38 ET]
+Table '3632697024 2' 9-max Seat #8 is the button
+Seat 1: Saiyagym (2720 in chips) 
+Seat 2: el_gorren (238 in chips) 
+Seat 3: rafaegert (1837 in chips) 
+Seat 4: julio neto082 (1817 in chips) 
+Seat 5: NIX2013 (2002 in chips) 
+Seat 6: mosesrules (1658 in chips) 
+Seat 7: JúniorGóz (1806 in chips) 
+Seat 8: Caio Mugarte (1428 in chips) 
+Saiyagym: posts the ante 4
+el_gorren: posts the ante 4
+rafaegert: posts the ante 4
+julio neto082: posts the ante 4
+NIX2013: posts the ante 4
+mosesrules: posts the ante 4
+JúniorGóz: posts the ante 4
+Caio Mugarte: posts the ante 4
+Saiyagym: posts small blind 15
+el_gorren: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s 8c]
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: raises 30 to 60
+JúniorGóz: calls 60
+Caio Mugarte: folds 
+Saiyagym: calls 45
+el_gorren: calls 30
+*** FLOP *** [Kh 8h 3s]
+Saiyagym: checks 
+el_gorren: bets 174 and is all-in
+mosesrules: folds 
+JúniorGóz: calls 174
+Saiyagym: folds 
+*** TURN *** [Kh 8h 3s] [Ad]
+*** RIVER *** [Kh 8h 3s Ad] [7h]
+*** SHOW DOWN ***
+el_gorren: shows [Ks 5h] (a pair of Kings)
+JúniorGóz: shows [9h Th] (a flush, King high)
+JúniorGóz collected 620 from pot
+el_gorren finished the tournament in 40th place
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [Kh 8h 3s Ad 7h]
+Seat 1: Saiyagym (small blind) folded on the Flop
+Seat 2: el_gorren (big blind) showed [Ks 5h] and lost with a pair of Kings
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded on the Flop
+Seat 7: JúniorGóz showed [9h Th] and won (620) with a flush, King high
+Seat 8: Caio Mugarte (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447395025: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 18:20:21 AT [2023/08/17 17:20:21 ET]
+Table '3632697024 2' 9-max Seat #1 is the button
+Seat 1: Saiyagym (2656 in chips) 
+Seat 3: rafaegert (1833 in chips) 
+Seat 4: julio neto082 (1813 in chips) 
+Seat 5: NIX2013 (1998 in chips) 
+Seat 6: mosesrules (1594 in chips) 
+Seat 7: JúniorGóz (2188 in chips) 
+Seat 8: Caio Mugarte (1424 in chips) 
+Saiyagym: posts the ante 4
+rafaegert: posts the ante 4
+julio neto082: posts the ante 4
+NIX2013: posts the ante 4
+mosesrules: posts the ante 4
+JúniorGóz: posts the ante 4
+Caio Mugarte: posts the ante 4
+rafaegert: posts small blind 15
+julio neto082: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Td Ts]
+NIX2013: folds 
+mosesrules: folds 
+JúniorGóz: folds 
+Caio Mugarte: raises 30 to 60
+Saiyagym: folds 
+rafaegert: calls 45
+julio neto082: calls 30
+*** FLOP *** [As Th Js]
+rafaegert: checks 
+julio neto082: checks 
+Caio Mugarte: bets 120
+rafaegert: folds 
+julio neto082: folds 
+Uncalled bet (120) returned to Caio Mugarte
+Caio Mugarte collected 208 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 208 | Rake 0 
+Board [As Th Js]
+Seat 1: Saiyagym (button) folded before Flop (didn't bet)
+Seat 3: rafaegert (small blind) folded on the Flop
+Seat 4: julio neto082 (big blind) folded on the Flop
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: JúniorGóz folded before Flop (didn't bet)
+Seat 8: Caio Mugarte collected (208)
+
+
+
+PokerStars Hand #245447407921: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 18:21:01 AT [2023/08/17 17:21:01 ET]
+Table '3632697024 2' 9-max Seat #3 is the button
+Seat 1: Saiyagym (2652 in chips) 
+Seat 3: rafaegert (1769 in chips) 
+Seat 4: julio neto082 (1749 in chips) 
+Seat 5: NIX2013 (1994 in chips) 
+Seat 6: mosesrules (1590 in chips) 
+Seat 7: JúniorGóz (2184 in chips) 
+Seat 8: Caio Mugarte (1568 in chips) 
+Saiyagym: posts the ante 4
+rafaegert: posts the ante 4
+julio neto082: posts the ante 4
+NIX2013: posts the ante 4
+mosesrules: posts the ante 4
+JúniorGóz: posts the ante 4
+Caio Mugarte: posts the ante 4
+julio neto082: posts small blind 15
+NIX2013: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad Th]
+mosesrules: folds 
+JúniorGóz: folds 
+Caio Mugarte: raises 30 to 60
+Saiyagym: folds 
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: folds 
+Uncalled bet (30) returned to Caio Mugarte
+Caio Mugarte collected 103 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 1: Saiyagym folded before Flop (didn't bet)
+Seat 3: rafaegert (button) folded before Flop (didn't bet)
+Seat 4: julio neto082 (small blind) folded before Flop
+Seat 5: NIX2013 (big blind) folded before Flop
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: JúniorGóz folded before Flop (didn't bet)
+Seat 8: Caio Mugarte collected (103)
+
+
+
+PokerStars Hand #245447419974: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 18:21:38 AT [2023/08/17 17:21:38 ET]
+Table '3632697024 2' 9-max Seat #4 is the button
+Seat 1: Saiyagym (2648 in chips) 
+Seat 3: rafaegert (1765 in chips) 
+Seat 4: julio neto082 (1730 in chips) 
+Seat 5: NIX2013 (1960 in chips) 
+Seat 6: mosesrules (1586 in chips) 
+Seat 7: JúniorGóz (2180 in chips) 
+Seat 8: Caio Mugarte (1637 in chips) 
+Saiyagym: posts the ante 4
+rafaegert: posts the ante 4
+julio neto082: posts the ante 4
+NIX2013: posts the ante 4
+mosesrules: posts the ante 4
+JúniorGóz: posts the ante 4
+Caio Mugarte: posts the ante 4
+NIX2013: posts small blind 15
+mosesrules: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d 2s]
+JúniorGóz: raises 30 to 60
+Caio Mugarte: folds 
+Saiyagym: folds 
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: calls 45
+mosesrules: calls 30
+*** FLOP *** [8h Qs 7s]
+NIX2013: bets 208
+mosesrules: folds 
+JúniorGóz: calls 208
+*** TURN *** [8h Qs 7s] [6c]
+NIX2013: bets 624
+JúniorGóz: calls 624
+*** RIVER *** [8h Qs 7s 6c] [Tc]
+NIX2013: bets 1064 and is all-in
+JúniorGóz: calls 1064
+*** SHOW DOWN ***
+NIX2013: shows [Ad Qh] (a pair of Queens)
+JúniorGóz: shows [Ts Ks] (a pair of Tens)
+NIX2013 collected 4000 from pot
+*** SUMMARY ***
+Total pot 4000 | Rake 0 
+Board [8h Qs 7s 6c Tc]
+Seat 1: Saiyagym folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 (button) folded before Flop (didn't bet)
+Seat 5: NIX2013 (small blind) showed [Ad Qh] and won (4000) with a pair of Queens
+Seat 6: mosesrules (big blind) folded on the Flop
+Seat 7: JúniorGóz showed [Ts Ks] and lost with a pair of Tens
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447446346: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 18:22:58 AT [2023/08/17 17:22:58 ET]
+Table '3632697024 2' 9-max Seat #5 is the button
+Seat 1: Saiyagym (2644 in chips) 
+Seat 3: rafaegert (1761 in chips) 
+Seat 4: julio neto082 (1726 in chips) 
+Seat 5: NIX2013 (4000 in chips) 
+Seat 6: mosesrules (1522 in chips) 
+Seat 7: JúniorGóz (220 in chips) 
+Seat 8: Caio Mugarte (1633 in chips) 
+Saiyagym: posts the ante 4
+rafaegert: posts the ante 4
+julio neto082: posts the ante 4
+NIX2013: posts the ante 4
+mosesrules: posts the ante 4
+JúniorGóz: posts the ante 4
+Caio Mugarte: posts the ante 4
+mosesrules: posts small blind 15
+JúniorGóz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ks Qs]
+Caio Mugarte: raises 30 to 60
+Saiyagym: folds 
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: folds 
+JúniorGóz: folds 
+Uncalled bet (30) returned to Caio Mugarte
+Caio Mugarte collected 103 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 1: Saiyagym folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 (button) folded before Flop (didn't bet)
+Seat 6: mosesrules (small blind) folded before Flop
+Seat 7: JúniorGóz (big blind) folded before Flop
+Seat 8: Caio Mugarte collected (103)
+
+
+
+PokerStars Hand #245447455195: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 18:23:25 AT [2023/08/17 17:23:25 ET]
+Table '3632697024 2' 9-max Seat #6 is the button
+Seat 1: Saiyagym (2640 in chips) 
+Seat 3: rafaegert (1757 in chips) 
+Seat 4: julio neto082 (1722 in chips) 
+Seat 5: NIX2013 (3996 in chips) 
+Seat 6: mosesrules (1503 in chips) 
+Seat 7: JúniorGóz (186 in chips) 
+Seat 8: Caio Mugarte (1702 in chips) 
+Saiyagym: posts the ante 4
+rafaegert: posts the ante 4
+julio neto082: posts the ante 4
+NIX2013: posts the ante 4
+mosesrules: posts the ante 4
+JúniorGóz: posts the ante 4
+Caio Mugarte: posts the ante 4
+JúniorGóz: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d 3d]
+Saiyagym: calls 30
+rafaegert: folds 
+dida As is disconnected 
+julio neto082: raises 45 to 75
+NIX2013: folds 
+mosesrules: folds 
+JúniorGóz: folds 
+Caio Mugarte: calls 45
+Saiyagym: calls 45
+*** FLOP *** [Js Kd Td]
+Caio Mugarte: checks 
+Saiyagym: checks 
+julio neto082: bets 84
+Caio Mugarte: calls 84
+Saiyagym: calls 84
+*** TURN *** [Js Kd Td] [Qc]
+Caio Mugarte: checks 
+Saiyagym: checks 
+julio neto082: bets 150
+Caio Mugarte: calls 150
+Saiyagym: folds 
+*** RIVER *** [Js Kd Td Qc] [2s]
+Caio Mugarte: checks 
+julio neto082: bets 390
+Caio Mugarte: folds 
+Uncalled bet (390) returned to julio neto082
+julio neto082 collected 820 from pot
+julio neto082: doesn't show hand 
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Js Kd Td Qc 2s]
+Seat 1: Saiyagym folded on the Turn
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 collected (820)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules (button) folded before Flop (didn't bet)
+Seat 7: JúniorGóz (small blind) folded before Flop
+Seat 8: Caio Mugarte (big blind) folded on the River
+
+
+
+PokerStars Hand #245447479223: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 18:24:38 AT [2023/08/17 17:24:38 ET]
+Table '3632697024 2' 9-max Seat #7 is the button
+Seat 1: Saiyagym (2477 in chips) 
+Seat 2: donofriobruno (1135 in chips) 
+Seat 3: rafaegert (1753 in chips) 
+Seat 4: julio neto082 (2229 in chips) 
+Seat 5: NIX2013 (3992 in chips) 
+Seat 6: mosesrules (1499 in chips) 
+Seat 7: JúniorGóz (167 in chips) 
+Seat 8: Caio Mugarte (1389 in chips) 
+Seat 9: dida As (3378 in chips) 
+Saiyagym: posts the ante 4
+donofriobruno: posts the ante 4
+rafaegert: posts the ante 4
+julio neto082: posts the ante 4
+NIX2013: posts the ante 4
+mosesrules: posts the ante 4
+JúniorGóz: posts the ante 4
+Caio Mugarte: posts the ante 4
+dida As: posts the ante 4
+Caio Mugarte: posts small blind 15
+dida As: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8h 3d]
+Saiyagym: calls 30
+donofriobruno: folds 
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: folds 
+JúniorGóz: folds 
+Caio Mugarte: folds 
+dida As: checks 
+*** FLOP *** [5h 5c 9c]
+dida As: checks 
+Saiyagym: bets 30
+dida As: calls 30
+*** TURN *** [5h 5c 9c] [Jh]
+dida As: checks 
+Saiyagym: checks 
+*** RIVER *** [5h 5c 9c Jh] [Ks]
+dida As: checks 
+Saiyagym: bets 116
+dida As: folds 
+Uncalled bet (116) returned to Saiyagym
+Saiyagym collected 171 from pot
+Saiyagym: doesn't show hand 
+*** SUMMARY ***
+Total pot 171 | Rake 0 
+Board [5h 5c 9c Jh Ks]
+Seat 1: Saiyagym collected (171)
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: JúniorGóz (button) folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (small blind) folded before Flop
+Seat 9: dida As (big blind) folded on the River
+
+
+
+PokerStars Hand #245447503941: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 18:25:54 AT [2023/08/17 17:25:54 ET]
+Table '3632697024 2' 9-max Seat #8 is the button
+Seat 1: Saiyagym (2584 in chips) 
+Seat 2: donofriobruno (1131 in chips) 
+Seat 3: rafaegert (1749 in chips) 
+Seat 4: julio neto082 (2225 in chips) 
+Seat 5: NIX2013 (3988 in chips) 
+Seat 6: mosesrules (1495 in chips) 
+Seat 7: JúniorGóz (163 in chips) 
+Seat 8: Caio Mugarte (1370 in chips) 
+Seat 9: dida As (3314 in chips) 
+Saiyagym: posts the ante 4
+donofriobruno: posts the ante 4
+rafaegert: posts the ante 4
+julio neto082: posts the ante 4
+NIX2013: posts the ante 4
+mosesrules: posts the ante 4
+JúniorGóz: posts the ante 4
+Caio Mugarte: posts the ante 4
+dida As: posts the ante 4
+dida As: posts small blind 15
+Saiyagym: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3c As]
+donofriobruno: raises 45 to 75
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: folds 
+JúniorGóz: raises 84 to 159 and is all-in
+Caio Mugarte: folds 
+dida As: folds 
+Saiyagym: raises 84 to 243
+donofriobruno: calls 168
+*** FLOP *** [2c 2h 2d]
+Saiyagym: bets 696
+donofriobruno: folds 
+Uncalled bet (696) returned to Saiyagym
+*** TURN *** [2c 2h 2d] [Tc]
+*** RIVER *** [2c 2h 2d Tc] [5s]
+*** SHOW DOWN ***
+Saiyagym: shows [Ad Qc] (three of a kind, Deuces)
+Saiyagym collected 168 from side pot
+JúniorGóz: shows [3d Td] (a full house, Deuces full of Tens)
+JúniorGóz collected 528 from main pot
+*** SUMMARY ***
+Total pot 696 Main pot 528. Side pot 168. | Rake 0 
+Board [2c 2h 2d Tc 5s]
+Seat 1: Saiyagym (big blind) showed [Ad Qc] and won (168) with three of a kind, Deuces
+Seat 2: donofriobruno folded on the Flop
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: JúniorGóz showed [3d Td] and won (528) with a full house, Deuces full of Tens
+Seat 8: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 9: dida As (small blind) folded before Flop
+
+
+
+PokerStars Hand #245447522974: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:26:51 AT [2023/08/17 17:26:51 ET]
+Table '3632697024 2' 9-max Seat #9 is the button
+Seat 1: Saiyagym (2505 in chips) 
+Seat 2: donofriobruno (884 in chips) 
+Seat 3: rafaegert (1745 in chips) 
+Seat 4: julio neto082 (2221 in chips) 
+Seat 5: NIX2013 (3984 in chips) 
+Seat 6: mosesrules (1491 in chips) 
+Seat 7: JúniorGóz (528 in chips) 
+Seat 8: Caio Mugarte (1366 in chips) 
+Seat 9: dida As (3295 in chips) 
+Saiyagym: posts the ante 6
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+JúniorGóz: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+Saiyagym: posts small blind 25
+donofriobruno: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6c Td]
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: folds 
+JúniorGóz: folds 
+Caio Mugarte: folds 
+dida As: folds 
+Saiyagym: calls 25
+donofriobruno: checks 
+*** FLOP *** [9h Ks 6d]
+Saiyagym: checks 
+donofriobruno: checks 
+*** TURN *** [9h Ks 6d] [2c]
+Saiyagym: checks 
+donofriobruno: checks 
+*** RIVER *** [9h Ks 6d 2c] [2s]
+Saiyagym: checks 
+donofriobruno: bets 150
+Saiyagym: folds 
+Uncalled bet (150) returned to donofriobruno
+donofriobruno collected 154 from pot
+donofriobruno: doesn't show hand 
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Board [9h Ks 6d 2c 2s]
+Seat 1: Saiyagym (small blind) folded on the River
+Seat 2: donofriobruno (big blind) collected (154)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: JúniorGóz folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447544230: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:27:56 AT [2023/08/17 17:27:56 ET]
+Table '3632697024 2' 9-max Seat #1 is the button
+Seat 1: Saiyagym (2449 in chips) 
+Seat 2: donofriobruno (982 in chips) 
+Seat 3: rafaegert (1739 in chips) 
+Seat 4: julio neto082 (2215 in chips) 
+Seat 5: NIX2013 (3978 in chips) 
+Seat 6: mosesrules (1485 in chips) 
+Seat 7: JúniorGóz (522 in chips) 
+Seat 8: Caio Mugarte (1360 in chips) 
+Seat 9: dida As (3289 in chips) 
+Saiyagym: posts the ante 6
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+JúniorGóz: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+donofriobruno: posts small blind 25
+rafaegert: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d 5c]
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: folds 
+JúniorGóz: folds 
+Caio Mugarte: folds 
+dida As: folds 
+Saiyagym: calls 50
+donofriobruno: folds 
+rafaegert: checks 
+*** FLOP *** [Ad 9h Kh]
+rafaegert: checks 
+Saiyagym: bets 50
+rafaegert: folds 
+Uncalled bet (50) returned to Saiyagym
+Saiyagym collected 179 from pot
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Board [Ad 9h Kh]
+Seat 1: Saiyagym (button) collected (179)
+Seat 2: donofriobruno (small blind) folded before Flop
+Seat 3: rafaegert (big blind) folded on the Flop
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: JúniorGóz folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447554272: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:28:26 AT [2023/08/17 17:28:26 ET]
+Table '3632697024 2' 9-max Seat #2 is the button
+Seat 1: Saiyagym (2572 in chips) 
+Seat 2: donofriobruno (951 in chips) 
+Seat 3: rafaegert (1683 in chips) 
+Seat 4: julio neto082 (2209 in chips) 
+Seat 5: NIX2013 (3972 in chips) 
+Seat 6: mosesrules (1479 in chips) 
+Seat 7: JúniorGóz (516 in chips) 
+Seat 8: Caio Mugarte (1354 in chips) 
+Seat 9: dida As (3283 in chips) 
+Saiyagym: posts the ante 6
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+JúniorGóz: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+rafaegert: posts small blind 25
+julio neto082: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d 7h]
+NIX2013: calls 50
+mosesrules: folds 
+JúniorGóz: folds 
+Caio Mugarte: folds 
+dida As: raises 325 to 375
+Saiyagym: folds 
+donofriobruno: folds 
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: calls 325
+*** FLOP *** [Qs 3h 8d]
+NIX2013: bets 3591 and is all-in
+dida As: calls 2902 and is all-in
+Uncalled bet (689) returned to NIX2013
+*** TURN *** [Qs 3h 8d] [2s]
+*** RIVER *** [Qs 3h 8d 2s] [Ks]
+*** SHOW DOWN ***
+NIX2013: shows [4s 4h] (a pair of Fours)
+dida As: shows [Qd Jd] (a pair of Queens)
+dida As collected 6683 from pot
+*** SUMMARY ***
+Total pot 6683 | Rake 0 
+Board [Qs 3h 8d 2s Ks]
+Seat 1: Saiyagym folded before Flop (didn't bet)
+Seat 2: donofriobruno (button) folded before Flop (didn't bet)
+Seat 3: rafaegert (small blind) folded before Flop
+Seat 4: julio neto082 (big blind) folded before Flop
+Seat 5: NIX2013 showed [4s 4h] and lost with a pair of Fours
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: JúniorGóz folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As showed [Qd Jd] and won (6683) with a pair of Queens
+
+
+
+PokerStars Hand #245447571769: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:29:20 AT [2023/08/17 17:29:20 ET]
+Table '3632697024 2' 9-max Seat #3 is the button
+Seat 1: Saiyagym (2566 in chips) 
+Seat 2: donofriobruno (945 in chips) 
+Seat 3: rafaegert (1652 in chips) 
+Seat 4: julio neto082 (2153 in chips) 
+Seat 5: NIX2013 (689 in chips) 
+Seat 6: mosesrules (1473 in chips) 
+Seat 7: JúniorGóz (510 in chips) 
+Seat 8: Caio Mugarte (1348 in chips) 
+Seat 9: dida As (6683 in chips) 
+Saiyagym: posts the ante 6
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+JúniorGóz: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+julio neto082: posts small blind 25
+NIX2013: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3h Ad]
+mosesrules: folds 
+JúniorGóz: folds 
+Caio Mugarte: folds 
+dida As: folds 
+Saiyagym: calls 50
+donofriobruno: raises 100 to 150
+rafaegert: folds 
+julio neto082: folds 
+NIX2013 has timed out
+NIX2013: folds 
+NIX2013 is sitting out
+Saiyagym: calls 100
+*** FLOP *** [As 8h Ks]
+Saiyagym: checks 
+donofriobruno: checks 
+*** TURN *** [As 8h Ks] [Kh]
+Saiyagym: checks 
+donofriobruno: checks 
+*** RIVER *** [As 8h Ks Kh] [Qd]
+Saiyagym: checks 
+NIX2013 has returned
+donofriobruno: bets 200
+Saiyagym: calls 200
+*** SHOW DOWN ***
+donofriobruno: shows [Qh Qc] (a full house, Queens full of Kings)
+Saiyagym: mucks hand 
+donofriobruno collected 829 from pot
+*** SUMMARY ***
+Total pot 829 | Rake 0 
+Board [As 8h Ks Kh Qd]
+Seat 1: Saiyagym mucked [8c Qs]
+Seat 2: donofriobruno showed [Qh Qc] and won (829) with a full house, Queens full of Kings
+Seat 3: rafaegert (button) folded before Flop (didn't bet)
+Seat 4: julio neto082 (small blind) folded before Flop
+Seat 5: NIX2013 (big blind) folded before Flop
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: JúniorGóz folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447599587: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:30:46 AT [2023/08/17 17:30:46 ET]
+Table '3632697024 2' 9-max Seat #4 is the button
+Seat 1: Saiyagym (2210 in chips) 
+Seat 2: donofriobruno (1418 in chips) 
+Seat 3: rafaegert (1646 in chips) 
+Seat 4: julio neto082 (2122 in chips) 
+Seat 5: NIX2013 (633 in chips) 
+Seat 6: mosesrules (1467 in chips) 
+Seat 7: JúniorGóz (504 in chips) 
+Seat 8: Caio Mugarte (1342 in chips) 
+Seat 9: dida As (6677 in chips) 
+Saiyagym: posts the ante 6
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+JúniorGóz: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+NIX2013: posts small blind 25
+mosesrules: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2h Jd]
+JúniorGóz: folds 
+Caio Mugarte: folds 
+dida As: raises 85 to 135
+Saiyagym: calls 135
+donofriobruno: folds 
+rafaegert: calls 135
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: folds 
+*** FLOP *** [9h Tc 6h]
+dida As: checks 
+Saiyagym: checks 
+rafaegert: bets 324
+dida As: folds 
+Saiyagym: folds 
+Uncalled bet (324) returned to rafaegert
+rafaegert collected 534 from pot
+rafaegert: doesn't show hand 
+*** SUMMARY ***
+Total pot 534 | Rake 0 
+Board [9h Tc 6h]
+Seat 1: Saiyagym folded on the Flop
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert collected (534)
+Seat 4: julio neto082 (button) folded before Flop (didn't bet)
+Seat 5: NIX2013 (small blind) folded before Flop
+Seat 6: mosesrules (big blind) folded before Flop
+Seat 7: JúniorGóz folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded on the Flop
+
+
+
+PokerStars Hand #245447622959: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:31:57 AT [2023/08/17 17:31:57 ET]
+Table '3632697024 2' 9-max Seat #5 is the button
+Seat 1: Saiyagym (2069 in chips) 
+Seat 2: donofriobruno (1412 in chips) 
+Seat 3: rafaegert (2039 in chips) 
+Seat 4: julio neto082 (2116 in chips) 
+Seat 5: NIX2013 (602 in chips) 
+Seat 6: mosesrules (1411 in chips) 
+Seat 7: JúniorGóz (498 in chips) 
+Seat 8: Caio Mugarte (1336 in chips) 
+Seat 9: dida As (6536 in chips) 
+Saiyagym: posts the ante 6
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+JúniorGóz: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+mosesrules: posts small blind 25
+JúniorGóz: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s Kc]
+Caio Mugarte: folds 
+dida As: folds 
+Saiyagym: folds 
+donofriobruno: folds 
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: calls 50
+mosesrules: folds 
+JúniorGóz: raises 442 to 492 and is all-in
+NIX2013: calls 442
+*** FLOP *** [Qs 9s Ad]
+*** TURN *** [Qs 9s Ad] [3s]
+*** RIVER *** [Qs 9s Ad 3s] [Kd]
+*** SHOW DOWN ***
+JúniorGóz: shows [7d Jc] (high card Ace)
+NIX2013: shows [Th Td] (a pair of Tens)
+NIX2013 collected 1063 from pot
+JúniorGóz finished the tournament in 34th place
+*** SUMMARY ***
+Total pot 1063 | Rake 0 
+Board [Qs 9s Ad 3s Kd]
+Seat 1: Saiyagym folded before Flop (didn't bet)
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 (button) showed [Th Td] and won (1063) with a pair of Tens
+Seat 6: mosesrules (small blind) folded before Flop
+Seat 7: JúniorGóz (big blind) showed [7d Jc] and lost with high card Ace
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447638362: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:32:45 AT [2023/08/17 17:32:45 ET]
+Table '3632697024 2' 9-max Seat #6 is the button
+Seat 1: Saiyagym (2063 in chips) 
+Seat 2: donofriobruno (1406 in chips) 
+Seat 3: rafaegert (2033 in chips) 
+Seat 4: julio neto082 (2110 in chips) 
+Seat 5: NIX2013 (1167 in chips) 
+Seat 6: mosesrules (1380 in chips) 
+Seat 8: Caio Mugarte (1330 in chips) 
+Seat 9: dida As (6530 in chips) 
+Saiyagym: posts the ante 6
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+Caio Mugarte: posts small blind 25
+dida As: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9d Kc]
+Saiyagym: calls 50
+donofriobruno: folds 
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: calls 50
+mosesrules: folds 
+Caio Mugarte: folds 
+dida As: checks 
+*** FLOP *** [Ks Qd Ts]
+dida As: checks 
+Saiyagym: checks 
+NIX2013: bets 300
+dida As: folds 
+Saiyagym: folds 
+Uncalled bet (300) returned to NIX2013
+NIX2013 collected 223 from pot
+NIX2013: doesn't show hand 
+*** SUMMARY ***
+Total pot 223 | Rake 0 
+Board [Ks Qd Ts]
+Seat 1: Saiyagym folded on the Flop
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 collected (223)
+Seat 6: mosesrules (button) folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (small blind) folded before Flop
+Seat 9: dida As (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245447651820: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:33:27 AT [2023/08/17 17:33:27 ET]
+Table '3632697024 2' 9-max Seat #8 is the button
+Seat 1: Saiyagym (2007 in chips) 
+Seat 2: donofriobruno (1400 in chips) 
+Seat 3: rafaegert (2027 in chips) 
+Seat 4: julio neto082 (2104 in chips) 
+Seat 5: NIX2013 (1334 in chips) 
+Seat 6: mosesrules (1374 in chips) 
+Seat 8: Caio Mugarte (1299 in chips) 
+Seat 9: dida As (6474 in chips) 
+Saiyagym: posts the ante 6
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+dida As: posts small blind 25
+Saiyagym: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qh 8s]
+donofriobruno: folds 
+rafaegert: raises 75 to 125
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: folds 
+Caio Mugarte: folds 
+dida As: folds 
+Saiyagym: calls 75
+*** FLOP *** [2s Qs 9c]
+Saiyagym: checks 
+rafaegert: bets 179
+Saiyagym: folds 
+Uncalled bet (179) returned to rafaegert
+rafaegert collected 323 from pot
+rafaegert: doesn't show hand 
+*** SUMMARY ***
+Total pot 323 | Rake 0 
+Board [2s Qs 9c]
+Seat 1: Saiyagym (big blind) folded on the Flop
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert collected (323)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 9: dida As (small blind) folded before Flop
+
+
+
+PokerStars Hand #245447669590: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:34:21 AT [2023/08/17 17:34:21 ET]
+Table '3632697024 2' 9-max Seat #9 is the button
+Seat 1: Saiyagym (1876 in chips) 
+Seat 2: donofriobruno (1394 in chips) 
+Seat 3: rafaegert (2219 in chips) 
+Seat 4: julio neto082 (2098 in chips) 
+Seat 5: NIX2013 (1328 in chips) 
+Seat 6: mosesrules (1368 in chips) 
+Seat 8: Caio Mugarte (1293 in chips) 
+Seat 9: dida As (6443 in chips) 
+Saiyagym: posts the ante 6
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+Saiyagym: posts small blind 25
+donofriobruno: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7s As]
+rafaegert: raises 75 to 125
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: folds 
+Caio Mugarte: folds 
+dida As: folds 
+Saiyagym: folds 
+donofriobruno: folds 
+Uncalled bet (75) returned to rafaegert
+rafaegert collected 173 from pot
+rafaegert: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: Saiyagym (small blind) folded before Flop
+Seat 2: donofriobruno (big blind) folded before Flop
+Seat 3: rafaegert collected (173)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447680230: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:34:53 AT [2023/08/17 17:34:53 ET]
+Table '3632697024 2' 9-max Seat #1 is the button
+Seat 1: Saiyagym (1845 in chips) 
+Seat 2: donofriobruno (1338 in chips) 
+Seat 3: rafaegert (2336 in chips) 
+Seat 4: julio neto082 (2092 in chips) 
+Seat 5: NIX2013 (1322 in chips) 
+Seat 6: mosesrules (1362 in chips) 
+Seat 8: Caio Mugarte (1287 in chips) 
+Seat 9: dida As (6437 in chips) 
+Saiyagym: posts the ante 6
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+donofriobruno: posts small blind 25
+rafaegert: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s Ts]
+julio neto082: folds 
+NIX2013 has timed out
+NIX2013: folds 
+NIX2013 is sitting out
+NIX2013 has returned
+mosesrules: folds 
+Caio Mugarte: folds 
+dida As: folds 
+Saiyagym: calls 50
+donofriobruno: folds 
+rafaegert: checks 
+*** FLOP *** [9c Ks 6d]
+rafaegert: checks 
+Saiyagym: bets 50
+rafaegert: folds 
+Uncalled bet (50) returned to Saiyagym
+Saiyagym collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Board [9c Ks 6d]
+Seat 1: Saiyagym (button) collected (173)
+Seat 2: donofriobruno (small blind) folded before Flop
+Seat 3: rafaegert (big blind) folded on the Flop
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447692638: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:35:32 AT [2023/08/17 17:35:32 ET]
+Table '3632697024 2' 9-max Seat #2 is the button
+Seat 1: Saiyagym (1962 in chips) 
+Seat 2: donofriobruno (1307 in chips) 
+Seat 3: rafaegert (2280 in chips) 
+Seat 4: julio neto082 (2086 in chips) 
+Seat 5: NIX2013 (1316 in chips) 
+Seat 6: mosesrules (1356 in chips) 
+Seat 8: Caio Mugarte (1281 in chips) 
+Seat 9: dida As (6431 in chips) 
+Saiyagym: posts the ante 6
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+rafaegert: posts small blind 25
+julio neto082: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9c 7c]
+NIX2013: calls 50
+mosesrules: folds 
+Caio Mugarte: folds 
+dida As: folds 
+Saiyagym: raises 150 to 200
+donofriobruno: folds 
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: calls 150
+*** FLOP *** [3s Kd Jd]
+NIX2013: bets 523
+Saiyagym: raises 1233 to 1756 and is all-in
+NIX2013: calls 587 and is all-in
+Uncalled bet (646) returned to Saiyagym
+*** TURN *** [3s Kd Jd] [Td]
+*** RIVER *** [3s Kd Jd Td] [Js]
+*** SHOW DOWN ***
+NIX2013: shows [Qh Jh] (three of a kind, Jacks)
+Saiyagym: shows [Ad Kc] (two pair, Kings and Jacks)
+NIX2013 collected 2743 from pot
+*** SUMMARY ***
+Total pot 2743 | Rake 0 
+Board [3s Kd Jd Td Js]
+Seat 1: Saiyagym showed [Ad Kc] and lost with two pair, Kings and Jacks
+Seat 2: donofriobruno (button) folded before Flop (didn't bet)
+Seat 3: rafaegert (small blind) folded before Flop
+Seat 4: julio neto082 (big blind) folded before Flop
+Seat 5: NIX2013 showed [Qh Jh] and won (2743) with three of a kind, Jacks
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447707314: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 18:36:17 AT [2023/08/17 17:36:17 ET]
+Table '3632697024 2' 9-max Seat #3 is the button
+Seat 2: donofriobruno (1301 in chips) 
+Seat 3: rafaegert (2249 in chips) 
+Seat 4: julio neto082 (2030 in chips) 
+Seat 5: NIX2013 (2743 in chips) 
+Seat 6: mosesrules (1350 in chips) 
+Seat 8: Caio Mugarte (1275 in chips) 
+Seat 9: dida As (6425 in chips) 
+donofriobruno: posts the ante 6
+rafaegert: posts the ante 6
+julio neto082: posts the ante 6
+NIX2013: posts the ante 6
+mosesrules: posts the ante 6
+Caio Mugarte: posts the ante 6
+dida As: posts the ante 6
+julio neto082: posts small blind 25
+NIX2013: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7h 2d]
+mosesrules: folds 
+Caio Mugarte: folds 
+dida As: raises 60 to 110
+donofriobruno: folds 
+rafaegert: folds 
+julio neto082: folds 
+NIX2013: calls 60
+*** FLOP *** [Qh 9d 4s]
+NIX2013: bets 144
+dida As: calls 144
+*** TURN *** [Qh 9d 4s] [2h]
+NIX2013: bets 288
+dida As: folds 
+Uncalled bet (288) returned to NIX2013
+NIX2013 collected 575 from pot
+NIX2013: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Board [Qh 9d 4s 2h]
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert (button) folded before Flop (didn't bet)
+Seat 4: julio neto082 (small blind) folded before Flop
+Seat 5: NIX2013 (big blind) collected (575)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded on the Turn
+
+
+
+PokerStars Hand #245447725594: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:37:13 AT [2023/08/17 17:37:13 ET]
+Table '3632697024 2' 9-max Seat #4 is the button
+Seat 2: donofriobruno (1295 in chips) 
+Seat 3: rafaegert (2243 in chips) 
+Seat 4: julio neto082 (1999 in chips) 
+Seat 5: NIX2013 (3058 in chips) 
+Seat 6: mosesrules (1344 in chips) 
+Seat 8: Caio Mugarte (1269 in chips) 
+Seat 9: dida As (6165 in chips) 
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+julio neto082: posts the ante 10
+NIX2013: posts the ante 10
+mosesrules: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+NIX2013: posts small blind 40
+mosesrules: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h 5d]
+Caio Mugarte: folds 
+dida As: folds 
+donofriobruno: folds 
+rafaegert: raises 120 to 200
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: calls 120
+*** FLOP *** [9c 8c Jh]
+mosesrules: checks 
+rafaegert: bets 204
+mosesrules: calls 204
+*** TURN *** [9c 8c Jh] [Ah]
+mosesrules: checks 
+rafaegert: bets 643
+mosesrules: folds 
+Uncalled bet (643) returned to rafaegert
+rafaegert collected 918 from pot
+rafaegert: doesn't show hand 
+*** SUMMARY ***
+Total pot 918 | Rake 0 
+Board [9c 8c Jh Ah]
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert collected (918)
+Seat 4: julio neto082 (button) folded before Flop (didn't bet)
+Seat 5: NIX2013 (small blind) folded before Flop
+Seat 6: mosesrules (big blind) folded on the Turn
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447740283: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:37:58 AT [2023/08/17 17:37:58 ET]
+Table '3632697024 2' 9-max Seat #5 is the button
+Seat 2: donofriobruno (1285 in chips) 
+Seat 3: rafaegert (2747 in chips) 
+Seat 4: julio neto082 (1989 in chips) 
+Seat 5: NIX2013 (3008 in chips) 
+Seat 6: mosesrules (930 in chips) 
+Seat 8: Caio Mugarte (1259 in chips) 
+Seat 9: dida As (6155 in chips) 
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+julio neto082: posts the ante 10
+NIX2013: posts the ante 10
+mosesrules: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+mosesrules: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jd Kd]
+dida As: folds 
+donofriobruno: folds 
+rafaegert: raises 120 to 200
+julio neto082: calls 200
+NIX2013: folds 
+mosesrules: folds 
+Caio Mugarte: calls 120
+*** FLOP *** [6d 7s 4c]
+Caio Mugarte: checks 
+rafaegert: checks 
+julio neto082: bets 168
+Caio Mugarte: folds 
+rafaegert: folds 
+Uncalled bet (168) returned to julio neto082
+julio neto082 collected 710 from pot
+julio neto082: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Board [6d 7s 4c]
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded on the Flop
+Seat 4: julio neto082 collected (710)
+Seat 5: NIX2013 (button) folded before Flop (didn't bet)
+Seat 6: mosesrules (small blind) folded before Flop
+Seat 8: Caio Mugarte (big blind) folded on the Flop
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447752603: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:38:36 AT [2023/08/17 17:38:36 ET]
+Table '3632697024 2' 9-max Seat #6 is the button
+Seat 2: donofriobruno (1275 in chips) 
+Seat 3: rafaegert (2537 in chips) 
+Seat 4: julio neto082 (2489 in chips) 
+Seat 5: NIX2013 (2998 in chips) 
+Seat 6: mosesrules (880 in chips) 
+Seat 8: Caio Mugarte (1049 in chips) 
+Seat 9: dida As (6145 in chips) 
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+julio neto082: posts the ante 10
+NIX2013: posts the ante 10
+mosesrules: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+Caio Mugarte: posts small blind 40
+dida As: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2s Ks]
+donofriobruno: folds 
+rafaegert: folds 
+julio neto082: raises 120 to 200
+NIX2013: folds 
+mosesrules: folds 
+Caio Mugarte: folds 
+dida As: calls 120
+*** FLOP *** [6c 9h 8c]
+dida As: checks 
+julio neto082: bets 216
+dida As: raises 424 to 640
+julio neto082: calls 424
+*** TURN *** [6c 9h 8c] [6d]
+dida As: bets 1378
+julio neto082: folds 
+Uncalled bet (1378) returned to dida As
+dida As collected 1790 from pot
+*** SUMMARY ***
+Total pot 1790 | Rake 0 
+Board [6c 9h 8c 6d]
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: julio neto082 folded on the Turn
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules (button) folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (small blind) folded before Flop
+Seat 9: dida As (big blind) collected (1790)
+
+
+
+PokerStars Hand #245447775948: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:39:49 AT [2023/08/17 17:39:49 ET]
+Table '3632697024 2' 9-max Seat #8 is the button
+Seat 2: donofriobruno (1265 in chips) 
+Seat 3: rafaegert (2527 in chips) 
+Seat 4: julio neto082 (1639 in chips) 
+Seat 5: NIX2013 (2988 in chips) 
+Seat 6: mosesrules (870 in chips) 
+Seat 8: Caio Mugarte (999 in chips) 
+Seat 9: dida As (7085 in chips) 
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+julio neto082: posts the ante 10
+NIX2013: posts the ante 10
+mosesrules: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+dida As: posts small blind 40
+donofriobruno: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h 5s]
+rafaegert: raises 120 to 200
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: folds 
+Caio Mugarte: folds 
+dida As: calls 160
+donofriobruno: folds 
+*** FLOP *** [6d 6h 2d]
+dida As: checks 
+rafaegert: bets 385
+dida As: folds 
+Uncalled bet (385) returned to rafaegert
+rafaegert collected 550 from pot
+rafaegert: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [6d 6h 2d]
+Seat 2: donofriobruno (big blind) folded before Flop
+Seat 3: rafaegert collected (550)
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 9: dida As (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245447787940: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:40:26 AT [2023/08/17 17:40:26 ET]
+Table '3632697024 2' 9-max Seat #9 is the button
+Seat 2: donofriobruno (1175 in chips) 
+Seat 3: rafaegert (2867 in chips) 
+Seat 4: julio neto082 (1629 in chips) 
+Seat 5: NIX2013 (2978 in chips) 
+Seat 6: mosesrules (860 in chips) 
+Seat 8: Caio Mugarte (989 in chips) 
+Seat 9: dida As (6875 in chips) 
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+julio neto082: posts the ante 10
+NIX2013: posts the ante 10
+mosesrules: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+donofriobruno: posts small blind 40
+rafaegert: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3h 7c]
+julio neto082: folds 
+NIX2013: folds 
+mosesrules: folds 
+Caio Mugarte: folds 
+dida As: raises 96 to 176
+donofriobruno: folds 
+rafaegert: folds 
+Uncalled bet (96) returned to dida As
+dida As collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 2: donofriobruno (small blind) folded before Flop
+Seat 3: rafaegert (big blind) folded before Flop
+Seat 4: julio neto082 folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As (button) collected (270)
+
+
+
+PokerStars Hand #245447799362: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:41:02 AT [2023/08/17 17:41:02 ET]
+Table '3632697024 2' 9-max Seat #2 is the button
+Seat 2: donofriobruno (1125 in chips) 
+Seat 3: rafaegert (2777 in chips) 
+Seat 4: julio neto082 (1619 in chips) 
+Seat 5: NIX2013 (2968 in chips) 
+Seat 6: mosesrules (850 in chips) 
+Seat 8: Caio Mugarte (979 in chips) 
+Seat 9: dida As (7055 in chips) 
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+julio neto082: posts the ante 10
+NIX2013: posts the ante 10
+mosesrules: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+rafaegert: posts small blind 40
+julio neto082: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kh 2s]
+NIX2013: folds 
+mosesrules: folds 
+Caio Mugarte: folds 
+dida As: raises 96 to 176
+donofriobruno: folds 
+rafaegert: folds 
+julio neto082: folds 
+Uncalled bet (96) returned to dida As
+dida As collected 270 from pot
+tpiresz is disconnected 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 2: donofriobruno (button) folded before Flop (didn't bet)
+Seat 3: rafaegert (small blind) folded before Flop
+Seat 4: julio neto082 (big blind) folded before Flop
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As collected (270)
+
+
+
+PokerStars Hand #245447808846: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:41:32 AT [2023/08/17 17:41:32 ET]
+Table '3632697024 2' 9-max Seat #3 is the button
+Seat 1: tpiresz (1730 in chips) 
+Seat 2: donofriobruno (1115 in chips) 
+Seat 3: rafaegert (2727 in chips) 
+Seat 4: julio neto082 (1529 in chips) 
+Seat 5: NIX2013 (2958 in chips) 
+Seat 6: mosesrules (840 in chips) 
+Seat 7: Xuki_Norri (406 in chips) 
+Seat 8: Caio Mugarte (969 in chips) 
+Seat 9: dida As (7235 in chips) 
+tpiresz: posts the ante 10
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+julio neto082: posts the ante 10
+NIX2013: posts the ante 10
+mosesrules: posts the ante 10
+Xuki_Norri: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+julio neto082: posts small blind 40
+NIX2013: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d Jc]
+mosesrules: folds 
+Xuki_Norri: folds 
+Caio Mugarte: folds 
+dida As: folds 
+tpiresz: folds 
+donofriobruno: calls 80
+rafaegert: folds 
+julio neto082: raises 1439 to 1519 and is all-in
+NIX2013: calls 1439
+donofriobruno: calls 1025 and is all-in
+*** FLOP *** [5d 3d 3s]
+*** TURN *** [5d 3d 3s] [Tc]
+*** RIVER *** [5d 3d 3s Tc] [2d]
+*** SHOW DOWN ***
+julio neto082: shows [Ad 7h] (a pair of Threes)
+NIX2013: shows [Qh Ac] (a pair of Threes - Ace+Queen kicker)
+NIX2013 collected 828 from side pot
+donofriobruno: shows [Kc Kd] (two pair, Kings and Threes)
+donofriobruno collected 3405 from main pot
+julio neto082 finished the tournament in 27th place
+*** SUMMARY ***
+Total pot 4233 Main pot 3405. Side pot 828. | Rake 0 
+Board [5d 3d 3s Tc 2d]
+Seat 1: tpiresz folded before Flop (didn't bet)
+Seat 2: donofriobruno showed [Kc Kd] and won (3405) with two pair, Kings and Threes
+Seat 3: rafaegert (button) folded before Flop (didn't bet)
+Seat 4: julio neto082 (small blind) showed [Ad 7h] and lost with a pair of Threes
+Seat 5: NIX2013 (big blind) showed [Qh Ac] and won (828) with a pair of Threes
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: Xuki_Norri folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447822216: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:42:14 AT [2023/08/17 17:42:14 ET]
+Table '3632697024 2' 9-max Seat #5 is the button
+Seat 1: tpiresz (1720 in chips) 
+Seat 2: donofriobruno (3405 in chips) 
+Seat 3: rafaegert (2717 in chips) 
+Seat 5: NIX2013 (2257 in chips) 
+Seat 6: mosesrules (830 in chips) 
+Seat 7: Xuki_Norri (396 in chips) 
+Seat 8: Caio Mugarte (959 in chips) 
+Seat 9: dida As (7225 in chips) 
+tpiresz: posts the ante 10
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+NIX2013: posts the ante 10
+mosesrules: posts the ante 10
+Xuki_Norri: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+mosesrules: posts small blind 40
+Xuki_Norri: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc Qs]
+Caio Mugarte: raises 869 to 949 and is all-in
+dida As: raises 869 to 1818
+tpiresz: folds 
+donofriobruno: folds 
+rafaegert: folds 
+NIX2013: folds 
+mosesrules: folds 
+Xuki_Norri: folds 
+Uncalled bet (869) returned to dida As
+*** FLOP *** [Ks 8h 4d]
+*** TURN *** [Ks 8h 4d] [9s]
+*** RIVER *** [Ks 8h 4d 9s] [3c]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Kc Qs] (a pair of Kings)
+dida As: shows [Ad Qh] (high card Ace)
+Caio Mugarte collected 2098 from pot
+*** SUMMARY ***
+Total pot 2098 | Rake 0 
+Board [Ks 8h 4d 9s 3c]
+Seat 1: tpiresz folded before Flop (didn't bet)
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 5: NIX2013 (button) folded before Flop (didn't bet)
+Seat 6: mosesrules (small blind) folded before Flop
+Seat 7: Xuki_Norri (big blind) folded before Flop
+Seat 8: Caio Mugarte showed [Kc Qs] and won (2098) with a pair of Kings
+Seat 9: dida As showed [Ad Qh] and lost with high card Ace
+
+
+
+PokerStars Hand #245447833989: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:42:51 AT [2023/08/17 17:42:51 ET]
+Table '3632697024 2' 9-max Seat #6 is the button
+Seat 1: tpiresz (1710 in chips) 
+Seat 2: donofriobruno (3395 in chips) 
+Seat 3: rafaegert (2707 in chips) 
+Seat 5: NIX2013 (2247 in chips) 
+Seat 6: mosesrules (780 in chips) 
+Seat 7: Xuki_Norri (306 in chips) 
+Seat 8: Caio Mugarte (2098 in chips) 
+Seat 9: dida As (6266 in chips) 
+tpiresz: posts the ante 10
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+NIX2013: posts the ante 10
+mosesrules: posts the ante 10
+Xuki_Norri: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+Xuki_Norri: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th Qs]
+dida As: raises 96 to 176
+tpiresz: folds 
+donofriobruno: folds 
+rafaegert: calls 176
+NIX2013: calls 176
+mosesrules: folds 
+Xuki_Norri: folds 
+Caio Mugarte: folds 
+*** FLOP *** [Ad 8s 2c]
+dida As: bets 240
+rafaegert: folds 
+NIX2013: raises 1208 to 1448
+dida As: folds 
+Uncalled bet (1208) returned to NIX2013
+NIX2013 collected 1208 from pot
+NIX2013: doesn't show hand 
+*** SUMMARY ***
+Total pot 1208 | Rake 0 
+Board [Ad 8s 2c]
+Seat 1: tpiresz folded before Flop (didn't bet)
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded on the Flop
+Seat 5: NIX2013 collected (1208)
+Seat 6: mosesrules (button) folded before Flop (didn't bet)
+Seat 7: Xuki_Norri (small blind) folded before Flop
+Seat 8: Caio Mugarte (big blind) folded before Flop
+Seat 9: dida As folded on the Flop
+
+
+
+PokerStars Hand #245447850563: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:43:42 AT [2023/08/17 17:43:42 ET]
+Table '3632697024 2' 9-max Seat #7 is the button
+Seat 1: tpiresz (1700 in chips) 
+Seat 2: donofriobruno (3385 in chips) 
+Seat 3: rafaegert (2521 in chips) 
+Seat 5: NIX2013 (3029 in chips) 
+Seat 6: mosesrules (770 in chips) 
+Seat 7: Xuki_Norri (256 in chips) 
+Seat 8: Caio Mugarte (2008 in chips) 
+Seat 9: dida As (5840 in chips) 
+tpiresz: posts the ante 10
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+NIX2013: posts the ante 10
+mosesrules: posts the ante 10
+Xuki_Norri: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+Caio Mugarte: posts small blind 40
+dida As: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7s 2c]
+tpiresz: folds 
+donofriobruno: folds 
+rafaegert: folds 
+NIX2013: folds 
+mosesrules: folds 
+Xuki_Norri: raises 166 to 246 and is all-in
+Caio Mugarte: folds 
+dida As: calls 166
+*** FLOP *** [6c Jh 2s]
+*** TURN *** [6c Jh 2s] [6d]
+*** RIVER *** [6c Jh 2s 6d] [Qc]
+*** SHOW DOWN ***
+dida As: shows [9d Qs] (two pair, Queens and Sixes)
+Xuki_Norri: shows [9s Ts] (a pair of Sixes)
+dida As collected 612 from pot
+Xuki_Norri finished the tournament in 24th place
+*** SUMMARY ***
+Total pot 612 | Rake 0 
+Board [6c Jh 2s 6d Qc]
+Seat 1: tpiresz folded before Flop (didn't bet)
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules folded before Flop (didn't bet)
+Seat 7: Xuki_Norri (button) showed [9s Ts] and lost with a pair of Sixes
+Seat 8: Caio Mugarte (small blind) folded before Flop
+Seat 9: dida As (big blind) showed [9d Qs] and won (612) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #245447859782: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:44:11 AT [2023/08/17 17:44:11 ET]
+Table '3632697024 2' 9-max Seat #8 is the button
+Seat 1: tpiresz (1690 in chips) 
+Seat 2: donofriobruno (3375 in chips) 
+Seat 3: rafaegert (2511 in chips) 
+Seat 5: NIX2013 (3019 in chips) 
+Seat 6: mosesrules (760 in chips) 
+Seat 8: Caio Mugarte (1958 in chips) 
+Seat 9: dida As (6196 in chips) 
+tpiresz: posts the ante 10
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+NIX2013: posts the ante 10
+mosesrules: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+dida As: posts small blind 40
+tpiresz: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8c 3c]
+donofriobruno: raises 80 to 160
+rafaegert: folds 
+NIX2013: folds 
+mosesrules: raises 590 to 750 and is all-in
+Caio Mugarte: folds 
+dida As: folds 
+tpiresz: folds 
+donofriobruno: calls 590
+*** FLOP *** [Ts Js Qs]
+*** TURN *** [Ts Js Qs] [Jd]
+*** RIVER *** [Ts Js Qs Jd] [9h]
+*** SHOW DOWN ***
+donofriobruno: shows [Jc Kd] (a straight, Nine to King)
+mosesrules: shows [6s 6h] (two pair, Jacks and Sixes)
+donofriobruno collected 1690 from pot
+mosesrules finished the tournament in 23rd place
+*** SUMMARY ***
+Total pot 1690 | Rake 0 
+Board [Ts Js Qs Jd 9h]
+Seat 1: tpiresz (big blind) folded before Flop
+Seat 2: donofriobruno showed [Jc Kd] and won (1690) with a straight, Nine to King
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: mosesrules showed [6s 6h] and lost with two pair, Jacks and Sixes
+Seat 8: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 9: dida As (small blind) folded before Flop
+
+
+
+PokerStars Hand #245447869209: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:44:40 AT [2023/08/17 17:44:40 ET]
+Table '3632697024 2' 9-max Seat #9 is the button
+Seat 1: tpiresz (1600 in chips) 
+Seat 2: donofriobruno (4305 in chips) 
+Seat 3: rafaegert (2501 in chips) 
+Seat 5: NIX2013 (3009 in chips) 
+Seat 8: Caio Mugarte (1948 in chips) 
+Seat 9: dida As (6146 in chips) 
+tpiresz: posts the ante 10
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+NIX2013: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+tpiresz: posts small blind 40
+donofriobruno: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc 7d]
+rafaegert: folds 
+NIX2013: folds 
+Caio Mugarte: folds 
+caioirak is disconnected 
+dida As: folds 
+tpiresz: folds 
+Uncalled bet (40) returned to donofriobruno
+donofriobruno collected 140 from pot
+donofriobruno: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: tpiresz (small blind) folded before Flop
+Seat 2: donofriobruno (big blind) collected (140)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447874667: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:44:57 AT [2023/08/17 17:44:57 ET]
+Table '3632697024 2' 9-max Seat #1 is the button
+Seat 1: tpiresz (1550 in chips) 
+Seat 2: donofriobruno (4395 in chips) 
+Seat 3: rafaegert (2491 in chips) 
+Seat 4: caioirak (1114 in chips) 
+Seat 5: NIX2013 (2999 in chips) 
+Seat 8: Caio Mugarte (1938 in chips) 
+Seat 9: dida As (6136 in chips) 
+tpiresz: posts the ante 10
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+caioirak: posts the ante 10
+NIX2013: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+donofriobruno: posts small blind 40
+rafaegert: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d 7c]
+caioirak: folds 
+NIX2013: folds 
+Caio Mugarte: folds 
+dida As: raises 96 to 176
+tpiresz: folds 
+donofriobruno: raises 576 to 752
+rafaegert: raises 1729 to 2481 and is all-in
+dida As: folds 
+donofriobruno: calls 1729
+*** FLOP *** [6c Qd 8h]
+*** TURN *** [6c Qd 8h] [5s]
+*** RIVER *** [6c Qd 8h 5s] [4s]
+*** SHOW DOWN ***
+donofriobruno: shows [Kd Kh] (a pair of Kings)
+rafaegert: shows [Qs Qc] (three of a kind, Queens)
+rafaegert collected 5208 from pot
+*** SUMMARY ***
+Total pot 5208 | Rake 0 
+Board [6c Qd 8h 5s 4s]
+Seat 1: tpiresz (button) folded before Flop (didn't bet)
+Seat 2: donofriobruno (small blind) showed [Kd Kh] and lost with a pair of Kings
+Seat 3: rafaegert (big blind) showed [Qs Qc] and won (5208) with three of a kind, Queens
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop
+
+
+
+PokerStars Hand #245447890468: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:45:46 AT [2023/08/17 17:45:46 ET]
+Table '3632697024 2' 9-max Seat #2 is the button
+Seat 1: tpiresz (1540 in chips) 
+Seat 2: donofriobruno (1904 in chips) 
+Seat 3: rafaegert (5208 in chips) 
+Seat 4: caioirak (1104 in chips) 
+Seat 5: NIX2013 (2989 in chips) 
+Seat 8: Caio Mugarte (1928 in chips) 
+Seat 9: dida As (5950 in chips) 
+tpiresz: posts the ante 10
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+caioirak: posts the ante 10
+NIX2013: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+rafaegert: posts small blind 40
+caioirak: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5c 2d]
+NIX2013: folds 
+Caio Mugarte: folds 
+dida As: folds 
+tpiresz: folds 
+donofriobruno: raises 80 to 160
+rafaegert: folds 
+caioirak: folds 
+Uncalled bet (80) returned to donofriobruno
+donofriobruno collected 270 from pot
+donofriobruno: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: tpiresz folded before Flop (didn't bet)
+Seat 2: donofriobruno (button) collected (270)
+Seat 3: rafaegert (small blind) folded before Flop
+Seat 4: caioirak (big blind) folded before Flop
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447898852: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:46:13 AT [2023/08/17 17:46:13 ET]
+Table '3632697024 2' 9-max Seat #3 is the button
+Seat 1: tpiresz (1530 in chips) 
+Seat 2: donofriobruno (2084 in chips) 
+Seat 3: rafaegert (5158 in chips) 
+Seat 4: caioirak (1014 in chips) 
+Seat 5: NIX2013 (2979 in chips) 
+Seat 8: Caio Mugarte (1918 in chips) 
+Seat 9: dida As (5940 in chips) 
+tpiresz: posts the ante 10
+donofriobruno: posts the ante 10
+rafaegert: posts the ante 10
+caioirak: posts the ante 10
+NIX2013: posts the ante 10
+Caio Mugarte: posts the ante 10
+dida As: posts the ante 10
+caioirak: posts small blind 40
+NIX2013: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7s 5c]
+Caio Mugarte: folds 
+dida As: folds 
+tpiresz: folds 
+donofriobruno: raises 80 to 160
+rafaegert: folds 
+caioirak: raises 844 to 1004 and is all-in
+NIX2013: folds 
+donofriobruno: calls 844
+*** FLOP *** [2d 2s Ad]
+*** TURN *** [2d 2s Ad] [9d]
+*** RIVER *** [2d 2s Ad 9d] [6h]
+*** SHOW DOWN ***
+caioirak: shows [Kd As] (two pair, Aces and Deuces)
+donofriobruno: shows [Qc Th] (a pair of Deuces)
+caioirak collected 2158 from pot
+*** SUMMARY ***
+Total pot 2158 | Rake 0 
+Board [2d 2s Ad 9d 6h]
+Seat 1: tpiresz folded before Flop (didn't bet)
+Seat 2: donofriobruno showed [Qc Th] and lost with a pair of Deuces
+Seat 3: rafaegert (button) folded before Flop (didn't bet)
+Seat 4: caioirak (small blind) showed [Kd As] and won (2158) with two pair, Aces and Deuces
+Seat 5: NIX2013 (big blind) folded before Flop
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447909559: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:46:46 AT [2023/08/17 17:46:46 ET]
+Table '3632697024 2' 9-max Seat #4 is the button
+Seat 1: tpiresz (1520 in chips) 
+Seat 2: donofriobruno (1070 in chips) 
+Seat 3: rafaegert (5148 in chips) 
+Seat 4: caioirak (2158 in chips) 
+Seat 5: NIX2013 (2889 in chips) 
+Seat 8: Caio Mugarte (1908 in chips) 
+Seat 9: dida As (5930 in chips) 
+tpiresz: posts the ante 15
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+NIX2013: posts small blind 60
+Caio Mugarte: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc 6c]
+dida As: raises 144 to 264
+tpiresz: folds 
+donofriobruno: folds 
+rafaegert: folds 
+caioirak: folds 
+NIX2013: folds 
+Caio Mugarte: folds 
+Uncalled bet (144) returned to dida As
+dida As collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: tpiresz folded before Flop (didn't bet)
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: caioirak (button) folded before Flop (didn't bet)
+Seat 5: NIX2013 (small blind) folded before Flop
+Seat 8: Caio Mugarte (big blind) folded before Flop
+Seat 9: dida As collected (405)
+
+
+
+PokerStars Hand #245447915055: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:47:04 AT [2023/08/17 17:47:04 ET]
+Table '3632697024 2' 9-max Seat #5 is the button
+Seat 1: tpiresz (1505 in chips) 
+Seat 2: donofriobruno (1055 in chips) 
+Seat 3: rafaegert (5133 in chips) 
+Seat 4: caioirak (2143 in chips) 
+Seat 5: NIX2013 (2814 in chips) 
+Seat 8: Caio Mugarte (1773 in chips) 
+Seat 9: dida As (6200 in chips) 
+tpiresz: posts the ante 15
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+Caio Mugarte: posts small blind 60
+dida As: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d 9d]
+tpiresz has timed out
+tpiresz: folds 
+tpiresz is sitting out
+donofriobruno: folds 
+rafaegert: folds 
+caioirak: folds 
+NIX2013: folds 
+Caio Mugarte: folds 
+Uncalled bet (60) returned to dida As
+dida As collected 225 from pot
+tpiresz has returned
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Seat 1: tpiresz folded before Flop (didn't bet)
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 (button) folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (small blind) folded before Flop
+Seat 9: dida As (big blind) collected (225)
+
+
+
+PokerStars Hand #245447927843: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:47:44 AT [2023/08/17 17:47:44 ET]
+Table '3632697024 2' 9-max Seat #8 is the button
+Seat 1: tpiresz (1490 in chips) 
+Seat 2: donofriobruno (1040 in chips) 
+Seat 3: rafaegert (5118 in chips) 
+Seat 4: caioirak (2128 in chips) 
+Seat 5: NIX2013 (2799 in chips) 
+Seat 8: Caio Mugarte (1698 in chips) 
+Seat 9: dida As (6350 in chips) 
+tpiresz: posts the ante 15
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+dida As: posts small blind 60
+tpiresz: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s Jc]
+donofriobruno: raises 905 to 1025 and is all-in
+rafaegert: folds 
+caioirak: folds 
+NIX2013: folds 
+Caio Mugarte: folds 
+dida As: folds 
+tpiresz: folds 
+Uncalled bet (905) returned to donofriobruno
+donofriobruno collected 405 from pot
+donofriobruno: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: tpiresz (big blind) folded before Flop
+Seat 2: donofriobruno collected (405)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 9: dida As (small blind) folded before Flop
+
+
+
+PokerStars Hand #245447933781: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:48:03 AT [2023/08/17 17:48:03 ET]
+Table '3632697024 2' 9-max Seat #9 is the button
+Seat 1: tpiresz (1355 in chips) 
+Seat 2: donofriobruno (1310 in chips) 
+Seat 3: rafaegert (5103 in chips) 
+Seat 4: caioirak (2113 in chips) 
+Seat 5: NIX2013 (2784 in chips) 
+Seat 8: Caio Mugarte (1683 in chips) 
+Seat 9: dida As (6275 in chips) 
+tpiresz: posts the ante 15
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+tpiresz: posts small blind 60
+donofriobruno: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5h 4h]
+rafaegert: folds 
+caioirak: folds 
+NIX2013: folds 
+Caio Mugarte: folds 
+dida As: raises 6140 to 6260 and is all-in
+tpiresz: folds 
+donofriobruno: folds 
+Uncalled bet (6140) returned to dida As
+dida As collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: tpiresz (small blind) folded before Flop
+Seat 2: donofriobruno (big blind) folded before Flop
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As (button) collected (405)
+
+
+
+PokerStars Hand #245447945465: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:48:41 AT [2023/08/17 17:48:41 ET]
+Table '3632697024 2' 9-max Seat #1 is the button
+Seat 1: tpiresz (1280 in chips) 
+Seat 2: donofriobruno (1175 in chips) 
+Seat 3: rafaegert (5088 in chips) 
+Seat 4: caioirak (2098 in chips) 
+Seat 5: NIX2013 (2769 in chips) 
+Seat 8: Caio Mugarte (1668 in chips) 
+Seat 9: dida As (6545 in chips) 
+tpiresz: posts the ante 15
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+donofriobruno: posts small blind 60
+rafaegert: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c 9h]
+caioirak: folds 
+NIX2013: folds 
+Caio Mugarte: folds 
+dida As: folds 
+tpiresz: folds 
+donofriobruno: folds 
+Uncalled bet (60) returned to rafaegert
+rafaegert collected 225 from pot
+rafaegert: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Seat 1: tpiresz (button) folded before Flop (didn't bet)
+Seat 2: donofriobruno (small blind) folded before Flop
+Seat 3: rafaegert (big blind) collected (225)
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447949750: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:48:55 AT [2023/08/17 17:48:55 ET]
+Table '3632697024 2' 9-max Seat #2 is the button
+Seat 1: tpiresz (1265 in chips) 
+Seat 2: donofriobruno (1100 in chips) 
+Seat 3: rafaegert (5238 in chips) 
+Seat 4: caioirak (2083 in chips) 
+Seat 5: NIX2013 (2754 in chips) 
+Seat 8: Caio Mugarte (1653 in chips) 
+Seat 9: dida As (6530 in chips) 
+tpiresz: posts the ante 15
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+rafaegert: posts small blind 60
+caioirak: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8c Jh]
+NIX2013: folds 
+Caio Mugarte: folds 
+dida As: folds 
+tpiresz: folds 
+donofriobruno: folds 
+rafaegert: raises 120 to 240
+caioirak: raises 1828 to 2068 and is all-in
+rafaegert: folds 
+Uncalled bet (1828) returned to caioirak
+caioirak collected 585 from pot
+caioirak: doesn't show hand 
+*** SUMMARY ***
+Total pot 585 | Rake 0 
+Seat 1: tpiresz folded before Flop (didn't bet)
+Seat 2: donofriobruno (button) folded before Flop (didn't bet)
+Seat 3: rafaegert (small blind) folded before Flop
+Seat 4: caioirak (big blind) collected (585)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447957784: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:49:20 AT [2023/08/17 17:49:20 ET]
+Table '3632697024 2' 9-max Seat #3 is the button
+Seat 1: tpiresz (1250 in chips) 
+Seat 2: donofriobruno (1085 in chips) 
+Seat 3: rafaegert (4983 in chips) 
+Seat 4: caioirak (2413 in chips) 
+Seat 5: NIX2013 (2739 in chips) 
+Seat 8: Caio Mugarte (1638 in chips) 
+Seat 9: dida As (6515 in chips) 
+tpiresz: posts the ante 15
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+caioirak: posts small blind 60
+NIX2013: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad Th]
+Caio Mugarte: raises 1503 to 1623 and is all-in
+dida As: folds 
+tpiresz: folds 
+donofriobruno: folds 
+rafaegert: folds 
+caioirak: folds 
+NIX2013: folds 
+Uncalled bet (1503) returned to Caio Mugarte
+Caio Mugarte collected 405 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: tpiresz folded before Flop (didn't bet)
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert (button) folded before Flop (didn't bet)
+Seat 4: caioirak (small blind) folded before Flop
+Seat 5: NIX2013 (big blind) folded before Flop
+Seat 8: Caio Mugarte collected (405)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447966560: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:49:49 AT [2023/08/17 17:49:49 ET]
+Table '3632697024 2' 9-max Seat #4 is the button
+Seat 1: tpiresz (1235 in chips) 
+Seat 2: donofriobruno (1070 in chips) 
+Seat 3: rafaegert (4968 in chips) 
+Seat 4: caioirak (2338 in chips) 
+Seat 5: NIX2013 (2604 in chips) 
+Seat 8: Caio Mugarte (1908 in chips) 
+Seat 9: dida As (6500 in chips) 
+tpiresz: posts the ante 15
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+NIX2013: posts small blind 60
+Caio Mugarte: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8h 8s]
+dida As: folds 
+tpiresz: raises 1100 to 1220 and is all-in
+donofriobruno: folds 
+rafaegert: folds 
+caioirak: folds 
+NIX2013: folds 
+Caio Mugarte: calls 1100
+*** FLOP *** [5d 3c Qs]
+*** TURN *** [5d 3c Qs] [9h]
+*** RIVER *** [5d 3c Qs 9h] [Ks]
+*** SHOW DOWN ***
+Caio Mugarte: shows [8h 8s] (a pair of Eights)
+tpiresz: shows [Js 2s] (high card King)
+Caio Mugarte collected 2605 from pot
+tpiresz finished the tournament in 20th place
+*** SUMMARY ***
+Total pot 2605 | Rake 0 
+Board [5d 3c Qs 9h Ks]
+Seat 1: tpiresz showed [Js 2s] and lost with high card King
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: caioirak (button) folded before Flop (didn't bet)
+Seat 5: NIX2013 (small blind) folded before Flop
+Seat 8: Caio Mugarte (big blind) showed [8h 8s] and won (2605) with a pair of Eights
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447983045: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:50:41 AT [2023/08/17 17:50:41 ET]
+Table '3632697024 2' 9-max Seat #5 is the button
+Seat 2: donofriobruno (1055 in chips) 
+Seat 3: rafaegert (4953 in chips) 
+Seat 4: caioirak (2323 in chips) 
+Seat 5: NIX2013 (2529 in chips) 
+Seat 8: Caio Mugarte (3278 in chips) 
+Seat 9: dida As (6485 in chips) 
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+Caio Mugarte: posts small blind 60
+dida As: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc 8d]
+donofriobruno: folds 
+rafaegert: raises 180 to 300
+caioirak: folds 
+NIX2013: folds 
+Caio Mugarte: folds 
+dida As: calls 180
+*** FLOP *** [9c 5c 6h]
+dida As: checks 
+rafaegert: bets 300
+dida As: folds 
+Uncalled bet (300) returned to rafaegert
+rafaegert collected 750 from pot
+rafaegert: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [9c 5c 6h]
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert collected (750)
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 (button) folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (small blind) folded before Flop
+Seat 9: dida As (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245447993727: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:51:16 AT [2023/08/17 17:51:16 ET]
+Table '3632697024 2' 9-max Seat #8 is the button
+Seat 2: donofriobruno (1040 in chips) 
+Seat 3: rafaegert (5388 in chips) 
+Seat 4: caioirak (2308 in chips) 
+Seat 5: NIX2013 (2514 in chips) 
+Seat 8: Caio Mugarte (3203 in chips) 
+Seat 9: dida As (6170 in chips) 
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+dida As: posts small blind 60
+donofriobruno: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc Qc]
+rafaegert: raises 180 to 300
+caioirak: folds 
+NIX2013: raises 2199 to 2499 and is all-in
+Caio Mugarte: folds 
+dida As: folds 
+donofriobruno: folds 
+rafaegert: folds 
+Uncalled bet (2199) returned to NIX2013
+NIX2013 collected 870 from pot
+NIX2013: doesn't show hand 
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Seat 2: donofriobruno (big blind) folded before Flop
+Seat 3: rafaegert folded before Flop
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 collected (870)
+Seat 8: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 9: dida As (small blind) folded before Flop
+
+
+
+PokerStars Hand #245448003904: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:51:49 AT [2023/08/17 17:51:49 ET]
+Table '3632697024 2' 9-max Seat #9 is the button
+Seat 2: donofriobruno (905 in chips) 
+Seat 3: rafaegert (5073 in chips) 
+Seat 4: caioirak (2293 in chips) 
+Seat 5: NIX2013 (3069 in chips) 
+Seat 8: Caio Mugarte (3188 in chips) 
+Seat 9: dida As (6095 in chips) 
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+donofriobruno: posts small blind 60
+rafaegert: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s Jh]
+caioirak: folds 
+NIX2013: folds 
+Caio Mugarte: folds 
+dida As: folds 
+donofriobruno: folds 
+Uncalled bet (60) returned to rafaegert
+rafaegert collected 210 from pot
+rafaegert: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Seat 2: donofriobruno (small blind) folded before Flop
+Seat 3: rafaegert (big blind) collected (210)
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245448008457: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:52:03 AT [2023/08/17 17:52:03 ET]
+Table '3632697024 2' 9-max Seat #2 is the button
+Seat 2: donofriobruno (830 in chips) 
+Seat 3: rafaegert (5208 in chips) 
+Seat 4: caioirak (2278 in chips) 
+Seat 5: NIX2013 (3054 in chips) 
+Seat 8: Caio Mugarte (3173 in chips) 
+Seat 9: dida As (6080 in chips) 
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+rafaegert: posts small blind 60
+caioirak: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c Ah]
+NIX2013: folds 
+Caio Mugarte: folds 
+C.Eduardo.007 is disconnected 
+dida As: folds 
+donofriobruno: folds 
+rafaegert: folds 
+Uncalled bet (60) returned to caioirak
+caioirak collected 210 from pot
+caioirak: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Seat 2: donofriobruno (button) folded before Flop (didn't bet)
+Seat 3: rafaegert (small blind) folded before Flop
+Seat 4: caioirak (big blind) collected (210)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245448013451: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:52:20 AT [2023/08/17 17:52:20 ET]
+Table '3632697024 2' 9-max Seat #3 is the button
+Seat 1: larom18 (6082 in chips) 
+Seat 2: donofriobruno (815 in chips) 
+Seat 3: rafaegert (5133 in chips) 
+Seat 4: caioirak (2413 in chips) 
+Seat 5: NIX2013 (3039 in chips) 
+Seat 6: C.Eduardo.007 (4808 in chips) 
+Seat 7: bored lullaby (971 in chips) 
+Seat 8: Caio Mugarte (3158 in chips) 
+Seat 9: dida As (6065 in chips) 
+larom18: posts the ante 15
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+C.Eduardo.007: posts the ante 15
+bored lullaby: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+caioirak: posts small blind 60
+NIX2013: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h 3d]
+C.Eduardo.007: folds 
+bored lullaby: folds 
+Caio Mugarte: folds 
+dida As: folds 
+larom18: folds 
+donofriobruno: folds 
+rafaegert: folds 
+caioirak: raises 300 to 420
+NIX2013: folds 
+Uncalled bet (300) returned to caioirak
+caioirak collected 375 from pot
+caioirak: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: larom18 folded before Flop (didn't bet)
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert (button) folded before Flop (didn't bet)
+Seat 4: caioirak (small blind) collected (375)
+Seat 5: NIX2013 (big blind) folded before Flop
+Seat 6: C.Eduardo.007 folded before Flop (didn't bet)
+Seat 7: bored lullaby folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245448020343: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:52:42 AT [2023/08/17 17:52:42 ET]
+Table '3632697024 2' 9-max Seat #4 is the button
+Seat 1: larom18 (6067 in chips) 
+Seat 2: donofriobruno (800 in chips) 
+Seat 3: rafaegert (5118 in chips) 
+Seat 4: caioirak (2653 in chips) 
+Seat 5: NIX2013 (2904 in chips) 
+Seat 6: C.Eduardo.007 (4793 in chips) 
+Seat 7: bored lullaby (956 in chips) 
+Seat 8: Caio Mugarte (3143 in chips) 
+Seat 9: dida As (6050 in chips) 
+larom18: posts the ante 15
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+C.Eduardo.007: posts the ante 15
+bored lullaby: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+NIX2013: posts small blind 60
+C.Eduardo.007: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ac 7d]
+bored lullaby: folds 
+Caio Mugarte: folds 
+dida As: folds 
+larom18: folds 
+donofriobruno: folds 
+rafaegert: folds 
+caioirak: raises 120 to 240
+NIX2013: folds 
+C.Eduardo.007: calls 120
+*** FLOP *** [Ad 6h 2d]
+C.Eduardo.007: bets 360
+caioirak: folds 
+Uncalled bet (360) returned to C.Eduardo.007
+C.Eduardo.007 collected 675 from pot
+C.Eduardo.007: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [Ad 6h 2d]
+Seat 1: larom18 folded before Flop (didn't bet)
+Seat 2: donofriobruno folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: caioirak (button) folded on the Flop
+Seat 5: NIX2013 (small blind) folded before Flop
+Seat 6: C.Eduardo.007 (big blind) collected (675)
+Seat 7: bored lullaby folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245448033427: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:53:24 AT [2023/08/17 17:53:24 ET]
+Table '3632697024 2' 9-max Seat #5 is the button
+Seat 1: larom18 (6052 in chips) 
+Seat 2: donofriobruno (785 in chips) 
+Seat 3: rafaegert (5103 in chips) 
+Seat 4: caioirak (2398 in chips) 
+Seat 5: NIX2013 (2829 in chips) 
+Seat 6: C.Eduardo.007 (5213 in chips) 
+Seat 7: bored lullaby (941 in chips) 
+Seat 8: Caio Mugarte (3128 in chips) 
+Seat 9: dida As (6035 in chips) 
+larom18: posts the ante 15
+donofriobruno: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+C.Eduardo.007: posts the ante 15
+bored lullaby: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+C.Eduardo.007: posts small blind 60
+bored lullaby: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2s 6c]
+Caio Mugarte: folds 
+dida As: folds 
+larom18: folds 
+donofriobruno: raises 650 to 770 and is all-in
+rafaegert: folds 
+caioirak: raises 1613 to 2383 and is all-in
+NIX2013: folds 
+C.Eduardo.007: folds 
+bored lullaby: folds 
+Uncalled bet (1613) returned to caioirak
+*** FLOP *** [6h 8h Js]
+*** TURN *** [6h 8h Js] [2c]
+*** RIVER *** [6h 8h Js 2c] [2d]
+*** SHOW DOWN ***
+donofriobruno: shows [3d 3s] (two pair, Threes and Deuces)
+caioirak: shows [Jc Ac] (two pair, Jacks and Deuces)
+caioirak collected 1855 from pot
+donofriobruno finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 1855 | Rake 0 
+Board [6h 8h Js 2c 2d]
+Seat 1: larom18 folded before Flop (didn't bet)
+Seat 2: donofriobruno showed [3d 3s] and lost with two pair, Threes and Deuces
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: caioirak showed [Jc Ac] and won (1855) with two pair, Jacks and Deuces
+Seat 5: NIX2013 (button) folded before Flop (didn't bet)
+Seat 6: C.Eduardo.007 (small blind) folded before Flop
+Seat 7: bored lullaby (big blind) folded before Flop
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245448046831: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:54:07 AT [2023/08/17 17:54:07 ET]
+Table '3632697024 2' 9-max Seat #6 is the button
+Seat 1: larom18 (6037 in chips) 
+Seat 3: rafaegert (5088 in chips) 
+Seat 4: caioirak (3468 in chips) 
+Seat 5: NIX2013 (2814 in chips) 
+Seat 6: C.Eduardo.007 (5138 in chips) 
+Seat 7: bored lullaby (806 in chips) 
+Seat 8: Caio Mugarte (3113 in chips) 
+Seat 9: dida As (6020 in chips) 
+larom18: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+C.Eduardo.007: posts the ante 15
+bored lullaby: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+bored lullaby: posts small blind 60
+Caio Mugarte: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9d Kh]
+dida As: folds 
+larom18: folds 
+rafaegert: folds 
+caioirak: folds 
+NIX2013: raises 2679 to 2799 and is all-in
+C.Eduardo.007: folds 
+bored lullaby: folds 
+Caio Mugarte: folds 
+Uncalled bet (2679) returned to NIX2013
+NIX2013 collected 420 from pot
+NIX2013: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: larom18 folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 collected (420)
+Seat 6: C.Eduardo.007 (button) folded before Flop (didn't bet)
+Seat 7: bored lullaby (small blind) folded before Flop
+Seat 8: Caio Mugarte (big blind) folded before Flop
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245448054687: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:54:33 AT [2023/08/17 17:54:33 ET]
+Table '3632697024 2' 9-max Seat #7 is the button
+Seat 1: larom18 (6022 in chips) 
+Seat 3: rafaegert (5073 in chips) 
+Seat 4: caioirak (3453 in chips) 
+Seat 5: NIX2013 (3099 in chips) 
+Seat 6: C.Eduardo.007 (5123 in chips) 
+Seat 7: bored lullaby (731 in chips) 
+Seat 8: Caio Mugarte (2978 in chips) 
+Seat 9: dida As (6005 in chips) 
+larom18: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+C.Eduardo.007: posts the ante 15
+bored lullaby: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+Caio Mugarte: posts small blind 60
+dida As: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc Jc]
+larom18: folds 
+rafaegert: folds 
+caioirak: folds 
+NIX2013: calls 120
+C.Eduardo.007: raises 240 to 360
+bored lullaby: folds 
+Caio Mugarte: calls 300
+dida As: folds 
+NIX2013: raises 2724 to 3084 and is all-in
+C.Eduardo.007: folds 
+Caio Mugarte: folds 
+Uncalled bet (2724) returned to NIX2013
+NIX2013 collected 1320 from pot
+NIX2013: doesn't show hand 
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Seat 1: larom18 folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 collected (1320)
+Seat 6: C.Eduardo.007 folded before Flop
+Seat 7: bored lullaby (button) folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (small blind) folded before Flop
+Seat 9: dida As (big blind) folded before Flop
+
+
+
+PokerStars Hand #245448150035: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 19:00:56 AT [2023/08/17 18:00:56 ET]
+Table '3632697024 2' 9-max Seat #8 is the button
+Seat 1: larom18 (6007 in chips) 
+Seat 3: rafaegert (5058 in chips) 
+Seat 4: caioirak (3438 in chips) 
+Seat 5: NIX2013 (4044 in chips) 
+Seat 6: C.Eduardo.007 (4748 in chips) 
+Seat 7: bored lullaby (716 in chips) 
+Seat 8: Caio Mugarte (2603 in chips) 
+Seat 9: dida As (5870 in chips) 
+larom18: posts the ante 15
+rafaegert: posts the ante 15
+caioirak: posts the ante 15
+NIX2013: posts the ante 15
+C.Eduardo.007: posts the ante 15
+bored lullaby: posts the ante 15
+Caio Mugarte: posts the ante 15
+dida As: posts the ante 15
+dida As: posts small blind 60
+larom18: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7h 2c]
+rafaegert has timed out
+rafaegert: folds 
+rafaegert is sitting out
+caioirak: folds 
+NIX2013: folds 
+C.Eduardo.007: folds 
+bored lullaby: raises 581 to 701 and is all-in
+Caio Mugarte: folds 
+dida As: folds 
+larom18: calls 581
+*** FLOP *** [5h Td 9h]
+*** TURN *** [5h Td 9h] [6s]
+*** RIVER *** [5h Td 9h 6s] [3c]
+*** SHOW DOWN ***
+larom18: shows [Tc Jc] (a pair of Tens)
+bored lullaby: shows [Th Ah] (a pair of Tens - Ace kicker)
+bored lullaby collected 1582 from pot
+*** SUMMARY ***
+Total pot 1582 | Rake 0 
+Board [5h Td 9h 6s 3c]
+Seat 1: larom18 (big blind) showed [Tc Jc] and lost with a pair of Tens
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: C.Eduardo.007 folded before Flop (didn't bet)
+Seat 7: bored lullaby showed [Th Ah] and won (1582) with a pair of Tens
+Seat 8: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 9: dida As (small blind) folded before Flop
+
+
+
+PokerStars Hand #245448180252: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/17 19:02:40 AT [2023/08/17 18:02:40 ET]
+Table '3632697024 2' 9-max Seat #9 is the button
+Seat 1: larom18 (5291 in chips) 
+Seat 3: rafaegert (5043 in chips) is sitting out
+Seat 4: caioirak (3423 in chips) 
+Seat 5: NIX2013 (4029 in chips) 
+Seat 6: C.Eduardo.007 (4733 in chips) 
+Seat 7: bored lullaby (1582 in chips) 
+Seat 8: Caio Mugarte (2588 in chips) 
+Seat 9: dida As (5795 in chips) 
+larom18: posts the ante 20
+rafaegert: posts the ante 20
+caioirak: posts the ante 20
+NIX2013: posts the ante 20
+C.Eduardo.007: posts the ante 20
+bored lullaby: posts the ante 20
+Caio Mugarte: posts the ante 20
+dida As: posts the ante 20
+larom18: posts small blind 80
+rafaegert: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qs 3h]
+caioirak: folds 
+NIX2013: folds 
+C.Eduardo.007: raises 320 to 480
+bored lullaby: folds 
+Caio Mugarte: folds 
+dida As: folds 
+larom18: folds 
+rafaegert: folds 
+Uncalled bet (320) returned to C.Eduardo.007
+C.Eduardo.007 collected 560 from pot
+C.Eduardo.007: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: larom18 (small blind) folded before Flop
+Seat 3: rafaegert (big blind) folded before Flop
+Seat 4: caioirak folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: C.Eduardo.007 collected (560)
+Seat 7: bored lullaby folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245448191673: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/17 19:03:18 AT [2023/08/17 18:03:18 ET]
+Table '3632697024 2' 9-max Seat #1 is the button
+Seat 1: larom18 (5191 in chips) 
+Seat 3: rafaegert (4863 in chips) is sitting out
+Seat 4: caioirak (3403 in chips) 
+Seat 5: NIX2013 (4009 in chips) 
+Seat 6: C.Eduardo.007 (5113 in chips) 
+Seat 7: bored lullaby (1562 in chips) 
+Seat 8: Caio Mugarte (2568 in chips) 
+Seat 9: dida As (5775 in chips) 
+larom18: posts the ante 20
+rafaegert: posts the ante 20
+caioirak: posts the ante 20
+NIX2013: posts the ante 20
+C.Eduardo.007: posts the ante 20
+bored lullaby: posts the ante 20
+Caio Mugarte: posts the ante 20
+dida As: posts the ante 20
+rafaegert: posts small blind 80
+caioirak: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jd Qh]
+bored lullaby is disconnected 
+NIX2013: folds 
+C.Eduardo.007: folds 
+bored lullaby: folds 
+Caio Mugarte: folds 
+dida As: folds 
+larom18: folds 
+rafaegert: folds 
+Uncalled bet (80) returned to caioirak
+caioirak collected 320 from pot
+caioirak: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: larom18 (button) folded before Flop (didn't bet)
+Seat 3: rafaegert (small blind) folded before Flop
+Seat 4: caioirak (big blind) collected (320)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: C.Eduardo.007 folded before Flop (didn't bet)
+Seat 7: bored lullaby folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245448197765: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/17 19:03:38 AT [2023/08/17 18:03:38 ET]
+Table '3632697024 2' 9-max Seat #3 is the button
+Seat 1: larom18 (5171 in chips) 
+Seat 3: rafaegert (4763 in chips) is sitting out
+Seat 4: caioirak (3623 in chips) 
+Seat 5: NIX2013 (3989 in chips) 
+Seat 6: C.Eduardo.007 (5093 in chips) 
+Seat 7: bored lullaby (1542 in chips) 
+Seat 8: Caio Mugarte (2548 in chips) 
+Seat 9: dida As (5755 in chips) 
+larom18: posts the ante 20
+rafaegert: posts the ante 20
+caioirak: posts the ante 20
+NIX2013: posts the ante 20
+C.Eduardo.007: posts the ante 20
+bored lullaby: posts the ante 20
+Caio Mugarte: posts the ante 20
+dida As: posts the ante 20
+caioirak: posts small blind 80
+NIX2013: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5h Jc]
+C.Eduardo.007: folds 
+bored lullaby: folds 
+Caio Mugarte: folds 
+dida As: raises 192 to 352
+larom18: folds 
+rafaegert: folds 
+bored lullaby is disconnected 
+caioirak: raises 3251 to 3603 and is all-in
+NIX2013: folds 
+dida As: calls 3251
+*** FLOP *** [Td 9c Qc]
+*** TURN *** [Td 9c Qc] [Ts]
+*** RIVER *** [Td 9c Qc Ts] [Qs]
+*** SHOW DOWN ***
+caioirak: shows [8d 8s] (two pair, Queens and Tens)
+dida As: shows [Kd Ad] (two pair, Queens and Tens - Ace kicker)
+dida As collected 7526 from pot
+caioirak finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 7526 | Rake 0 
+Board [Td 9c Qc Ts Qs]
+Seat 1: larom18 folded before Flop (didn't bet)
+Seat 3: rafaegert (button) folded before Flop (didn't bet)
+Seat 4: caioirak (small blind) showed [8d 8s] and lost with two pair, Queens and Tens
+Seat 5: NIX2013 (big blind) folded before Flop
+Seat 6: C.Eduardo.007 folded before Flop (didn't bet)
+Seat 7: bored lullaby folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As showed [Kd Ad] and won (7526) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #245448212442: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/17 19:04:27 AT [2023/08/17 18:04:27 ET]
+Table '3632697024 2' 9-max Seat #5 is the button
+Seat 1: larom18 (5151 in chips) 
+Seat 3: rafaegert (4743 in chips) is sitting out
+Seat 5: NIX2013 (3809 in chips) 
+Seat 6: C.Eduardo.007 (5073 in chips) 
+Seat 7: bored lullaby (1522 in chips) 
+Seat 8: Caio Mugarte (2528 in chips) 
+Seat 9: dida As (9658 in chips) 
+larom18: posts the ante 20
+rafaegert: posts the ante 20
+NIX2013: posts the ante 20
+C.Eduardo.007: posts the ante 20
+bored lullaby: posts the ante 20
+Caio Mugarte: posts the ante 20
+dida As: posts the ante 20
+C.Eduardo.007: posts small blind 80
+bored lullaby: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts Qd]
+Caio Mugarte: folds 
+dida As: raises 192 to 352
+larom18: folds 
+rafaegert: folds 
+NIX2013: folds 
+C.Eduardo.007: folds 
+bored lullaby: folds 
+Uncalled bet (192) returned to dida As
+dida As collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: larom18 folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 5: NIX2013 (button) folded before Flop (didn't bet)
+Seat 6: C.Eduardo.007 (small blind) folded before Flop
+Seat 7: bored lullaby (big blind) folded before Flop
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: dida As collected (540)
+
+
+
+PokerStars Hand #245448218802: Tournament #3632697024, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/17 19:04:48 AT [2023/08/17 18:04:48 ET]
+Table '3632697024 2' 9-max Seat #6 is the button
+Seat 1: larom18 (5131 in chips) 
+Seat 3: rafaegert (4723 in chips) is sitting out
+Seat 5: NIX2013 (3789 in chips) 
+Seat 6: C.Eduardo.007 (4973 in chips) 
+Seat 7: bored lullaby (1342 in chips) 
+Seat 8: Caio Mugarte (2508 in chips) 
+Seat 9: dida As (10018 in chips) 
+larom18: posts the ante 20
+rafaegert: posts the ante 20
+NIX2013: posts the ante 20
+C.Eduardo.007: posts the ante 20
+bored lullaby: posts the ante 20
+Caio Mugarte: posts the ante 20
+dida As: posts the ante 20
+bored lullaby: posts small blind 80
+Caio Mugarte: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d 3c]
+dida As: folds 
+larom18: folds 
+rafaegert: folds 
+NIX2013: folds 
+C.Eduardo.007: raises 160 to 320
+bored lullaby: folds 
+Caio Mugarte: raises 2168 to 2488 and is all-in
+C.Eduardo.007: calls 2168
+*** FLOP *** [Ks 3h As]
+*** TURN *** [Ks 3h As] [2h]
+*** RIVER *** [Ks 3h As 2h] [8d]
+*** SHOW DOWN ***
+Caio Mugarte: shows [3d 3c] (three of a kind, Threes)
+C.Eduardo.007: shows [Ah Ac] (three of a kind, Aces)
+C.Eduardo.007 collected 5196 from pot
+Caio Mugarte finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 5196 | Rake 0 
+Board [Ks 3h As 2h 8d]
+Seat 1: larom18 folded before Flop (didn't bet)
+Seat 3: rafaegert folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: C.Eduardo.007 (button) showed [Ah Ac] and won (5196) with three of a kind, Aces
+Seat 7: bored lullaby (small blind) folded before Flop
+Seat 8: Caio Mugarte (big blind) showed [3d 3c] and lost with three of a kind, Threes
+Seat 9: dida As folded before Flop (didn't bet)
+
+
+

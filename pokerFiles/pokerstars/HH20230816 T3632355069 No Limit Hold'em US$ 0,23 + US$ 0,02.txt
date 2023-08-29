@@ -1,0 +1,958 @@
+﻿PokerStars Hand #245433029080: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:07:27 AT [2023/08/16 21:07:27 ET]
+Table '3632355069 4' 9-max Seat #2 is the button
+Seat 1: Marimmmm (1579 in chips) 
+Seat 2: sz66 (1444 in chips) 
+Seat 3: EmaAbajo (1471 in chips) 
+Seat 4: millionary07 (1500 in chips) 
+Seat 5: Caio Mugarte (1500 in chips) 
+Seat 7: Rondon-Vitor (1500 in chips) 
+Seat 8: basque52 (1457 in chips) 
+Seat 9: WeberCC (1500 in chips) 
+Marimmmm: posts the ante 3
+sz66: posts the ante 3
+EmaAbajo: posts the ante 3
+millionary07: posts the ante 3
+Caio Mugarte: posts the ante 3
+Rondon-Vitor: posts the ante 3
+basque52: posts the ante 3
+WeberCC: posts the ante 3
+EmaAbajo: posts small blind 10
+millionary07: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qc 2h]
+Caio Mugarte: folds 
+Rondon-Vitor: folds 
+basque52: folds 
+WeberCC: raises 20 to 40
+Marimmmm: calls 40
+sz66: raises 70 to 110
+EmaAbajo: folds 
+millionary07: calls 90
+NeewQQweeN is disconnected 
+WeberCC: calls 70
+Marimmmm: calls 70
+*** FLOP *** [7d Tc Jd]
+millionary07: checks 
+WeberCC: checks 
+Marimmmm: checks 
+sz66: bets 132
+millionary07: folds 
+WeberCC: folds 
+Marimmmm: folds 
+Uncalled bet (132) returned to sz66
+sz66 collected 474 from pot
+sz66: doesn't show hand 
+*** SUMMARY ***
+Total pot 474 | Rake 0 
+Board [7d Tc Jd]
+Seat 1: Marimmmm folded on the Flop
+Seat 2: sz66 (button) collected (474)
+Seat 3: EmaAbajo (small blind) folded before Flop
+Seat 4: millionary07 (big blind) folded on the Flop
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 7: Rondon-Vitor folded before Flop (didn't bet)
+Seat 8: basque52 folded before Flop (didn't bet)
+Seat 9: WeberCC folded on the Flop
+
+
+
+PokerStars Hand #245433047816: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:09:04 AT [2023/08/16 21:09:04 ET]
+Table '3632355069 4' 9-max Seat #3 is the button
+Seat 1: Marimmmm (1466 in chips) 
+Seat 2: sz66 (1805 in chips) 
+Seat 3: EmaAbajo (1458 in chips) 
+Seat 4: millionary07 (1387 in chips) 
+Seat 5: Caio Mugarte (1497 in chips) 
+Seat 6: NeewQQweeN (1500 in chips) 
+Seat 7: Rondon-Vitor (1497 in chips) 
+Seat 8: basque52 (1454 in chips) 
+Seat 9: WeberCC (1387 in chips) 
+Marimmmm: posts the ante 3
+sz66: posts the ante 3
+EmaAbajo: posts the ante 3
+millionary07: posts the ante 3
+Caio Mugarte: posts the ante 3
+NeewQQweeN: posts the ante 3
+Rondon-Vitor: posts the ante 3
+basque52: posts the ante 3
+WeberCC: posts the ante 3
+millionary07: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc 5d]
+NeewQQweeN: folds 
+Rondon-Vitor: folds 
+basque52: folds 
+WeberCC: raises 30 to 50
+Marimmmm: calls 50
+sz66: folds 
+EmaAbajo: folds 
+millionary07: calls 40
+Caio Mugarte: folds 
+*** FLOP *** [Jd 9d Ks]
+millionary07: checks 
+WeberCC: bets 89
+Marimmmm: folds 
+millionary07: raises 188 to 277
+WeberCC: calls 188
+*** TURN *** [Jd 9d Ks] [Ah]
+millionary07: bets 751
+WeberCC: calls 751
+*** RIVER *** [Jd 9d Ks Ah] [2h]
+millionary07: checks 
+WeberCC: checks 
+*** SHOW DOWN ***
+millionary07: shows [5c Kh] (a pair of Kings)
+WeberCC: shows [Kd Jh] (two pair, Kings and Jacks)
+WeberCC collected 2253 from pot
+*** SUMMARY ***
+Total pot 2253 | Rake 0 
+Board [Jd 9d Ks Ah 2h]
+Seat 1: Marimmmm folded on the Flop
+Seat 2: sz66 folded before Flop (didn't bet)
+Seat 3: EmaAbajo (button) folded before Flop (didn't bet)
+Seat 4: millionary07 (small blind) showed [5c Kh] and lost with a pair of Kings
+Seat 5: Caio Mugarte (big blind) folded before Flop
+Seat 6: NeewQQweeN folded before Flop (didn't bet)
+Seat 7: Rondon-Vitor folded before Flop (didn't bet)
+Seat 8: basque52 folded before Flop (didn't bet)
+Seat 9: WeberCC showed [Kd Jh] and won (2253) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #245433065017: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:10:33 AT [2023/08/16 21:10:33 ET]
+Table '3632355069 4' 9-max Seat #4 is the button
+Seat 1: Marimmmm (1413 in chips) 
+Seat 2: sz66 (1802 in chips) 
+Seat 3: EmaAbajo (1455 in chips) 
+Seat 4: millionary07 (306 in chips) 
+Seat 5: Caio Mugarte (1474 in chips) 
+Seat 6: NeewQQweeN (1497 in chips) 
+Seat 7: Rondon-Vitor (1494 in chips) 
+Seat 8: basque52 (1451 in chips) 
+Seat 9: WeberCC (2559 in chips) 
+Marimmmm: posts the ante 3
+sz66: posts the ante 3
+EmaAbajo: posts the ante 3
+millionary07: posts the ante 3
+Caio Mugarte: posts the ante 3
+NeewQQweeN: posts the ante 3
+Rondon-Vitor: posts the ante 3
+basque52: posts the ante 3
+WeberCC: posts the ante 3
+Caio Mugarte: posts small blind 10
+NeewQQweeN: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ac Ks]
+Rondon-Vitor: folds 
+basque52: folds 
+WeberCC: folds 
+Marimmmm: folds 
+sz66: folds 
+EmaAbajo: folds 
+millionary07: raises 283 to 303 and is all-in
+Caio Mugarte: calls 293
+NeewQQweeN: folds 
+*** FLOP *** [4s Qd Td]
+*** TURN *** [4s Qd Td] [5d]
+*** RIVER *** [4s Qd Td 5d] [7h]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Ac Ks] (high card Ace)
+millionary07: shows [5h 5s] (three of a kind, Fives)
+millionary07 collected 653 from pot
+*** SUMMARY ***
+Total pot 653 | Rake 0 
+Board [4s Qd Td 5d 7h]
+Seat 1: Marimmmm folded before Flop (didn't bet)
+Seat 2: sz66 folded before Flop (didn't bet)
+Seat 3: EmaAbajo folded before Flop (didn't bet)
+Seat 4: millionary07 (button) showed [5h 5s] and won (653) with three of a kind, Fives
+Seat 5: Caio Mugarte (small blind) showed [Ac Ks] and lost with high card Ace
+Seat 6: NeewQQweeN (big blind) folded before Flop
+Seat 7: Rondon-Vitor folded before Flop (didn't bet)
+Seat 8: basque52 folded before Flop (didn't bet)
+Seat 9: WeberCC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433071944: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:11:10 AT [2023/08/16 21:11:10 ET]
+Table '3632355069 4' 9-max Seat #5 is the button
+Seat 1: Marimmmm (1410 in chips) 
+Seat 2: sz66 (1799 in chips) 
+Seat 3: EmaAbajo (1452 in chips) 
+Seat 4: millionary07 (653 in chips) 
+Seat 5: Caio Mugarte (1168 in chips) 
+Seat 6: NeewQQweeN (1474 in chips) 
+Seat 7: Rondon-Vitor (1491 in chips) 
+Seat 8: basque52 (1448 in chips) 
+Seat 9: WeberCC (2556 in chips) 
+Marimmmm: posts the ante 3
+sz66: posts the ante 3
+EmaAbajo: posts the ante 3
+millionary07: posts the ante 3
+Caio Mugarte: posts the ante 3
+NeewQQweeN: posts the ante 3
+Rondon-Vitor: posts the ante 3
+basque52: posts the ante 3
+WeberCC: posts the ante 3
+NeewQQweeN: posts small blind 10
+Rondon-Vitor: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc 5h]
+basque52: calls 20
+WeberCC: folds 
+Marimmmm: folds 
+sz66: raises 42 to 62
+EmaAbajo: folds 
+millionary07: folds 
+Caio Mugarte: folds 
+NeewQQweeN: folds 
+Rondon-Vitor: folds 
+basque52: calls 42
+*** FLOP *** [9h 3h 4s]
+basque52: checks 
+sz66: bets 58
+basque52: calls 58
+*** TURN *** [9h 3h 4s] [8s]
+basque52: checks 
+sz66: bets 88
+basque52: calls 88
+*** RIVER *** [9h 3h 4s 8s] [8d]
+basque52: checks 
+sz66: bets 192
+basque52: folds 
+Uncalled bet (192) returned to sz66
+sz66 collected 473 from pot
+sz66: doesn't show hand 
+*** SUMMARY ***
+Total pot 473 | Rake 0 
+Board [9h 3h 4s 8s 8d]
+Seat 1: Marimmmm folded before Flop (didn't bet)
+Seat 2: sz66 collected (473)
+Seat 3: EmaAbajo folded before Flop (didn't bet)
+Seat 4: millionary07 folded before Flop (didn't bet)
+Seat 5: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: NeewQQweeN (small blind) folded before Flop
+Seat 7: Rondon-Vitor (big blind) folded before Flop
+Seat 8: basque52 folded on the River
+Seat 9: WeberCC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433085424: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:12:20 AT [2023/08/16 21:12:20 ET]
+Table '3632355069 4' 9-max Seat #6 is the button
+Seat 1: Marimmmm (1407 in chips) 
+Seat 2: sz66 (2061 in chips) 
+Seat 3: EmaAbajo (1449 in chips) 
+Seat 4: millionary07 (650 in chips) 
+Seat 5: Caio Mugarte (1165 in chips) 
+Seat 6: NeewQQweeN (1461 in chips) 
+Seat 7: Rondon-Vitor (1468 in chips) 
+Seat 8: basque52 (1237 in chips) 
+Seat 9: WeberCC (2553 in chips) 
+Marimmmm: posts the ante 3
+sz66: posts the ante 3
+EmaAbajo: posts the ante 3
+millionary07: posts the ante 3
+Caio Mugarte: posts the ante 3
+NeewQQweeN: posts the ante 3
+Rondon-Vitor: posts the ante 3
+basque52: posts the ante 3
+WeberCC: posts the ante 3
+Rondon-Vitor: posts small blind 10
+basque52: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d 6c]
+WeberCC: folds 
+Marimmmm: folds 
+sz66: folds 
+EmaAbajo: folds 
+millionary07: folds 
+Caio Mugarte: folds 
+NeewQQweeN: raises 30 to 50
+Rondon-Vitor: calls 40
+basque52: folds 
+*** FLOP *** [Jh 5s 3s]
+Rondon-Vitor: bets 74
+NeewQQweeN: folds 
+Uncalled bet (74) returned to Rondon-Vitor
+Rondon-Vitor collected 147 from pot
+Rondon-Vitor: doesn't show hand 
+*** SUMMARY ***
+Total pot 147 | Rake 0 
+Board [Jh 5s 3s]
+Seat 1: Marimmmm folded before Flop (didn't bet)
+Seat 2: sz66 folded before Flop (didn't bet)
+Seat 3: EmaAbajo folded before Flop (didn't bet)
+Seat 4: millionary07 folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: NeewQQweeN (button) folded on the Flop
+Seat 7: Rondon-Vitor (small blind) collected (147)
+Seat 8: basque52 (big blind) folded before Flop
+Seat 9: WeberCC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433093714: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:13:04 AT [2023/08/16 21:13:04 ET]
+Table '3632355069 4' 9-max Seat #7 is the button
+Seat 1: Marimmmm (1404 in chips) 
+Seat 2: sz66 (2058 in chips) 
+Seat 3: EmaAbajo (1446 in chips) 
+Seat 4: millionary07 (647 in chips) 
+Seat 5: Caio Mugarte (1162 in chips) 
+Seat 6: NeewQQweeN (1408 in chips) 
+Seat 7: Rondon-Vitor (1562 in chips) 
+Seat 8: basque52 (1214 in chips) 
+Seat 9: WeberCC (2550 in chips) 
+Marimmmm: posts the ante 3
+sz66: posts the ante 3
+EmaAbajo: posts the ante 3
+millionary07: posts the ante 3
+Caio Mugarte: posts the ante 3
+NeewQQweeN: posts the ante 3
+Rondon-Vitor: posts the ante 3
+basque52: posts the ante 3
+WeberCC: posts the ante 3
+basque52: posts small blind 10
+WeberCC: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c Qd]
+Marimmmm: folds 
+sz66: folds 
+EmaAbajo: folds 
+millionary07: raises 20 to 40
+Caio Mugarte: folds 
+NeewQQweeN: folds 
+Rondon-Vitor: folds 
+basque52: folds 
+WeberCC: calls 20
+*** FLOP *** [6s Td 4s]
+WeberCC: checks 
+millionary07: checks 
+*** TURN *** [6s Td 4s] [Ac]
+WeberCC: checks 
+millionary07: checks 
+*** RIVER *** [6s Td 4s Ac] [Kh]
+WeberCC: checks 
+millionary07: checks 
+*** SHOW DOWN ***
+WeberCC: shows [8h 5s] (high card Ace)
+millionary07: shows [Qc 8d] (high card Ace - King+Queen kicker)
+millionary07 collected 117 from pot
+*** SUMMARY ***
+Total pot 117 | Rake 0 
+Board [6s Td 4s Ac Kh]
+Seat 1: Marimmmm folded before Flop (didn't bet)
+Seat 2: sz66 folded before Flop (didn't bet)
+Seat 3: EmaAbajo folded before Flop (didn't bet)
+Seat 4: millionary07 showed [Qc 8d] and won (117) with high card Ace
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: NeewQQweeN folded before Flop (didn't bet)
+Seat 7: Rondon-Vitor (button) folded before Flop (didn't bet)
+Seat 8: basque52 (small blind) folded before Flop
+Seat 9: WeberCC (big blind) showed [8h 5s] and lost with high card Ace
+
+
+
+PokerStars Hand #245433104704: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:14:02 AT [2023/08/16 21:14:02 ET]
+Table '3632355069 4' 9-max Seat #8 is the button
+Seat 1: Marimmmm (1401 in chips) 
+Seat 2: sz66 (2055 in chips) 
+Seat 3: EmaAbajo (1443 in chips) 
+Seat 4: millionary07 (721 in chips) 
+Seat 5: Caio Mugarte (1159 in chips) 
+Seat 6: NeewQQweeN (1405 in chips) 
+Seat 7: Rondon-Vitor (1559 in chips) 
+Seat 8: basque52 (1201 in chips) 
+Seat 9: WeberCC (2507 in chips) 
+Marimmmm: posts the ante 3
+sz66: posts the ante 3
+EmaAbajo: posts the ante 3
+millionary07: posts the ante 3
+Caio Mugarte: posts the ante 3
+NeewQQweeN: posts the ante 3
+Rondon-Vitor: posts the ante 3
+basque52: posts the ante 3
+WeberCC: posts the ante 3
+WeberCC: posts small blind 10
+Marimmmm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5c 4s]
+sz66: folds 
+EmaAbajo: raises 40 to 60
+millionary07: calls 60
+Caio Mugarte: folds 
+NeewQQweeN: folds 
+Rondon-Vitor: folds 
+basque52: folds 
+WeberCC: folds 
+Marimmmm: calls 40
+*** FLOP *** [Qd 2d Qs]
+Marimmmm: checks 
+EmaAbajo: bets 80
+millionary07: calls 80
+Marimmmm: calls 80
+*** TURN *** [Qd 2d Qs] [5s]
+Marimmmm: checks 
+EmaAbajo: bets 140
+millionary07: raises 438 to 578 and is all-in
+Marimmmm: calls 578
+EmaAbajo: calls 438
+*** RIVER *** [Qd 2d Qs 5s] [Ks]
+Marimmmm: bets 680 and is all-in
+EmaAbajo: calls 680
+*** SHOW DOWN ***
+Marimmmm: shows [Qh 5h] (a full house, Queens full of Fives)
+EmaAbajo: shows [Kh Kc] (a full house, Kings full of Queens)
+EmaAbajo collected 1360 from side pot
+millionary07: shows [Qc Th] (three of a kind, Queens)
+EmaAbajo collected 2191 from main pot
+Marimmmm finished the tournament in 42nd place
+millionary07 finished the tournament in 43rd place
+*** SUMMARY ***
+Total pot 3551 Main pot 2191. Side pot 1360. | Rake 0 
+Board [Qd 2d Qs 5s Ks]
+Seat 1: Marimmmm (big blind) showed [Qh 5h] and lost with a full house, Queens full of Fives
+Seat 2: sz66 folded before Flop (didn't bet)
+Seat 3: EmaAbajo showed [Kh Kc] and won (3551) with a full house, Kings full of Queens
+Seat 4: millionary07 showed [Qc Th] and lost with three of a kind, Queens
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: NeewQQweeN folded before Flop (didn't bet)
+Seat 7: Rondon-Vitor folded before Flop (didn't bet)
+Seat 8: basque52 (button) folded before Flop (didn't bet)
+Seat 9: WeberCC (small blind) folded before Flop
+
+
+
+PokerStars Hand #245433123293: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:15:39 AT [2023/08/16 21:15:39 ET]
+Table '3632355069 4' 9-max Seat #9 is the button
+Seat 2: sz66 (2052 in chips) 
+Seat 3: EmaAbajo (3593 in chips) 
+Seat 5: Caio Mugarte (1156 in chips) 
+Seat 6: NeewQQweeN (1402 in chips) 
+Seat 7: Rondon-Vitor (1556 in chips) 
+Seat 8: basque52 (1198 in chips) 
+Seat 9: WeberCC (2494 in chips) 
+sz66: posts the ante 4
+EmaAbajo: posts the ante 4
+Caio Mugarte: posts the ante 4
+NeewQQweeN: posts the ante 4
+Rondon-Vitor: posts the ante 4
+basque52: posts the ante 4
+WeberCC: posts the ante 4
+sz66: posts small blind 15
+EmaAbajo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d Td]
+Caio Mugarte: folds 
+NeewQQweeN: folds 
+Rondon-Vitor: folds 
+basque52: folds 
+WeberCC: raises 60 to 90
+sz66: folds 
+EmaAbajo: raises 240 to 330
+BeckerEng144 is disconnected 
+WeberCC: calls 240
+*** FLOP *** [4d 8c 7h]
+EmaAbajo: checks 
+WeberCC: checks 
+*** TURN *** [4d 8c 7h] [4s]
+EmaAbajo: checks 
+WeberCC: checks 
+*** RIVER *** [4d 8c 7h 4s] [7s]
+EmaAbajo: checks 
+WeberCC: bets 773
+EmaAbajo: folds 
+Uncalled bet (773) returned to WeberCC
+WeberCC collected 703 from pot
+WeberCC: doesn't show hand 
+*** SUMMARY ***
+Total pot 703 | Rake 0 
+Board [4d 8c 7h 4s 7s]
+Seat 2: sz66 (small blind) folded before Flop
+Seat 3: EmaAbajo (big blind) folded on the River
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: NeewQQweeN folded before Flop (didn't bet)
+Seat 7: Rondon-Vitor folded before Flop (didn't bet)
+Seat 8: basque52 folded before Flop (didn't bet)
+Seat 9: WeberCC (button) collected (703)
+
+
+
+PokerStars Hand #245433140604: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:17:10 AT [2023/08/16 21:17:10 ET]
+Table '3632355069 4' 9-max Seat #2 is the button
+Seat 1: BeckerEng144 (1490 in chips) 
+Seat 2: sz66 (2033 in chips) 
+Seat 3: EmaAbajo (3259 in chips) 
+Seat 5: Caio Mugarte (1152 in chips) 
+Seat 6: NeewQQweeN (1398 in chips) 
+Seat 7: Rondon-Vitor (1552 in chips) 
+Seat 8: basque52 (1194 in chips) 
+Seat 9: WeberCC (2863 in chips) 
+BeckerEng144: posts the ante 4
+sz66: posts the ante 4
+EmaAbajo: posts the ante 4
+Caio Mugarte: posts the ante 4
+NeewQQweeN: posts the ante 4
+Rondon-Vitor: posts the ante 4
+basque52: posts the ante 4
+WeberCC: posts the ante 4
+EmaAbajo: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3h Kd]
+NeewQQweeN: folds 
+Rondon-Vitor: folds 
+basque52: folds 
+WeberCC: folds 
+BeckerEng144: folds 
+sz66: folds 
+EmaAbajo: raises 30 to 60
+Caio Mugarte: calls 30
+*** FLOP *** [5c Kh 7d]
+EmaAbajo: bets 38
+Caio Mugarte: calls 38
+*** TURN *** [5c Kh 7d] [4d]
+EmaAbajo: bets 60
+Caio Mugarte: calls 60
+*** RIVER *** [5c Kh 7d 4d] [9s]
+EmaAbajo: bets 87
+Caio Mugarte: calls 87
+*** SHOW DOWN ***
+EmaAbajo: shows [8d Kc] (a pair of Kings)
+Caio Mugarte: mucks hand 
+EmaAbajo collected 522 from pot
+*** SUMMARY ***
+Total pot 522 | Rake 0 
+Board [5c Kh 7d 4d 9s]
+Seat 1: BeckerEng144 folded before Flop (didn't bet)
+Seat 2: sz66 (button) folded before Flop (didn't bet)
+Seat 3: EmaAbajo (small blind) showed [8d Kc] and won (522) with a pair of Kings
+Seat 5: Caio Mugarte (big blind) mucked [3h Kd]
+Seat 6: NeewQQweeN folded before Flop (didn't bet)
+Seat 7: Rondon-Vitor folded before Flop (didn't bet)
+Seat 8: basque52 folded before Flop (didn't bet)
+Seat 9: WeberCC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433150152: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:18:00 AT [2023/08/16 21:18:00 ET]
+Table '3632355069 4' 9-max Seat #3 is the button
+Seat 1: BeckerEng144 (1486 in chips) 
+Seat 2: sz66 (2029 in chips) 
+Seat 3: EmaAbajo (3532 in chips) 
+Seat 5: Caio Mugarte (903 in chips) 
+Seat 6: NeewQQweeN (1394 in chips) 
+Seat 7: Rondon-Vitor (1548 in chips) 
+Seat 8: basque52 (1190 in chips) 
+Seat 9: WeberCC (2859 in chips) 
+BeckerEng144: posts the ante 4
+sz66: posts the ante 4
+EmaAbajo: posts the ante 4
+Caio Mugarte: posts the ante 4
+NeewQQweeN: posts the ante 4
+Rondon-Vitor: posts the ante 4
+basque52: posts the ante 4
+WeberCC: posts the ante 4
+Caio Mugarte: posts small blind 15
+NeewQQweeN: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2h 8c]
+Rondon-Vitor: folds 
+basque52: folds 
+WeberCC: folds 
+BeckerEng144: raises 30 to 60
+sz66: folds 
+EmaAbajo: folds 
+Caio Mugarte: folds 
+NeewQQweeN: calls 30
+*** FLOP *** [Ad 8h Ts]
+NeewQQweeN: checks 
+BeckerEng144: bets 50
+NeewQQweeN: folds 
+Uncalled bet (50) returned to BeckerEng144
+BeckerEng144 collected 167 from pot
+BeckerEng144: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Board [Ad 8h Ts]
+Seat 1: BeckerEng144 collected (167)
+Seat 2: sz66 folded before Flop (didn't bet)
+Seat 3: EmaAbajo (button) folded before Flop (didn't bet)
+Seat 5: Caio Mugarte (small blind) folded before Flop
+Seat 6: NeewQQweeN (big blind) folded on the Flop
+Seat 7: Rondon-Vitor folded before Flop (didn't bet)
+Seat 8: basque52 folded before Flop (didn't bet)
+Seat 9: WeberCC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433162808: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:19:07 AT [2023/08/16 21:19:07 ET]
+Table '3632355069 4' 9-max Seat #5 is the button
+Seat 1: BeckerEng144 (1589 in chips) 
+Seat 2: sz66 (2025 in chips) 
+Seat 3: EmaAbajo (3528 in chips) 
+Seat 5: Caio Mugarte (884 in chips) 
+Seat 6: NeewQQweeN (1330 in chips) 
+Seat 7: Rondon-Vitor (1544 in chips) 
+Seat 8: basque52 (1186 in chips) 
+Seat 9: WeberCC (2855 in chips) 
+BeckerEng144: posts the ante 4
+sz66: posts the ante 4
+EmaAbajo: posts the ante 4
+Caio Mugarte: posts the ante 4
+NeewQQweeN: posts the ante 4
+Rondon-Vitor: posts the ante 4
+basque52: posts the ante 4
+WeberCC: posts the ante 4
+NeewQQweeN: posts small blind 15
+Rondon-Vitor: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9c 4d]
+basque52: calls 30
+WeberCC: folds 
+BeckerEng144: raises 90 to 120
+sz66: folds 
+EmaAbajo: folds 
+Caio Mugarte: folds 
+NeewQQweeN: folds 
+Rondon-Vitor: folds 
+basque52: calls 90
+*** FLOP *** [2c As 9s]
+basque52: checks 
+BeckerEng144: bets 95
+basque52: folds 
+Uncalled bet (95) returned to BeckerEng144
+BeckerEng144 collected 317 from pot
+BeckerEng144: doesn't show hand 
+*** SUMMARY ***
+Total pot 317 | Rake 0 
+Board [2c As 9s]
+Seat 1: BeckerEng144 collected (317)
+Seat 2: sz66 folded before Flop (didn't bet)
+Seat 3: EmaAbajo folded before Flop (didn't bet)
+Seat 5: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: NeewQQweeN (small blind) folded before Flop
+Seat 7: Rondon-Vitor (big blind) folded before Flop
+Seat 8: basque52 folded on the Flop
+Seat 9: WeberCC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433175552: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:20:15 AT [2023/08/16 21:20:15 ET]
+Table '3632355069 4' 9-max Seat #6 is the button
+Seat 1: BeckerEng144 (1782 in chips) 
+Seat 2: sz66 (2021 in chips) 
+Seat 3: EmaAbajo (3524 in chips) 
+Seat 5: Caio Mugarte (880 in chips) 
+Seat 6: NeewQQweeN (1311 in chips) 
+Seat 7: Rondon-Vitor (1510 in chips) 
+Seat 8: basque52 (1062 in chips) 
+Seat 9: WeberCC (2851 in chips) 
+BeckerEng144: posts the ante 4
+sz66: posts the ante 4
+EmaAbajo: posts the ante 4
+Caio Mugarte: posts the ante 4
+NeewQQweeN: posts the ante 4
+Rondon-Vitor: posts the ante 4
+basque52: posts the ante 4
+WeberCC: posts the ante 4
+Rondon-Vitor: posts small blind 15
+basque52: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th Ks]
+WeberCC: raises 30 to 60
+BeckerEng144 has timed out
+BeckerEng144: folds 
+BeckerEng144 is sitting out
+sz66: folds 
+EmaAbajo: folds 
+Caio Mugarte: folds 
+BeckerEng144 has returned
+NeewQQweeN: folds 
+Rondon-Vitor: calls 45
+basque52: calls 30
+*** FLOP *** [7h 9s Kd]
+Rondon-Vitor: bets 106
+basque52: folds 
+WeberCC: raises 196 to 302
+Rondon-Vitor: calls 196
+*** TURN *** [7h 9s Kd] [8c]
+Rondon-Vitor: checks 
+WeberCC: bets 2485 and is all-in
+Rondon-Vitor: calls 1144 and is all-in
+Uncalled bet (1341) returned to WeberCC
+*** RIVER *** [7h 9s Kd 8c] [5d]
+*** SHOW DOWN ***
+Rondon-Vitor: shows [Js Kh] (a pair of Kings)
+WeberCC: shows [7s 7d] (three of a kind, Sevens)
+WeberCC collected 3104 from pot
+Rondon-Vitor finished the tournament in 39th place
+*** SUMMARY ***
+Total pot 3104 | Rake 0 
+Board [7h 9s Kd 8c 5d]
+Seat 1: BeckerEng144 folded before Flop (didn't bet)
+Seat 2: sz66 folded before Flop (didn't bet)
+Seat 3: EmaAbajo folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: NeewQQweeN (button) folded before Flop (didn't bet)
+Seat 7: Rondon-Vitor (small blind) showed [Js Kh] and lost with a pair of Kings
+Seat 8: basque52 (big blind) folded on the Flop
+Seat 9: WeberCC showed [7s 7d] and won (3104) with three of a kind, Sevens
+
+
+
+PokerStars Hand #245433195567: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:21:59 AT [2023/08/16 21:21:59 ET]
+Table '3632355069 4' 9-max Seat #8 is the button
+Seat 1: BeckerEng144 (1778 in chips) 
+Seat 2: sz66 (2017 in chips) 
+Seat 3: EmaAbajo (3520 in chips) 
+Seat 5: Caio Mugarte (876 in chips) 
+Seat 6: NeewQQweeN (1307 in chips) 
+Seat 8: basque52 (998 in chips) 
+Seat 9: WeberCC (4445 in chips) 
+BeckerEng144: posts the ante 4
+sz66: posts the ante 4
+EmaAbajo: posts the ante 4
+Caio Mugarte: posts the ante 4
+NeewQQweeN: posts the ante 4
+basque52: posts the ante 4
+WeberCC: posts the ante 4
+WeberCC: posts small blind 15
+BeckerEng144: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5d Kc]
+sz66: folds 
+EmaAbajo: raises 45 to 75
+Caio Mugarte: folds 
+NeewQQweeN: folds 
+basque52: folds 
+WeberCC: folds 
+BeckerEng144 has timed out
+BeckerEng144: folds 
+BeckerEng144 is sitting out
+Uncalled bet (45) returned to EmaAbajo
+EmaAbajo collected 103 from pot
+EmaAbajo: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 1: BeckerEng144 (big blind) folded before Flop
+Seat 2: sz66 folded before Flop (didn't bet)
+Seat 3: EmaAbajo collected (103)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: NeewQQweeN folded before Flop (didn't bet)
+Seat 8: basque52 (button) folded before Flop (didn't bet)
+Seat 9: WeberCC (small blind) folded before Flop
+
+
+
+PokerStars Hand #245433204324: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:22:45 AT [2023/08/16 21:22:45 ET]
+Table '3632355069 4' 9-max Seat #9 is the button
+Seat 1: BeckerEng144 (1744 in chips) is sitting out
+Seat 2: sz66 (2013 in chips) 
+Seat 3: EmaAbajo (3589 in chips) 
+Seat 5: Caio Mugarte (872 in chips) 
+Seat 6: NeewQQweeN (1303 in chips) 
+Seat 8: basque52 (994 in chips) 
+Seat 9: WeberCC (4426 in chips) 
+BeckerEng144: posts the ante 4
+sz66: posts the ante 4
+EmaAbajo: posts the ante 4
+Caio Mugarte: posts the ante 4
+NeewQQweeN: posts the ante 4
+basque52: posts the ante 4
+WeberCC: posts the ante 4
+BeckerEng144: posts small blind 15
+sz66: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8s 9s]
+EmaAbajo: folds 
+BeckerEng144 has returned
+Caio Mugarte: folds 
+NeewQQweeN: raises 33 to 63
+basque52: folds 
+WeberCC: folds 
+BeckerEng144: folds 
+sz66: calls 33
+*** FLOP *** [Jh Th Ah]
+sz66: checks 
+NeewQQweeN: checks 
+*** TURN *** [Jh Th Ah] [Ts]
+sz66: bets 54
+NeewQQweeN: calls 54
+*** RIVER *** [Jh Th Ah Ts] [4c]
+sz66: bets 117
+NeewQQweeN: calls 117
+*** SHOW DOWN ***
+sz66: shows [Tc 2s] (three of a kind, Tens)
+NeewQQweeN: mucks hand 
+sz66 collected 511 from pot
+*** SUMMARY ***
+Total pot 511 | Rake 0 
+Board [Jh Th Ah Ts 4c]
+Seat 1: BeckerEng144 (small blind) folded before Flop
+Seat 2: sz66 (big blind) showed [Tc 2s] and won (511) with three of a kind, Tens
+Seat 3: EmaAbajo folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: NeewQQweeN mucked [7s As]
+Seat 8: basque52 folded before Flop (didn't bet)
+Seat 9: WeberCC (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433225351: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:24:34 AT [2023/08/16 21:24:34 ET]
+Table '3632355069 4' 9-max Seat #1 is the button
+Seat 1: BeckerEng144 (1725 in chips) 
+Seat 2: sz66 (2286 in chips) 
+Seat 3: EmaAbajo (3585 in chips) 
+Seat 5: Caio Mugarte (868 in chips) 
+Seat 6: NeewQQweeN (1065 in chips) 
+Seat 8: basque52 (990 in chips) 
+Seat 9: WeberCC (4422 in chips) 
+BeckerEng144: posts the ante 4
+sz66: posts the ante 4
+EmaAbajo: posts the ante 4
+Caio Mugarte: posts the ante 4
+NeewQQweeN: posts the ante 4
+basque52: posts the ante 4
+WeberCC: posts the ante 4
+sz66: posts small blind 15
+EmaAbajo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc 3c]
+Caio Mugarte: folds 
+NeewQQweeN: folds 
+basque52: calls 30
+WeberCC: folds 
+BeckerEng144 has timed out
+BeckerEng144: folds 
+BeckerEng144 is sitting out
+sz66: folds 
+BeckerEng144 has returned
+EmaAbajo: raises 75 to 105
+basque52: calls 75
+*** FLOP *** [Jd Ac Kc]
+EmaAbajo: checks 
+basque52: bets 90
+EmaAbajo: calls 90
+*** TURN *** [Jd Ac Kc] [4d]
+EmaAbajo: checks 
+basque52: bets 791 and is all-in
+EmaAbajo: folds 
+Uncalled bet (791) returned to basque52
+basque52 collected 433 from pot
+basque52: doesn't show hand 
+*** SUMMARY ***
+Total pot 433 | Rake 0 
+Board [Jd Ac Kc 4d]
+Seat 1: BeckerEng144 (button) folded before Flop (didn't bet)
+Seat 2: sz66 (small blind) folded before Flop
+Seat 3: EmaAbajo (big blind) folded on the Turn
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: NeewQQweeN folded before Flop (didn't bet)
+Seat 8: basque52 collected (433)
+Seat 9: WeberCC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433240369: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:25:53 AT [2023/08/16 21:25:53 ET]
+Table '3632355069 4' 9-max Seat #2 is the button
+Seat 1: BeckerEng144 (1721 in chips) 
+Seat 2: sz66 (2267 in chips) 
+Seat 3: EmaAbajo (3386 in chips) 
+Seat 5: Caio Mugarte (864 in chips) 
+Seat 6: NeewQQweeN (1061 in chips) 
+Seat 8: basque52 (1224 in chips) 
+Seat 9: WeberCC (4418 in chips) 
+BeckerEng144: posts the ante 6
+sz66: posts the ante 6
+EmaAbajo: posts the ante 6
+Caio Mugarte: posts the ante 6
+NeewQQweeN: posts the ante 6
+basque52: posts the ante 6
+WeberCC: posts the ante 6
+EmaAbajo: posts small blind 25
+Caio Mugarte: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3c Qc]
+NeewQQweeN: folds 
+basque52: folds 
+WeberCC: folds 
+BeckerEng144 has timed out
+BeckerEng144: folds 
+BeckerEng144 is sitting out
+sz66: raises 60 to 110
+BeckerEng144 has returned
+EmaAbajo: folds 
+Caio Mugarte: calls 60
+*** FLOP *** [Ks Jh 5c]
+Caio Mugarte: checks 
+sz66: bets 70
+Caio Mugarte: folds 
+Uncalled bet (70) returned to sz66
+sz66 collected 287 from pot
+sz66: doesn't show hand 
+*** SUMMARY ***
+Total pot 287 | Rake 0 
+Board [Ks Jh 5c]
+Seat 1: BeckerEng144 folded before Flop (didn't bet)
+Seat 2: sz66 (button) collected (287)
+Seat 3: EmaAbajo (small blind) folded before Flop
+Seat 5: Caio Mugarte (big blind) folded on the Flop
+Seat 6: NeewQQweeN folded before Flop (didn't bet)
+Seat 8: basque52 folded before Flop (didn't bet)
+Seat 9: WeberCC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433250372: Tournament #3632355069, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:26:46 AT [2023/08/16 21:26:46 ET]
+Table '3632355069 4' 9-max Seat #3 is the button
+Seat 1: BeckerEng144 (1715 in chips) 
+Seat 2: sz66 (2438 in chips) 
+Seat 3: EmaAbajo (3355 in chips) 
+Seat 5: Caio Mugarte (748 in chips) 
+Seat 6: NeewQQweeN (1055 in chips) 
+Seat 8: basque52 (1218 in chips) 
+Seat 9: WeberCC (4412 in chips) 
+BeckerEng144: posts the ante 6
+sz66: posts the ante 6
+EmaAbajo: posts the ante 6
+Caio Mugarte: posts the ante 6
+NeewQQweeN: posts the ante 6
+basque52: posts the ante 6
+WeberCC: posts the ante 6
+Caio Mugarte: posts small blind 25
+NeewQQweeN: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kd Jh]
+basque52: folds 
+WeberCC: folds 
+BeckerEng144: folds 
+sz66: raises 55 to 105
+EmaAbajo: folds 
+Caio Mugarte: raises 637 to 742 and is all-in
+IncAplayerA2 is disconnected 
+NeewQQweeN: raises 307 to 1049 and is all-in
+sz66: folds 
+Uncalled bet (307) returned to NeewQQweeN
+*** FLOP *** [Ad 7h 3h]
+*** TURN *** [Ad 7h 3h] [6h]
+*** RIVER *** [Ad 7h 3h 6h] [5d]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Kd Jh] (high card Ace)
+NeewQQweeN: shows [As Qc] (a pair of Aces)
+NeewQQweeN collected 1631 from pot
+Caio Mugarte finished the tournament in 36th place
+*** SUMMARY ***
+Total pot 1631 | Rake 0 
+Board [Ad 7h 3h 6h 5d]
+Seat 1: BeckerEng144 folded before Flop (didn't bet)
+Seat 2: sz66 folded before Flop
+Seat 3: EmaAbajo (button) folded before Flop (didn't bet)
+Seat 5: Caio Mugarte (small blind) showed [Kd Jh] and lost with high card Ace
+Seat 6: NeewQQweeN (big blind) showed [As Qc] and won (1631) with a pair of Aces
+Seat 8: basque52 folded before Flop (didn't bet)
+Seat 9: WeberCC folded before Flop (didn't bet)
+
+
+

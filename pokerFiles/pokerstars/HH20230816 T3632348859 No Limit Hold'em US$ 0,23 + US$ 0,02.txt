@@ -1,0 +1,827 @@
+﻿PokerStars Hand #245432752121: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:42:40 AT [2023/08/16 20:42:40 ET]
+Table '3632348859 3' 9-max Seat #1 is the button
+Seat 1: Alan_xavi (1500 in chips) 
+Seat 3: Tgathayde (1500 in chips) 
+Seat 4: Fallkerigena (1500 in chips) 
+Seat 5: Caio Mugarte (1500 in chips) 
+Seat 6: Skylletzin (1500 in chips) 
+Seat 8: cordocar19 (1500 in chips) 
+Seat 9: 0y4bun (1500 in chips) 
+Alan_xavi: posts the ante 3
+Tgathayde: posts the ante 3
+Fallkerigena: posts the ante 3
+Caio Mugarte: posts the ante 3
+Skylletzin: posts the ante 3
+cordocar19: posts the ante 3
+0y4bun: posts the ante 3
+Tgathayde: posts small blind 10
+Fallkerigena: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d 9h]
+Caio Mugarte: folds 
+Skylletzin: folds 
+cordocar19: raises 20 to 40
+0y4bun: folds 
+Alan_xavi: raises 92 to 132
+Tgathayde: folds 
+Fallkerigena: folds 
+cordocar19: calls 92
+*** FLOP *** [Tc 4d 2s]
+douglas121silva is disconnected 
+cordocar19: checks 
+Alan_xavi: bets 104
+cordocar19: folds 
+Uncalled bet (104) returned to Alan_xavi
+Alan_xavi collected 315 from pot
+Alan_xavi: doesn't show hand 
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Board [Tc 4d 2s]
+Seat 1: Alan_xavi (button) collected (315)
+Seat 3: Tgathayde (small blind) folded before Flop
+Seat 4: Fallkerigena (big blind) folded before Flop
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Skylletzin folded before Flop (didn't bet)
+Seat 8: cordocar19 folded on the Flop
+Seat 9: 0y4bun folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432760358: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:43:21 AT [2023/08/16 20:43:21 ET]
+Table '3632348859 3' 9-max Seat #3 is the button
+Seat 1: Alan_xavi (1680 in chips) 
+Seat 2: douglas121silva (1500 in chips) 
+Seat 3: Tgathayde (1487 in chips) 
+Seat 4: Fallkerigena (1477 in chips) 
+Seat 5: Caio Mugarte (1497 in chips) 
+Seat 6: Skylletzin (1497 in chips) 
+Seat 8: cordocar19 (1365 in chips) 
+Seat 9: 0y4bun (1497 in chips) 
+Alan_xavi: posts the ante 3
+douglas121silva: posts the ante 3
+Tgathayde: posts the ante 3
+Fallkerigena: posts the ante 3
+Caio Mugarte: posts the ante 3
+Skylletzin: posts the ante 3
+cordocar19: posts the ante 3
+0y4bun: posts the ante 3
+Fallkerigena: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9d 9h]
+Skylletzin: folds 
+cordocar19: raises 20 to 40
+0y4bun: folds 
+Alan_xavi: folds 
+douglas121silva: folds 
+Tgathayde: folds 
+Fallkerigena: calls 30
+Caio Mugarte: calls 20
+*** FLOP *** [Js 3s Jd]
+Fallkerigena: checks 
+Caio Mugarte: checks 
+cordocar19: checks 
+*** TURN *** [Js 3s Jd] [4h]
+Fallkerigena: bets 48
+Caio Mugarte: calls 48
+cordocar19: folds 
+*** RIVER *** [Js 3s Jd 4h] [4s]
+Fallkerigena: bets 158
+Caio Mugarte: calls 158
+*** SHOW DOWN ***
+Fallkerigena: shows [Jh Kc] (a full house, Jacks full of Fours)
+Caio Mugarte: mucks hand 
+Fallkerigena collected 556 from pot
+*** SUMMARY ***
+Total pot 556 | Rake 0 
+Board [Js 3s Jd 4h 4s]
+Seat 1: Alan_xavi folded before Flop (didn't bet)
+Seat 2: douglas121silva folded before Flop (didn't bet)
+Seat 3: Tgathayde (button) folded before Flop (didn't bet)
+Seat 4: Fallkerigena (small blind) showed [Jh Kc] and won (556) with a full house, Jacks full of Fours
+Seat 5: Caio Mugarte (big blind) mucked [9d 9h]
+Seat 6: Skylletzin folded before Flop (didn't bet)
+Seat 8: cordocar19 folded on the Turn
+Seat 9: 0y4bun folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432777043: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:44:45 AT [2023/08/16 20:44:45 ET]
+Table '3632348859 3' 9-max Seat #4 is the button
+Seat 1: Alan_xavi (1677 in chips) 
+Seat 2: douglas121silva (1497 in chips) 
+Seat 3: Tgathayde (1484 in chips) 
+Seat 4: Fallkerigena (1784 in chips) 
+Seat 5: Caio Mugarte (1248 in chips) 
+Seat 7: rs_alvarenga (1500 in chips) 
+Seat 8: cordocar19 (1322 in chips) 
+Seat 9: 0y4bun (1494 in chips) 
+Alan_xavi: posts the ante 3
+douglas121silva: posts the ante 3
+Tgathayde: posts the ante 3
+Fallkerigena: posts the ante 3
+Caio Mugarte: posts the ante 3
+rs_alvarenga: posts the ante 3
+cordocar19: posts the ante 3
+0y4bun: posts the ante 3
+Caio Mugarte: posts small blind 10
+rs_alvarenga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4c 7s]
+cordocar19: folds 
+0y4bun: folds 
+Alan_xavi: raises 20 to 40
+douglas121silva: folds 
+Tgathayde: folds 
+Fallkerigena: folds 
+Caio Mugarte: folds 
+rs_alvarenga: folds 
+Uncalled bet (20) returned to Alan_xavi
+Alan_xavi collected 74 from pot
+Alan_xavi: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: Alan_xavi collected (74)
+Seat 2: douglas121silva folded before Flop (didn't bet)
+Seat 3: Tgathayde folded before Flop (didn't bet)
+Seat 4: Fallkerigena (button) folded before Flop (didn't bet)
+Seat 5: Caio Mugarte (small blind) folded before Flop
+Seat 7: rs_alvarenga (big blind) folded before Flop
+Seat 8: cordocar19 folded before Flop (didn't bet)
+Seat 9: 0y4bun folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432781970: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:45:10 AT [2023/08/16 20:45:10 ET]
+Table '3632348859 3' 9-max Seat #5 is the button
+Seat 1: Alan_xavi (1728 in chips) 
+Seat 2: douglas121silva (1494 in chips) 
+Seat 3: Tgathayde (1481 in chips) 
+Seat 4: Fallkerigena (1781 in chips) 
+Seat 5: Caio Mugarte (1235 in chips) 
+Seat 7: rs_alvarenga (1477 in chips) 
+Seat 8: cordocar19 (1319 in chips) 
+Seat 9: 0y4bun (1491 in chips) 
+Alan_xavi: posts the ante 3
+douglas121silva: posts the ante 3
+Tgathayde: posts the ante 3
+Fallkerigena: posts the ante 3
+Caio Mugarte: posts the ante 3
+rs_alvarenga: posts the ante 3
+cordocar19: posts the ante 3
+0y4bun: posts the ante 3
+rs_alvarenga: posts small blind 10
+cordocar19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s Kh]
+0y4bun: raises 26 to 46
+Alan_xavi: folds 
+douglas121silva: folds 
+Tgathayde: folds 
+Fallkerigena: calls 46
+Caio Mugarte: folds 
+rs_alvarenga: folds 
+cordocar19: folds 
+*** FLOP *** [Qh 5h 2h]
+0y4bun: bets 53
+Fallkerigena: folds 
+Uncalled bet (53) returned to 0y4bun
+0y4bun collected 146 from pot
+0y4bun: doesn't show hand 
+*** SUMMARY ***
+Total pot 146 | Rake 0 
+Board [Qh 5h 2h]
+Seat 1: Alan_xavi folded before Flop (didn't bet)
+Seat 2: douglas121silva folded before Flop (didn't bet)
+Seat 3: Tgathayde folded before Flop (didn't bet)
+Seat 4: Fallkerigena folded on the Flop
+Seat 5: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 7: rs_alvarenga (small blind) folded before Flop
+Seat 8: cordocar19 (big blind) folded before Flop
+Seat 9: 0y4bun collected (146)
+
+
+
+PokerStars Hand #245432795233: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:46:17 AT [2023/08/16 20:46:17 ET]
+Table '3632348859 3' 9-max Seat #7 is the button
+Seat 1: Alan_xavi (1725 in chips) 
+Seat 2: douglas121silva (1491 in chips) 
+Seat 3: Tgathayde (1478 in chips) 
+Seat 4: Fallkerigena (1732 in chips) 
+Seat 5: Caio Mugarte (1232 in chips) 
+Seat 6: RBK6 (1500 in chips) 
+Seat 7: rs_alvarenga (1464 in chips) 
+Seat 8: cordocar19 (1296 in chips) 
+Seat 9: 0y4bun (1588 in chips) 
+Alan_xavi: posts the ante 3
+douglas121silva: posts the ante 3
+Tgathayde: posts the ante 3
+Fallkerigena: posts the ante 3
+Caio Mugarte: posts the ante 3
+RBK6: posts the ante 3
+rs_alvarenga: posts the ante 3
+cordocar19: posts the ante 3
+0y4bun: posts the ante 3
+cordocar19: posts small blind 10
+0y4bun: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [As Ad]
+Alan_xavi: folds 
+douglas121silva: folds 
+Tgathayde: folds 
+Fallkerigena: folds 
+Caio Mugarte: raises 20 to 40
+RBK6: calls 40
+rs_alvarenga: folds 
+cordocar19: calls 30
+0y4bun: folds 
+*** FLOP *** [7h Ts Kh]
+cordocar19: checks 
+Caio Mugarte: bets 70
+RBK6: folds 
+cordocar19: calls 70
+*** TURN *** [7h Ts Kh] [4d]
+cordocar19: checks 
+Caio Mugarte: bets 160
+cordocar19: folds 
+Uncalled bet (160) returned to Caio Mugarte
+Caio Mugarte collected 307 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 307 | Rake 0 
+Board [7h Ts Kh 4d]
+Seat 1: Alan_xavi folded before Flop (didn't bet)
+Seat 2: douglas121silva folded before Flop (didn't bet)
+Seat 3: Tgathayde folded before Flop (didn't bet)
+Seat 4: Fallkerigena folded before Flop (didn't bet)
+Seat 5: Caio Mugarte collected (307)
+Seat 6: RBK6 folded on the Flop
+Seat 7: rs_alvarenga (button) folded before Flop (didn't bet)
+Seat 8: cordocar19 (small blind) folded on the Turn
+Seat 9: 0y4bun (big blind) folded before Flop
+
+
+
+PokerStars Hand #245432816560: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:48:05 AT [2023/08/16 20:48:05 ET]
+Table '3632348859 3' 9-max Seat #8 is the button
+Seat 1: Alan_xavi (1722 in chips) 
+Seat 2: douglas121silva (1488 in chips) 
+Seat 3: Tgathayde (1475 in chips) 
+Seat 4: Fallkerigena (1729 in chips) 
+Seat 5: Caio Mugarte (1426 in chips) 
+Seat 6: RBK6 (1457 in chips) 
+Seat 7: rs_alvarenga (1461 in chips) 
+Seat 8: cordocar19 (1183 in chips) 
+Seat 9: 0y4bun (1565 in chips) 
+Alan_xavi: posts the ante 3
+douglas121silva: posts the ante 3
+Tgathayde: posts the ante 3
+Fallkerigena: posts the ante 3
+Caio Mugarte: posts the ante 3
+RBK6: posts the ante 3
+rs_alvarenga: posts the ante 3
+cordocar19: posts the ante 3
+0y4bun: posts the ante 3
+0y4bun: posts small blind 10
+Alan_xavi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qd Td]
+douglas121silva: folds 
+Tgathayde: folds 
+Fallkerigena: raises 20 to 40
+Caio Mugarte: folds 
+RBK6: folds 
+rs_alvarenga: folds 
+cordocar19: folds 
+0y4bun: folds 
+Alan_xavi: folds 
+Uncalled bet (20) returned to Fallkerigena
+Fallkerigena collected 77 from pot
+Fallkerigena: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: Alan_xavi (big blind) folded before Flop
+Seat 2: douglas121silva folded before Flop (didn't bet)
+Seat 3: Tgathayde folded before Flop (didn't bet)
+Seat 4: Fallkerigena collected (77)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: RBK6 folded before Flop (didn't bet)
+Seat 7: rs_alvarenga folded before Flop (didn't bet)
+Seat 8: cordocar19 (button) folded before Flop (didn't bet)
+Seat 9: 0y4bun (small blind) folded before Flop
+
+
+
+PokerStars Hand #245432825505: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:48:51 AT [2023/08/16 20:48:51 ET]
+Table '3632348859 3' 9-max Seat #9 is the button
+Seat 1: Alan_xavi (1699 in chips) 
+Seat 2: douglas121silva (1485 in chips) 
+Seat 3: Tgathayde (1472 in chips) 
+Seat 5: Caio Mugarte (1423 in chips) 
+Seat 6: RBK6 (1454 in chips) 
+Seat 7: rs_alvarenga (1458 in chips) 
+Seat 8: cordocar19 (1180 in chips) 
+Seat 9: 0y4bun (1552 in chips) 
+Alan_xavi: posts the ante 3
+douglas121silva: posts the ante 3
+Tgathayde: posts the ante 3
+Caio Mugarte: posts the ante 3
+RBK6: posts the ante 3
+rs_alvarenga: posts the ante 3
+cordocar19: posts the ante 3
+0y4bun: posts the ante 3
+Alan_xavi: posts small blind 10
+douglas121silva: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8c 5d]
+Tgathayde: folds 
+Caio Mugarte: folds 
+RBK6: raises 40 to 60
+rs_alvarenga: calls 60
+cordocar19: folds 
+0y4bun: calls 60
+Alan_xavi: folds 
+douglas121silva: folds 
+*** FLOP *** [Ks Td 4d]
+RBK6: checks 
+rs_alvarenga: checks 
+0y4bun: bets 117
+RBK6: calls 117
+rs_alvarenga: calls 117
+*** TURN *** [Ks Td 4d] [7d]
+RBK6: checks 
+rs_alvarenga: checks 
+0y4bun: checks 
+*** RIVER *** [Ks Td 4d 7d] [2d]
+RBK6: checks 
+rs_alvarenga: checks 
+0y4bun: bets 253
+RBK6: folds 
+rs_alvarenga: folds 
+Uncalled bet (253) returned to 0y4bun
+0y4bun collected 585 from pot
+0y4bun: doesn't show hand 
+*** SUMMARY ***
+Total pot 585 | Rake 0 
+Board [Ks Td 4d 7d 2d]
+Seat 1: Alan_xavi (small blind) folded before Flop
+Seat 2: douglas121silva (big blind) folded before Flop
+Seat 3: Tgathayde folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: RBK6 folded on the River
+Seat 7: rs_alvarenga folded on the River
+Seat 8: cordocar19 folded before Flop (didn't bet)
+Seat 9: 0y4bun (button) collected (585)
+
+
+
+PokerStars Hand #245432845558: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:50:34 AT [2023/08/16 20:50:34 ET]
+Table '3632348859 3' 9-max Seat #1 is the button
+Seat 1: Alan_xavi (1686 in chips) 
+Seat 2: douglas121silva (1462 in chips) 
+Seat 3: Tgathayde (1469 in chips) 
+Seat 5: Caio Mugarte (1420 in chips) 
+Seat 6: RBK6 (1274 in chips) 
+Seat 7: rs_alvarenga (1278 in chips) 
+Seat 8: cordocar19 (1177 in chips) 
+Seat 9: 0y4bun (1957 in chips) 
+Alan_xavi: posts the ante 3
+douglas121silva: posts the ante 3
+Tgathayde: posts the ante 3
+Caio Mugarte: posts the ante 3
+RBK6: posts the ante 3
+rs_alvarenga: posts the ante 3
+cordocar19: posts the ante 3
+0y4bun: posts the ante 3
+douglas121silva: posts small blind 10
+Tgathayde: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4c 8d]
+Caio Mugarte: folds 
+RBK6: raises 40 to 60
+rs_alvarenga: folds 
+cordocar19: folds 
+0y4bun: folds 
+Alan_xavi: folds 
+douglas121silva: folds 
+Tgathayde: raises 154 to 214
+RBK6: raises 154 to 368
+Tgathayde: calls 154
+*** FLOP *** [7d Jh Ad]
+Tgathayde: bets 393
+RBK6: raises 510 to 903 and is all-in
+Tgathayde: calls 510
+*** TURN *** [7d Jh Ad] [5s]
+*** RIVER *** [7d Jh Ad 5s] [4d]
+*** SHOW DOWN ***
+Tgathayde: shows [Ac Qh] (a pair of Aces)
+RBK6: shows [Ah As] (three of a kind, Aces)
+RBK6 collected 2576 from pot
+*** SUMMARY ***
+Total pot 2576 | Rake 0 
+Board [7d Jh Ad 5s 4d]
+Seat 1: Alan_xavi (button) folded before Flop (didn't bet)
+Seat 2: douglas121silva (small blind) folded before Flop
+Seat 3: Tgathayde (big blind) showed [Ac Qh] and lost with a pair of Aces
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: RBK6 showed [Ah As] and won (2576) with three of a kind, Aces
+Seat 7: rs_alvarenga folded before Flop (didn't bet)
+Seat 8: cordocar19 folded before Flop (didn't bet)
+Seat 9: 0y4bun folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432862199: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:51:59 AT [2023/08/16 20:51:59 ET]
+Table '3632348859 3' 9-max Seat #2 is the button
+Seat 1: Alan_xavi (1683 in chips) 
+Seat 2: douglas121silva (1449 in chips) 
+Seat 3: Tgathayde (195 in chips) 
+Seat 5: Caio Mugarte (1417 in chips) 
+Seat 6: RBK6 (2576 in chips) 
+Seat 7: rs_alvarenga (1275 in chips) 
+Seat 8: cordocar19 (1174 in chips) 
+Seat 9: 0y4bun (1954 in chips) 
+Alan_xavi: posts the ante 3
+douglas121silva: posts the ante 3
+Tgathayde: posts the ante 3
+Caio Mugarte: posts the ante 3
+RBK6: posts the ante 3
+rs_alvarenga: posts the ante 3
+cordocar19: posts the ante 3
+0y4bun: posts the ante 3
+Tgathayde: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7s Kc]
+RBK6: folds 
+rs_alvarenga: calls 20
+cordocar19: calls 20
+0y4bun: raises 26 to 46
+Alan_xavi: folds 
+douglas121silva: folds 
+Tgathayde: folds 
+Caio Mugarte: folds 
+rs_alvarenga: calls 26
+cordocar19: calls 26
+*** FLOP *** [Ah 3h 6h]
+rs_alvarenga: checks 
+cordocar19: checks 
+0y4bun: bets 136
+rs_alvarenga: folds 
+cordocar19: folds 
+Uncalled bet (136) returned to 0y4bun
+0y4bun collected 192 from pot
+0y4bun: doesn't show hand 
+*** SUMMARY ***
+Total pot 192 | Rake 0 
+Board [Ah 3h 6h]
+Seat 1: Alan_xavi folded before Flop (didn't bet)
+Seat 2: douglas121silva (button) folded before Flop (didn't bet)
+Seat 3: Tgathayde (small blind) folded before Flop
+Seat 5: Caio Mugarte (big blind) folded before Flop
+Seat 6: RBK6 folded before Flop (didn't bet)
+Seat 7: rs_alvarenga folded on the Flop
+Seat 8: cordocar19 folded on the Flop
+Seat 9: 0y4bun collected (192)
+
+
+
+PokerStars Hand #245432882968: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 21:53:46 AT [2023/08/16 20:53:46 ET]
+Table '3632348859 3' 9-max Seat #3 is the button
+Seat 1: Alan_xavi (1680 in chips) 
+Seat 2: douglas121silva (1446 in chips) 
+Seat 3: Tgathayde (182 in chips) 
+Seat 5: Caio Mugarte (1394 in chips) 
+Seat 6: RBK6 (2573 in chips) 
+Seat 7: rs_alvarenga (1226 in chips) 
+Seat 8: cordocar19 (1125 in chips) 
+Seat 9: 0y4bun (2097 in chips) 
+Alan_xavi: posts the ante 4
+douglas121silva: posts the ante 4
+Tgathayde: posts the ante 4
+Caio Mugarte: posts the ante 4
+RBK6: posts the ante 4
+rs_alvarenga: posts the ante 4
+cordocar19: posts the ante 4
+0y4bun: posts the ante 4
+Caio Mugarte: posts small blind 15
+RBK6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qd 4s]
+rs_alvarenga: folds 
+cordocar19: folds 
+0y4bun: raises 39 to 69
+Alan_xavi: folds 
+douglas121silva: folds 
+Tgathayde: raises 109 to 178 and is all-in
+Caio Mugarte: folds 
+RBK6: folds 
+0y4bun: calls 109
+*** FLOP *** [Ah 3s Qs]
+*** TURN *** [Ah 3s Qs] [5d]
+*** RIVER *** [Ah 3s Qs 5d] [3d]
+*** SHOW DOWN ***
+0y4bun: shows [As Ts] (two pair, Aces and Threes)
+Tgathayde: shows [Jd 8s] (a pair of Threes)
+0y4bun collected 433 from pot
+Tgathayde finished the tournament in 38th place
+*** SUMMARY ***
+Total pot 433 | Rake 0 
+Board [Ah 3s Qs 5d 3d]
+Seat 1: Alan_xavi folded before Flop (didn't bet)
+Seat 2: douglas121silva folded before Flop (didn't bet)
+Seat 3: Tgathayde (button) showed [Jd 8s] and lost with a pair of Threes
+Seat 5: Caio Mugarte (small blind) folded before Flop
+Seat 6: RBK6 (big blind) folded before Flop
+Seat 7: rs_alvarenga folded before Flop (didn't bet)
+Seat 8: cordocar19 folded before Flop (didn't bet)
+Seat 9: 0y4bun showed [As Ts] and won (433) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #245432891936: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 21:54:33 AT [2023/08/16 20:54:33 ET]
+Table '3632348859 3' 9-max Seat #5 is the button
+Seat 1: Alan_xavi (1676 in chips) 
+Seat 2: douglas121silva (1442 in chips) 
+Seat 5: Caio Mugarte (1375 in chips) 
+Seat 6: RBK6 (2539 in chips) 
+Seat 7: rs_alvarenga (1222 in chips) 
+Seat 8: cordocar19 (1121 in chips) 
+Seat 9: 0y4bun (2348 in chips) 
+Alan_xavi: posts the ante 4
+douglas121silva: posts the ante 4
+Caio Mugarte: posts the ante 4
+RBK6: posts the ante 4
+rs_alvarenga: posts the ante 4
+cordocar19: posts the ante 4
+0y4bun: posts the ante 4
+RBK6: posts small blind 15
+rs_alvarenga: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s 7h]
+cordocar19: folds 
+0y4bun: folds 
+Alan_xavi: raises 30 to 60
+douglas121silva: folds 
+Caio Mugarte: folds 
+RBK6: folds 
+rs_alvarenga: calls 30
+*** FLOP *** [8s 9s Jd]
+rs_alvarenga: checks 
+LUCASTROSAN is disconnected 
+DuduPirata is disconnected 
+Alan_xavi: bets 54
+rs_alvarenga: calls 54
+*** TURN *** [8s 9s Jd] [4h]
+rs_alvarenga: checks 
+Alan_xavi: bets 141
+rs_alvarenga: folds 
+Uncalled bet (141) returned to Alan_xavi
+Alan_xavi collected 271 from pot
+Alan_xavi: doesn't show hand 
+*** SUMMARY ***
+Total pot 271 | Rake 0 
+Board [8s 9s Jd 4h]
+Seat 1: Alan_xavi collected (271)
+Seat 2: douglas121silva folded before Flop (didn't bet)
+Seat 5: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: RBK6 (small blind) folded before Flop
+Seat 7: rs_alvarenga (big blind) folded on the Turn
+Seat 8: cordocar19 folded before Flop (didn't bet)
+Seat 9: 0y4bun folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432962182: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:01:44 AT [2023/08/16 21:01:44 ET]
+Table '3632348859 3' 9-max Seat #6 is the button
+Seat 1: Alan_xavi (1829 in chips) 
+Seat 2: douglas121silva (1438 in chips) 
+Seat 3: LUCASTROSAN (5264 in chips) 
+Seat 4: DuduPirata (444 in chips) 
+Seat 5: Caio Mugarte (1371 in chips) 
+Seat 6: RBK6 (2520 in chips) 
+Seat 7: rs_alvarenga (1104 in chips) 
+Seat 8: cordocar19 (1117 in chips) 
+Seat 9: 0y4bun (2344 in chips) 
+Alan_xavi: posts the ante 4
+douglas121silva: posts the ante 4
+LUCASTROSAN: posts the ante 4
+DuduPirata: posts the ante 4
+Caio Mugarte: posts the ante 4
+RBK6: posts the ante 4
+rs_alvarenga: posts the ante 4
+cordocar19: posts the ante 4
+0y4bun: posts the ante 4
+rs_alvarenga: posts small blind 15
+cordocar19: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6d 9c]
+0y4bun: folds 
+Alan_xavi: folds 
+douglas121silva: folds 
+LUCASTROSAN: folds 
+DuduPirata: raises 410 to 440 and is all-in
+Caio Mugarte: folds 
+RBK6: folds 
+rs_alvarenga: calls 425
+cordocar19: folds 
+*** FLOP *** [Ah Kc Jh]
+*** TURN *** [Ah Kc Jh] [4h]
+*** RIVER *** [Ah Kc Jh 4h] [Qd]
+*** SHOW DOWN ***
+rs_alvarenga: shows [Kd Td] (a straight, Ten to Ace)
+DuduPirata: shows [Ac 6h] (a pair of Aces)
+rs_alvarenga collected 946 from pot
+DuduPirata finished the tournament in 35th place
+*** SUMMARY ***
+Total pot 946 | Rake 0 
+Board [Ah Kc Jh 4h Qd]
+Seat 1: Alan_xavi folded before Flop (didn't bet)
+Seat 2: douglas121silva folded before Flop (didn't bet)
+Seat 3: LUCASTROSAN folded before Flop (didn't bet)
+Seat 4: DuduPirata showed [Ac 6h] and lost with a pair of Aces
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: RBK6 (button) folded before Flop (didn't bet)
+Seat 7: rs_alvarenga (small blind) showed [Kd Td] and won (946) with a straight, Ten to Ace
+Seat 8: cordocar19 (big blind) folded before Flop
+Seat 9: 0y4bun folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432968541: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:02:17 AT [2023/08/16 21:02:17 ET]
+Table '3632348859 3' 9-max Seat #7 is the button
+Seat 1: Alan_xavi (1825 in chips) 
+Seat 2: douglas121silva (1434 in chips) 
+Seat 3: LUCASTROSAN (5260 in chips) 
+Seat 5: Caio Mugarte (1367 in chips) 
+Seat 6: RBK6 (2516 in chips) 
+Seat 7: rs_alvarenga (1606 in chips) 
+Seat 8: cordocar19 (1083 in chips) 
+Seat 9: 0y4bun (2340 in chips) 
+Alan_xavi: posts the ante 4
+douglas121silva: posts the ante 4
+LUCASTROSAN: posts the ante 4
+Caio Mugarte: posts the ante 4
+RBK6: posts the ante 4
+rs_alvarenga: posts the ante 4
+cordocar19: posts the ante 4
+0y4bun: posts the ante 4
+cordocar19: posts small blind 15
+0y4bun: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6c 5s]
+Alan_xavi: folds 
+douglas121silva: folds 
+LUCASTROSAN: calls 30
+Caio Mugarte: folds 
+RBK6: calls 30
+rs_alvarenga: calls 30
+cordocar19: calls 15
+0y4bun: checks 
+*** FLOP *** [Ts 9s Tc]
+cordocar19: checks 
+0y4bun: bets 91
+LUCASTROSAN: calls 91
+RBK6: folds 
+rs_alvarenga: calls 91
+cordocar19: folds 
+*** TURN *** [Ts 9s Tc] [6s]
+0y4bun: bets 228
+LUCASTROSAN: calls 228
+rs_alvarenga: calls 228
+*** RIVER *** [Ts 9s Tc 6s] [8d]
+0y4bun has timed out
+0y4bun: checks 
+LUCASTROSAN: checks 
+rs_alvarenga: checks 
+*** SHOW DOWN ***
+0y4bun: shows [8h 9c] (two pair, Tens and Nines)
+LUCASTROSAN: shows [Kh Kc] (two pair, Kings and Tens)
+rs_alvarenga: mucks hand 
+LUCASTROSAN collected 1139 from pot
+*** SUMMARY ***
+Total pot 1139 | Rake 0 
+Board [Ts 9s Tc 6s 8d]
+Seat 1: Alan_xavi folded before Flop (didn't bet)
+Seat 2: douglas121silva folded before Flop (didn't bet)
+Seat 3: LUCASTROSAN showed [Kh Kc] and won (1139) with two pair, Kings and Tens
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: RBK6 folded on the Flop
+Seat 7: rs_alvarenga (button) mucked [Ac Jh]
+Seat 8: cordocar19 (small blind) folded on the Flop
+Seat 9: 0y4bun (big blind) showed [8h 9c] and lost with two pair, Tens and Nines
+
+
+
+PokerStars Hand #245432992401: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:04:20 AT [2023/08/16 21:04:20 ET]
+Table '3632348859 3' 9-max Seat #8 is the button
+Seat 1: Alan_xavi (1821 in chips) 
+Seat 2: douglas121silva (1430 in chips) 
+Seat 3: LUCASTROSAN (6046 in chips) 
+Seat 5: Caio Mugarte (1363 in chips) 
+Seat 6: RBK6 (2482 in chips) 
+Seat 7: rs_alvarenga (1253 in chips) 
+Seat 8: cordocar19 (1049 in chips) 
+Seat 9: 0y4bun (1987 in chips) 
+Alan_xavi: posts the ante 4
+douglas121silva: posts the ante 4
+LUCASTROSAN: posts the ante 4
+Caio Mugarte: posts the ante 4
+RBK6: posts the ante 4
+rs_alvarenga: posts the ante 4
+cordocar19: posts the ante 4
+0y4bun: posts the ante 4
+0y4bun: posts small blind 15
+Alan_xavi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3c As]
+douglas121silva: folds 
+LUCASTROSAN: folds 
+Caio Mugarte: folds 
+RBK6: calls 30
+rs_alvarenga: calls 30
+cordocar19: folds 
+0y4bun: folds 
+Alan_xavi: checks 
+*** FLOP *** [9c Ts Qh]
+Alan_xavi: bets 71
+RBK6: folds 
+rs_alvarenga: calls 71
+*** TURN *** [9c Ts Qh] [4c]
+Alan_xavi: bets 201
+rs_alvarenga: calls 201
+*** RIVER *** [9c Ts Qh 4c] [Qs]
+Alan_xavi: bets 490
+rs_alvarenga: calls 490
+*** SHOW DOWN ***
+Alan_xavi: shows [Qc 7c] (three of a kind, Queens)
+rs_alvarenga: mucks hand 
+Alan_xavi collected 1661 from pot
+*** SUMMARY ***
+Total pot 1661 | Rake 0 
+Board [9c Ts Qh 4c Qs]
+Seat 1: Alan_xavi (big blind) showed [Qc 7c] and won (1661) with three of a kind, Queens
+Seat 2: douglas121silva folded before Flop (didn't bet)
+Seat 3: LUCASTROSAN folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: RBK6 folded on the Flop
+Seat 7: rs_alvarenga mucked [Td Ah]
+Seat 8: cordocar19 (button) folded before Flop (didn't bet)
+Seat 9: 0y4bun (small blind) folded before Flop
+
+
+
+PokerStars Hand #245433003183: Tournament #3632348859, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:05:15 AT [2023/08/16 21:05:15 ET]
+Table '3632348859 3' 9-max Seat #9 is the button
+Seat 1: Alan_xavi (2686 in chips) 
+Seat 2: douglas121silva (1426 in chips) 
+Seat 3: LUCASTROSAN (6042 in chips) 
+Seat 5: Caio Mugarte (1359 in chips) 
+Seat 6: RBK6 (2448 in chips) 
+Seat 7: rs_alvarenga (457 in chips) 
+Seat 8: cordocar19 (1045 in chips) 
+Seat 9: 0y4bun (1968 in chips) 
+Alan_xavi: posts the ante 4
+douglas121silva: posts the ante 4
+LUCASTROSAN: posts the ante 4
+Caio Mugarte: posts the ante 4
+RBK6: posts the ante 4
+rs_alvarenga: posts the ante 4
+cordocar19: posts the ante 4
+0y4bun: posts the ante 4
+Alan_xavi: posts small blind 15
+douglas121silva: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qs Qd]
+LUCASTROSAN: folds 
+Caio Mugarte: raises 30 to 60
+RBK6: folds 
+rs_alvarenga: folds 
+cordocar19: folds 
+0y4bun: raises 30 to 90
+Alan_xavi: folds 
+douglas121silva: folds 
+Caio Mugarte: raises 1265 to 1355 and is all-in
+0y4bun: calls 1265
+*** FLOP *** [2h Qc Th]
+*** TURN *** [2h Qc Th] [Kh]
+*** RIVER *** [2h Qc Th Kh] [9h]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Qs Qd] (three of a kind, Queens)
+0y4bun: shows [As Jc] (a straight, Ten to Ace)
+0y4bun collected 2787 from pot
+Caio Mugarte finished the tournament in 30th place
+*** SUMMARY ***
+Total pot 2787 | Rake 0 
+Board [2h Qc Th Kh 9h]
+Seat 1: Alan_xavi (small blind) folded before Flop
+Seat 2: douglas121silva (big blind) folded before Flop
+Seat 3: LUCASTROSAN folded before Flop (didn't bet)
+Seat 5: Caio Mugarte showed [Qs Qd] and lost with three of a kind, Queens
+Seat 6: RBK6 folded before Flop (didn't bet)
+Seat 7: rs_alvarenga folded before Flop (didn't bet)
+Seat 8: cordocar19 folded before Flop (didn't bet)
+Seat 9: 0y4bun (button) showed [As Jc] and won (2787) with a straight, Ten to Ace
+
+
+

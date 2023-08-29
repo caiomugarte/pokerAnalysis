@@ -1,0 +1,2044 @@
+﻿PokerStars Hand #245432871218: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:52:46 AT [2023/08/16 20:52:46 ET]
+Table '3632351216 1' 9-max Seat #1 is the button
+Seat 1: kurlus9 (1500 in chips) 
+Seat 2: Caio Mugarte (1500 in chips) 
+Seat 3: FullHush (1500 in chips) 
+Seat 4: Skylletzin (1500 in chips) 
+Seat 5: kewap (1500 in chips) 
+Seat 7: BESILRRO (1500 in chips) 
+Seat 8: douglas121silva (1500 in chips) 
+Seat 9: yurilchuk_26 (1500 in chips) 
+kurlus9: posts the ante 3
+Caio Mugarte: posts the ante 3
+FullHush: posts the ante 3
+Skylletzin: posts the ante 3
+kewap: posts the ante 3
+BESILRRO: posts the ante 3
+douglas121silva: posts the ante 3
+yurilchuk_26: posts the ante 3
+Caio Mugarte: posts small blind 10
+FullHush: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7s 2c]
+Skylletzin: folds 
+kewap: folds 
+BESILRRO: raises 20 to 40
+douglas121silva: folds 
+yurilchuk_26: calls 40
+kurlus9: folds 
+Caio Mugarte: folds 
+FullHush: calls 20
+*** FLOP *** [4s Qd 5s]
+FullHush: checks 
+BESILRRO: bets 77
+yurilchuk_26: raises 77 to 154
+FullHush: folds 
+BESILRRO: raises 231 to 385
+yurilchuk_26: raises 1072 to 1457 and is all-in
+BESILRRO: calls 1072 and is all-in
+*** TURN *** [4s Qd 5s] [Jc]
+*** RIVER *** [4s Qd 5s Jc] [Kc]
+*** SHOW DOWN ***
+BESILRRO: shows [4d 4h] (three of a kind, Fours)
+yurilchuk_26: shows [5h Qh] (two pair, Queens and Fives)
+BESILRRO collected 3068 from pot
+yurilchuk_26 finished the tournament
+*** SUMMARY ***
+Total pot 3068 | Rake 0 
+Board [4s Qd 5s Jc Kc]
+Seat 1: kurlus9 (button) folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 3: FullHush (big blind) folded on the Flop
+Seat 4: Skylletzin folded before Flop (didn't bet)
+Seat 5: kewap folded before Flop (didn't bet)
+Seat 7: BESILRRO showed [4d 4h] and won (3068) with three of a kind, Fours
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: yurilchuk_26 showed [5h Qh] and lost with two pair, Queens and Fives
+
+
+
+PokerStars Hand #245432887056: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:54:08 AT [2023/08/16 20:54:08 ET]
+Table '3632351216 1' 9-max Seat #2 is the button
+Seat 1: kurlus9 (1497 in chips) 
+Seat 2: Caio Mugarte (1487 in chips) 
+Seat 3: FullHush (1457 in chips) 
+Seat 4: Skylletzin (1497 in chips) 
+Seat 5: kewap (1497 in chips) 
+Seat 7: BESILRRO (3068 in chips) 
+Seat 8: douglas121silva (1497 in chips) 
+kurlus9: posts the ante 3
+Caio Mugarte: posts the ante 3
+FullHush: posts the ante 3
+Skylletzin: posts the ante 3
+kewap: posts the ante 3
+BESILRRO: posts the ante 3
+douglas121silva: posts the ante 3
+FullHush: posts small blind 10
+Skylletzin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3h 6s]
+kewap: folds 
+BESILRRO: raises 20 to 40
+Daneelisios is disconnected 
+douglas121silva: folds 
+kurlus9: folds 
+Caio Mugarte: folds 
+FullHush: calls 30
+Skylletzin: folds 
+*** FLOP *** [Jc Ad Jd]
+FullHush: checks 
+BESILRRO: bets 61
+FullHush: folds 
+Uncalled bet (61) returned to BESILRRO
+BESILRRO collected 121 from pot
+*** SUMMARY ***
+Total pot 121 | Rake 0 
+Board [Jc Ad Jd]
+Seat 1: kurlus9 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 3: FullHush (small blind) folded on the Flop
+Seat 4: Skylletzin (big blind) folded before Flop
+Seat 5: kewap folded before Flop (didn't bet)
+Seat 7: BESILRRO collected (121)
+Seat 8: douglas121silva folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432895262: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:54:51 AT [2023/08/16 20:54:51 ET]
+Table '3632351216 1' 9-max Seat #3 is the button
+Seat 1: kurlus9 (1494 in chips) 
+Seat 2: Caio Mugarte (1484 in chips) 
+Seat 3: FullHush (1414 in chips) 
+Seat 4: Skylletzin (1474 in chips) 
+Seat 6: BenDubens94 (1500 in chips) 
+Seat 7: BESILRRO (3146 in chips) 
+Seat 8: douglas121silva (1494 in chips) 
+Seat 9: Daneelisios (1500 in chips) 
+kurlus9: posts the ante 3
+Caio Mugarte: posts the ante 3
+FullHush: posts the ante 3
+Skylletzin: posts the ante 3
+BenDubens94: posts the ante 3
+BESILRRO: posts the ante 3
+douglas121silva: posts the ante 3
+Daneelisios: posts the ante 3
+Skylletzin: posts small blind 10
+BenDubens94: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5d Ad]
+BESILRRO: raises 20 to 40
+douglas121silva: folds 
+Daneelisios: raises 20 to 60
+BenDubens94 is disconnected 
+kurlus9: folds 
+Caio Mugarte: folds 
+FullHush: folds 
+Skylletzin: folds 
+BenDubens94 is connected 
+BenDubens94 is connected 
+BenDubens94: folds 
+BESILRRO: calls 20
+*** FLOP *** [4c 4h 3c]
+BESILRRO: checks 
+Daneelisios: checks 
+*** TURN *** [4c 4h 3c] [9c]
+BESILRRO: checks 
+Daneelisios: bets 87
+BESILRRO: folds 
+Uncalled bet (87) returned to Daneelisios
+Daneelisios collected 174 from pot
+Daneelisios: doesn't show hand 
+*** SUMMARY ***
+Total pot 174 | Rake 0 
+Board [4c 4h 3c 9c]
+Seat 1: kurlus9 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: FullHush (button) folded before Flop (didn't bet)
+Seat 4: Skylletzin (small blind) folded before Flop
+Seat 6: BenDubens94 (big blind) folded before Flop
+Seat 7: BESILRRO folded on the Turn
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: Daneelisios collected (174)
+
+
+
+PokerStars Hand #245432952646: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:00:54 AT [2023/08/16 21:00:54 ET]
+Table '3632351216 1' 9-max Seat #4 is the button
+Seat 1: kurlus9 (1491 in chips) 
+Seat 2: Caio Mugarte (1481 in chips) 
+Seat 4: Skylletzin (1461 in chips) 
+Seat 5: Ms_Miia (1500 in chips) out of hand (moved from another table into small blind)
+Seat 6: yrsa2 (1500 in chips) out of hand (moved from another table into small blind)
+Seat 7: BESILRRO (3083 in chips) 
+Seat 8: douglas121silva (1491 in chips) 
+Seat 9: Daneelisios (1611 in chips) 
+Ms_Miia will be allowed to play after the button
+yrsa2 will be allowed to play after the button
+kurlus9: posts the ante 3
+Caio Mugarte: posts the ante 3
+Skylletzin: posts the ante 3
+BESILRRO: posts the ante 3
+douglas121silva: posts the ante 3
+Daneelisios: posts the ante 3
+BESILRRO: posts small blind 10
+douglas121silva: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d Ad]
+Daneelisios has timed out
+Daneelisios: folds 
+Daneelisios is sitting out
+kurlus9: folds 
+Daneelisios has returned
+Caio Mugarte: raises 20 to 40
+Skylletzin: folds 
+BESILRRO: folds 
+douglas121silva: calls 20
+*** FLOP *** [Jh 6d 7c]
+douglas121silva: checks 
+Caio Mugarte: bets 36
+douglas121silva: calls 36
+*** TURN *** [Jh 6d 7c] [Qd]
+douglas121silva: checks 
+Caio Mugarte: bets 100
+douglas121silva: folds 
+Uncalled bet (100) returned to Caio Mugarte
+Caio Mugarte collected 180 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jh 6d 7c Qd]
+Seat 1: kurlus9 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte collected (180)
+Seat 4: Skylletzin (button) folded before Flop (didn't bet)
+Seat 7: BESILRRO (small blind) folded before Flop
+Seat 8: douglas121silva (big blind) folded on the Turn
+Seat 9: Daneelisios folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432971338: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:02:32 AT [2023/08/16 21:02:32 ET]
+Table '3632351216 1' 9-max Seat #7 is the button
+Seat 1: kurlus9 (1488 in chips) 
+Seat 2: Caio Mugarte (1582 in chips) 
+Seat 4: Skylletzin (1458 in chips) 
+Seat 5: Ms_Miia (1500 in chips) 
+Seat 6: yrsa2 (1500 in chips) 
+Seat 7: BESILRRO (3070 in chips) 
+Seat 8: douglas121silva (1412 in chips) 
+Seat 9: Daneelisios (1608 in chips) 
+kurlus9: posts the ante 3
+Caio Mugarte: posts the ante 3
+Skylletzin: posts the ante 3
+Ms_Miia: posts the ante 3
+yrsa2: posts the ante 3
+BESILRRO: posts the ante 3
+douglas121silva: posts the ante 3
+Daneelisios: posts the ante 3
+douglas121silva: posts small blind 10
+Daneelisios: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jd 9s]
+kurlus9: folds 
+Caio Mugarte: folds 
+Skylletzin: folds 
+Ms_Miia: raises 20 to 40
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: folds 
+Daneelisios: folds 
+Uncalled bet (20) returned to Ms_Miia
+Ms_Miia collected 74 from pot
+Ms_Miia: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: kurlus9 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Skylletzin folded before Flop (didn't bet)
+Seat 5: Ms_Miia collected (74)
+Seat 6: yrsa2 folded before Flop (didn't bet)
+Seat 7: BESILRRO (button) folded before Flop (didn't bet)
+Seat 8: douglas121silva (small blind) folded before Flop
+Seat 9: Daneelisios (big blind) folded before Flop
+
+
+
+PokerStars Hand #245432979108: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:03:12 AT [2023/08/16 21:03:12 ET]
+Table '3632351216 1' 9-max Seat #8 is the button
+Seat 1: kurlus9 (1485 in chips) 
+Seat 2: Caio Mugarte (1579 in chips) 
+Seat 4: Skylletzin (1455 in chips) 
+Seat 5: Ms_Miia (1551 in chips) 
+Seat 6: yrsa2 (1497 in chips) 
+Seat 7: BESILRRO (3067 in chips) 
+Seat 8: douglas121silva (1399 in chips) 
+Seat 9: Daneelisios (1585 in chips) 
+kurlus9: posts the ante 3
+Caio Mugarte: posts the ante 3
+Skylletzin: posts the ante 3
+Ms_Miia: posts the ante 3
+yrsa2: posts the ante 3
+BESILRRO: posts the ante 3
+douglas121silva: posts the ante 3
+Daneelisios: posts the ante 3
+Daneelisios: posts small blind 10
+kurlus9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d 9h]
+Caio Mugarte: folds 
+Skylletzin: folds 
+Ms_Miia: folds 
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: raises 24 to 44
+Daneelisios: raises 24 to 68
+kurlus9: folds 
+douglas121silva: raises 1328 to 1396 and is all-in
+Daneelisios: calls 1328
+*** FLOP *** [2s 4h 2h]
+*** TURN *** [2s 4h 2h] [5h]
+*** RIVER *** [2s 4h 2h 5h] [2d]
+*** SHOW DOWN ***
+Daneelisios: shows [Kh 9s] (three of a kind, Deuces)
+douglas121silva: shows [Qd Qh] (a full house, Deuces full of Queens)
+douglas121silva collected 2836 from pot
+*** SUMMARY ***
+Total pot 2836 | Rake 0 
+Board [2s 4h 2h 5h 2d]
+Seat 1: kurlus9 (big blind) folded before Flop
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Skylletzin folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 folded before Flop (didn't bet)
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva (button) showed [Qd Qh] and won (2836) with a full house, Deuces full of Queens
+Seat 9: Daneelisios (small blind) showed [Kh 9s] and lost with three of a kind, Deuces
+
+
+
+PokerStars Hand #245432989624: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:04:06 AT [2023/08/16 21:04:06 ET]
+Table '3632351216 1' 9-max Seat #9 is the button
+Seat 1: kurlus9 (1462 in chips) 
+Seat 2: Caio Mugarte (1576 in chips) 
+Seat 4: Skylletzin (1452 in chips) 
+Seat 5: Ms_Miia (1548 in chips) 
+Seat 6: yrsa2 (1494 in chips) 
+Seat 7: BESILRRO (3064 in chips) 
+Seat 8: douglas121silva (2836 in chips) 
+Seat 9: Daneelisios (186 in chips) 
+kurlus9: posts the ante 3
+Caio Mugarte: posts the ante 3
+Skylletzin: posts the ante 3
+Ms_Miia: posts the ante 3
+yrsa2: posts the ante 3
+BESILRRO: posts the ante 3
+douglas121silva: posts the ante 3
+Daneelisios: posts the ante 3
+kurlus9: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kh Ts]
+Skylletzin: folds 
+Ms_Miia: raises 20 to 40
+yrsa2: calls 40
+BESILRRO: folds 
+douglas121silva: folds 
+Daneelisios: folds 
+kurlus9: calls 30
+Caio Mugarte: folds 
+*** FLOP *** [5d 9h 7s]
+kurlus9: checks 
+Ms_Miia: checks 
+yrsa2: checks 
+*** TURN *** [5d 9h 7s] [8h]
+kurlus9: bets 20
+Ms_Miia: calls 20
+yrsa2: calls 20
+*** RIVER *** [5d 9h 7s 8h] [Qh]
+kurlus9: checks 
+Ms_Miia: checks 
+yrsa2: checks 
+*** SHOW DOWN ***
+kurlus9: shows [5c Ah] (a pair of Fives)
+Ms_Miia: mucks hand 
+yrsa2: shows [Qs 9d] (two pair, Queens and Nines)
+yrsa2 collected 224 from pot
+*** SUMMARY ***
+Total pot 224 | Rake 0 
+Board [5d 9h 7s 8h Qh]
+Seat 1: kurlus9 (small blind) showed [5c Ah] and lost with a pair of Fives
+Seat 2: Caio Mugarte (big blind) folded before Flop
+Seat 4: Skylletzin folded before Flop (didn't bet)
+Seat 5: Ms_Miia mucked [As 4s]
+Seat 6: yrsa2 showed [Qs 9d] and won (224) with two pair, Queens and Nines
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: Daneelisios (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433004850: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:05:24 AT [2023/08/16 21:05:24 ET]
+Table '3632351216 1' 9-max Seat #1 is the button
+Seat 1: kurlus9 (1399 in chips) 
+Seat 2: Caio Mugarte (1553 in chips) 
+Seat 4: Skylletzin (1449 in chips) 
+Seat 5: Ms_Miia (1485 in chips) 
+Seat 6: yrsa2 (1655 in chips) 
+Seat 7: BESILRRO (3061 in chips) 
+Seat 8: douglas121silva (2833 in chips) 
+Seat 9: Daneelisios (183 in chips) 
+kurlus9: posts the ante 3
+Caio Mugarte: posts the ante 3
+Skylletzin: posts the ante 3
+Ms_Miia: posts the ante 3
+yrsa2: posts the ante 3
+BESILRRO: posts the ante 3
+douglas121silva: posts the ante 3
+Daneelisios: posts the ante 3
+Caio Mugarte: posts small blind 10
+Skylletzin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s 9d]
+Ms_Miia: folds 
+yrsa2: calls 20
+BESILRRO: folds 
+douglas121silva: raises 80 to 100
+Daneelisios: calls 100
+kurlus9: folds 
+Caio Mugarte: folds 
+Skylletzin: folds 
+yrsa2: calls 80
+*** FLOP *** [5h 5s 7c]
+yrsa2: checks 
+douglas121silva: bets 160
+Daneelisios: calls 80 and is all-in
+yrsa2: folds 
+Uncalled bet (80) returned to douglas121silva
+*** TURN *** [5h 5s 7c] [9c]
+*** RIVER *** [5h 5s 7c 9c] [4c]
+*** SHOW DOWN ***
+douglas121silva: shows [Td Th] (two pair, Tens and Fives)
+Daneelisios: shows [3d 3h] (two pair, Fives and Threes)
+douglas121silva collected 514 from pot
+Daneelisios finished the tournament in 42nd place
+*** SUMMARY ***
+Total pot 514 | Rake 0 
+Board [5h 5s 7c 9c 4c]
+Seat 1: kurlus9 (button) folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 4: Skylletzin (big blind) folded before Flop
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 folded on the Flop
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva showed [Td Th] and won (514) with two pair, Tens and Fives
+Seat 9: Daneelisios showed [3d 3h] and lost with two pair, Fives and Threes
+
+
+
+PokerStars Hand #245433016705: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:06:24 AT [2023/08/16 21:06:24 ET]
+Table '3632351216 1' 9-max Seat #2 is the button
+Seat 1: kurlus9 (1396 in chips) 
+Seat 2: Caio Mugarte (1540 in chips) 
+Seat 4: Skylletzin (1426 in chips) 
+Seat 5: Ms_Miia (1482 in chips) 
+Seat 6: yrsa2 (1552 in chips) 
+Seat 7: BESILRRO (3058 in chips) 
+Seat 8: douglas121silva (3164 in chips) 
+kurlus9: posts the ante 3
+Caio Mugarte: posts the ante 3
+Skylletzin: posts the ante 3
+Ms_Miia: posts the ante 3
+yrsa2: posts the ante 3
+BESILRRO: posts the ante 3
+douglas121silva: posts the ante 3
+Skylletzin: posts small blind 10
+Ms_Miia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s 6c]
+yrsa2: calls 20
+BESILRRO: folds 
+douglas121silva: folds 
+kurlus9: calls 20
+Caio Mugarte: folds 
+Skylletzin: calls 10
+Ms_Miia: checks 
+*** FLOP *** [2d Qd 6d]
+Skylletzin: checks 
+Ms_Miia: checks 
+yrsa2: checks 
+kurlus9: checks 
+*** TURN *** [2d Qd 6d] [2c]
+Skylletzin: checks 
+Ms_Miia: checks 
+yrsa2: checks 
+kurlus9: bets 20
+Skylletzin: calls 20
+Ms_Miia: folds 
+yrsa2: calls 20
+*** RIVER *** [2d Qd 6d 2c] [Kc]
+Skylletzin: checks 
+yrsa2: checks 
+kurlus9: checks 
+*** SHOW DOWN ***
+Skylletzin: shows [Kd Jc] (two pair, Kings and Deuces)
+yrsa2: mucks hand 
+kurlus9: mucks hand 
+Skylletzin collected 161 from pot
+*** SUMMARY ***
+Total pot 161 | Rake 0 
+Board [2d Qd 6d 2c Kc]
+Seat 1: kurlus9 mucked [9d Qs]
+Seat 2: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 4: Skylletzin (small blind) showed [Kd Jc] and won (161) with two pair, Kings and Deuces
+Seat 5: Ms_Miia (big blind) folded on the Turn
+Seat 6: yrsa2 mucked [Th Tc]
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433031292: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 22:07:39 AT [2023/08/16 21:07:39 ET]
+Table '3632351216 1' 9-max Seat #4 is the button
+Seat 1: kurlus9 (1353 in chips) 
+Seat 2: Caio Mugarte (1537 in chips) 
+Seat 4: Skylletzin (1544 in chips) 
+Seat 5: Ms_Miia (1459 in chips) 
+Seat 6: yrsa2 (1509 in chips) 
+Seat 7: BESILRRO (3055 in chips) 
+Seat 8: douglas121silva (3161 in chips) 
+Seat 9: Thaleibol (1222 in chips) 
+kurlus9: posts the ante 3
+Caio Mugarte: posts the ante 3
+Skylletzin: posts the ante 3
+Ms_Miia: posts the ante 3
+yrsa2: posts the ante 3
+BESILRRO: posts the ante 3
+douglas121silva: posts the ante 3
+Thaleibol: posts the ante 3
+Ms_Miia: posts small blind 10
+yrsa2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2s 5d]
+BESILRRO: raises 20 to 40
+douglas121silva: folds 
+Thaleibol: folds 
+kurlus9: raises 80 to 120
+Caio Mugarte: folds 
+Skylletzin: folds 
+Ms_Miia: folds 
+yrsa2: folds 
+BESILRRO: calls 80
+*** FLOP *** [4s 6d 6s]
+BESILRRO: checks 
+kurlus9: checks 
+*** TURN *** [4s 6d 6s] [8c]
+BESILRRO: checks 
+kurlus9: checks 
+*** RIVER *** [4s 6d 6s 8c] [9h]
+BESILRRO: checks 
+kurlus9: checks 
+*** SHOW DOWN ***
+BESILRRO: shows [Qc Ts] (a pair of Sixes)
+kurlus9: shows [As Kd] (a pair of Sixes - Ace kicker)
+kurlus9 collected 294 from pot
+*** SUMMARY ***
+Total pot 294 | Rake 0 
+Board [4s 6d 6s 8c 9h]
+Seat 1: kurlus9 showed [As Kd] and won (294) with a pair of Sixes
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Skylletzin (button) folded before Flop (didn't bet)
+Seat 5: Ms_Miia (small blind) folded before Flop
+Seat 6: yrsa2 (big blind) folded before Flop
+Seat 7: BESILRRO showed [Qc Ts] and lost with a pair of Sixes
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: Thaleibol folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433044816: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:08:48 AT [2023/08/16 21:08:48 ET]
+Table '3632351216 1' 9-max Seat #5 is the button
+Seat 1: kurlus9 (1524 in chips) 
+Seat 2: Caio Mugarte (1534 in chips) 
+Seat 4: Skylletzin (1541 in chips) 
+Seat 5: Ms_Miia (1446 in chips) 
+Seat 6: yrsa2 (1486 in chips) 
+Seat 7: BESILRRO (2932 in chips) 
+Seat 8: douglas121silva (3158 in chips) 
+Seat 9: Thaleibol (1219 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+Skylletzin: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+Thaleibol: posts the ante 4
+yrsa2: posts small blind 15
+BESILRRO: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c 5d]
+douglas121silva: folds 
+Thaleibol: raises 30 to 60
+kurlus9: calls 60
+Caio Mugarte: folds 
+Skylletzin: folds 
+Ms_Miia: folds 
+yrsa2: calls 45
+BESILRRO: folds 
+*** FLOP *** [7d 2d 5s]
+yrsa2: checks 
+Thaleibol: bets 73
+kurlus9: calls 73
+yrsa2: calls 73
+*** TURN *** [7d 2d 5s] [5h]
+yrsa2: checks 
+Thaleibol: bets 307
+kurlus9: folds 
+yrsa2: folds 
+Uncalled bet (307) returned to Thaleibol
+Thaleibol collected 461 from pot
+Thaleibol: doesn't show hand 
+*** SUMMARY ***
+Total pot 461 | Rake 0 
+Board [7d 2d 5s 5h]
+Seat 1: kurlus9 folded on the Turn
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Skylletzin folded before Flop (didn't bet)
+Seat 5: Ms_Miia (button) folded before Flop (didn't bet)
+Seat 6: yrsa2 (small blind) folded on the Turn
+Seat 7: BESILRRO (big blind) folded before Flop
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: Thaleibol collected (461)
+
+
+
+PokerStars Hand #245433058720: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:10:01 AT [2023/08/16 21:10:01 ET]
+Table '3632351216 1' 9-max Seat #6 is the button
+Seat 1: kurlus9 (1387 in chips) 
+Seat 2: Caio Mugarte (1530 in chips) 
+Seat 4: Skylletzin (1537 in chips) 
+Seat 5: Ms_Miia (1442 in chips) 
+Seat 6: yrsa2 (1349 in chips) 
+Seat 7: BESILRRO (2898 in chips) 
+Seat 8: douglas121silva (3154 in chips) 
+Seat 9: Thaleibol (1543 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+Skylletzin: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+Thaleibol: posts the ante 4
+BESILRRO: posts small blind 15
+douglas121silva: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad 5s]
+Thaleibol: folds 
+kurlus9: calls 30
+Caio Mugarte: folds 
+Skylletzin: folds 
+Ms_Miia: folds 
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: checks 
+*** FLOP *** [Ac Th 2d]
+douglas121silva: checks 
+kurlus9: checks 
+*** TURN *** [Ac Th 2d] [2c]
+douglas121silva: bets 90
+kurlus9: calls 90
+*** RIVER *** [Ac Th 2d 2c] [Qh]
+douglas121silva: checks 
+kurlus9: checks 
+*** SHOW DOWN ***
+douglas121silva: shows [6c 8c] (a pair of Deuces)
+kurlus9: shows [6s 6d] (two pair, Sixes and Deuces)
+kurlus9 collected 287 from pot
+*** SUMMARY ***
+Total pot 287 | Rake 0 
+Board [Ac Th 2d 2c Qh]
+Seat 1: kurlus9 showed [6s 6d] and won (287) with two pair, Sixes and Deuces
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Skylletzin folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 (button) folded before Flop (didn't bet)
+Seat 7: BESILRRO (small blind) folded before Flop
+Seat 8: douglas121silva (big blind) showed [6c 8c] and lost with a pair of Deuces
+Seat 9: Thaleibol folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433070003: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:11:00 AT [2023/08/16 21:11:00 ET]
+Table '3632351216 1' 9-max Seat #7 is the button
+Seat 1: kurlus9 (1550 in chips) 
+Seat 2: Caio Mugarte (1526 in chips) 
+Seat 4: Skylletzin (1533 in chips) 
+Seat 5: Ms_Miia (1438 in chips) 
+Seat 6: yrsa2 (1345 in chips) 
+Seat 7: BESILRRO (2879 in chips) 
+Seat 8: douglas121silva (3030 in chips) 
+Seat 9: Thaleibol (1539 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+Skylletzin: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+Thaleibol: posts the ante 4
+douglas121silva: posts small blind 15
+Thaleibol: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ks 3d]
+kurlus9: folds 
+Caio Mugarte: folds 
+Skylletzin: folds 
+Ms_Miia: folds 
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: raises 36 to 66
+Thaleibol: folds 
+Uncalled bet (36) returned to douglas121silva
+douglas121silva collected 92 from pot
+douglas121silva: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: kurlus9 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Skylletzin folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 folded before Flop (didn't bet)
+Seat 7: BESILRRO (button) folded before Flop (didn't bet)
+Seat 8: douglas121silva (small blind) collected (92)
+Seat 9: Thaleibol (big blind) folded before Flop
+
+
+
+PokerStars Hand #245433074667: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:11:24 AT [2023/08/16 21:11:24 ET]
+Table '3632351216 1' 9-max Seat #8 is the button
+Seat 1: kurlus9 (1546 in chips) 
+Seat 2: Caio Mugarte (1522 in chips) 
+Seat 4: Skylletzin (1529 in chips) 
+Seat 5: Ms_Miia (1434 in chips) 
+Seat 6: yrsa2 (1341 in chips) 
+Seat 7: BESILRRO (2875 in chips) 
+Seat 8: douglas121silva (3088 in chips) 
+Seat 9: Thaleibol (1505 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+Skylletzin: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+Thaleibol: posts the ante 4
+Thaleibol: posts small blind 15
+kurlus9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h 5s]
+Caio Mugarte: folds 
+Skylletzin: raises 75 to 105
+Ms_Miia: folds 
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: folds 
+Thaleibol: folds 
+kurlus9: folds 
+Uncalled bet (75) returned to Skylletzin
+Skylletzin collected 107 from pot
+Skylletzin: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: kurlus9 (big blind) folded before Flop
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Skylletzin collected (107)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 folded before Flop (didn't bet)
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva (button) folded before Flop (didn't bet)
+Seat 9: Thaleibol (small blind) folded before Flop
+
+
+
+PokerStars Hand #245433080902: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:11:57 AT [2023/08/16 21:11:57 ET]
+Table '3632351216 1' 9-max Seat #9 is the button
+Seat 1: kurlus9 (1512 in chips) 
+Seat 2: Caio Mugarte (1518 in chips) 
+Seat 4: Skylletzin (1602 in chips) 
+Seat 5: Ms_Miia (1430 in chips) 
+Seat 6: yrsa2 (1337 in chips) 
+Seat 7: BESILRRO (2871 in chips) 
+Seat 8: douglas121silva (3084 in chips) 
+Seat 9: Thaleibol (1486 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+Skylletzin: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+Thaleibol: posts the ante 4
+kurlus9: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ah 5h]
+Skylletzin: folds 
+Ms_Miia: raises 30 to 60
+yrsa2: calls 60
+BESILRRO: folds 
+douglas121silva: calls 60
+Thaleibol: folds 
+kurlus9: folds 
+Caio Mugarte: calls 30
+*** FLOP *** [7s 3c Td]
+Caio Mugarte: checks 
+Ms_Miia: checks 
+yrsa2: bets 287
+douglas121silva: folds 
+Caio Mugarte: folds 
+Ms_Miia: folds 
+Uncalled bet (287) returned to yrsa2
+yrsa2 collected 287 from pot
+yrsa2: doesn't show hand 
+*** SUMMARY ***
+Total pot 287 | Rake 0 
+Board [7s 3c Td]
+Seat 1: kurlus9 (small blind) folded before Flop
+Seat 2: Caio Mugarte (big blind) folded on the Flop
+Seat 4: Skylletzin folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded on the Flop
+Seat 6: yrsa2 collected (287)
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva folded on the Flop
+Seat 9: Thaleibol (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433092440: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:12:58 AT [2023/08/16 21:12:58 ET]
+Table '3632351216 1' 9-max Seat #1 is the button
+Seat 1: kurlus9 (1493 in chips) 
+Seat 2: Caio Mugarte (1454 in chips) 
+Seat 4: Skylletzin (1598 in chips) 
+Seat 5: Ms_Miia (1366 in chips) 
+Seat 6: yrsa2 (1560 in chips) 
+Seat 7: BESILRRO (2867 in chips) 
+Seat 8: douglas121silva (3020 in chips) 
+Seat 9: Thaleibol (1482 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+Skylletzin: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+Thaleibol: posts the ante 4
+Caio Mugarte: posts small blind 15
+Skylletzin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2h Ah]
+Ms_Miia: folds 
+yrsa2: calls 30
+BESILRRO: folds 
+douglas121silva: raises 120 to 150
+Thaleibol: raises 300 to 450
+kurlus9: folds 
+Caio Mugarte: folds 
+Skylletzin: folds 
+yrsa2: folds 
+douglas121silva: raises 2566 to 3016 and is all-in
+Thaleibol: calls 1028 and is all-in
+Uncalled bet (1538) returned to douglas121silva
+*** FLOP *** [4s 3c Td]
+*** TURN *** [4s 3c Td] [Qc]
+*** RIVER *** [4s 3c Td Qc] [7d]
+*** SHOW DOWN ***
+douglas121silva: shows [Ks Ad] (high card Ace)
+Thaleibol: shows [Js Ac] (high card Ace - lower kicker)
+douglas121silva collected 3063 from pot
+Thaleibol finished the tournament in 38th place
+*** SUMMARY ***
+Total pot 3063 | Rake 0 
+Board [4s 3c Td Qc 7d]
+Seat 1: kurlus9 (button) folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 4: Skylletzin (big blind) folded before Flop
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 folded before Flop
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva showed [Ks Ad] and won (3063) with high card Ace
+Seat 9: Thaleibol showed [Js Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #245433102582: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:13:51 AT [2023/08/16 21:13:51 ET]
+Table '3632351216 1' 9-max Seat #2 is the button
+Seat 1: kurlus9 (1489 in chips) 
+Seat 2: Caio Mugarte (1435 in chips) 
+Seat 4: Skylletzin (1564 in chips) 
+Seat 5: Ms_Miia (1362 in chips) 
+Seat 6: yrsa2 (1526 in chips) 
+Seat 7: BESILRRO (2863 in chips) 
+Seat 8: douglas121silva (4601 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+Skylletzin: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+Skylletzin: posts small blind 15
+Ms_Miia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s Ts]
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: folds 
+kurlus9: folds 
+Caio Mugarte: folds 
+Skylletzin: raises 60 to 90
+Ms_Miia: folds 
+Uncalled bet (60) returned to Skylletzin
+Skylletzin collected 88 from pot
+Skylletzin: doesn't show hand 
+*** SUMMARY ***
+Total pot 88 | Rake 0 
+Seat 1: kurlus9 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 4: Skylletzin (small blind) collected (88)
+Seat 5: Ms_Miia (big blind) folded before Flop
+Seat 6: yrsa2 folded before Flop (didn't bet)
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433108338: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:14:21 AT [2023/08/16 21:14:21 ET]
+Table '3632351216 1' 9-max Seat #4 is the button
+Seat 1: kurlus9 (1485 in chips) 
+Seat 2: Caio Mugarte (1431 in chips) 
+Seat 4: Skylletzin (1618 in chips) 
+Seat 5: Ms_Miia (1328 in chips) 
+Seat 6: yrsa2 (1522 in chips) 
+Seat 7: BESILRRO (2859 in chips) 
+Seat 8: douglas121silva (4597 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+Skylletzin: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+Ms_Miia: posts small blind 15
+yrsa2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d 3h]
+BESILRRO: folds 
+douglas121silva: folds 
+kurlus9: calls 30
+Caio Mugarte: folds 
+Skylletzin: folds 
+Ms_Miia: calls 15
+yrsa2: checks 
+*** FLOP *** [Jd 5s 4s]
+Ms_Miia: bets 30
+yrsa2: calls 30
+kurlus9: calls 30
+*** TURN *** [Jd 5s 4s] [6s]
+Ms_Miia: checks 
+yrsa2: checks 
+kurlus9: bets 104
+Ms_Miia: folds 
+yrsa2: calls 104
+*** RIVER *** [Jd 5s 4s 6s] [7c]
+yrsa2: checks 
+kurlus9: checks 
+*** SHOW DOWN ***
+yrsa2: shows [Jh 2s] (a pair of Jacks)
+kurlus9: mucks hand 
+yrsa2 collected 416 from pot
+*** SUMMARY ***
+Total pot 416 | Rake 0 
+Board [Jd 5s 4s 6s 7c]
+Seat 1: kurlus9 mucked [2h Ad]
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Skylletzin (button) folded before Flop (didn't bet)
+Seat 5: Ms_Miia (small blind) folded on the Turn
+Seat 6: yrsa2 (big blind) showed [Jh 2s] and won (416) with a pair of Jacks
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433118253: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:15:13 AT [2023/08/16 21:15:13 ET]
+Table '3632351216 1' 9-max Seat #5 is the button
+Seat 1: kurlus9 (1317 in chips) 
+Seat 2: Caio Mugarte (1427 in chips) 
+Seat 4: Skylletzin (1614 in chips) 
+Seat 5: Ms_Miia (1264 in chips) 
+Seat 6: yrsa2 (1770 in chips) 
+Seat 7: BESILRRO (2855 in chips) 
+Seat 8: douglas121silva (4593 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+Skylletzin: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+yrsa2: posts small blind 15
+BESILRRO: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d 8d]
+douglas121silva: folds 
+kurlus9: calls 30
+Caio Mugarte: folds 
+Skylletzin: folds 
+Ms_Miia: folds 
+yrsa2: calls 15
+BESILRRO: checks 
+*** FLOP *** [4h Kd 4s]
+yrsa2: checks 
+BESILRRO: bets 59
+kurlus9: folds 
+yrsa2: folds 
+Uncalled bet (59) returned to BESILRRO
+BESILRRO collected 118 from pot
+*** SUMMARY ***
+Total pot 118 | Rake 0 
+Board [4h Kd 4s]
+Seat 1: kurlus9 folded on the Flop
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Skylletzin folded before Flop (didn't bet)
+Seat 5: Ms_Miia (button) folded before Flop (didn't bet)
+Seat 6: yrsa2 (small blind) folded on the Flop
+Seat 7: BESILRRO (big blind) collected (118)
+Seat 8: douglas121silva folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433129567: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:16:12 AT [2023/08/16 21:16:12 ET]
+Table '3632351216 1' 9-max Seat #6 is the button
+Seat 1: kurlus9 (1283 in chips) 
+Seat 2: Caio Mugarte (1423 in chips) 
+Seat 4: Skylletzin (1610 in chips) 
+Seat 5: Ms_Miia (1260 in chips) 
+Seat 6: yrsa2 (1736 in chips) 
+Seat 7: BESILRRO (2939 in chips) 
+Seat 8: douglas121silva (4589 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+Skylletzin: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+BESILRRO: posts small blind 15
+douglas121silva: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9c 2s]
+rnxbocker is disconnected 
+kurlus9: folds 
+IncAplayerA2 is disconnected 
+Caio Mugarte: folds 
+Skylletzin: folds 
+Ms_Miia: folds 
+yrsa2: calls 30
+BESILRRO: raises 60 to 90
+douglas121silva: folds 
+yrsa2: calls 60
+*** FLOP *** [Jc 7c Qd]
+BESILRRO: bets 119
+yrsa2: calls 119
+*** TURN *** [Jc 7c Qd] [2d]
+BESILRRO: bets 238
+yrsa2: calls 238
+*** RIVER *** [Jc 7c Qd 2d] [Qc]
+BESILRRO: bets 386
+yrsa2: folds 
+Uncalled bet (386) returned to BESILRRO
+BESILRRO collected 952 from pot
+*** SUMMARY ***
+Total pot 952 | Rake 0 
+Board [Jc 7c Qd 2d Qc]
+Seat 1: kurlus9 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Skylletzin folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 (button) folded on the River
+Seat 7: BESILRRO (small blind) collected (952)
+Seat 8: douglas121silva (big blind) folded before Flop
+
+
+
+PokerStars Hand #245433141321: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:17:14 AT [2023/08/16 21:17:14 ET]
+Table '3632351216 1' 9-max Seat #7 is the button
+Seat 1: kurlus9 (1279 in chips) 
+Seat 2: Caio Mugarte (1419 in chips) 
+Seat 3: rnxbocker (2244 in chips) 
+Seat 4: Skylletzin (1606 in chips) 
+Seat 5: Ms_Miia (1256 in chips) 
+Seat 6: yrsa2 (1285 in chips) 
+Seat 7: BESILRRO (3440 in chips) 
+Seat 8: douglas121silva (4555 in chips) 
+Seat 9: IncAplayerA2 (1280 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+rnxbocker: posts the ante 4
+Skylletzin: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+IncAplayerA2: posts the ante 4
+douglas121silva: posts small blind 15
+IncAplayerA2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts 5h]
+kurlus9: folds 
+Caio Mugarte: folds 
+rnxbocker: folds 
+Skylletzin: raises 60 to 90
+Ms_Miia: folds 
+yrsa2: calls 90
+BESILRRO: folds 
+douglas121silva: folds 
+IncAplayerA2 has timed out
+IncAplayerA2: folds 
+IncAplayerA2 is sitting out
+*** FLOP *** [Tc Ad 9s]
+IncAplayerA2 has returned
+Skylletzin: bets 131
+yrsa2: folds 
+Uncalled bet (131) returned to Skylletzin
+Skylletzin collected 261 from pot
+Skylletzin: doesn't show hand 
+*** SUMMARY ***
+Total pot 261 | Rake 0 
+Board [Tc Ad 9s]
+Seat 1: kurlus9 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 4: Skylletzin collected (261)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 folded on the Flop
+Seat 7: BESILRRO (button) folded before Flop (didn't bet)
+Seat 8: douglas121silva (small blind) folded before Flop
+Seat 9: IncAplayerA2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245433154407: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:18:23 AT [2023/08/16 21:18:23 ET]
+Table '3632351216 1' 9-max Seat #8 is the button
+Seat 1: kurlus9 (1275 in chips) 
+Seat 2: Caio Mugarte (1415 in chips) 
+Seat 3: rnxbocker (2240 in chips) 
+Seat 5: Ms_Miia (1252 in chips) 
+Seat 6: yrsa2 (1191 in chips) 
+Seat 7: BESILRRO (3436 in chips) 
+Seat 8: douglas121silva (4536 in chips) 
+Seat 9: IncAplayerA2 (1246 in chips) 
+kurlus9: posts the ante 4
+Caio Mugarte: posts the ante 4
+rnxbocker: posts the ante 4
+Ms_Miia: posts the ante 4
+yrsa2: posts the ante 4
+BESILRRO: posts the ante 4
+douglas121silva: posts the ante 4
+IncAplayerA2: posts the ante 4
+IncAplayerA2: posts small blind 15
+kurlus9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qc Kd]
+Caio Mugarte: raises 30 to 60
+rnxbocker: folds 
+Ms_Miia: folds 
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: folds 
+IncAplayerA2: calls 45
+kurlus9: folds 
+*** FLOP *** [5s 5d Ac]
+IncAplayerA2: checks 
+Caio Mugarte: bets 60
+IncAplayerA2: calls 60
+*** TURN *** [5s 5d Ac] [8d]
+IncAplayerA2: checks 
+Caio Mugarte: bets 180
+IncAplayerA2: calls 180
+*** RIVER *** [5s 5d Ac 8d] [Ts]
+IncAplayerA2: checks 
+Caio Mugarte: checks 
+*** SHOW DOWN ***
+IncAplayerA2: shows [Ah Js] (two pair, Aces and Fives)
+Caio Mugarte: mucks hand 
+IncAplayerA2 collected 662 from pot
+*** SUMMARY ***
+Total pot 662 | Rake 0 
+Board [5s 5d Ac 8d Ts]
+Seat 1: kurlus9 (big blind) folded before Flop
+Seat 2: Caio Mugarte mucked [Qc Kd]
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 folded before Flop (didn't bet)
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva (button) folded before Flop (didn't bet)
+Seat 9: IncAplayerA2 (small blind) showed [Ah Js] and won (662) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #245433166313: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:19:26 AT [2023/08/16 21:19:26 ET]
+Table '3632351216 1' 9-max Seat #9 is the button
+Seat 1: kurlus9 (1241 in chips) 
+Seat 2: Caio Mugarte (1111 in chips) 
+Seat 3: rnxbocker (2236 in chips) 
+Seat 5: Ms_Miia (1248 in chips) 
+Seat 6: yrsa2 (1187 in chips) 
+Seat 7: BESILRRO (3432 in chips) 
+Seat 8: douglas121silva (4532 in chips) 
+Seat 9: IncAplayerA2 (1604 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+yrsa2: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+kurlus9: posts small blind 25
+Caio Mugarte: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s Jh]
+rnxbocker: folds 
+Ms_Miia: raises 50 to 100
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: raises 300 to 400
+IncAplayerA2: folds 
+kurlus9: folds 
+Caio Mugarte: folds 
+Ms_Miia: folds 
+Uncalled bet (300) returned to douglas121silva
+douglas121silva collected 323 from pot
+douglas121silva: doesn't show hand 
+*** SUMMARY ***
+Total pot 323 | Rake 0 
+Seat 1: kurlus9 (small blind) folded before Flop
+Seat 2: Caio Mugarte (big blind) folded before Flop
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop
+Seat 6: yrsa2 folded before Flop (didn't bet)
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva collected (323)
+Seat 9: IncAplayerA2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433172773: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:20:00 AT [2023/08/16 21:20:00 ET]
+Table '3632351216 1' 9-max Seat #1 is the button
+Seat 1: kurlus9 (1210 in chips) 
+Seat 2: Caio Mugarte (1055 in chips) 
+Seat 3: rnxbocker (2230 in chips) 
+Seat 5: Ms_Miia (1142 in chips) 
+Seat 6: yrsa2 (1181 in chips) 
+Seat 7: BESILRRO (3426 in chips) 
+Seat 8: douglas121silva (4749 in chips) 
+Seat 9: IncAplayerA2 (1598 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+yrsa2: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+Caio Mugarte: posts small blind 25
+rnxbocker: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c 3s]
+Ms_Miia: folds 
+yrsa2: calls 50
+BESILRRO: folds 
+douglas121silva: folds 
+IncAplayerA2: folds 
+kurlus9: calls 50
+Caio Mugarte: folds 
+rnxbocker: checks 
+*** FLOP *** [Kd Js 4d]
+rnxbocker: checks 
+yrsa2: checks 
+kurlus9: checks 
+*** TURN *** [Kd Js 4d] [2c]
+rnxbocker: checks 
+yrsa2: bets 50
+kurlus9: folds 
+rnxbocker: folds 
+Uncalled bet (50) returned to yrsa2
+yrsa2 collected 223 from pot
+yrsa2: doesn't show hand 
+*** SUMMARY ***
+Total pot 223 | Rake 0 
+Board [Kd Js 4d 2c]
+Seat 1: kurlus9 (button) folded on the Turn
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 3: rnxbocker (big blind) folded on the Turn
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 collected (223)
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: IncAplayerA2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433182512: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:20:51 AT [2023/08/16 21:20:51 ET]
+Table '3632351216 1' 9-max Seat #2 is the button
+Seat 1: kurlus9 (1154 in chips) 
+Seat 2: Caio Mugarte (1024 in chips) 
+Seat 3: rnxbocker (2174 in chips) 
+Seat 5: Ms_Miia (1136 in chips) 
+Seat 6: yrsa2 (1348 in chips) 
+Seat 7: BESILRRO (3420 in chips) 
+Seat 8: douglas121silva (4743 in chips) 
+Seat 9: IncAplayerA2 (1592 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+yrsa2: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+rnxbocker: posts small blind 25
+Ms_Miia: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qh Jd]
+yrsa2: calls 50
+BESILRRO: folds 
+douglas121silva: folds 
+IncAplayerA2: folds 
+kurlus9: folds 
+Caio Mugarte: raises 125 to 175
+rnxbocker: calls 150
+Ms_Miia: folds 
+yrsa2: folds 
+*** FLOP *** [6c 8h 3s]
+rnxbocker: checks 
+Caio Mugarte: checks 
+*** TURN *** [6c 8h 3s] [9c]
+rnxbocker: bets 129
+Caio Mugarte: folds 
+Uncalled bet (129) returned to rnxbocker
+rnxbocker collected 498 from pot
+rnxbocker: doesn't show hand 
+*** SUMMARY ***
+Total pot 498 | Rake 0 
+Board [6c 8h 3s 9c]
+Seat 1: kurlus9 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (button) folded on the Turn
+Seat 3: rnxbocker (small blind) collected (498)
+Seat 5: Ms_Miia (big blind) folded before Flop
+Seat 6: yrsa2 folded before Flop
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: IncAplayerA2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433194832: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:21:56 AT [2023/08/16 21:21:56 ET]
+Table '3632351216 1' 9-max Seat #3 is the button
+Seat 1: kurlus9 (1148 in chips) 
+Seat 2: Caio Mugarte (843 in chips) 
+Seat 3: rnxbocker (2491 in chips) 
+Seat 5: Ms_Miia (1080 in chips) 
+Seat 6: yrsa2 (1292 in chips) 
+Seat 7: BESILRRO (3414 in chips) 
+Seat 8: douglas121silva (4737 in chips) 
+Seat 9: IncAplayerA2 (1586 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+yrsa2: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+Ms_Miia: posts small blind 25
+yrsa2: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s Jc]
+BESILRRO: folds 
+douglas121silva: folds 
+IncAplayerA2: folds 
+kurlus9: raises 50 to 100
+Caio Mugarte: folds 
+rnxbocker: folds 
+Ms_Miia: folds 
+yrsa2: folds 
+Uncalled bet (50) returned to kurlus9
+kurlus9 collected 173 from pot
+kurlus9: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: kurlus9 collected (173)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: rnxbocker (button) folded before Flop (didn't bet)
+Seat 5: Ms_Miia (small blind) folded before Flop
+Seat 6: yrsa2 (big blind) folded before Flop
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: IncAplayerA2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433202254: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:22:34 AT [2023/08/16 21:22:34 ET]
+Table '3632351216 1' 9-max Seat #5 is the button
+Seat 1: kurlus9 (1265 in chips) 
+Seat 2: Caio Mugarte (837 in chips) 
+Seat 3: rnxbocker (2485 in chips) 
+Seat 5: Ms_Miia (1049 in chips) 
+Seat 6: yrsa2 (1236 in chips) 
+Seat 7: BESILRRO (3408 in chips) 
+Seat 8: douglas121silva (4731 in chips) 
+Seat 9: IncAplayerA2 (1580 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+yrsa2: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+yrsa2: posts small blind 25
+BESILRRO: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8c 6s]
+douglas121silva: folds 
+IncAplayerA2: folds 
+kurlus9: folds 
+Caio Mugarte: folds 
+rnxbocker: folds 
+Ms_Miia: raises 50 to 100
+yrsa2: folds 
+BESILRRO: folds 
+Uncalled bet (50) returned to Ms_Miia
+Ms_Miia collected 173 from pot
+Ms_Miia: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: kurlus9 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 5: Ms_Miia (button) collected (173)
+Seat 6: yrsa2 (small blind) folded before Flop
+Seat 7: BESILRRO (big blind) folded before Flop
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: IncAplayerA2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433211008: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:23:19 AT [2023/08/16 21:23:19 ET]
+Table '3632351216 1' 9-max Seat #6 is the button
+Seat 1: kurlus9 (1259 in chips) 
+Seat 2: Caio Mugarte (831 in chips) 
+Seat 3: rnxbocker (2479 in chips) 
+Seat 5: Ms_Miia (1166 in chips) 
+Seat 6: yrsa2 (1205 in chips) 
+Seat 7: BESILRRO (3352 in chips) 
+Seat 8: douglas121silva (4725 in chips) 
+Seat 9: IncAplayerA2 (1574 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+yrsa2: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+BESILRRO: posts small blind 25
+douglas121silva: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5h 5c]
+IncAplayerA2: folds 
+kurlus9: raises 1203 to 1253 and is all-in
+Caio Mugarte: folds 
+rnxbocker: folds 
+Ms_Miia: folds 
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: folds 
+Uncalled bet (1203) returned to kurlus9
+kurlus9 collected 173 from pot
+kurlus9: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: kurlus9 collected (173)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 (button) folded before Flop (didn't bet)
+Seat 7: BESILRRO (small blind) folded before Flop
+Seat 8: douglas121silva (big blind) folded before Flop
+Seat 9: IncAplayerA2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433215567: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:23:43 AT [2023/08/16 21:23:43 ET]
+Table '3632351216 1' 9-max Seat #7 is the button
+Seat 1: kurlus9 (1376 in chips) 
+Seat 2: Caio Mugarte (825 in chips) 
+Seat 3: rnxbocker (2473 in chips) 
+Seat 5: Ms_Miia (1160 in chips) 
+Seat 6: yrsa2 (1199 in chips) 
+Seat 7: BESILRRO (3321 in chips) 
+Seat 8: douglas121silva (4669 in chips) 
+Seat 9: IncAplayerA2 (1568 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+yrsa2: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+douglas121silva: posts small blind 25
+IncAplayerA2: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Td Th]
+kurlus9: folds 
+Caio Mugarte: raises 769 to 819 and is all-in
+rnxbocker: folds 
+Ms_Miia: folds 
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: folds 
+IncAplayerA2: folds 
+Uncalled bet (769) returned to Caio Mugarte
+Caio Mugarte collected 173 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: kurlus9 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte collected (173)
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 folded before Flop (didn't bet)
+Seat 7: BESILRRO (button) folded before Flop (didn't bet)
+Seat 8: douglas121silva (small blind) folded before Flop
+Seat 9: IncAplayerA2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245433221977: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:24:16 AT [2023/08/16 21:24:16 ET]
+Table '3632351216 1' 9-max Seat #8 is the button
+Seat 1: kurlus9 (1370 in chips) 
+Seat 2: Caio Mugarte (942 in chips) 
+Seat 3: rnxbocker (2467 in chips) 
+Seat 5: Ms_Miia (1154 in chips) 
+Seat 6: yrsa2 (1193 in chips) 
+Seat 7: BESILRRO (3315 in chips) 
+Seat 8: douglas121silva (4638 in chips) 
+Seat 9: IncAplayerA2 (1512 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+yrsa2: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+IncAplayerA2: posts small blind 25
+kurlus9: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ah 8h]
+Caio Mugarte: raises 50 to 100
+rnxbocker: folds 
+Ms_Miia: folds 
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: raises 50 to 150
+IncAplayerA2: calls 125
+kurlus9: folds 
+Caio Mugarte: calls 50
+*** FLOP *** [5h 4h 2d]
+IncAplayerA2: checks 
+Caio Mugarte: checks 
+douglas121silva: bets 150
+IncAplayerA2: calls 150
+Caio Mugarte: raises 636 to 786 and is all-in
+douglas121silva: folds 
+IncAplayerA2: folds 
+Uncalled bet (636) returned to Caio Mugarte
+Caio Mugarte collected 998 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 998 | Rake 0 
+Board [5h 4h 2d]
+Seat 1: kurlus9 (big blind) folded before Flop
+Seat 2: Caio Mugarte collected (998)
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 folded before Flop (didn't bet)
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva (button) folded on the Flop
+Seat 9: IncAplayerA2 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245433232975: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:25:14 AT [2023/08/16 21:25:14 ET]
+Table '3632351216 1' 9-max Seat #9 is the button
+Seat 1: kurlus9 (1314 in chips) 
+Seat 2: Caio Mugarte (1634 in chips) 
+Seat 3: rnxbocker (2461 in chips) 
+Seat 5: Ms_Miia (1148 in chips) 
+Seat 6: yrsa2 (1187 in chips) 
+Seat 7: BESILRRO (3309 in chips) 
+Seat 8: douglas121silva (4332 in chips) 
+Seat 9: IncAplayerA2 (1206 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+yrsa2: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+kurlus9: posts small blind 25
+Caio Mugarte: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2h 8d]
+rnxbocker: folds 
+Ms_Miia: folds 
+yrsa2: folds 
+BESILRRO: folds 
+douglas121silva: raises 60 to 110
+IncAplayerA2: folds 
+kurlus9: folds 
+Caio Mugarte: folds 
+Uncalled bet (60) returned to douglas121silva
+douglas121silva collected 173 from pot
+douglas121silva: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: kurlus9 (small blind) folded before Flop
+Seat 2: Caio Mugarte (big blind) folded before Flop
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: yrsa2 folded before Flop (didn't bet)
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva collected (173)
+Seat 9: IncAplayerA2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433238012: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:25:40 AT [2023/08/16 21:25:40 ET]
+Table '3632351216 1' 9-max Seat #1 is the button
+Seat 1: kurlus9 (1283 in chips) 
+Seat 2: Caio Mugarte (1578 in chips) 
+Seat 3: rnxbocker (2455 in chips) 
+Seat 5: Ms_Miia (1142 in chips) 
+Seat 7: BESILRRO (3303 in chips) 
+Seat 8: douglas121silva (4449 in chips) 
+Seat 9: IncAplayerA2 (1200 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+Caio Mugarte: posts small blind 25
+rnxbocker: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s 7h]
+Ms_Miia: folds 
+BESILRRO: folds 
+douglas121silva: folds 
+IncAplayerA2: folds 
+kurlus9: folds 
+Caio Mugarte: folds 
+Uncalled bet (25) returned to rnxbocker
+rnxbocker collected 92 from pot
+rnxbocker: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: kurlus9 (button) folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 3: rnxbocker (big blind) collected (92)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: IncAplayerA2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433243715: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:26:11 AT [2023/08/16 21:26:11 ET]
+Table '3632351216 1' 9-max Seat #2 is the button
+Seat 1: kurlus9 (1277 in chips) 
+Seat 2: Caio Mugarte (1547 in chips) 
+Seat 3: rnxbocker (2516 in chips) 
+Seat 5: Ms_Miia (1136 in chips) 
+Seat 7: BESILRRO (3297 in chips) 
+Seat 8: douglas121silva (4443 in chips) 
+Seat 9: IncAplayerA2 (1194 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+rnxbocker: posts small blind 25
+Ms_Miia: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ac 3s]
+BESILRRO: folds 
+douglas121silva: raises 50 to 100
+IncAplayerA2: folds 
+kurlus9: calls 100
+Caio Mugarte: folds 
+rnxbocker: folds 
+Ms_Miia: folds 
+*** FLOP *** [Qd Ah Kd]
+douglas121silva: checks 
+kurlus9: checks 
+*** TURN *** [Qd Ah Kd] [9c]
+douglas121silva: bets 150
+kurlus9: calls 150
+*** RIVER *** [Qd Ah Kd 9c] [8d]
+douglas121silva: bets 200
+kurlus9: folds 
+Uncalled bet (200) returned to douglas121silva
+douglas121silva collected 617 from pot
+douglas121silva: doesn't show hand 
+*** SUMMARY ***
+Total pot 617 | Rake 0 
+Board [Qd Ah Kd 9c 8d]
+Seat 1: kurlus9 folded on the River
+Seat 2: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 3: rnxbocker (small blind) folded before Flop
+Seat 5: Ms_Miia (big blind) folded before Flop
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva collected (617)
+Seat 9: IncAplayerA2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433251722: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:26:53 AT [2023/08/16 21:26:53 ET]
+Table '3632351216 1' 9-max Seat #3 is the button
+Seat 1: kurlus9 (1021 in chips) 
+Seat 2: Caio Mugarte (1541 in chips) 
+Seat 3: rnxbocker (2485 in chips) 
+Seat 5: Ms_Miia (1080 in chips) 
+Seat 7: BESILRRO (3291 in chips) 
+Seat 8: douglas121silva (4804 in chips) 
+Seat 9: IncAplayerA2 (1188 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Ms_Miia: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+Ms_Miia: posts small blind 25
+BESILRRO: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9c 2c]
+douglas121silva: folds 
+IncAplayerA2: folds 
+kurlus9: raises 50 to 100
+Caio Mugarte: folds 
+rnxbocker: calls 100
+Ms_Miia: folds 
+BESILRRO: folds 
+*** FLOP *** [5h Kh 4h]
+kurlus9: bets 159
+rnxbocker: calls 159
+*** TURN *** [5h Kh 4h] [3c]
+kurlus9: bets 318
+rnxbocker: folds 
+Uncalled bet (318) returned to kurlus9
+kurlus9 collected 635 from pot
+kurlus9: doesn't show hand 
+*** SUMMARY ***
+Total pot 635 | Rake 0 
+Board [5h Kh 4h 3c]
+Seat 1: kurlus9 collected (635)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: rnxbocker (button) folded on the Turn
+Seat 5: Ms_Miia (small blind) folded before Flop
+Seat 7: BESILRRO (big blind) folded before Flop
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: IncAplayerA2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433258810: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:27:31 AT [2023/08/16 21:27:31 ET]
+Table '3632351216 1' 9-max Seat #5 is the button
+Seat 1: kurlus9 (1391 in chips) 
+Seat 2: Caio Mugarte (1535 in chips) 
+Seat 3: rnxbocker (2220 in chips) 
+Seat 4: Thuane Cardoso (1812 in chips) 
+Seat 5: Ms_Miia (1049 in chips) 
+Seat 6: 1DDN (1132 in chips) out of hand (moved from another table into small blind)
+Seat 7: BESILRRO (3235 in chips) 
+Seat 8: douglas121silva (4798 in chips) 
+Seat 9: IncAplayerA2 (1182 in chips) 
+1DDN will be allowed to play after the button
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Thuane Cardoso: posts the ante 6
+Ms_Miia: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+BESILRRO: posts small blind 25
+douglas121silva: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2s 6s]
+1DDN has returned
+IncAplayerA2: folds 
+kurlus9: calls 50
+Caio Mugarte: folds 
+rnxbocker: folds 
+Thuane Cardoso: folds 
+Ms_Miia: raises 100 to 150
+BESILRRO: folds 
+douglas121silva: folds 
+kurlus9: folds 
+Uncalled bet (100) returned to Ms_Miia
+Ms_Miia collected 223 from pot
+Ms_Miia: doesn't show hand 
+*** SUMMARY ***
+Total pot 223 | Rake 0 
+Seat 1: kurlus9 folded before Flop
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 4: Thuane Cardoso folded before Flop (didn't bet)
+Seat 5: Ms_Miia (button) collected (223)
+Seat 7: BESILRRO (small blind) folded before Flop
+Seat 8: douglas121silva (big blind) folded before Flop
+Seat 9: IncAplayerA2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433265995: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:28:09 AT [2023/08/16 21:28:09 ET]
+Table '3632351216 1' 9-max Seat #7 is the button
+Seat 1: kurlus9 (1335 in chips) 
+Seat 2: Caio Mugarte (1529 in chips) 
+Seat 3: rnxbocker (2214 in chips) 
+Seat 4: Thuane Cardoso (1806 in chips) 
+Seat 5: Ms_Miia (1216 in chips) 
+Seat 6: 1DDN (1132 in chips) 
+Seat 7: BESILRRO (3204 in chips) 
+Seat 8: douglas121silva (4742 in chips) 
+Seat 9: IncAplayerA2 (1176 in chips) 
+kurlus9: posts the ante 6
+Caio Mugarte: posts the ante 6
+rnxbocker: posts the ante 6
+Thuane Cardoso: posts the ante 6
+Ms_Miia: posts the ante 6
+1DDN: posts the ante 6
+BESILRRO: posts the ante 6
+douglas121silva: posts the ante 6
+IncAplayerA2: posts the ante 6
+douglas121silva: posts small blind 25
+IncAplayerA2: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c 4c]
+kurlus9: raises 50 to 100
+Caio Mugarte: folds 
+rnxbocker: folds 
+Thuane Cardoso: folds 
+Ms_Miia: folds 
+1DDN: folds 
+BESILRRO: folds 
+douglas121silva: folds 
+IncAplayerA2: folds 
+Uncalled bet (50) returned to kurlus9
+kurlus9 collected 179 from pot
+kurlus9: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: kurlus9 collected (179)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 4: Thuane Cardoso folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: 1DDN folded before Flop (didn't bet)
+Seat 7: BESILRRO (button) folded before Flop (didn't bet)
+Seat 8: douglas121silva (small blind) folded before Flop
+Seat 9: IncAplayerA2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245433273487: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:28:49 AT [2023/08/16 21:28:49 ET]
+Table '3632351216 1' 9-max Seat #8 is the button
+Seat 1: kurlus9 (1458 in chips) 
+Seat 2: Caio Mugarte (1523 in chips) 
+Seat 3: rnxbocker (2208 in chips) 
+Seat 4: Thuane Cardoso (1800 in chips) 
+Seat 5: Ms_Miia (1210 in chips) 
+Seat 6: 1DDN (1126 in chips) 
+Seat 7: BESILRRO (3198 in chips) 
+Seat 8: douglas121silva (4711 in chips) 
+Seat 9: IncAplayerA2 (1120 in chips) 
+kurlus9: posts the ante 10
+Caio Mugarte: posts the ante 10
+rnxbocker: posts the ante 10
+Thuane Cardoso: posts the ante 10
+Ms_Miia: posts the ante 10
+1DDN: posts the ante 10
+BESILRRO: posts the ante 10
+douglas121silva: posts the ante 10
+IncAplayerA2: posts the ante 10
+IncAplayerA2: posts small blind 40
+kurlus9: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc Tc]
+Caio Mugarte: raises 80 to 160
+rnxbocker: folds 
+Thuane Cardoso: folds 
+Ms_Miia: folds 
+1DDN: folds 
+BESILRRO: folds 
+douglas121silva: folds 
+IncAplayerA2: folds 
+kurlus9: raises 1288 to 1448 and is all-in
+Caio Mugarte: folds 
+Uncalled bet (1288) returned to kurlus9
+kurlus9 collected 450 from pot
+kurlus9: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 1: kurlus9 (big blind) collected (450)
+Seat 2: Caio Mugarte folded before Flop
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 4: Thuane Cardoso folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: 1DDN folded before Flop (didn't bet)
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva (button) folded before Flop (didn't bet)
+Seat 9: IncAplayerA2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245433279313: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:29:20 AT [2023/08/16 21:29:20 ET]
+Table '3632351216 1' 9-max Seat #9 is the button
+Seat 1: kurlus9 (1738 in chips) 
+Seat 2: Caio Mugarte (1353 in chips) 
+Seat 3: rnxbocker (2198 in chips) 
+Seat 4: Thuane Cardoso (1790 in chips) 
+Seat 5: Ms_Miia (1200 in chips) 
+Seat 6: 1DDN (1116 in chips) 
+Seat 7: BESILRRO (3188 in chips) 
+Seat 8: douglas121silva (4701 in chips) 
+Seat 9: IncAplayerA2 (1070 in chips) 
+kurlus9: posts the ante 10
+Caio Mugarte: posts the ante 10
+rnxbocker: posts the ante 10
+Thuane Cardoso: posts the ante 10
+Ms_Miia: posts the ante 10
+1DDN: posts the ante 10
+BESILRRO: posts the ante 10
+douglas121silva: posts the ante 10
+IncAplayerA2: posts the ante 10
+kurlus9: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s 9s]
+rnxbocker: folds 
+Thuane Cardoso: folds 
+Ms_Miia: folds 
+1DDN: calls 80
+BESILRRO: folds 
+douglas121silva: folds 
+IncAplayerA2: folds 
+kurlus9: folds 
+Caio Mugarte: checks 
+*** FLOP *** [Qc 4c 6c]
+Caio Mugarte: checks 
+1DDN: checks 
+*** TURN *** [Qc 4c 6c] [Kh]
+Caio Mugarte: checks 
+1DDN: checks 
+*** RIVER *** [Qc 4c 6c Kh] [2c]
+Caio Mugarte: checks 
+1DDN: checks 
+*** SHOW DOWN ***
+Caio Mugarte: shows [5s 9s] (high card King)
+1DDN: shows [Ts Td] (a pair of Tens)
+1DDN collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [Qc 4c 6c Kh 2c]
+Seat 1: kurlus9 (small blind) folded before Flop
+Seat 2: Caio Mugarte (big blind) showed [5s 9s] and lost with high card King
+Seat 3: rnxbocker folded before Flop (didn't bet)
+Seat 4: Thuane Cardoso folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: 1DDN showed [Ts Td] and won (290) with a pair of Tens
+Seat 7: BESILRRO folded before Flop (didn't bet)
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: IncAplayerA2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433286307: Tournament #3632351216, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:29:58 AT [2023/08/16 21:29:58 ET]
+Table '3632351216 1' 9-max Seat #1 is the button
+Seat 1: kurlus9 (1688 in chips) 
+Seat 2: Caio Mugarte (1263 in chips) 
+Seat 3: rnxbocker (2188 in chips) 
+Seat 4: Thuane Cardoso (1780 in chips) 
+Seat 5: Ms_Miia (1190 in chips) 
+Seat 6: 1DDN (1316 in chips) 
+Seat 7: BESILRRO (3178 in chips) 
+Seat 8: douglas121silva (4691 in chips) 
+Seat 9: IncAplayerA2 (1060 in chips) 
+kurlus9: posts the ante 10
+Caio Mugarte: posts the ante 10
+rnxbocker: posts the ante 10
+Thuane Cardoso: posts the ante 10
+Ms_Miia: posts the ante 10
+1DDN: posts the ante 10
+BESILRRO: posts the ante 10
+douglas121silva: posts the ante 10
+IncAplayerA2: posts the ante 10
+Caio Mugarte: posts small blind 40
+rnxbocker: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 9c]
+Thuane Cardoso: folds 
+Ms_Miia: folds 
+1DDN: folds 
+BESILRRO: raises 80 to 160
+douglas121silva: folds 
+IncAplayerA2: folds 
+kurlus9: calls 160
+Caio Mugarte: raises 1093 to 1253 and is all-in
+rnxbocker: folds 
+BESILRRO: raises 1915 to 3168 and is all-in
+kurlus9: folds 
+Uncalled bet (1915) returned to BESILRRO
+*** FLOP *** [8s 7h Qs]
+*** TURN *** [8s 7h Qs] [Ts]
+*** RIVER *** [8s 7h Qs Ts] [4h]
+*** SHOW DOWN ***
+Caio Mugarte: shows [9s 9c] (a pair of Nines)
+BESILRRO: shows [Ah Ad] (a pair of Aces)
+BESILRRO collected 2836 from pot
+Caio Mugarte finished the tournament in 26th place
+*** SUMMARY ***
+Total pot 2836 | Rake 0 
+Board [8s 7h Qs Ts 4h]
+Seat 1: kurlus9 (button) folded before Flop
+Seat 2: Caio Mugarte (small blind) showed [9s 9c] and lost with a pair of Nines
+Seat 3: rnxbocker (big blind) folded before Flop
+Seat 4: Thuane Cardoso folded before Flop (didn't bet)
+Seat 5: Ms_Miia folded before Flop (didn't bet)
+Seat 6: 1DDN folded before Flop (didn't bet)
+Seat 7: BESILRRO showed [Ah Ad] and won (2836) with a pair of Aces
+Seat 8: douglas121silva folded before Flop (didn't bet)
+Seat 9: IncAplayerA2 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,3883 @@
+﻿PokerStars Hand #245446097760: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:15:37 AT [2023/08/17 16:15:37 ET]
+Table '3632673666 3' 9-max Seat #1 is the button
+Seat 1: careca2908 (1500 in chips) 
+Seat 3: CalgarySammy (1500 in chips) 
+Seat 4: Caio Mugarte (1500 in chips) 
+Seat 5: rekisser85 (1500 in chips) 
+Seat 7: afsalagoas (1500 in chips) 
+Seat 8: Edgreyv (1500 in chips) 
+Seat 9: konzept030 (1500 in chips) 
+careca2908: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+rekisser85: posts the ante 3
+afsalagoas: posts the ante 3
+Edgreyv: posts the ante 3
+konzept030: posts the ante 3
+CalgarySammy: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2s 9d]
+rekisser85: folds 
+afsalagoas: folds 
+Edgreyv: folds 
+konzept030: folds 
+careca2908: folds 
+konzept030 is sitting out
+CalgarySammy: raises 61 to 81
+Caio Mugarte: folds 
+Uncalled bet (61) returned to CalgarySammy
+CalgarySammy collected 61 from pot
+Kafelp is disconnected 
+*** SUMMARY ***
+Total pot 61 | Rake 0 
+Seat 1: careca2908 (button) folded before Flop (didn't bet)
+Seat 3: CalgarySammy (small blind) collected (61)
+Seat 4: Caio Mugarte (big blind) folded before Flop
+Seat 5: rekisser85 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: Edgreyv folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446106315: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:16:01 AT [2023/08/17 16:16:01 ET]
+Table '3632673666 3' 9-max Seat #3 is the button
+Seat 1: careca2908 (1497 in chips) 
+Seat 2: Kafelp (1500 in chips) 
+Seat 3: CalgarySammy (1538 in chips) 
+Seat 4: Caio Mugarte (1477 in chips) 
+Seat 5: rekisser85 (1497 in chips) 
+Seat 7: afsalagoas (1497 in chips) 
+Seat 8: Edgreyv (1497 in chips) 
+Seat 9: konzept030 (1497 in chips) is sitting out
+careca2908: posts the ante 3
+Kafelp: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+rekisser85: posts the ante 3
+afsalagoas: posts the ante 3
+Edgreyv: posts the ante 3
+konzept030: posts the ante 3
+Caio Mugarte: posts small blind 10
+rekisser85: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4c 2h]
+afsalagoas: folds 
+Edgreyv: folds 
+konzept030: folds 
+careca2908: folds 
+Kafelp: folds 
+CalgarySammy: raises 20 to 40
+Caio Mugarte: folds 
+rekisser85: folds 
+Uncalled bet (20) returned to CalgarySammy
+CalgarySammy collected 74 from pot
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: careca2908 folded before Flop (didn't bet)
+Seat 2: Kafelp folded before Flop (didn't bet)
+Seat 3: CalgarySammy (button) collected (74)
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 5: rekisser85 (big blind) folded before Flop
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: Edgreyv folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446116669: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:16:31 AT [2023/08/17 16:16:31 ET]
+Table '3632673666 3' 9-max Seat #4 is the button
+Seat 1: careca2908 (1494 in chips) 
+Seat 2: Kafelp (1497 in chips) 
+Seat 3: CalgarySammy (1589 in chips) 
+Seat 4: Caio Mugarte (1464 in chips) 
+Seat 5: rekisser85 (1474 in chips) 
+Seat 7: afsalagoas (1494 in chips) 
+Seat 8: Edgreyv (1494 in chips) 
+Seat 9: konzept030 (1494 in chips) is sitting out
+careca2908: posts the ante 3
+Kafelp: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+rekisser85: posts the ante 3
+afsalagoas: posts the ante 3
+Edgreyv: posts the ante 3
+konzept030: posts the ante 3
+rekisser85: posts small blind 10
+afsalagoas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s 8h]
+Edgreyv: folds 
+konzept030: folds 
+careca2908: folds 
+Kafelp: calls 20
+CalgarySammy: folds 
+Caio Mugarte: folds 
+rekisser85: folds 
+afsalagoas: checks 
+*** FLOP *** [Kc 5d 9h]
+afsalagoas: checks 
+Kafelp: checks 
+*** TURN *** [Kc 5d 9h] [9s]
+afsalagoas: checks 
+Kafelp: bets 74
+afsalagoas: folds 
+Uncalled bet (74) returned to Kafelp
+Kafelp collected 74 from pot
+Kafelp: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Board [Kc 5d 9h 9s]
+Seat 1: careca2908 folded before Flop (didn't bet)
+Seat 2: Kafelp collected (74)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 5: rekisser85 (small blind) folded before Flop
+Seat 7: afsalagoas (big blind) folded on the Turn
+Seat 8: Edgreyv folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446132365: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:17:15 AT [2023/08/17 16:17:15 ET]
+Table '3632673666 3' 9-max Seat #5 is the button
+Seat 1: careca2908 (1491 in chips) 
+Seat 2: Kafelp (1548 in chips) 
+Seat 3: CalgarySammy (1586 in chips) 
+Seat 4: Caio Mugarte (1461 in chips) 
+Seat 5: rekisser85 (1461 in chips) 
+Seat 6: rpgamero (1500 in chips) out of hand (moved from another table into small blind)
+Seat 7: afsalagoas (1471 in chips) 
+Seat 9: konzept030 (1491 in chips) is sitting out
+rpgamero will be allowed to play after the button
+careca2908: posts the ante 3
+Kafelp: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+rekisser85: posts the ante 3
+afsalagoas: posts the ante 3
+konzept030: posts the ante 3
+afsalagoas: posts small blind 10
+konzept030: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qs Ac]
+careca2908: folds 
+Kafelp: folds 
+CalgarySammy: folds 
+Caio Mugarte: raises 20 to 40
+rekisser85: folds 
+afsalagoas: folds 
+konzept030: folds 
+Uncalled bet (20) returned to Caio Mugarte
+Caio Mugarte collected 71 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 71 | Rake 0 
+Seat 1: careca2908 folded before Flop (didn't bet)
+Seat 2: Kafelp folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte collected (71)
+Seat 5: rekisser85 (button) folded before Flop (didn't bet)
+Seat 7: afsalagoas (small blind) folded before Flop
+Seat 9: konzept030 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245446138649: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:17:33 AT [2023/08/17 16:17:33 ET]
+Table '3632673666 3' 9-max Seat #7 is the button
+Seat 1: careca2908 (1488 in chips) 
+Seat 3: CalgarySammy (1583 in chips) 
+Seat 4: Caio Mugarte (1509 in chips) 
+Seat 5: rekisser85 (1458 in chips) 
+Seat 6: rpgamero (1500 in chips) 
+Seat 7: afsalagoas (1458 in chips) 
+Seat 9: konzept030 (1468 in chips) is sitting out
+careca2908: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+rekisser85: posts the ante 3
+rpgamero: posts the ante 3
+afsalagoas: posts the ante 3
+konzept030: posts the ante 3
+konzept030: posts small blind 10
+careca2908: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts 4s]
+CalgarySammy: calls 20
+Caio Mugarte: folds 
+rekisser85: raises 60 to 80
+rpgamero: calls 80
+afsalagoas: folds 
+konzept030: folds 
+careca2908: folds 
+CalgarySammy: calls 60
+*** FLOP *** [3s Jh 8c]
+CalgarySammy: checks 
+juliao233 is disconnected 
+rekisser85: checks 
+rpgamero: checks 
+*** TURN *** [3s Jh 8c] [Js]
+CalgarySammy: bets 1500 and is all-in
+rekisser85: folds 
+frogz69 is disconnected 
+rpgamero: folds 
+Uncalled bet (1500) returned to CalgarySammy
+CalgarySammy collected 291 from pot
+*** SUMMARY ***
+Total pot 291 | Rake 0 
+Board [3s Jh 8c Js]
+Seat 1: careca2908 (big blind) folded before Flop
+Seat 3: CalgarySammy collected (291)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: rekisser85 folded on the Turn
+Seat 6: rpgamero folded on the Turn
+Seat 7: afsalagoas (button) folded before Flop (didn't bet)
+Seat 9: konzept030 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245446155404: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:18:21 AT [2023/08/17 16:18:21 ET]
+Table '3632673666 3' 9-max Seat #9 is the button
+Seat 1: careca2908 (1465 in chips) 
+Seat 2: frogz69 (1500 in chips) 
+Seat 3: CalgarySammy (1791 in chips) 
+Seat 4: Caio Mugarte (1506 in chips) 
+Seat 5: rekisser85 (1375 in chips) 
+Seat 6: rpgamero (1417 in chips) 
+Seat 7: afsalagoas (1455 in chips) 
+Seat 8: juliao233 (1500 in chips) 
+Seat 9: konzept030 (1455 in chips) is sitting out
+careca2908: posts the ante 3
+frogz69: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+rekisser85: posts the ante 3
+rpgamero: posts the ante 3
+afsalagoas: posts the ante 3
+juliao233: posts the ante 3
+konzept030: posts the ante 3
+careca2908: posts small blind 10
+frogz69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8s Ks]
+CalgarySammy: folds 
+Caio Mugarte: folds 
+rekisser85: folds 
+rpgamero: folds 
+afsalagoas: raises 20 to 40
+juliao233: calls 40
+konzept030: folds 
+careca2908: folds 
+frogz69: calls 20
+*** FLOP *** [9h Jh Ad]
+frogz69: checks 
+afsalagoas: checks 
+juliao233: bets 79
+frogz69: calls 79
+afsalagoas: folds 
+*** TURN *** [9h Jh Ad] [7h]
+frogz69: checks 
+juliao233: checks 
+*** RIVER *** [9h Jh Ad 7h] [5c]
+frogz69: bets 260
+juliao233: calls 260
+*** SHOW DOWN ***
+frogz69: shows [Th 4h] (a flush, Jack high)
+juliao233: mucks hand 
+frogz69 collected 835 from pot
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Board [9h Jh Ad 7h 5c]
+Seat 1: careca2908 (small blind) folded before Flop
+Seat 2: frogz69 (big blind) showed [Th 4h] and won (835) with a flush, Jack high
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: rekisser85 folded before Flop (didn't bet)
+Seat 6: rpgamero folded before Flop (didn't bet)
+Seat 7: afsalagoas folded on the Flop
+Seat 8: juliao233 mucked [9c 9d]
+Seat 9: konzept030 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446178987: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:19:27 AT [2023/08/17 16:19:27 ET]
+Table '3632673666 3' 9-max Seat #1 is the button
+Seat 1: careca2908 (1452 in chips) 
+Seat 2: frogz69 (1953 in chips) 
+Seat 3: CalgarySammy (1788 in chips) 
+Seat 4: Caio Mugarte (1503 in chips) 
+Seat 5: rekisser85 (1372 in chips) 
+Seat 7: afsalagoas (1412 in chips) 
+Seat 8: juliao233 (1118 in chips) 
+Seat 9: konzept030 (1452 in chips) is sitting out
+careca2908: posts the ante 3
+frogz69: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+rekisser85: posts the ante 3
+afsalagoas: posts the ante 3
+juliao233: posts the ante 3
+konzept030: posts the ante 3
+frogz69: posts small blind 10
+CalgarySammy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc Ks]
+Caio Mugarte: folds 
+rekisser85: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+careca2908: raises 25 to 45
+frogz69: folds 
+CalgarySammy: folds 
+Uncalled bet (25) returned to careca2908
+careca2908 collected 74 from pot
+careca2908: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: careca2908 (button) collected (74)
+Seat 2: frogz69 (small blind) folded before Flop
+Seat 3: CalgarySammy (big blind) folded before Flop
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: rekisser85 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446189736: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:19:58 AT [2023/08/17 16:19:58 ET]
+Table '3632673666 3' 9-max Seat #2 is the button
+Seat 1: careca2908 (1503 in chips) 
+Seat 2: frogz69 (1940 in chips) 
+Seat 3: CalgarySammy (1765 in chips) 
+Seat 4: Caio Mugarte (1500 in chips) 
+Seat 5: rekisser85 (1369 in chips) 
+Seat 7: afsalagoas (1409 in chips) 
+Seat 8: juliao233 (1115 in chips) 
+Seat 9: konzept030 (1449 in chips) is sitting out
+careca2908: posts the ante 3
+frogz69: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+rekisser85: posts the ante 3
+afsalagoas: posts the ante 3
+juliao233: posts the ante 3
+konzept030: posts the ante 3
+CalgarySammy: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s 4d]
+rekisser85: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+careca2908: raises 25 to 45
+frogz69: raises 115 to 160
+CalgarySammy: raises 1602 to 1762 and is all-in
+Caio Mugarte: folds 
+careca2908: calls 1455 and is all-in
+frogz69: folds 
+Uncalled bet (262) returned to CalgarySammy
+*** FLOP *** [Jd Th 2s]
+*** TURN *** [Jd Th 2s] [Kc]
+*** RIVER *** [Jd Th 2s Kc] [9c]
+*** SHOW DOWN ***
+CalgarySammy: shows [Qh Qd] (a straight, Nine to King)
+careca2908: shows [Ad Kd] (a pair of Kings)
+CalgarySammy collected 3204 from pot
+careca2908 finished the tournament in 41st place
+*** SUMMARY ***
+Total pot 3204 | Rake 0 
+Board [Jd Th 2s Kc 9c]
+Seat 1: careca2908 showed [Ad Kd] and lost with a pair of Kings
+Seat 2: frogz69 (button) folded before Flop
+Seat 3: CalgarySammy (small blind) showed [Qh Qd] and won (3204) with a straight, Nine to King
+Seat 4: Caio Mugarte (big blind) folded before Flop
+Seat 5: rekisser85 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446207258: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:20:47 AT [2023/08/17 16:20:47 ET]
+Table '3632673666 3' 9-max Seat #3 is the button
+Seat 2: frogz69 (1777 in chips) 
+Seat 3: CalgarySammy (3466 in chips) 
+Seat 4: Caio Mugarte (1477 in chips) 
+Seat 5: rekisser85 (1366 in chips) 
+Seat 7: afsalagoas (1406 in chips) 
+Seat 8: juliao233 (1112 in chips) 
+Seat 9: konzept030 (1446 in chips) is sitting out
+frogz69: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+rekisser85: posts the ante 3
+afsalagoas: posts the ante 3
+juliao233: posts the ante 3
+konzept030: posts the ante 3
+Caio Mugarte: posts small blind 10
+rekisser85: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Td Qh]
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+frogz69: folds 
+CalgarySammy: raises 40 to 60
+Caio Mugarte: folds 
+rekisser85: folds 
+Uncalled bet (40) returned to CalgarySammy
+CalgarySammy collected 71 from pot
+*** SUMMARY ***
+Total pot 71 | Rake 0 
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy (button) collected (71)
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 5: rekisser85 (big blind) folded before Flop
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446216650: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:21:14 AT [2023/08/17 16:21:14 ET]
+Table '3632673666 3' 9-max Seat #4 is the button
+Seat 2: frogz69 (1774 in chips) 
+Seat 3: CalgarySammy (3514 in chips) 
+Seat 4: Caio Mugarte (1464 in chips) 
+Seat 5: rekisser85 (1343 in chips) 
+Seat 7: afsalagoas (1403 in chips) 
+Seat 8: juliao233 (1109 in chips) 
+Seat 9: konzept030 (1443 in chips) is sitting out
+frogz69: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+rekisser85: posts the ante 3
+afsalagoas: posts the ante 3
+juliao233: posts the ante 3
+konzept030: posts the ante 3
+rekisser85: posts small blind 10
+afsalagoas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s 7s]
+juliao233: folds 
+konzept030: folds 
+frogz69: folds 
+CalgarySammy: raises 20 to 40
+Caio Mugarte: folds 
+rekisser85: raises 93 to 133
+afsalagoas: folds 
+CalgarySammy: calls 93
+*** FLOP *** [8c Tc Ad]
+rekisser85: bets 154
+CalgarySammy: raises 3224 to 3378 and is all-in
+rekisser85: calls 1053 and is all-in
+Uncalled bet (2171) returned to CalgarySammy
+*** TURN *** [8c Tc Ad] [3h]
+*** RIVER *** [8c Tc Ad 3h] [6c]
+*** SHOW DOWN ***
+rekisser85: shows [Jh As] (a pair of Aces)
+CalgarySammy: shows [Qd Ac] (a pair of Aces - Queen kicker)
+CalgarySammy collected 2721 from pot
+rekisser85 finished the tournament in 39th place
+*** SUMMARY ***
+Total pot 2721 | Rake 0 
+Board [8c Tc Ad 3h 6c]
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy showed [Qd Ac] and won (2721) with a pair of Aces
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 5: rekisser85 (small blind) showed [Jh As] and lost with a pair of Aces
+Seat 7: afsalagoas (big blind) folded before Flop
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446230510: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:21:53 AT [2023/08/17 16:21:53 ET]
+Table '3632673666 3' 9-max Seat #7 is the button
+Seat 2: frogz69 (1771 in chips) 
+Seat 3: CalgarySammy (4892 in chips) 
+Seat 4: Caio Mugarte (1461 in chips) 
+Seat 7: afsalagoas (1380 in chips) 
+Seat 8: juliao233 (1106 in chips) 
+Seat 9: konzept030 (1440 in chips) is sitting out
+frogz69: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+afsalagoas: posts the ante 3
+juliao233: posts the ante 3
+konzept030: posts the ante 3
+juliao233: posts small blind 10
+konzept030: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qd Jh]
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: raises 20 to 40
+afsalagoas: folds 
+juliao233: calls 30
+konzept030: folds 
+*** FLOP *** [7c 9d 4c]
+juliao233: checks 
+Caio Mugarte: checks 
+*** TURN *** [7c 9d 4c] [Kh]
+juliao233: checks 
+Caio Mugarte: bets 70
+juliao233: folds 
+Uncalled bet (70) returned to Caio Mugarte
+Caio Mugarte collected 118 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 118 | Rake 0 
+Board [7c 9d 4c Kh]
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte collected (118)
+Seat 7: afsalagoas (button) folded before Flop (didn't bet)
+Seat 8: juliao233 (small blind) folded on the Turn
+Seat 9: konzept030 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245446252138: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:22:53 AT [2023/08/17 16:22:53 ET]
+Table '3632673666 3' 9-max Seat #8 is the button
+Seat 2: frogz69 (1768 in chips) 
+Seat 3: CalgarySammy (4889 in chips) 
+Seat 4: Caio Mugarte (1536 in chips) 
+Seat 5: 8rxnx (1324 in chips) 
+Seat 7: afsalagoas (1377 in chips) 
+Seat 8: juliao233 (1063 in chips) 
+Seat 9: konzept030 (1417 in chips) is sitting out
+frogz69: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+8rxnx: posts the ante 3
+afsalagoas: posts the ante 3
+juliao233: posts the ante 3
+konzept030: posts the ante 3
+konzept030: posts small blind 10
+frogz69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Js Qc]
+CalgarySammy: folds 
+Caio Mugarte: raises 20 to 40
+8rxnx: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+frogz69: calls 20
+*** FLOP *** [3s 4c Jd]
+frogz69: checks 
+Caio Mugarte: bets 40
+frogz69: raises 80 to 120
+Caio Mugarte: calls 80
+*** TURN *** [3s 4c Jd] [As]
+frogz69: checks 
+Caio Mugarte: checks 
+*** RIVER *** [3s 4c Jd As] [Jh]
+frogz69: bets 232
+Caio Mugarte: calls 232
+*** SHOW DOWN ***
+frogz69: shows [Ts 9d] (a pair of Jacks)
+Caio Mugarte: shows [Js Qc] (three of a kind, Jacks)
+Caio Mugarte collected 815 from pot
+*** SUMMARY ***
+Total pot 815 | Rake 0 
+Board [3s 4c Jd As Jh]
+Seat 2: frogz69 (big blind) showed [Ts 9d] and lost with a pair of Jacks
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte showed [Js Qc] and won (815) with three of a kind, Jacks
+Seat 5: 8rxnx folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 (button) folded before Flop (didn't bet)
+Seat 9: konzept030 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245446281056: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:24:15 AT [2023/08/17 16:24:15 ET]
+Table '3632673666 3' 9-max Seat #9 is the button
+Seat 2: frogz69 (1373 in chips) 
+Seat 3: CalgarySammy (4886 in chips) 
+Seat 4: Caio Mugarte (1956 in chips) 
+Seat 5: 8rxnx (1321 in chips) 
+Seat 7: afsalagoas (1374 in chips) 
+Seat 8: juliao233 (1060 in chips) 
+Seat 9: konzept030 (1404 in chips) is sitting out
+frogz69: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+8rxnx: posts the ante 3
+afsalagoas: posts the ante 3
+juliao233: posts the ante 3
+konzept030: posts the ante 3
+frogz69: posts small blind 10
+CalgarySammy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qh Kh]
+Caio Mugarte: raises 20 to 40
+8rxnx: raises 90 to 130
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Uncalled bet (90) returned to 8rxnx
+8rxnx collected 131 from pot
+8rxnx: doesn't show hand 
+*** SUMMARY ***
+Total pot 131 | Rake 0 
+Seat 2: frogz69 (small blind) folded before Flop
+Seat 3: CalgarySammy (big blind) folded before Flop
+Seat 4: Caio Mugarte folded before Flop
+Seat 5: 8rxnx collected (131)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446293038: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:24:50 AT [2023/08/17 16:24:50 ET]
+Table '3632673666 3' 9-max Seat #2 is the button
+Seat 2: frogz69 (1360 in chips) 
+Seat 3: CalgarySammy (4863 in chips) 
+Seat 4: Caio Mugarte (1913 in chips) 
+Seat 5: 8rxnx (1409 in chips) 
+Seat 7: afsalagoas (1371 in chips) 
+Seat 8: juliao233 (1057 in chips) 
+Seat 9: konzept030 (1401 in chips) is sitting out
+frogz69: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+8rxnx: posts the ante 3
+afsalagoas: posts the ante 3
+juliao233: posts the ante 3
+konzept030: posts the ante 3
+CalgarySammy: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d 5s]
+8rxnx: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Uncalled bet (10) returned to Caio Mugarte
+Caio Mugarte collected 41 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 41 | Rake 0 
+Seat 2: frogz69 (button) folded before Flop (didn't bet)
+Seat 3: CalgarySammy (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) collected (41)
+Seat 5: 8rxnx folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446299187: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/17 17:25:07 AT [2023/08/17 16:25:07 ET]
+Table '3632673666 3' 9-max Seat #3 is the button
+Seat 2: frogz69 (1357 in chips) 
+Seat 3: CalgarySammy (4850 in chips) 
+Seat 4: Caio Mugarte (1941 in chips) 
+Seat 5: 8rxnx (1406 in chips) 
+Seat 7: afsalagoas (1368 in chips) 
+Seat 8: juliao233 (1054 in chips) 
+Seat 9: konzept030 (1398 in chips) is sitting out
+frogz69: posts the ante 3
+CalgarySammy: posts the ante 3
+Caio Mugarte: posts the ante 3
+8rxnx: posts the ante 3
+afsalagoas: posts the ante 3
+juliao233: posts the ante 3
+konzept030: posts the ante 3
+Caio Mugarte: posts small blind 10
+8rxnx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc As]
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: raises 50 to 70
+8rxnx: folds 
+Uncalled bet (50) returned to Caio Mugarte
+Caio Mugarte collected 61 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 61 | Rake 0 
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy (button) folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (small blind) collected (61)
+Seat 5: 8rxnx (big blind) folded before Flop
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446312335: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:25:45 AT [2023/08/17 16:25:45 ET]
+Table '3632673666 3' 9-max Seat #4 is the button
+Seat 2: frogz69 (1354 in chips) 
+Seat 3: CalgarySammy (4847 in chips) 
+Seat 4: Caio Mugarte (1979 in chips) 
+Seat 5: 8rxnx (1383 in chips) 
+Seat 7: afsalagoas (1365 in chips) 
+Seat 8: juliao233 (1051 in chips) 
+Seat 9: konzept030 (1395 in chips) is sitting out
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+8rxnx: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+8rxnx: posts small blind 15
+afsalagoas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jd 6s]
+juliao233: folds 
+konzept030: folds 
+frogz69: folds 
+CalgarySammy: calls 30
+Caio Mugarte: folds 
+8rxnx: calls 15
+afsalagoas: checks 
+*** FLOP *** [6d 2d Ks]
+8rxnx: checks 
+afsalagoas: checks 
+CalgarySammy: bets 59
+8rxnx: folds 
+afsalagoas: folds 
+Uncalled bet (59) returned to CalgarySammy
+CalgarySammy collected 118 from pot
+*** SUMMARY ***
+Total pot 118 | Rake 0 
+Board [6d 2d Ks]
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy collected (118)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 5: 8rxnx (small blind) folded on the Flop
+Seat 7: afsalagoas (big blind) folded on the Flop
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446323576: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:26:17 AT [2023/08/17 16:26:17 ET]
+Table '3632673666 3' 9-max Seat #5 is the button
+Seat 2: frogz69 (1350 in chips) 
+Seat 3: CalgarySammy (4931 in chips) 
+Seat 4: Caio Mugarte (1975 in chips) 
+Seat 5: 8rxnx (1349 in chips) 
+Seat 7: afsalagoas (1331 in chips) 
+Seat 8: juliao233 (1047 in chips) 
+Seat 9: konzept030 (1391 in chips) is sitting out
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+8rxnx: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+afsalagoas: posts small blind 15
+juliao233: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qc 6c]
+konzept030: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+8rxnx: raises 45 to 75
+afsalagoas: folds 
+juliao233: folds 
+Uncalled bet (45) returned to 8rxnx
+joseAdilsom is disconnected 
+8rxnx collected 103 from pot
+8rxnx: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: 8rxnx (button) collected (103)
+Seat 7: afsalagoas (small blind) folded before Flop
+Seat 8: juliao233 (big blind) folded before Flop
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446331764: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:26:40 AT [2023/08/17 16:26:40 ET]
+Table '3632673666 3' 9-max Seat #7 is the button
+Seat 1: joseAdilsom (2926 in chips) is sitting out
+Seat 2: frogz69 (1346 in chips) 
+Seat 3: CalgarySammy (4927 in chips) 
+Seat 4: Caio Mugarte (1971 in chips) 
+Seat 5: 8rxnx (1418 in chips) 
+Seat 6: Carlitos917 (1347 in chips) 
+Seat 7: afsalagoas (1312 in chips) 
+Seat 8: juliao233 (1013 in chips) 
+Seat 9: konzept030 (1387 in chips) is sitting out
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+8rxnx: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+juliao233: posts small blind 15
+konzept030: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad 6c]
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: raises 30 to 60
+Caio Mugarte: folds 
+8rxnx: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+Uncalled bet (30) returned to CalgarySammy
+CalgarySammy collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy collected (111)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: 8rxnx folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas (button) folded before Flop (didn't bet)
+Seat 8: juliao233 (small blind) folded before Flop
+Seat 9: konzept030 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245446338031: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:26:58 AT [2023/08/17 16:26:58 ET]
+Table '3632673666 3' 9-max Seat #8 is the button
+Seat 1: joseAdilsom (2922 in chips) is sitting out
+Seat 2: frogz69 (1342 in chips) 
+Seat 3: CalgarySammy (5004 in chips) 
+Seat 4: Caio Mugarte (1967 in chips) 
+Seat 5: 8rxnx (1414 in chips) 
+Seat 6: Carlitos917 (1343 in chips) 
+Seat 7: afsalagoas (1308 in chips) 
+Seat 8: juliao233 (994 in chips) 
+Seat 9: konzept030 (1353 in chips) is sitting out
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+8rxnx: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+konzept030: posts small blind 15
+joseAdilsom: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc 3s]
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+8rxnx: folds 
+Carlitos917: folds 
+afsalagoas: raises 45 to 75
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+Uncalled bet (45) returned to afsalagoas
+afsalagoas collected 111 from pot
+afsalagoas: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: joseAdilsom (big blind) folded before Flop
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: 8rxnx folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas collected (111)
+Seat 8: juliao233 (button) folded before Flop (didn't bet)
+Seat 9: konzept030 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245446348698: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:27:29 AT [2023/08/17 16:27:29 ET]
+Table '3632673666 3' 9-max Seat #9 is the button
+Seat 1: joseAdilsom (2888 in chips) is sitting out
+Seat 2: frogz69 (1338 in chips) 
+Seat 3: CalgarySammy (5000 in chips) 
+Seat 4: Caio Mugarte (1963 in chips) 
+Seat 5: 8rxnx (1410 in chips) 
+Seat 6: Carlitos917 (1339 in chips) 
+Seat 7: afsalagoas (1385 in chips) 
+Seat 8: juliao233 (990 in chips) 
+Seat 9: konzept030 (1334 in chips) is sitting out
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+8rxnx: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+joseAdilsom: posts small blind 15
+frogz69: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [As Qc]
+CalgarySammy: raises 90 to 120
+Caio Mugarte: calls 120
+8rxnx: raises 210 to 330
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: calls 210
+Caio Mugarte: folds 
+*** FLOP *** [5d Qh 6h]
+CalgarySammy: bets 30
+8rxnx: raises 270 to 300
+CalgarySammy: raises 4366 to 4666 and is all-in
+8rxnx: calls 776 and is all-in
+Uncalled bet (3590) returned to CalgarySammy
+*** TURN *** [5d Qh 6h] [Qd]
+*** RIVER *** [5d Qh 6h Qd] [7h]
+*** SHOW DOWN ***
+CalgarySammy: shows [6s 6c] (a full house, Sixes full of Queens)
+8rxnx: shows [Ac Ah] (two pair, Aces and Queens)
+CalgarySammy collected 3013 from pot
+8rxnx finished the tournament in 35th place
+*** SUMMARY ***
+Total pot 3013 | Rake 0 
+Board [5d Qh 6h Qd 7h]
+Seat 1: joseAdilsom (small blind) folded before Flop
+Seat 2: frogz69 (big blind) folded before Flop
+Seat 3: CalgarySammy showed [6s 6c] and won (3013) with a full house, Sixes full of Queens
+Seat 4: Caio Mugarte folded before Flop
+Seat 5: 8rxnx showed [Ac Ah] and lost with two pair, Aces and Queens
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446377198: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:28:51 AT [2023/08/17 16:28:51 ET]
+Table '3632673666 3' 9-max Seat #1 is the button
+Seat 1: joseAdilsom (2869 in chips) is sitting out
+Seat 2: frogz69 (1304 in chips) 
+Seat 3: CalgarySammy (6603 in chips) 
+Seat 4: Caio Mugarte (1839 in chips) 
+Seat 6: Carlitos917 (1335 in chips) 
+Seat 7: afsalagoas (1381 in chips) 
+Seat 8: juliao233 (986 in chips) 
+Seat 9: konzept030 (1330 in chips) is sitting out
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+frogz69: posts small blind 15
+CalgarySammy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s Ts]
+Caio Mugarte: folds 
+Carlitos917: calls 30
+afsalagoas: calls 30
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: calls 15
+CalgarySammy: checks 
+*** FLOP *** [Jd 2s 5s]
+frogz69: checks 
+CalgarySammy: bets 30
+Carlitos917: calls 30
+afsalagoas: folds 
+frogz69: raises 90 to 120
+CalgarySammy: folds 
+Carlitos917: calls 90
+*** TURN *** [Jd 2s 5s] [4s]
+frogz69: checks 
+Carlitos917: checks 
+*** RIVER *** [Jd 2s 5s 4s] [As]
+frogz69: checks 
+Carlitos917: checks 
+*** SHOW DOWN ***
+frogz69: shows [4d Td] (a pair of Fours)
+Carlitos917: shows [Jc Qd] (a pair of Jacks)
+Carlitos917 collected 422 from pot
+*** SUMMARY ***
+Total pot 422 | Rake 0 
+Board [Jd 2s 5s 4s As]
+Seat 1: joseAdilsom (button) folded before Flop (didn't bet)
+Seat 2: frogz69 (small blind) showed [4d Td] and lost with a pair of Fours
+Seat 3: CalgarySammy (big blind) folded on the Flop
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 showed [Jc Qd] and won (422) with a pair of Jacks
+Seat 7: afsalagoas folded on the Flop
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446401309: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:30:01 AT [2023/08/17 16:30:01 ET]
+Table '3632673666 3' 9-max Seat #2 is the button
+Seat 1: joseAdilsom (2865 in chips) is sitting out
+Seat 2: frogz69 (1150 in chips) 
+Seat 3: CalgarySammy (6539 in chips) 
+Seat 4: Caio Mugarte (1835 in chips) 
+Seat 6: Carlitos917 (1603 in chips) 
+Seat 7: afsalagoas (1347 in chips) 
+Seat 8: juliao233 (982 in chips) 
+Seat 9: konzept030 (1326 in chips) is sitting out
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+CalgarySammy: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc Kh]
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: calls 30
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: raises 90 to 120
+juliao233: calls 90
+*** FLOP *** [Kd 6s 9h]
+Caio Mugarte: bets 60
+juliao233: folds 
+Uncalled bet (60) returned to Caio Mugarte
+Caio Mugarte collected 287 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 287 | Rake 0 
+Board [Kd 6s 9h]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 (button) folded before Flop (didn't bet)
+Seat 3: CalgarySammy (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) collected (287)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded on the Flop
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446413992: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:30:38 AT [2023/08/17 16:30:38 ET]
+Table '3632673666 3' 9-max Seat #3 is the button
+Seat 1: joseAdilsom (2861 in chips) is sitting out
+Seat 2: frogz69 (1146 in chips) 
+Seat 3: CalgarySammy (6520 in chips) 
+Seat 4: Caio Mugarte (1998 in chips) 
+Seat 6: Carlitos917 (1599 in chips) 
+Seat 7: afsalagoas (1343 in chips) 
+Seat 8: juliao233 (858 in chips) 
+Seat 9: konzept030 (1322 in chips) is sitting out
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+Caio Mugarte: posts small blind 15
+Carlitos917: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ac 3h]
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: calls 15
+Carlitos917: checks 
+*** FLOP *** [Qd Jc 9h]
+Caio Mugarte: checks 
+Carlitos917: checks 
+*** TURN *** [Qd Jc 9h] [Td]
+Caio Mugarte: checks 
+Carlitos917: checks 
+*** RIVER *** [Qd Jc 9h Td] [2d]
+Caio Mugarte: checks 
+Carlitos917: checks 
+*** SHOW DOWN ***
+Caio Mugarte: shows [Ac 3h] (high card Ace)
+Carlitos917: mucks hand 
+Caio Mugarte collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Board [Qd Jc 9h Td 2d]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy (button) folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (small blind) showed [Ac 3h] and won (92) with high card Ace
+Seat 6: Carlitos917 (big blind) mucked [5h 3s]
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446427269: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:31:16 AT [2023/08/17 16:31:16 ET]
+Table '3632673666 3' 9-max Seat #4 is the button
+Seat 1: joseAdilsom (2857 in chips) is sitting out
+Seat 2: frogz69 (1142 in chips) 
+Seat 3: CalgarySammy (6516 in chips) 
+Seat 4: Caio Mugarte (2056 in chips) 
+Seat 6: Carlitos917 (1565 in chips) 
+Seat 7: afsalagoas (1339 in chips) 
+Seat 8: juliao233 (854 in chips) 
+Seat 9: konzept030 (1318 in chips) is sitting out
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+Carlitos917: posts small blind 15
+afsalagoas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qh 2c]
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+konzept030 has returned
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: folds 
+Uncalled bet (15) returned to afsalagoas
+afsalagoas collected 62 from pot
+afsalagoas: doesn't show hand 
+*** SUMMARY ***
+Total pot 62 | Rake 0 
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: Carlitos917 (small blind) folded before Flop
+Seat 7: afsalagoas (big blind) collected (62)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446434456: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:31:36 AT [2023/08/17 16:31:36 ET]
+Table '3632673666 3' 9-max Seat #6 is the button
+Seat 1: joseAdilsom (2853 in chips) is sitting out
+Seat 2: frogz69 (1138 in chips) 
+Seat 3: CalgarySammy (6512 in chips) 
+Seat 4: Caio Mugarte (2052 in chips) 
+Seat 6: Carlitos917 (1546 in chips) 
+Seat 7: afsalagoas (1382 in chips) 
+Seat 8: juliao233 (850 in chips) 
+Seat 9: konzept030 (1314 in chips) 
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+afsalagoas: posts small blind 15
+juliao233: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc 9d]
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: raises 30 to 60
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: calls 60
+afsalagoas: folds 
+juliao233: calls 30
+*** FLOP *** [Ah 8d 7s]
+juliao233: checks 
+frogz69: bets 60
+Carlitos917: folds 
+juliao233: folds 
+Uncalled bet (60) returned to frogz69
+frogz69 collected 227 from pot
+frogz69: doesn't show hand 
+*** SUMMARY ***
+Total pot 227 | Rake 0 
+Board [Ah 8d 7s]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 collected (227)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 (button) folded on the Flop
+Seat 7: afsalagoas (small blind) folded before Flop
+Seat 8: juliao233 (big blind) folded on the Flop
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446453583: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:32:31 AT [2023/08/17 16:32:31 ET]
+Table '3632673666 3' 9-max Seat #7 is the button
+Seat 1: joseAdilsom (2849 in chips) is sitting out
+Seat 2: frogz69 (1301 in chips) 
+Seat 3: CalgarySammy (6508 in chips) 
+Seat 4: Caio Mugarte (2048 in chips) 
+Seat 6: Carlitos917 (1482 in chips) 
+Seat 7: afsalagoas (1363 in chips) 
+Seat 8: juliao233 (786 in chips) 
+Seat 9: konzept030 (1310 in chips) 
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+juliao233: posts small blind 15
+konzept030: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s Ah]
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: calls 15
+konzept030: checks 
+*** FLOP *** [Kd 3h 9h]
+juliao233: bets 30
+konzept030: folds 
+Uncalled bet (30) returned to juliao233
+juliao233 collected 92 from pot
+juliao233: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Board [Kd 3h 9h]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas (button) folded before Flop (didn't bet)
+Seat 8: juliao233 (small blind) collected (92)
+Seat 9: konzept030 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245446461342: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:32:54 AT [2023/08/17 16:32:54 ET]
+Table '3632673666 3' 9-max Seat #8 is the button
+Seat 1: joseAdilsom (2845 in chips) is sitting out
+Seat 2: frogz69 (1297 in chips) 
+Seat 3: CalgarySammy (6504 in chips) 
+Seat 4: Caio Mugarte (2044 in chips) 
+Seat 6: Carlitos917 (1478 in chips) 
+Seat 7: afsalagoas (1359 in chips) 
+Seat 8: juliao233 (844 in chips) 
+Seat 9: konzept030 (1276 in chips) 
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+konzept030: posts small blind 15
+joseAdilsom: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qc 5c]
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: calls 30
+konzept030: calls 15
+joseAdilsom: folds 
+*** FLOP *** [8s 5s Kh]
+konzept030: checks 
+juliao233: bets 61
+konzept030: folds 
+Uncalled bet (61) returned to juliao233
+juliao233 collected 122 from pot
+juliao233: doesn't show hand 
+*** SUMMARY ***
+Total pot 122 | Rake 0 
+Board [8s 5s Kh]
+Seat 1: joseAdilsom (big blind) folded before Flop
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 (button) collected (122)
+Seat 9: konzept030 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245446472370: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:33:25 AT [2023/08/17 16:33:25 ET]
+Table '3632673666 3' 9-max Seat #9 is the button
+Seat 1: joseAdilsom (2811 in chips) is sitting out
+Seat 2: frogz69 (1293 in chips) 
+Seat 3: CalgarySammy (6500 in chips) 
+Seat 4: Caio Mugarte (2040 in chips) 
+Seat 6: Carlitos917 (1474 in chips) 
+Seat 7: afsalagoas (1355 in chips) 
+Seat 8: juliao233 (932 in chips) 
+Seat 9: konzept030 (1242 in chips) 
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+joseAdilsom: posts small blind 15
+frogz69: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc Kc]
+CalgarySammy: calls 30
+Caio Mugarte: calls 30
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: calls 30
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: checks 
+*** FLOP *** [Ad Js 6d]
+frogz69: checks 
+CalgarySammy: checks 
+Caio Mugarte: checks 
+juliao233: bets 167
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Uncalled bet (167) returned to juliao233
+juliao233 collected 167 from pot
+juliao233: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Board [Ad Js 6d]
+Seat 1: joseAdilsom (small blind) folded before Flop
+Seat 2: frogz69 (big blind) folded on the Flop
+Seat 3: CalgarySammy folded on the Flop
+Seat 4: Caio Mugarte folded on the Flop
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 collected (167)
+Seat 9: konzept030 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446500215: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:34:47 AT [2023/08/17 16:34:47 ET]
+Table '3632673666 3' 9-max Seat #1 is the button
+Seat 1: joseAdilsom (2792 in chips) is sitting out
+Seat 2: frogz69 (1259 in chips) 
+Seat 3: CalgarySammy (6466 in chips) 
+Seat 4: Caio Mugarte (2006 in chips) 
+Seat 6: Carlitos917 (1470 in chips) 
+Seat 7: afsalagoas (1351 in chips) 
+Seat 8: juliao233 (1065 in chips) 
+Seat 9: konzept030 (1238 in chips) 
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+frogz69: posts small blind 15
+CalgarySammy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c Jh]
+Caio Mugarte: folds 
+Carlitos917: calls 30
+afsalagoas: folds 
+juliao233: calls 30
+konzept030: raises 30 to 60
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Carlitos917: calls 30
+juliao233: calls 30
+*** FLOP *** [Ks Jc 2h]
+Carlitos917: checks 
+juliao233: checks 
+konzept030: checks 
+*** TURN *** [Ks Jc 2h] [3d]
+Carlitos917: checks 
+juliao233: bets 129
+konzept030: folds 
+Carlitos917: folds 
+Uncalled bet (129) returned to juliao233
+juliao233 collected 257 from pot
+juliao233: doesn't show hand 
+*** SUMMARY ***
+Total pot 257 | Rake 0 
+Board [Ks Jc 2h 3d]
+Seat 1: joseAdilsom (button) folded before Flop (didn't bet)
+Seat 2: frogz69 (small blind) folded before Flop
+Seat 3: CalgarySammy (big blind) folded before Flop
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded on the Turn
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 collected (257)
+Seat 9: konzept030 folded on the Turn
+
+
+
+PokerStars Hand #245446513251: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/17 17:35:25 AT [2023/08/17 16:35:25 ET]
+Table '3632673666 3' 9-max Seat #2 is the button
+Seat 1: joseAdilsom (2788 in chips) is sitting out
+Seat 2: frogz69 (1240 in chips) 
+Seat 3: CalgarySammy (6432 in chips) 
+Seat 4: Caio Mugarte (2002 in chips) 
+Seat 6: Carlitos917 (1406 in chips) 
+Seat 7: afsalagoas (1347 in chips) 
+Seat 8: juliao233 (1258 in chips) 
+Seat 9: konzept030 (1174 in chips) 
+joseAdilsom: posts the ante 4
+frogz69: posts the ante 4
+CalgarySammy: posts the ante 4
+Caio Mugarte: posts the ante 4
+Carlitos917: posts the ante 4
+afsalagoas: posts the ante 4
+juliao233: posts the ante 4
+konzept030: posts the ante 4
+CalgarySammy: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d Th]
+Carlitos917: calls 30
+afsalagoas: folds 
+juliao233: calls 30
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: checks 
+*** FLOP *** [Ah 6d 3c]
+Caio Mugarte: checks 
+Carlitos917: checks 
+juliao233: checks 
+*** TURN *** [Ah 6d 3c] [4h]
+joseAdilsom has returned
+Caio Mugarte: checks 
+Carlitos917: checks 
+juliao233: bets 137
+Caio Mugarte: folds 
+Carlitos917: folds 
+Uncalled bet (137) returned to juliao233
+juliao233 collected 137 from pot
+juliao233: doesn't show hand 
+*** SUMMARY ***
+Total pot 137 | Rake 0 
+Board [Ah 6d 3c 4h]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 (button) folded before Flop (didn't bet)
+Seat 3: CalgarySammy (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) folded on the Turn
+Seat 6: Carlitos917 folded on the Turn
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 collected (137)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446532577: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 17:36:20 AT [2023/08/17 16:36:20 ET]
+Table '3632673666 3' 9-max Seat #3 is the button
+Seat 1: joseAdilsom (2784 in chips) 
+Seat 2: frogz69 (1236 in chips) 
+Seat 3: CalgarySammy (6413 in chips) 
+Seat 4: Caio Mugarte (1968 in chips) 
+Seat 6: Carlitos917 (1372 in chips) 
+Seat 7: afsalagoas (1343 in chips) 
+Seat 8: juliao233 (1361 in chips) 
+Seat 9: konzept030 (1170 in chips) 
+joseAdilsom: posts the ante 6
+frogz69: posts the ante 6
+CalgarySammy: posts the ante 6
+Caio Mugarte: posts the ante 6
+Carlitos917: posts the ante 6
+afsalagoas: posts the ante 6
+juliao233: posts the ante 6
+konzept030: posts the ante 6
+Caio Mugarte: posts small blind 25
+Carlitos917: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 3s]
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: calls 50
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: checks 
+*** FLOP *** [6d As 9h]
+Carlitos917: checks 
+joseAdilsom: checks 
+*** TURN *** [6d As 9h] [5c]
+Carlitos917: checks 
+joseAdilsom: checks 
+*** RIVER *** [6d As 9h 5c] [Ac]
+Carlitos917: checks 
+joseAdilsom: checks 
+*** SHOW DOWN ***
+Carlitos917: shows [2s Qh] (a pair of Aces)
+joseAdilsom: mucks hand 
+Carlitos917 collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Board [6d As 9h 5c Ac]
+Seat 1: joseAdilsom mucked [8h Ts]
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy (button) folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 6: Carlitos917 (big blind) showed [2s Qh] and won (173) with a pair of Aces
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446552824: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 17:37:18 AT [2023/08/17 16:37:18 ET]
+Table '3632673666 3' 9-max Seat #4 is the button
+Seat 1: joseAdilsom (2728 in chips) 
+Seat 2: frogz69 (1230 in chips) 
+Seat 3: CalgarySammy (6407 in chips) 
+Seat 4: Caio Mugarte (1937 in chips) 
+Seat 6: Carlitos917 (1489 in chips) 
+Seat 7: afsalagoas (1337 in chips) 
+Seat 8: juliao233 (1355 in chips) 
+Seat 9: konzept030 (1164 in chips) 
+joseAdilsom: posts the ante 6
+frogz69: posts the ante 6
+CalgarySammy: posts the ante 6
+Caio Mugarte: posts the ante 6
+Carlitos917: posts the ante 6
+afsalagoas: posts the ante 6
+juliao233: posts the ante 6
+konzept030: posts the ante 6
+Carlitos917: posts small blind 25
+afsalagoas: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s Qd]
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: calls 50
+frogz69: folds 
+CalgarySammy: calls 50
+Caio Mugarte: folds 
+Carlitos917: calls 25
+afsalagoas: checks 
+*** FLOP *** [7s 8c Th]
+Carlitos917: checks 
+afsalagoas: checks 
+joseAdilsom: checks 
+CalgarySammy: bets 124
+Carlitos917: folds 
+afsalagoas: folds 
+joseAdilsom: calls 124
+*** TURN *** [7s 8c Th] [3c]
+joseAdilsom: checks 
+CalgarySammy: bets 496
+joseAdilsom: folds 
+Uncalled bet (496) returned to CalgarySammy
+CalgarySammy collected 496 from pot
+*** SUMMARY ***
+Total pot 496 | Rake 0 
+Board [7s 8c Th 3c]
+Seat 1: joseAdilsom folded on the Turn
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy collected (496)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: Carlitos917 (small blind) folded on the Flop
+Seat 7: afsalagoas (big blind) folded on the Flop
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446573143: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 17:38:18 AT [2023/08/17 16:38:18 ET]
+Table '3632673666 3' 9-max Seat #6 is the button
+Seat 1: joseAdilsom (2548 in chips) 
+Seat 2: frogz69 (1224 in chips) 
+Seat 3: CalgarySammy (6723 in chips) 
+Seat 4: Caio Mugarte (1931 in chips) 
+Seat 6: Carlitos917 (1433 in chips) 
+Seat 7: afsalagoas (1281 in chips) 
+Seat 8: juliao233 (1349 in chips) 
+Seat 9: konzept030 (1158 in chips) 
+joseAdilsom: posts the ante 6
+frogz69: posts the ante 6
+CalgarySammy: posts the ante 6
+Caio Mugarte: posts the ante 6
+Carlitos917: posts the ante 6
+afsalagoas: posts the ante 6
+juliao233: posts the ante 6
+konzept030: posts the ante 6
+afsalagoas: posts small blind 25
+juliao233: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qh 3s]
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+Uncalled bet (25) returned to juliao233
+juliao233 collected 98 from pot
+juliao233: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 (button) folded before Flop (didn't bet)
+Seat 7: afsalagoas (small blind) folded before Flop
+Seat 8: juliao233 (big blind) collected (98)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446581385: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 17:38:42 AT [2023/08/17 16:38:42 ET]
+Table '3632673666 3' 9-max Seat #7 is the button
+Seat 1: joseAdilsom (2542 in chips) 
+Seat 2: frogz69 (1218 in chips) 
+Seat 3: CalgarySammy (6717 in chips) 
+Seat 4: Caio Mugarte (1925 in chips) 
+Seat 6: Carlitos917 (1427 in chips) 
+Seat 7: afsalagoas (1250 in chips) 
+Seat 8: juliao233 (1416 in chips) 
+Seat 9: konzept030 (1152 in chips) 
+joseAdilsom: posts the ante 6
+frogz69: posts the ante 6
+CalgarySammy: posts the ante 6
+Caio Mugarte: posts the ante 6
+Carlitos917: posts the ante 6
+afsalagoas: posts the ante 6
+juliao233: posts the ante 6
+konzept030: posts the ante 6
+juliao233: posts small blind 25
+konzept030: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d Qs]
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: calls 50
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: calls 25
+konzept030: checks 
+*** FLOP *** [3c Qh Jh]
+juliao233: checks 
+konzept030: checks 
+CalgarySammy: checks 
+*** TURN *** [3c Qh Jh] [4c]
+juliao233: checks 
+konzept030: checks 
+CalgarySammy: checks 
+*** RIVER *** [3c Qh Jh 4c] [7d]
+juliao233: checks 
+konzept030: checks 
+CalgarySammy: checks 
+*** SHOW DOWN ***
+juliao233: shows [3d 6d] (a pair of Threes)
+konzept030: mucks hand 
+CalgarySammy: mucks hand 
+juliao233 collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | Rake 0 
+Board [3c Qh Jh 4c 7d]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy mucked [8s Ts]
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas (button) folded before Flop (didn't bet)
+Seat 8: juliao233 (small blind) showed [3d 6d] and won (198) with a pair of Threes
+Seat 9: konzept030 (big blind) mucked [2c As]
+
+
+
+PokerStars Hand #245446605841: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 17:39:53 AT [2023/08/17 16:39:53 ET]
+Table '3632673666 3' 9-max Seat #8 is the button
+Seat 1: joseAdilsom (2536 in chips) 
+Seat 2: frogz69 (1212 in chips) 
+Seat 4: Caio Mugarte (1919 in chips) 
+Seat 6: Carlitos917 (1421 in chips) 
+Seat 7: afsalagoas (1244 in chips) 
+Seat 8: juliao233 (1558 in chips) 
+Seat 9: konzept030 (1096 in chips) 
+joseAdilsom: posts the ante 6
+frogz69: posts the ante 6
+Caio Mugarte: posts the ante 6
+Carlitos917: posts the ante 6
+afsalagoas: posts the ante 6
+juliao233: posts the ante 6
+konzept030: posts the ante 6
+konzept030: posts small blind 25
+joseAdilsom: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts 8h]
+frogz69: folds 
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: calls 25
+joseAdilsom: checks 
+*** FLOP *** [9c 9s Kd]
+konzept030: checks 
+joseAdilsom: checks 
+*** TURN *** [9c 9s Kd] [Ac]
+konzept030: checks 
+joseAdilsom: checks 
+*** RIVER *** [9c 9s Kd Ac] [Kh]
+konzept030: bets 50
+joseAdilsom: folds 
+Uncalled bet (50) returned to konzept030
+konzept030 collected 142 from pot
+konzept030: doesn't show hand 
+*** SUMMARY ***
+Total pot 142 | Rake 0 
+Board [9c 9s Kd Ac Kh]
+Seat 1: joseAdilsom (big blind) folded on the River
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 (button) folded before Flop (didn't bet)
+Seat 9: konzept030 (small blind) collected (142)
+
+
+
+PokerStars Hand #245446620179: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 17:40:34 AT [2023/08/17 16:40:34 ET]
+Table '3632673666 3' 9-max Seat #9 is the button
+Seat 1: joseAdilsom (2480 in chips) 
+Seat 2: frogz69 (1206 in chips) 
+Seat 4: Caio Mugarte (1913 in chips) 
+Seat 6: Carlitos917 (1415 in chips) 
+Seat 7: afsalagoas (1238 in chips) 
+Seat 8: juliao233 (1552 in chips) 
+Seat 9: konzept030 (1182 in chips) 
+joseAdilsom: posts the ante 6
+frogz69: posts the ante 6
+Caio Mugarte: posts the ante 6
+Carlitos917: posts the ante 6
+afsalagoas: posts the ante 6
+juliao233: posts the ante 6
+konzept030: posts the ante 6
+joseAdilsom: posts small blind 25
+frogz69: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d 6s]
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: calls 50
+konzept030: folds 
+joseAdilsom: calls 25
+frogz69: checks 
+*** FLOP *** [8h 3c Ac]
+joseAdilsom: bets 96
+lcustodiomf is disconnected 
+frogz69: raises 154 to 250
+juliao233: folds 
+joseAdilsom: calls 154
+*** TURN *** [8h 3c Ac] [Kc]
+joseAdilsom: checks 
+frogz69: checks 
+*** RIVER *** [8h 3c Ac Kc] [Kh]
+joseAdilsom: checks 
+frogz69: bets 300
+joseAdilsom: calls 300
+*** SHOW DOWN ***
+frogz69: shows [9c 5c] (a flush, Ace high)
+joseAdilsom: mucks hand 
+frogz69 collected 1292 from pot
+*** SUMMARY ***
+Total pot 1292 | Rake 0 
+Board [8h 3c Ac Kc Kh]
+Seat 1: joseAdilsom (small blind) mucked [Ah 6d]
+Seat 2: frogz69 (big blind) showed [9c 5c] and won (1292) with a flush, Ace high
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded on the Flop
+Seat 9: konzept030 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446650529: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 17:42:03 AT [2023/08/17 16:42:03 ET]
+Table '3632673666 3' 9-max Seat #1 is the button
+Seat 1: joseAdilsom (1874 in chips) 
+Seat 2: frogz69 (1892 in chips) 
+Seat 3: CalgarySammy (6655 in chips) 
+Seat 4: Caio Mugarte (1907 in chips) 
+Seat 5: lcustodiomf (805 in chips) 
+Seat 6: Carlitos917 (1409 in chips) 
+Seat 7: afsalagoas (1232 in chips) 
+Seat 8: juliao233 (1496 in chips) 
+Seat 9: konzept030 (1176 in chips) 
+joseAdilsom: posts the ante 6
+frogz69: posts the ante 6
+CalgarySammy: posts the ante 6
+Caio Mugarte: posts the ante 6
+lcustodiomf: posts the ante 6
+Carlitos917: posts the ante 6
+afsalagoas: posts the ante 6
+juliao233: posts the ante 6
+konzept030: posts the ante 6
+frogz69: posts small blind 25
+CalgarySammy: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th 4d]
+Caio Mugarte: folds 
+lcustodiomf: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: raises 1818 to 1868 and is all-in
+frogz69: folds 
+CalgarySammy: calls 1818
+*** FLOP *** [4h 3h 2d]
+*** TURN *** [4h 3h 2d] [8d]
+*** RIVER *** [4h 3h 2d 8d] [Jh]
+*** SHOW DOWN ***
+CalgarySammy: shows [Ts Ad] (high card Ace)
+joseAdilsom: shows [Kd Kh] (a pair of Kings)
+joseAdilsom collected 3815 from pot
+*** SUMMARY ***
+Total pot 3815 | Rake 0 
+Board [4h 3h 2d 8d Jh]
+Seat 1: joseAdilsom (button) showed [Kd Kh] and won (3815) with a pair of Kings
+Seat 2: frogz69 (small blind) folded before Flop
+Seat 3: CalgarySammy (big blind) showed [Ts Ad] and lost with high card Ace
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: lcustodiomf folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446660238: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 17:42:31 AT [2023/08/17 16:42:31 ET]
+Table '3632673666 3' 9-max Seat #2 is the button
+Seat 1: joseAdilsom (3815 in chips) 
+Seat 2: frogz69 (1861 in chips) 
+Seat 3: CalgarySammy (4781 in chips) 
+Seat 4: Caio Mugarte (1901 in chips) 
+Seat 5: lcustodiomf (799 in chips) 
+Seat 6: Carlitos917 (1403 in chips) 
+Seat 7: afsalagoas (1226 in chips) 
+Seat 8: juliao233 (1490 in chips) 
+Seat 9: konzept030 (1170 in chips) 
+joseAdilsom: posts the ante 6
+frogz69: posts the ante 6
+CalgarySammy: posts the ante 6
+Caio Mugarte: posts the ante 6
+lcustodiomf: posts the ante 6
+Carlitos917: posts the ante 6
+afsalagoas: posts the ante 6
+juliao233: posts the ante 6
+konzept030: posts the ante 6
+CalgarySammy: posts small blind 25
+Caio Mugarte: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qd Ad]
+lcustodiomf: folds 
+Carlitos917: calls 50
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: calls 50
+frogz69: folds 
+CalgarySammy: calls 25
+Caio Mugarte: raises 250 to 300
+Carlitos917: calls 250
+joseAdilsom: folds 
+CalgarySammy: folds 
+*** FLOP *** [Qc 3s Kh]
+Caio Mugarte: checks 
+Carlitos917: bets 1097 and is all-in
+Caio Mugarte: folds 
+Uncalled bet (1097) returned to Carlitos917
+Carlitos917 collected 754 from pot
+Carlitos917: doesn't show hand 
+*** SUMMARY ***
+Total pot 754 | Rake 0 
+Board [Qc 3s Kh]
+Seat 1: joseAdilsom folded before Flop
+Seat 2: frogz69 (button) folded before Flop (didn't bet)
+Seat 3: CalgarySammy (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) folded on the Flop
+Seat 5: lcustodiomf folded before Flop (didn't bet)
+Seat 6: Carlitos917 collected (754)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446681675: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 17:43:34 AT [2023/08/17 16:43:34 ET]
+Table '3632673666 3' 9-max Seat #3 is the button
+Seat 1: joseAdilsom (3759 in chips) 
+Seat 2: frogz69 (1855 in chips) 
+Seat 3: CalgarySammy (4725 in chips) 
+Seat 4: Caio Mugarte (1595 in chips) 
+Seat 5: lcustodiomf (793 in chips) 
+Seat 6: Carlitos917 (1851 in chips) 
+Seat 7: afsalagoas (1220 in chips) 
+Seat 8: juliao233 (1484 in chips) 
+Seat 9: konzept030 (1164 in chips) 
+joseAdilsom: posts the ante 6
+frogz69: posts the ante 6
+CalgarySammy: posts the ante 6
+Caio Mugarte: posts the ante 6
+lcustodiomf: posts the ante 6
+Carlitos917: posts the ante 6
+afsalagoas: posts the ante 6
+juliao233: posts the ante 6
+konzept030: posts the ante 6
+Caio Mugarte: posts small blind 25
+lcustodiomf: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s 5h]
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: calls 50
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+lcustodiomf: checks 
+*** FLOP *** [8c Jh 8h]
+lcustodiomf: checks 
+konzept030: checks 
+*** TURN *** [8c Jh 8h] [Kd]
+lcustodiomf: bets 143
+konzept030: calls 143
+*** RIVER *** [8c Jh 8h Kd] [Ks]
+lcustodiomf: checks 
+konzept030: checks 
+*** SHOW DOWN ***
+lcustodiomf: shows [2c Js] (two pair, Kings and Jacks)
+konzept030: shows [8s As] (a full house, Eights full of Kings)
+konzept030 collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | Rake 0 
+Board [8c Jh 8h Kd Ks]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy (button) folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 5: lcustodiomf (big blind) showed [2c Js] and lost with two pair, Kings and Jacks
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 showed [8s As] and won (465) with a full house, Eights full of Kings
+
+
+
+PokerStars Hand #245446703987: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 17:44:40 AT [2023/08/17 16:44:40 ET]
+Table '3632673666 3' 9-max Seat #4 is the button
+Seat 1: joseAdilsom (3753 in chips) 
+Seat 2: frogz69 (1849 in chips) 
+Seat 3: CalgarySammy (4719 in chips) 
+Seat 4: Caio Mugarte (1564 in chips) 
+Seat 5: lcustodiomf (594 in chips) 
+Seat 6: Carlitos917 (1845 in chips) 
+Seat 7: afsalagoas (1214 in chips) 
+Seat 8: juliao233 (1478 in chips) 
+Seat 9: konzept030 (1430 in chips) 
+joseAdilsom: posts the ante 6
+frogz69: posts the ante 6
+CalgarySammy: posts the ante 6
+Caio Mugarte: posts the ante 6
+lcustodiomf: posts the ante 6
+Carlitos917: posts the ante 6
+afsalagoas: posts the ante 6
+juliao233: posts the ante 6
+konzept030: posts the ante 6
+lcustodiomf: posts small blind 25
+Carlitos917: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 6d]
+afsalagoas: raises 50 to 100
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+lcustodiomf: raises 488 to 588 and is all-in
+Carlitos917: folds 
+afsalagoas: calls 488
+*** FLOP *** [2h Ks 4d]
+*** TURN *** [2h Ks 4d] [As]
+*** RIVER *** [2h Ks 4d As] [Qh]
+*** SHOW DOWN ***
+lcustodiomf: shows [Kh Ad] (two pair, Aces and Kings)
+afsalagoas: shows [Ac Kc] (two pair, Aces and Kings)
+lcustodiomf collected 640 from pot
+afsalagoas collected 640 from pot
+*** SUMMARY ***
+Total pot 1280 | Rake 0 
+Board [2h Ks 4d As Qh]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 5: lcustodiomf (small blind) showed [Kh Ad] and won (640) with two pair, Aces and Kings
+Seat 6: Carlitos917 (big blind) folded before Flop
+Seat 7: afsalagoas showed [Ac Kc] and won (640) with two pair, Aces and Kings
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446716063: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/17 17:45:16 AT [2023/08/17 16:45:16 ET]
+Table '3632673666 3' 9-max Seat #5 is the button
+Seat 1: joseAdilsom (3747 in chips) 
+Seat 2: frogz69 (1843 in chips) 
+Seat 3: CalgarySammy (4713 in chips) 
+Seat 4: Caio Mugarte (1558 in chips) 
+Seat 5: lcustodiomf (640 in chips) 
+Seat 6: Carlitos917 (1789 in chips) 
+Seat 7: afsalagoas (1260 in chips) 
+Seat 8: juliao233 (1472 in chips) 
+Seat 9: konzept030 (1424 in chips) 
+joseAdilsom: posts the ante 6
+frogz69: posts the ante 6
+CalgarySammy: posts the ante 6
+Caio Mugarte: posts the ante 6
+lcustodiomf: posts the ante 6
+Carlitos917: posts the ante 6
+afsalagoas: posts the ante 6
+juliao233: posts the ante 6
+konzept030: posts the ante 6
+Carlitos917: posts small blind 25
+afsalagoas: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9d 6c]
+juliao233: folds 
+konzept030: calls 50
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+lcustodiomf: folds 
+Carlitos917: folds 
+afsalagoas: checks 
+*** FLOP *** [7d 3c As]
+afsalagoas: bets 50
+konzept030: folds 
+Uncalled bet (50) returned to afsalagoas
+afsalagoas collected 179 from pot
+afsalagoas: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Board [7d 3c As]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: lcustodiomf (button) folded before Flop (didn't bet)
+Seat 6: Carlitos917 (small blind) folded before Flop
+Seat 7: afsalagoas (big blind) collected (179)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded on the Flop
+
+
+
+PokerStars Hand #245446726572: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:45:46 AT [2023/08/17 16:45:46 ET]
+Table '3632673666 3' 9-max Seat #6 is the button
+Seat 1: joseAdilsom (3741 in chips) 
+Seat 2: frogz69 (1837 in chips) 
+Seat 3: CalgarySammy (4707 in chips) 
+Seat 4: Caio Mugarte (1552 in chips) 
+Seat 5: lcustodiomf (634 in chips) 
+Seat 6: Carlitos917 (1758 in chips) 
+Seat 7: afsalagoas (1383 in chips) 
+Seat 8: juliao233 (1466 in chips) 
+Seat 9: konzept030 (1368 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+afsalagoas: posts small blind 40
+juliao233: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7h 7s]
+konzept030: folds 
+joseAdilsom: calls 80
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: calls 80
+lcustodiomf: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: checks 
+*** FLOP *** [Kc 2s 2c]
+juliao233: checks 
+joseAdilsom: bets 80
+Caio Mugarte: folds 
+juliao233: folds 
+Uncalled bet (80) returned to joseAdilsom
+joseAdilsom collected 370 from pot
+joseAdilsom: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [Kc 2s 2c]
+Seat 1: joseAdilsom collected (370)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded on the Flop
+Seat 5: lcustodiomf folded before Flop (didn't bet)
+Seat 6: Carlitos917 (button) folded before Flop (didn't bet)
+Seat 7: afsalagoas (small blind) folded before Flop
+Seat 8: juliao233 (big blind) folded on the Flop
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446739842: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:46:25 AT [2023/08/17 16:46:25 ET]
+Table '3632673666 3' 9-max Seat #7 is the button
+Seat 1: joseAdilsom (4021 in chips) 
+Seat 2: frogz69 (1827 in chips) 
+Seat 3: CalgarySammy (4697 in chips) 
+Seat 4: Caio Mugarte (1462 in chips) 
+Seat 5: lcustodiomf (624 in chips) 
+Seat 6: Carlitos917 (1748 in chips) 
+Seat 7: afsalagoas (1333 in chips) 
+Seat 8: juliao233 (1376 in chips) 
+Seat 9: konzept030 (1358 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+juliao233: posts small blind 40
+konzept030: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c 4d]
+joseAdilsom: folds 
+frogz69: raises 96 to 176
+CalgarySammy: folds 
+Caio Mugarte: folds 
+lcustodiomf: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+Uncalled bet (96) returned to frogz69
+frogz69 collected 290 from pot
+frogz69: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 collected (290)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: lcustodiomf folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas (button) folded before Flop (didn't bet)
+Seat 8: juliao233 (small blind) folded before Flop
+Seat 9: konzept030 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245446751254: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:46:58 AT [2023/08/17 16:46:58 ET]
+Table '3632673666 3' 9-max Seat #8 is the button
+Seat 1: joseAdilsom (4011 in chips) 
+Seat 2: frogz69 (2027 in chips) 
+Seat 3: CalgarySammy (4687 in chips) 
+Seat 4: Caio Mugarte (1452 in chips) 
+Seat 5: lcustodiomf (614 in chips) 
+Seat 6: Carlitos917 (1738 in chips) 
+Seat 7: afsalagoas (1323 in chips) 
+Seat 8: juliao233 (1326 in chips) 
+Seat 9: konzept030 (1268 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+konzept030: posts small blind 40
+joseAdilsom: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6h Tc]
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+lcustodiomf: folds 
+Carlitos917: folds 
+afsalagoas: raises 80 to 160
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: calls 80
+*** FLOP *** [3h Qc 8d]
+joseAdilsom: checks 
+afsalagoas: bets 135
+joseAdilsom: folds 
+Uncalled bet (135) returned to afsalagoas
+afsalagoas collected 450 from pot
+afsalagoas: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [3h Qc 8d]
+Seat 1: joseAdilsom (big blind) folded on the Flop
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: lcustodiomf folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas collected (450)
+Seat 8: juliao233 (button) folded before Flop (didn't bet)
+Seat 9: konzept030 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245446769603: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:47:51 AT [2023/08/17 16:47:51 ET]
+Table '3632673666 3' 9-max Seat #9 is the button
+Seat 1: joseAdilsom (3841 in chips) 
+Seat 2: frogz69 (2017 in chips) 
+Seat 3: CalgarySammy (4677 in chips) 
+Seat 4: Caio Mugarte (1442 in chips) 
+Seat 5: lcustodiomf (604 in chips) 
+Seat 6: Carlitos917 (1728 in chips) 
+Seat 7: afsalagoas (1603 in chips) 
+Seat 8: juliao233 (1316 in chips) 
+Seat 9: konzept030 (1218 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+joseAdilsom: posts small blind 40
+frogz69: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ah 9c]
+CalgarySammy: folds 
+Caio Mugarte: folds 
+lcustodiomf: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: calls 40
+frogz69: checks 
+*** FLOP *** [5c Tc 3h]
+joseAdilsom: checks 
+frogz69: checks 
+*** TURN *** [5c Tc 3h] [2d]
+joseAdilsom: checks 
+frogz69: checks 
+*** RIVER *** [5c Tc 3h 2d] [Ts]
+joseAdilsom: checks 
+frogz69: checks 
+*** SHOW DOWN ***
+joseAdilsom: shows [8h Ks] (a pair of Tens)
+frogz69: mucks hand 
+joseAdilsom collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [5c Tc 3h 2d Ts]
+Seat 1: joseAdilsom (small blind) showed [8h Ks] and won (250) with a pair of Tens
+Seat 2: frogz69 (big blind) mucked [Jd 7s]
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: lcustodiomf folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446793259: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:49:00 AT [2023/08/17 16:49:00 ET]
+Table '3632673666 3' 9-max Seat #1 is the button
+Seat 1: joseAdilsom (4001 in chips) 
+Seat 2: frogz69 (1927 in chips) 
+Seat 3: CalgarySammy (4667 in chips) 
+Seat 4: Caio Mugarte (1432 in chips) 
+Seat 5: lcustodiomf (594 in chips) 
+Seat 6: Carlitos917 (1718 in chips) 
+Seat 7: afsalagoas (1593 in chips) 
+Seat 8: juliao233 (1306 in chips) 
+Seat 9: konzept030 (1208 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+frogz69: posts small blind 40
+CalgarySammy: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7h Ah]
+Caio Mugarte: raises 80 to 160
+lcustodiomf: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Uncalled bet (80) returned to Caio Mugarte
+Caio Mugarte collected 290 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: joseAdilsom (button) folded before Flop (didn't bet)
+Seat 2: frogz69 (small blind) folded before Flop
+Seat 3: CalgarySammy (big blind) folded before Flop
+Seat 4: Caio Mugarte collected (290)
+Seat 5: lcustodiomf folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446802583: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:49:27 AT [2023/08/17 16:49:27 ET]
+Table '3632673666 3' 9-max Seat #2 is the button
+Seat 1: joseAdilsom (3991 in chips) 
+Seat 2: frogz69 (1877 in chips) 
+Seat 3: CalgarySammy (4577 in chips) 
+Seat 4: Caio Mugarte (1632 in chips) 
+Seat 5: lcustodiomf (584 in chips) 
+Seat 6: Carlitos917 (1708 in chips) 
+Seat 7: afsalagoas (1583 in chips) 
+Seat 8: juliao233 (1296 in chips) 
+Seat 9: konzept030 (1198 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+CalgarySammy: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc 6d]
+lcustodiomf: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: raises 80 to 160
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Uncalled bet (80) returned to konzept030
+konzept030 collected 290 from pot
+konzept030: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 (button) folded before Flop (didn't bet)
+Seat 3: CalgarySammy (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) folded before Flop
+Seat 5: lcustodiomf folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 collected (290)
+
+
+
+PokerStars Hand #245446812567: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:49:57 AT [2023/08/17 16:49:57 ET]
+Table '3632673666 3' 9-max Seat #3 is the button
+Seat 1: joseAdilsom (3981 in chips) 
+Seat 2: frogz69 (1867 in chips) 
+Seat 3: CalgarySammy (4527 in chips) 
+Seat 4: Caio Mugarte (1542 in chips) 
+Seat 5: lcustodiomf (574 in chips) 
+Seat 6: Carlitos917 (1698 in chips) 
+Seat 7: afsalagoas (1573 in chips) 
+Seat 8: juliao233 (1286 in chips) 
+Seat 9: konzept030 (1398 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+Caio Mugarte: posts small blind 40
+lcustodiomf: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6d Ad]
+Carlitos917: calls 80
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: raises 4437 to 4517 and is all-in
+Caio Mugarte: folds 
+lcustodiomf: folds 
+Carlitos917: folds 
+Uncalled bet (4437) returned to CalgarySammy
+CalgarySammy collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy (button) collected (370)
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 5: lcustodiomf (big blind) folded before Flop
+Seat 6: Carlitos917 folded before Flop
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446823607: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:50:29 AT [2023/08/17 16:50:29 ET]
+Table '3632673666 3' 9-max Seat #4 is the button
+Seat 1: joseAdilsom (3971 in chips) 
+Seat 2: frogz69 (1857 in chips) 
+Seat 3: CalgarySammy (4807 in chips) 
+Seat 4: Caio Mugarte (1492 in chips) 
+Seat 5: lcustodiomf (484 in chips) 
+Seat 6: Carlitos917 (1608 in chips) 
+Seat 7: afsalagoas (1563 in chips) 
+Seat 8: juliao233 (1276 in chips) 
+Seat 9: konzept030 (1388 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+lcustodiomf: posts small blind 40
+Carlitos917: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h Qh]
+afsalagoas: folds 
+juliao233: folds 
+konzept030: raises 80 to 160
+joseAdilsom: calls 160
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+lcustodiomf: folds 
+Carlitos917: folds 
+*** FLOP *** [9h 8h 8s]
+konzept030: bets 240
+joseAdilsom: folds 
+Uncalled bet (240) returned to konzept030
+konzept030 collected 530 from pot
+konzept030: doesn't show hand 
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [9h 8h 8s]
+Seat 1: joseAdilsom folded on the Flop
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 5: lcustodiomf (small blind) folded before Flop
+Seat 6: Carlitos917 (big blind) folded before Flop
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 collected (530)
+
+
+
+PokerStars Hand #245446837657: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:51:11 AT [2023/08/17 16:51:11 ET]
+Table '3632673666 3' 9-max Seat #5 is the button
+Seat 1: joseAdilsom (3801 in chips) 
+Seat 2: frogz69 (1847 in chips) 
+Seat 3: CalgarySammy (4797 in chips) 
+Seat 4: Caio Mugarte (1482 in chips) 
+Seat 5: lcustodiomf (434 in chips) 
+Seat 6: Carlitos917 (1518 in chips) 
+Seat 7: afsalagoas (1553 in chips) 
+Seat 8: juliao233 (1266 in chips) 
+Seat 9: konzept030 (1748 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+Carlitos917: posts small blind 40
+afsalagoas: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s 3d]
+juliao233: raises 80 to 160
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+lcustodiomf: folds 
+Carlitos917: calls 120
+afsalagoas: folds 
+*** FLOP *** [Ks 6c 2d]
+Carlitos917: checks 
+juliao233: checks 
+*** TURN *** [Ks 6c 2d] [Qc]
+Carlitos917: checks 
+juliao233: bets 80
+Carlitos917: calls 80
+*** RIVER *** [Ks 6c 2d Qc] [8c]
+Carlitos917: bets 650
+juliao233: folds 
+Uncalled bet (650) returned to Carlitos917
+Carlitos917 collected 650 from pot
+Carlitos917: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Ks 6c 2d Qc 8c]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: lcustodiomf (button) folded before Flop (didn't bet)
+Seat 6: Carlitos917 (small blind) collected (650)
+Seat 7: afsalagoas (big blind) folded before Flop
+Seat 8: juliao233 folded on the River
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446855564: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:52:04 AT [2023/08/17 16:52:04 ET]
+Table '3632673666 3' 9-max Seat #6 is the button
+Seat 1: joseAdilsom (3791 in chips) 
+Seat 2: frogz69 (1837 in chips) 
+Seat 3: CalgarySammy (4787 in chips) 
+Seat 4: Caio Mugarte (1472 in chips) 
+Seat 5: lcustodiomf (424 in chips) 
+Seat 6: Carlitos917 (1918 in chips) 
+Seat 7: afsalagoas (1463 in chips) 
+Seat 8: juliao233 (1016 in chips) 
+Seat 9: konzept030 (1738 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+afsalagoas: posts small blind 40
+juliao233: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d Kd]
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: raises 80 to 160
+lcustodiomf: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: calls 80
+*** FLOP *** [Qc 3c Kc]
+juliao233: checks 
+Caio Mugarte: bets 149
+juliao233: folds 
+Uncalled bet (149) returned to Caio Mugarte
+Caio Mugarte collected 450 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Qc 3c Kc]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte collected (450)
+Seat 5: lcustodiomf folded before Flop (didn't bet)
+Seat 6: Carlitos917 (button) folded before Flop (didn't bet)
+Seat 7: afsalagoas (small blind) folded before Flop
+Seat 8: juliao233 (big blind) folded on the Flop
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446866686: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:52:37 AT [2023/08/17 16:52:37 ET]
+Table '3632673666 3' 9-max Seat #7 is the button
+Seat 1: joseAdilsom (3781 in chips) 
+Seat 2: frogz69 (1827 in chips) 
+Seat 3: CalgarySammy (4777 in chips) 
+Seat 4: Caio Mugarte (1752 in chips) 
+Seat 5: lcustodiomf (414 in chips) 
+Seat 6: Carlitos917 (1908 in chips) 
+Seat 7: afsalagoas (1413 in chips) 
+Seat 8: juliao233 (846 in chips) 
+Seat 9: konzept030 (1728 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+juliao233: posts small blind 40
+konzept030: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th 8c]
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+lcustodiomf: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: calls 40
+konzept030: checks 
+*** FLOP *** [4c 2h 8d]
+juliao233: checks 
+konzept030: bets 80
+juliao233: calls 80
+*** TURN *** [4c 2h 8d] [Qs]
+juliao233: checks 
+konzept030: bets 160
+juliao233: raises 516 to 676 and is all-in
+konzept030: calls 516
+*** RIVER *** [4c 2h 8d Qs] [4h]
+*** SHOW DOWN ***
+juliao233: shows [Ah Qh] (two pair, Queens and Fours)
+konzept030: shows [3c Qc] (two pair, Queens and Fours - lower kicker)
+juliao233 collected 1762 from pot
+*** SUMMARY ***
+Total pot 1762 | Rake 0 
+Board [4c 2h 8d Qs 4h]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: lcustodiomf folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas (button) folded before Flop (didn't bet)
+Seat 8: juliao233 (small blind) showed [Ah Qh] and won (1762) with two pair, Queens and Fours
+Seat 9: konzept030 (big blind) showed [3c Qc] and lost with two pair, Queens and Fours
+
+
+
+PokerStars Hand #245446882254: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:53:24 AT [2023/08/17 16:53:24 ET]
+Table '3632673666 3' 9-max Seat #8 is the button
+Seat 1: joseAdilsom (3771 in chips) 
+Seat 2: frogz69 (1817 in chips) 
+Seat 3: CalgarySammy (4767 in chips) 
+Seat 4: Caio Mugarte (1742 in chips) 
+Seat 5: lcustodiomf (404 in chips) 
+Seat 6: Carlitos917 (1898 in chips) 
+Seat 7: afsalagoas (1403 in chips) 
+Seat 8: juliao233 (1762 in chips) 
+Seat 9: konzept030 (882 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+lcustodiomf: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+konzept030: posts small blind 40
+joseAdilsom: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts 5d]
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+lcustodiomf: raises 314 to 394 and is all-in
+Carlitos917: folds 
+afsalagoas: raises 999 to 1393 and is all-in
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+Uncalled bet (999) returned to afsalagoas
+*** FLOP *** [Kc Jc 2s]
+*** TURN *** [Kc Jc 2s] [9h]
+*** RIVER *** [Kc Jc 2s 9h] [Ks]
+*** SHOW DOWN ***
+lcustodiomf: shows [4c Tc] (a pair of Kings)
+afsalagoas: shows [Ad Jh] (two pair, Kings and Jacks)
+afsalagoas collected 998 from pot
+lcustodiomf finished the tournament in 25th place
+*** SUMMARY ***
+Total pot 998 | Rake 0 
+Board [Kc Jc 2s 9h Ks]
+Seat 1: joseAdilsom (big blind) folded before Flop
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: lcustodiomf showed [4c Tc] and lost with a pair of Kings
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas showed [Ad Jh] and won (998) with two pair, Kings and Jacks
+Seat 8: juliao233 (button) folded before Flop (didn't bet)
+Seat 9: konzept030 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245446897427: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:54:09 AT [2023/08/17 16:54:09 ET]
+Table '3632673666 3' 9-max Seat #9 is the button
+Seat 1: joseAdilsom (3681 in chips) 
+Seat 2: frogz69 (1807 in chips) 
+Seat 3: CalgarySammy (4757 in chips) 
+Seat 4: Caio Mugarte (1732 in chips) 
+Seat 6: Carlitos917 (1888 in chips) 
+Seat 7: afsalagoas (1997 in chips) 
+Seat 8: juliao233 (1752 in chips) 
+Seat 9: konzept030 (832 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+joseAdilsom: posts small blind 40
+frogz69: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc 8c]
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: calls 80
+afsalagoas: raises 240 to 320
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+Carlitos917: folds 
+Uncalled bet (240) returned to afsalagoas
+afsalagoas collected 360 from pot
+afsalagoas: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 1: joseAdilsom (small blind) folded before Flop
+Seat 2: frogz69 (big blind) folded before Flop
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop
+Seat 7: afsalagoas collected (360)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245446909189: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 17:54:45 AT [2023/08/17 16:54:45 ET]
+Table '3632673666 3' 9-max Seat #1 is the button
+Seat 1: joseAdilsom (3631 in chips) 
+Seat 2: frogz69 (1717 in chips) 
+Seat 3: CalgarySammy (4747 in chips) 
+Seat 4: Caio Mugarte (1722 in chips) 
+Seat 6: Carlitos917 (1798 in chips) 
+Seat 7: afsalagoas (2267 in chips) 
+Seat 8: juliao233 (1742 in chips) 
+Seat 9: konzept030 (822 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+frogz69: posts small blind 40
+CalgarySammy: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kh 9h]
+Caio Mugarte: raises 80 to 160
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: calls 160
+frogz69: folds 
+CalgarySammy: calls 80
+*** FLOP *** [5h 6d 8c]
+CalgarySammy: checks 
+Caio Mugarte: checks 
+joseAdilsom: checks 
+*** TURN *** [5h 6d 8c] [4d]
+CalgarySammy: checks 
+Caio Mugarte: checks 
+joseAdilsom: checks 
+*** RIVER *** [5h 6d 8c 4d] [2c]
+CalgarySammy: bets 300
+Caio Mugarte: folds 
+joseAdilsom: folds 
+Uncalled bet (300) returned to CalgarySammy
+CalgarySammy collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [5h 6d 8c 4d 2c]
+Seat 1: joseAdilsom (button) folded on the River
+Seat 2: frogz69 (small blind) folded before Flop
+Seat 3: CalgarySammy (big blind) collected (600)
+Seat 4: Caio Mugarte folded on the River
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447009649: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/17 18:01:09 AT [2023/08/17 17:01:09 ET]
+Table '3632673666 3' 9-max Seat #2 is the button
+Seat 1: joseAdilsom (3461 in chips) 
+Seat 2: frogz69 (1667 in chips) 
+Seat 3: CalgarySammy (5177 in chips) 
+Seat 4: Caio Mugarte (1552 in chips) 
+Seat 6: Carlitos917 (1788 in chips) 
+Seat 7: afsalagoas (2257 in chips) 
+Seat 8: juliao233 (1732 in chips) 
+Seat 9: konzept030 (812 in chips) 
+joseAdilsom: posts the ante 10
+frogz69: posts the ante 10
+CalgarySammy: posts the ante 10
+Caio Mugarte: posts the ante 10
+Carlitos917: posts the ante 10
+afsalagoas: posts the ante 10
+juliao233: posts the ante 10
+konzept030: posts the ante 10
+CalgarySammy: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5c 7h]
+Carlitos917: folds 
+afsalagoas has timed out
+afsalagoas: folds 
+afsalagoas is sitting out
+juliao233: folds 
+konzept030: raises 722 to 802 and is all-in
+joseAdilsom has timed out
+joseAdilsom: folds 
+joseAdilsom is sitting out
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Uncalled bet (722) returned to konzept030
+konzept030 collected 280 from pot
+konzept030: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 (button) folded before Flop (didn't bet)
+Seat 3: CalgarySammy (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) folded before Flop
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 collected (280)
+
+
+
+PokerStars Hand #245447037265: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:02:34 AT [2023/08/17 17:02:34 ET]
+Table '3632673666 3' 9-max Seat #3 is the button
+Seat 1: joseAdilsom (3451 in chips) is sitting out
+Seat 2: frogz69 (1657 in chips) 
+Seat 3: CalgarySammy (5127 in chips) 
+Seat 4: Caio Mugarte (1462 in chips) 
+Seat 6: Carlitos917 (1778 in chips) 
+Seat 7: afsalagoas (2247 in chips) is sitting out
+Seat 8: juliao233 (1722 in chips) 
+Seat 9: konzept030 (1002 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+Caio Mugarte: posts small blind 60
+Carlitos917: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qd 6h]
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Uncalled bet (60) returned to Carlitos917
+Carlitos917 collected 240 from pot
+Carlitos917: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy (button) folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 6: Carlitos917 (big blind) collected (240)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447044019: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:02:55 AT [2023/08/17 17:02:55 ET]
+Table '3632673666 3' 9-max Seat #4 is the button
+Seat 1: joseAdilsom (3436 in chips) is sitting out
+Seat 2: frogz69 (1642 in chips) 
+Seat 3: CalgarySammy (5112 in chips) 
+Seat 4: Caio Mugarte (1387 in chips) 
+Seat 6: Carlitos917 (1943 in chips) 
+Seat 7: afsalagoas (2232 in chips) is sitting out
+Seat 8: juliao233 (1707 in chips) 
+Seat 9: konzept030 (987 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+Carlitos917: posts small blind 60
+afsalagoas: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 2s]
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: raises 120 to 240
+afsalagoas: folds 
+Uncalled bet (120) returned to Carlitos917
+Carlitos917 collected 360 from pot
+Carlitos917: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: Carlitos917 (small blind) collected (360)
+Seat 7: afsalagoas (big blind) folded before Flop
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447053374: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:03:23 AT [2023/08/17 17:03:23 ET]
+Table '3632673666 3' 9-max Seat #6 is the button
+Seat 1: joseAdilsom (3421 in chips) is sitting out
+Seat 2: frogz69 (1627 in chips) 
+Seat 3: CalgarySammy (5097 in chips) 
+Seat 4: Caio Mugarte (1372 in chips) 
+Seat 6: Carlitos917 (2168 in chips) 
+Seat 7: afsalagoas (2097 in chips) is sitting out
+Seat 8: juliao233 (1692 in chips) 
+Seat 9: konzept030 (972 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+afsalagoas: posts small blind 60
+juliao233: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s Qh]
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: calls 120
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: checks 
+*** FLOP *** [Ts 5s 2s]
+juliao233: checks 
+CalgarySammy: bets 120
+juliao233: folds 
+Uncalled bet (120) returned to CalgarySammy
+CalgarySammy collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Ts 5s 2s]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy collected (420)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 (button) folded before Flop (didn't bet)
+Seat 7: afsalagoas (small blind) folded before Flop
+Seat 8: juliao233 (big blind) folded on the Flop
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447062453: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:03:50 AT [2023/08/17 17:03:50 ET]
+Table '3632673666 3' 9-max Seat #7 is the button
+Seat 1: joseAdilsom (3406 in chips) is sitting out
+Seat 2: frogz69 (1612 in chips) 
+Seat 3: CalgarySammy (5382 in chips) 
+Seat 4: Caio Mugarte (1357 in chips) 
+Seat 6: Carlitos917 (2153 in chips) 
+Seat 7: afsalagoas (2022 in chips) is sitting out
+Seat 8: juliao233 (1557 in chips) 
+Seat 9: konzept030 (957 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+juliao233: posts small blind 60
+konzept030: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th Js]
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: raises 1222 to 1342 and is all-in
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+Uncalled bet (1222) returned to Caio Mugarte
+Caio Mugarte collected 420 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte collected (420)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas (button) folded before Flop (didn't bet)
+Seat 8: juliao233 (small blind) folded before Flop
+Seat 9: konzept030 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245447069582: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:04:11 AT [2023/08/17 17:04:11 ET]
+Table '3632673666 3' 9-max Seat #8 is the button
+Seat 1: joseAdilsom (3391 in chips) is sitting out
+Seat 2: frogz69 (1597 in chips) 
+Seat 3: CalgarySammy (5367 in chips) 
+Seat 4: Caio Mugarte (1642 in chips) 
+Seat 6: Carlitos917 (2138 in chips) 
+Seat 7: afsalagoas (2007 in chips) is sitting out
+Seat 8: juliao233 (1482 in chips) 
+Seat 9: konzept030 (822 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+konzept030: posts small blind 60
+joseAdilsom: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s 2h]
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: calls 60
+joseAdilsom: folds 
+konzept030 collected 360 from pot
+konzept030: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 1: joseAdilsom (big blind) folded before Flop
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 (button) folded before Flop (didn't bet)
+Seat 9: konzept030 (small blind) collected (360)
+
+
+
+PokerStars Hand #245447073944: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:04:24 AT [2023/08/17 17:04:24 ET]
+Table '3632673666 3' 9-max Seat #9 is the button
+Seat 1: joseAdilsom (3256 in chips) is sitting out
+Seat 2: frogz69 (1582 in chips) 
+Seat 3: CalgarySammy (5352 in chips) 
+Seat 4: Caio Mugarte (1627 in chips) 
+Seat 6: Carlitos917 (2123 in chips) 
+Seat 7: afsalagoas (1992 in chips) is sitting out
+Seat 8: juliao233 (1467 in chips) 
+Seat 9: konzept030 (1047 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+joseAdilsom: posts small blind 60
+frogz69: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad 3h]
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: raises 120 to 240
+joseAdilsom: folds 
+frogz69: folds 
+Uncalled bet (120) returned to konzept030
+konzept030 collected 420 from pot
+konzept030: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: joseAdilsom (small blind) folded before Flop
+Seat 2: frogz69 (big blind) folded before Flop
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 (button) collected (420)
+
+
+
+PokerStars Hand #245447078978: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:04:39 AT [2023/08/17 17:04:39 ET]
+Table '3632673666 3' 9-max Seat #1 is the button
+Seat 1: joseAdilsom (3181 in chips) is sitting out
+Seat 2: frogz69 (1447 in chips) 
+Seat 3: CalgarySammy (5337 in chips) 
+Seat 4: Caio Mugarte (1612 in chips) 
+Seat 6: Carlitos917 (2108 in chips) 
+Seat 7: afsalagoas (1977 in chips) is sitting out
+Seat 8: juliao233 (1452 in chips) 
+Seat 9: konzept030 (1332 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+frogz69: posts small blind 60
+CalgarySammy: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s Ah]
+Caio Mugarte: folds 
+Carlitos917: calls 120
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: checks 
+*** FLOP *** [Ac 5h Ad]
+CalgarySammy: checks 
+Carlitos917: checks 
+*** TURN *** [Ac 5h Ad] [Ks]
+CalgarySammy: checks 
+Carlitos917: checks 
+*** RIVER *** [Ac 5h Ad Ks] [4h]
+CalgarySammy: checks 
+Carlitos917: bets 420
+CalgarySammy: folds 
+Uncalled bet (420) returned to Carlitos917
+Carlitos917 collected 420 from pot
+Carlitos917: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Ac 5h Ad Ks 4h]
+Seat 1: joseAdilsom (button) folded before Flop (didn't bet)
+Seat 2: frogz69 (small blind) folded before Flop
+Seat 3: CalgarySammy (big blind) folded on the River
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 collected (420)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447089769: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:05:11 AT [2023/08/17 17:05:11 ET]
+Table '3632673666 3' 9-max Seat #2 is the button
+Seat 1: joseAdilsom (3166 in chips) is sitting out
+Seat 2: frogz69 (1372 in chips) 
+Seat 3: CalgarySammy (5202 in chips) 
+Seat 4: Caio Mugarte (1597 in chips) 
+Seat 6: Carlitos917 (2393 in chips) 
+Seat 7: afsalagoas (1962 in chips) is sitting out
+Seat 8: juliao233 (1437 in chips) 
+Seat 9: konzept030 (1317 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+CalgarySammy: posts small blind 60
+Caio Mugarte: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc 5d]
+afsalagoas has returned
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: raises 120 to 240
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: raises 4947 to 5187 and is all-in
+Caio Mugarte: folds 
+juliao233: calls 1182 and is all-in
+Uncalled bet (3765) returned to CalgarySammy
+*** FLOP *** [9h Jd 9s]
+*** TURN *** [9h Jd 9s] [As]
+*** RIVER *** [9h Jd 9s As] [Jh]
+*** SHOW DOWN ***
+CalgarySammy: shows [Qs Qd] (two pair, Queens and Jacks)
+juliao233: shows [Ah Qh] (two pair, Aces and Jacks)
+juliao233 collected 3084 from pot
+*** SUMMARY ***
+Total pot 3084 | Rake 0 
+Board [9h Jd 9s As Jh]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 (button) folded before Flop (didn't bet)
+Seat 3: CalgarySammy (small blind) showed [Qs Qd] and lost with two pair, Queens and Jacks
+Seat 4: Caio Mugarte (big blind) folded before Flop
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 showed [Ah Qh] and won (3084) with two pair, Aces and Jacks
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447104820: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:05:56 AT [2023/08/17 17:05:56 ET]
+Table '3632673666 3' 9-max Seat #3 is the button
+Seat 1: joseAdilsom (3151 in chips) is sitting out
+Seat 2: frogz69 (1357 in chips) 
+Seat 3: CalgarySammy (3765 in chips) 
+Seat 4: Caio Mugarte (1462 in chips) 
+Seat 6: Carlitos917 (2378 in chips) 
+Seat 7: afsalagoas (1947 in chips) 
+Seat 8: juliao233 (3084 in chips) 
+Seat 9: konzept030 (1302 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+Caio Mugarte: posts small blind 60
+Carlitos917: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [As 4c]
+afsalagoas: folds 
+juliao233: calls 120
+joseAdilsom has returned
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: checks 
+*** FLOP *** [5s 3d 3c]
+Carlitos917: checks 
+juliao233: checks 
+*** TURN *** [5s 3d 3c] [Td]
+Carlitos917: checks 
+juliao233: checks 
+*** RIVER *** [5s 3d 3c Td] [6c]
+Carlitos917: bets 120
+juliao233: folds 
+Uncalled bet (120) returned to Carlitos917
+Carlitos917 collected 420 from pot
+Carlitos917: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [5s 3d 3c Td 6c]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy (button) folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 6: Carlitos917 (big blind) collected (420)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded on the River
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447133309: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:07:21 AT [2023/08/17 17:07:21 ET]
+Table '3632673666 3' 9-max Seat #4 is the button
+Seat 1: joseAdilsom (3136 in chips) 
+Seat 2: frogz69 (1342 in chips) 
+Seat 3: CalgarySammy (3750 in chips) 
+Seat 4: Caio Mugarte (1387 in chips) 
+Seat 6: Carlitos917 (2663 in chips) 
+Seat 7: afsalagoas (1932 in chips) 
+Seat 8: juliao233 (2949 in chips) 
+Seat 9: konzept030 (1287 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+Carlitos917: posts small blind 60
+afsalagoas: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3c 4c]
+juliao233: calls 120
+konzept030 has timed out
+konzept030: folds 
+konzept030 is sitting out
+joseAdilsom: calls 120
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: checks 
+*** FLOP *** [9c 4s 8c]
+afsalagoas: checks 
+juliao233: checks 
+joseAdilsom: checks 
+*** TURN *** [9c 4s 8c] [5c]
+konzept030 has returned
+afsalagoas: checks 
+juliao233: bets 120
+joseAdilsom: calls 120
+afsalagoas: folds 
+*** RIVER *** [9c 4s 8c 5c] [Jd]
+juliao233: checks 
+joseAdilsom: checks 
+*** SHOW DOWN ***
+juliao233: shows [Tc As] (high card Ace)
+joseAdilsom: shows [Th Js] (a pair of Jacks)
+joseAdilsom collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [9c 4s 8c 5c Jd]
+Seat 1: joseAdilsom showed [Th Js] and won (780) with a pair of Jacks
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: Carlitos917 (small blind) folded before Flop
+Seat 7: afsalagoas (big blind) folded on the Turn
+Seat 8: juliao233 showed [Tc As] and lost with high card Ace
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447153256: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:08:19 AT [2023/08/17 17:08:19 ET]
+Table '3632673666 3' 9-max Seat #6 is the button
+Seat 1: joseAdilsom (3661 in chips) 
+Seat 2: frogz69 (1327 in chips) 
+Seat 3: CalgarySammy (3735 in chips) 
+Seat 4: Caio Mugarte (1372 in chips) 
+Seat 6: Carlitos917 (2588 in chips) 
+Seat 7: afsalagoas (1797 in chips) 
+Seat 8: juliao233 (2694 in chips) 
+Seat 9: konzept030 (1272 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+afsalagoas: posts small blind 60
+juliao233: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Js Ac]
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: raises 1192 to 1312 and is all-in
+CalgarySammy: folds 
+Caio Mugarte: raises 45 to 1357 and is all-in
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+Uncalled bet (45) returned to Caio Mugarte
+*** FLOP *** [Kc 7c 2d]
+*** TURN *** [Kc 7c 2d] [Qd]
+*** RIVER *** [Kc 7c 2d Qd] [9c]
+*** SHOW DOWN ***
+frogz69: shows [Ad Qs] (a pair of Queens)
+Caio Mugarte: shows [Js Ac] (high card Ace)
+frogz69 collected 2924 from pot
+*** SUMMARY ***
+Total pot 2924 | Rake 0 
+Board [Kc 7c 2d Qd 9c]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 showed [Ad Qs] and won (2924) with a pair of Queens
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte showed [Js Ac] and lost with high card Ace
+Seat 6: Carlitos917 (button) folded before Flop (didn't bet)
+Seat 7: afsalagoas (small blind) folded before Flop
+Seat 8: juliao233 (big blind) folded before Flop
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447164366: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:08:52 AT [2023/08/17 17:08:52 ET]
+Table '3632673666 3' 9-max Seat #7 is the button
+Seat 1: joseAdilsom (3646 in chips) 
+Seat 2: frogz69 (2924 in chips) 
+Seat 3: CalgarySammy (3720 in chips) 
+Seat 4: Caio Mugarte (45 in chips) 
+Seat 6: Carlitos917 (2573 in chips) 
+Seat 7: afsalagoas (1722 in chips) 
+Seat 8: juliao233 (2559 in chips) 
+Seat 9: konzept030 (1257 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+juliao233: posts small blind 60
+konzept030: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8s 6s]
+joseAdilsom: folds 
+frogz69: raises 120 to 240
+CalgarySammy: calls 240
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+*** FLOP *** [2s 7h Qd]
+frogz69: bets 195
+CalgarySammy: calls 195
+*** TURN *** [2s 7h Qd] [5d]
+frogz69: bets 480
+CalgarySammy: folds 
+Uncalled bet (480) returned to frogz69
+frogz69 collected 1170 from pot
+frogz69: doesn't show hand 
+*** SUMMARY ***
+Total pot 1170 | Rake 0 
+Board [2s 7h Qd 5d]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 collected (1170)
+Seat 3: CalgarySammy folded on the Turn
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas (button) folded before Flop (didn't bet)
+Seat 8: juliao233 (small blind) folded before Flop
+Seat 9: konzept030 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245447187859: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:10:02 AT [2023/08/17 17:10:02 ET]
+Table '3632673666 3' 9-max Seat #8 is the button
+Seat 1: joseAdilsom (3631 in chips) 
+Seat 2: frogz69 (3644 in chips) 
+Seat 3: CalgarySammy (3270 in chips) 
+Seat 4: Caio Mugarte (30 in chips) 
+Seat 6: Carlitos917 (2558 in chips) 
+Seat 7: afsalagoas (1707 in chips) 
+Seat 8: juliao233 (2484 in chips) 
+Seat 9: konzept030 (1122 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+konzept030: posts small blind 60
+joseAdilsom: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc 4c]
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: calls 15 and is all-in
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: calls 60
+joseAdilsom: checks 
+*** FLOP *** [4h Qs 2h]
+konzept030: checks 
+joseAdilsom: checks 
+*** TURN *** [4h Qs 2h] [6h]
+konzept030: checks 
+joseAdilsom: checks 
+*** RIVER *** [4h Qs 2h 6h] [8c]
+konzept030: checks 
+joseAdilsom: checks 
+*** SHOW DOWN ***
+konzept030: shows [Ad 5s] (high card Ace)
+joseAdilsom: mucks hand 
+konzept030 collected 210 from side pot
+Caio Mugarte: shows [Jc 4c] (a pair of Fours)
+Caio Mugarte collected 165 from main pot
+*** SUMMARY ***
+Total pot 375 Main pot 165. Side pot 210. | Rake 0 
+Board [4h Qs 2h 6h 8c]
+Seat 1: joseAdilsom (big blind) mucked [7d Td]
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte showed [Jc 4c] and won (165) with a pair of Fours
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 (button) folded before Flop (didn't bet)
+Seat 9: konzept030 (small blind) showed [Ad 5s] and won (210) with high card Ace
+
+
+
+PokerStars Hand #245447208720: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:11:05 AT [2023/08/17 17:11:05 ET]
+Table '3632673666 3' 9-max Seat #9 is the button
+Seat 1: joseAdilsom (3496 in chips) 
+Seat 2: frogz69 (3629 in chips) 
+Seat 3: CalgarySammy (3255 in chips) 
+Seat 4: Caio Mugarte (165 in chips) 
+Seat 6: Carlitos917 (2543 in chips) 
+Seat 7: afsalagoas (1692 in chips) 
+Seat 8: juliao233 (2469 in chips) 
+Seat 9: konzept030 (1197 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+joseAdilsom: posts small blind 60
+frogz69: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s 8d]
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: raises 120 to 240
+frogz69: raises 480 to 720
+joseAdilsom: raises 2761 to 3481 and is all-in
+frogz69: calls 2761
+*** FLOP *** [7c Td 3h]
+*** TURN *** [7c Td 3h] [Kc]
+*** RIVER *** [7c Td 3h Kc] [4h]
+*** SHOW DOWN ***
+joseAdilsom: shows [Tc Ac] (a pair of Tens)
+frogz69: shows [9d 9s] (a pair of Nines)
+joseAdilsom collected 7082 from pot
+*** SUMMARY ***
+Total pot 7082 | Rake 0 
+Board [7c Td 3h Kc 4h]
+Seat 1: joseAdilsom (small blind) showed [Tc Ac] and won (7082) with a pair of Tens
+Seat 2: frogz69 (big blind) showed [9d 9s] and lost with a pair of Nines
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447221498: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/17 18:11:43 AT [2023/08/17 17:11:43 ET]
+Table '3632673666 3' 9-max Seat #1 is the button
+Seat 1: joseAdilsom (7082 in chips) 
+Seat 2: frogz69 (133 in chips) 
+Seat 3: CalgarySammy (3240 in chips) 
+Seat 4: Caio Mugarte (150 in chips) 
+Seat 6: Carlitos917 (2528 in chips) 
+Seat 7: afsalagoas (1677 in chips) 
+Seat 8: juliao233 (2454 in chips) 
+Seat 9: konzept030 (1182 in chips) 
+joseAdilsom: posts the ante 15
+frogz69: posts the ante 15
+CalgarySammy: posts the ante 15
+Caio Mugarte: posts the ante 15
+Carlitos917: posts the ante 15
+afsalagoas: posts the ante 15
+juliao233: posts the ante 15
+konzept030: posts the ante 15
+frogz69: posts small blind 60
+CalgarySammy: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5d 6d]
+Caio Mugarte: folds 
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: calls 120
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: checks 
+*** FLOP *** [3c Qc 4h]
+CalgarySammy: checks 
+juliao233: bets 240
+CalgarySammy: folds 
+Uncalled bet (240) returned to juliao233
+juliao233 collected 420 from pot
+juliao233: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [3c Qc 4h]
+Seat 1: joseAdilsom (button) folded before Flop (didn't bet)
+Seat 2: frogz69 (small blind) folded before Flop
+Seat 3: CalgarySammy (big blind) folded on the Flop
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 collected (420)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447232100: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/17 18:12:15 AT [2023/08/17 17:12:15 ET]
+Table '3632673666 3' 9-max Seat #2 is the button
+Seat 1: joseAdilsom (7067 in chips) 
+Seat 2: frogz69 (58 in chips) 
+Seat 3: CalgarySammy (3105 in chips) 
+Seat 4: Caio Mugarte (135 in chips) 
+Seat 6: Carlitos917 (2513 in chips) 
+Seat 7: afsalagoas (1662 in chips) 
+Seat 8: juliao233 (2739 in chips) 
+Seat 9: konzept030 (1167 in chips) 
+joseAdilsom: posts the ante 20
+frogz69: posts the ante 20
+CalgarySammy: posts the ante 20
+Caio Mugarte: posts the ante 20
+Carlitos917: posts the ante 20
+afsalagoas: posts the ante 20
+juliao233: posts the ante 20
+konzept030: posts the ante 20
+CalgarySammy: posts small blind 80
+Caio Mugarte: posts big blind 115 and is all-in
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s Jc]
+Carlitos917: folds 
+afsalagoas: folds 
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: calls 38 and is all-in
+CalgarySammy: calls 35
+*** FLOP *** [Jh 4h Qh]
+*** TURN *** [Jh 4h Qh] [5c]
+*** RIVER *** [Jh 4h Qh 5c] [8c]
+*** SHOW DOWN ***
+CalgarySammy: shows [Th 3c] (high card Queen)
+Caio Mugarte: shows [5s Jc] (two pair, Jacks and Fives)
+Caio Mugarte collected 154 from side pot
+frogz69: shows [Qs 5d] (two pair, Queens and Fives)
+frogz69 collected 274 from main pot
+*** SUMMARY ***
+Total pot 428 Main pot 274. Side pot 154. | Rake 0 
+Board [Jh 4h Qh 5c 8c]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 (button) showed [Qs 5d] and won (274) with two pair, Queens and Fives
+Seat 3: CalgarySammy (small blind) showed [Th 3c] and lost with high card Queen
+Seat 4: Caio Mugarte (big blind) showed [5s Jc] and won (154) with two pair, Jacks and Fives
+Seat 6: Carlitos917 folded before Flop (didn't bet)
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447242980: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/17 18:12:48 AT [2023/08/17 17:12:48 ET]
+Table '3632673666 3' 9-max Seat #3 is the button
+Seat 1: joseAdilsom (7047 in chips) 
+Seat 2: frogz69 (274 in chips) 
+Seat 3: CalgarySammy (2970 in chips) 
+Seat 4: Caio Mugarte (154 in chips) 
+Seat 6: Carlitos917 (2493 in chips) 
+Seat 7: afsalagoas (1642 in chips) 
+Seat 8: juliao233 (2719 in chips) 
+Seat 9: konzept030 (1147 in chips) 
+joseAdilsom: posts the ante 20
+frogz69: posts the ante 20
+CalgarySammy: posts the ante 20
+Caio Mugarte: posts the ante 20
+Carlitos917: posts the ante 20
+afsalagoas: posts the ante 20
+juliao233: posts the ante 20
+konzept030: posts the ante 20
+Caio Mugarte: posts small blind 80
+Carlitos917: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s 5s]
+afsalagoas: folds 
+juliao233: calls 160
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: folds 
+CalgarySammy: folds 
+Caio Mugarte: folds 
+Carlitos917: checks 
+*** FLOP *** [4d Tc Ks]
+Carlitos917: checks 
+juliao233: bets 320
+Carlitos917: folds 
+Uncalled bet (320) returned to juliao233
+juliao233 collected 560 from pot
+juliao233: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [4d Tc Ks]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 folded before Flop (didn't bet)
+Seat 3: CalgarySammy (button) folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 6: Carlitos917 (big blind) folded on the Flop
+Seat 7: afsalagoas folded before Flop (didn't bet)
+Seat 8: juliao233 collected (560)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447252711: Tournament #3632673666, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/17 18:13:16 AT [2023/08/17 17:13:16 ET]
+Table '3632673666 3' 9-max Seat #4 is the button
+Seat 1: joseAdilsom (7027 in chips) 
+Seat 2: frogz69 (254 in chips) 
+Seat 3: CalgarySammy (2950 in chips) 
+Seat 4: Caio Mugarte (54 in chips) 
+Seat 6: Carlitos917 (2313 in chips) 
+Seat 7: afsalagoas (1622 in chips) 
+Seat 8: juliao233 (3099 in chips) 
+Seat 9: konzept030 (1127 in chips) 
+joseAdilsom: posts the ante 20
+frogz69: posts the ante 20
+CalgarySammy: posts the ante 20
+Caio Mugarte: posts the ante 20
+Carlitos917: posts the ante 20
+afsalagoas: posts the ante 20
+juliao233: posts the ante 20
+konzept030: posts the ante 20
+Carlitos917: posts small blind 80
+afsalagoas: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts Ac]
+juliao233: folds 
+konzept030: folds 
+joseAdilsom: folds 
+frogz69: raises 74 to 234 and is all-in
+CalgarySammy: folds 
+Caio Mugarte: calls 34 and is all-in
+Carlitos917: folds 
+afsalagoas: calls 74
+*** FLOP *** [5c 9c Qh]
+*** TURN *** [5c 9c Qh] [7h]
+*** RIVER *** [5c 9c Qh 7h] [Js]
+*** SHOW DOWN ***
+afsalagoas: shows [9h Kh] (a pair of Nines)
+frogz69: shows [Jc 7c] (two pair, Jacks and Sevens)
+frogz69 collected 446 from side pot
+Caio Mugarte: shows [Ts Ac] (high card Ace)
+frogz69 collected 296 from main pot
+Caio Mugarte finished the tournament in 23rd place
+*** SUMMARY ***
+Total pot 742 Main pot 296. Side pot 446. | Rake 0 
+Board [5c 9c Qh 7h Js]
+Seat 1: joseAdilsom folded before Flop (didn't bet)
+Seat 2: frogz69 showed [Jc 7c] and won (742) with two pair, Jacks and Sevens
+Seat 3: CalgarySammy folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (button) showed [Ts Ac] and lost with high card Ace
+Seat 6: Carlitos917 (small blind) folded before Flop
+Seat 7: afsalagoas (big blind) showed [9h Kh] and lost with a pair of Nines
+Seat 8: juliao233 folded before Flop (didn't bet)
+Seat 9: konzept030 folded before Flop (didn't bet)
+
+
+

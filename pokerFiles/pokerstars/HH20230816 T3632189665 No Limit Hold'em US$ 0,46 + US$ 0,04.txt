@@ -1,0 +1,526 @@
+﻿PokerStars Hand #245425657511: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:12:24 AT [2023/08/16 14:12:24 ET]
+Table '3632189665 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (500 in chips) 
+Seat 2: Hackdasbo (500 in chips) 
+Seat 3: marboras (500 in chips) 
+Hackdasbo: posts small blind 10
+marboras: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts Kc]
+Caio Mugarte: raises 20 to 40
+Hackdasbo: folds 
+marboras: folds 
+Uncalled bet (20) returned to Caio Mugarte
+Caio Mugarte collected 50 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Caio Mugarte (button) collected (50)
+Seat 2: Hackdasbo (small blind) folded before Flop
+Seat 3: marboras (big blind) folded before Flop
+
+
+
+PokerStars Hand #245425663514: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:12:44 AT [2023/08/16 14:12:44 ET]
+Table '3632189665 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (530 in chips) 
+Seat 2: Hackdasbo (490 in chips) 
+Seat 3: marboras (480 in chips) 
+marboras: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc Ah]
+Hackdasbo: folds 
+marboras: folds 
+Uncalled bet (10) returned to Caio Mugarte
+Caio Mugarte collected 20 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Caio Mugarte (big blind) collected (20)
+Seat 2: Hackdasbo (button) folded before Flop (didn't bet)
+Seat 3: marboras (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425671111: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:13:10 AT [2023/08/16 14:13:10 ET]
+Table '3632189665 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (540 in chips) 
+Seat 2: Hackdasbo (490 in chips) 
+Seat 3: marboras (470 in chips) 
+Caio Mugarte: posts small blind 10
+Hackdasbo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc 2d]
+marboras: raises 20 to 40
+Caio Mugarte: folds 
+Hackdasbo: calls 20
+*** FLOP *** [Th 2s Td]
+Hackdasbo: checks 
+marboras: bets 40
+Hackdasbo: folds 
+Uncalled bet (40) returned to marboras
+marboras collected 90 from pot
+marboras: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Th 2s Td]
+Seat 1: Caio Mugarte (small blind) folded before Flop
+Seat 2: Hackdasbo (big blind) folded on the Flop
+Seat 3: marboras (button) collected (90)
+
+
+
+PokerStars Hand #245425679958: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:13:40 AT [2023/08/16 14:13:40 ET]
+Table '3632189665 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (530 in chips) 
+Seat 2: Hackdasbo (450 in chips) 
+Seat 3: marboras (520 in chips) 
+Hackdasbo: posts small blind 10
+marboras: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d 5s]
+Caio Mugarte: folds 
+Hackdasbo: calls 10
+marboras: checks 
+*** FLOP *** [As Qh 6c]
+Hackdasbo: checks 
+marboras: checks 
+*** TURN *** [As Qh 6c] [5h]
+Hackdasbo: checks 
+marboras: checks 
+*** RIVER *** [As Qh 6c 5h] [2h]
+Hackdasbo: bets 32
+marboras: folds 
+Uncalled bet (32) returned to Hackdasbo
+Hackdasbo collected 40 from pot
+Hackdasbo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [As Qh 6c 5h 2h]
+Seat 1: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 2: Hackdasbo (small blind) collected (40)
+Seat 3: marboras (big blind) folded on the River
+
+
+
+PokerStars Hand #245425691090: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:14:18 AT [2023/08/16 14:14:18 ET]
+Table '3632189665 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (530 in chips) 
+Seat 2: Hackdasbo (470 in chips) 
+Seat 3: marboras (500 in chips) 
+marboras: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3c Ad]
+Hackdasbo: folds 
+marboras: folds 
+Uncalled bet (10) returned to Caio Mugarte
+Caio Mugarte collected 20 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Caio Mugarte (big blind) collected (20)
+Seat 2: Hackdasbo (button) folded before Flop (didn't bet)
+Seat 3: marboras (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425694459: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:14:29 AT [2023/08/16 14:14:29 ET]
+Table '3632189665 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (540 in chips) 
+Seat 2: Hackdasbo (470 in chips) 
+Seat 3: marboras (490 in chips) 
+Caio Mugarte: posts small blind 15
+Hackdasbo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d 7c]
+marboras: folds 
+Caio Mugarte: folds 
+Uncalled bet (15) returned to Hackdasbo
+Hackdasbo collected 30 from pot
+Hackdasbo: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Caio Mugarte (small blind) folded before Flop
+Seat 2: Hackdasbo (big blind) collected (30)
+Seat 3: marboras (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425697148: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:14:39 AT [2023/08/16 14:14:39 ET]
+Table '3632189665 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (525 in chips) 
+Seat 2: Hackdasbo (485 in chips) 
+Seat 3: marboras (490 in chips) 
+Hackdasbo: posts small blind 15
+marboras: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2h 5s]
+Caio Mugarte: folds 
+Hackdasbo: calls 15
+marboras: checks 
+*** FLOP *** [2d 8d 8c]
+Hackdasbo: checks 
+marboras: checks 
+*** TURN *** [2d 8d 8c] [5d]
+Hackdasbo: checks 
+marboras: checks 
+*** RIVER *** [2d 8d 8c 5d] [7s]
+Hackdasbo: bets 30
+marboras: calls 30
+*** SHOW DOWN ***
+Hackdasbo: shows [5c 6c] (two pair, Eights and Fives)
+marboras: shows [Th 5h] (two pair, Eights and Fives - Ten kicker)
+marboras collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d 8d 8c 5d 7s]
+Seat 1: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 2: Hackdasbo (small blind) showed [5c 6c] and lost with two pair, Eights and Fives
+Seat 3: marboras (big blind) showed [Th 5h] and won (120) with two pair, Eights and Fives
+
+
+
+PokerStars Hand #245425709739: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:15:21 AT [2023/08/16 14:15:21 ET]
+Table '3632189665 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (525 in chips) 
+Seat 2: Hackdasbo (425 in chips) 
+Seat 3: marboras (550 in chips) 
+marboras: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5c 3c]
+Hackdasbo: raises 30 to 60
+marboras: raises 490 to 550 and is all-in
+Caio Mugarte: folds 
+Hackdasbo: calls 365 and is all-in
+Uncalled bet (125) returned to marboras
+*** FLOP *** [2d Qh 7h]
+*** TURN *** [2d Qh 7h] [Td]
+*** RIVER *** [2d Qh 7h Td] [8h]
+*** SHOW DOWN ***
+marboras: shows [9d Ac] (high card Ace)
+Hackdasbo: shows [Ah Jc] (high card Ace - Queen+Jack kicker)
+Hackdasbo collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [2d Qh 7h Td 8h]
+Seat 1: Caio Mugarte (big blind) folded before Flop
+Seat 2: Hackdasbo (button) showed [Ah Jc] and won (880) with high card Ace
+Seat 3: marboras (small blind) showed [9d Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #245425716184: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:15:43 AT [2023/08/16 14:15:43 ET]
+Table '3632189665 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (495 in chips) 
+Seat 2: Hackdasbo (880 in chips) 
+Seat 3: marboras (125 in chips) 
+Caio Mugarte: posts small blind 15
+Hackdasbo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad 7s]
+marboras: folds 
+Caio Mugarte: raises 45 to 75
+Hackdasbo: folds 
+Uncalled bet (45) returned to Caio Mugarte
+Caio Mugarte collected 60 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Caio Mugarte (small blind) collected (60)
+Seat 2: Hackdasbo (big blind) folded before Flop
+Seat 3: marboras (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425722322: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:16:03 AT [2023/08/16 14:16:03 ET]
+Table '3632189665 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (525 in chips) 
+Seat 2: Hackdasbo (850 in chips) 
+Seat 3: marboras (125 in chips) 
+Hackdasbo: posts small blind 15
+marboras: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qc 6c]
+Caio Mugarte: raises 30 to 60
+Hackdasbo: raises 790 to 850 and is all-in
+marboras: calls 95 and is all-in
+Caio Mugarte: folds 
+Uncalled bet (725) returned to Hackdasbo
+*** FLOP *** [Ks 7h Jd]
+*** TURN *** [Ks 7h Jd] [Kc]
+*** RIVER *** [Ks 7h Jd Kc] [3c]
+*** SHOW DOWN ***
+Hackdasbo: shows [2h 2c] (two pair, Kings and Deuces)
+marboras: shows [Kd 7s] (a full house, Kings full of Sevens)
+marboras collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [Ks 7h Jd Kc 3c]
+Seat 1: Caio Mugarte (button) folded before Flop
+Seat 2: Hackdasbo (small blind) showed [2h 2c] and lost with two pair, Kings and Deuces
+Seat 3: marboras (big blind) showed [Kd 7s] and won (310) with a full house, Kings full of Sevens
+
+
+
+PokerStars Hand #245425730905: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:16:32 AT [2023/08/16 14:16:32 ET]
+Table '3632189665 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (465 in chips) 
+Seat 2: Hackdasbo (725 in chips) 
+Seat 3: marboras (310 in chips) 
+marboras: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th 3d]
+Hackdasbo: raises 40 to 80
+marboras: calls 60
+Caio Mugarte: folds 
+*** FLOP *** [9d Ks 9h]
+marboras: checks 
+Hackdasbo: bets 56
+marboras: raises 174 to 230 and is all-in
+Hackdasbo: calls 174
+*** TURN *** [9d Ks 9h] [Ts]
+*** RIVER *** [9d Ks 9h Ts] [Qc]
+*** SHOW DOWN ***
+marboras: shows [3c Kc] (two pair, Kings and Nines)
+Hackdasbo: shows [Ad Ac] (two pair, Aces and Nines)
+Hackdasbo collected 660 from pot
+marboras finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [9d Ks 9h Ts Qc]
+Seat 1: Caio Mugarte (big blind) folded before Flop
+Seat 2: Hackdasbo (button) showed [Ad Ac] and won (660) with two pair, Aces and Nines
+Seat 3: marboras (small blind) showed [3c Kc] and lost with two pair, Kings and Nines
+
+
+
+PokerStars Hand #245425743153: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:17:13 AT [2023/08/16 14:17:13 ET]
+Table '3632189665 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (425 in chips) 
+Seat 2: Hackdasbo (1075 in chips) 
+Caio Mugarte: posts small blind 20
+Hackdasbo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jh 6d]
+Caio Mugarte: folds 
+Uncalled bet (20) returned to Hackdasbo
+Hackdasbo collected 40 from pot
+Hackdasbo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Caio Mugarte (button) (small blind) folded before Flop
+Seat 2: Hackdasbo (big blind) collected (40)
+
+
+
+PokerStars Hand #245425744474: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:17:17 AT [2023/08/16 14:17:17 ET]
+Table '3632189665 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (405 in chips) 
+Seat 2: Hackdasbo (1095 in chips) 
+Hackdasbo: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8s 6h]
+Hackdasbo: calls 20
+Caio Mugarte: checks 
+*** FLOP *** [3h 4h 2d]
+Caio Mugarte: checks 
+Hackdasbo: bets 53
+Caio Mugarte: folds 
+Uncalled bet (53) returned to Hackdasbo
+Hackdasbo collected 80 from pot
+Hackdasbo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3h 4h 2d]
+Seat 1: Caio Mugarte (big blind) folded on the Flop
+Seat 2: Hackdasbo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #245425750522: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:17:37 AT [2023/08/16 14:17:37 ET]
+Table '3632189665 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (365 in chips) 
+Seat 2: Hackdasbo (1135 in chips) 
+Caio Mugarte: posts small blind 20
+Hackdasbo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5h Qd]
+Caio Mugarte: folds 
+Uncalled bet (20) returned to Hackdasbo
+Hackdasbo collected 40 from pot
+Hackdasbo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Caio Mugarte (button) (small blind) folded before Flop
+Seat 2: Hackdasbo (big blind) collected (40)
+
+
+
+PokerStars Hand #245425751952: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:17:42 AT [2023/08/16 14:17:42 ET]
+Table '3632189665 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (345 in chips) 
+Seat 2: Hackdasbo (1155 in chips) 
+Hackdasbo: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6d 3c]
+Hackdasbo: folds 
+Uncalled bet (20) returned to Caio Mugarte
+Caio Mugarte collected 40 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Caio Mugarte (big blind) collected (40)
+Seat 2: Hackdasbo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425753317: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:17:47 AT [2023/08/16 14:17:47 ET]
+Table '3632189665 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (365 in chips) 
+Seat 2: Hackdasbo (1135 in chips) 
+Caio Mugarte: posts small blind 20
+Hackdasbo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c 4d]
+Caio Mugarte: folds 
+Uncalled bet (20) returned to Hackdasbo
+Hackdasbo collected 40 from pot
+Hackdasbo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Caio Mugarte (button) (small blind) folded before Flop
+Seat 2: Hackdasbo (big blind) collected (40)
+
+
+
+PokerStars Hand #245425754719: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:17:51 AT [2023/08/16 14:17:51 ET]
+Table '3632189665 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (345 in chips) 
+Seat 2: Hackdasbo (1155 in chips) 
+Hackdasbo: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc 2s]
+Hackdasbo: folds 
+Uncalled bet (20) returned to Caio Mugarte
+Caio Mugarte collected 40 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Caio Mugarte (big blind) collected (40)
+Seat 2: Hackdasbo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425756539: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:17:57 AT [2023/08/16 14:17:57 ET]
+Table '3632189665 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (365 in chips) 
+Seat 2: Hackdasbo (1135 in chips) 
+Caio Mugarte: posts small blind 20
+Hackdasbo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc 4s]
+Caio Mugarte: folds 
+Uncalled bet (20) returned to Hackdasbo
+Hackdasbo collected 40 from pot
+Hackdasbo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Caio Mugarte (button) (small blind) folded before Flop
+Seat 2: Hackdasbo (big blind) collected (40)
+
+
+
+PokerStars Hand #245425757871: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:18:02 AT [2023/08/16 14:18:02 ET]
+Table '3632189665 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (345 in chips) 
+Seat 2: Hackdasbo (1155 in chips) 
+Hackdasbo: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d 9s]
+Hackdasbo: raises 80 to 120
+Caio Mugarte: folds 
+Uncalled bet (80) returned to Hackdasbo
+Hackdasbo collected 80 from pot
+Hackdasbo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Caio Mugarte (big blind) folded before Flop
+Seat 2: Hackdasbo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #245425760287: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:18:10 AT [2023/08/16 14:18:10 ET]
+Table '3632189665 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (305 in chips) 
+Seat 2: Hackdasbo (1195 in chips) 
+Caio Mugarte: posts small blind 20
+Hackdasbo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Js 7c]
+Caio Mugarte: raises 265 to 305 and is all-in
+Hackdasbo: folds 
+Uncalled bet (265) returned to Caio Mugarte
+Caio Mugarte collected 80 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Caio Mugarte (button) (small blind) collected (80)
+Seat 2: Hackdasbo (big blind) folded before Flop
+
+
+
+PokerStars Hand #245425764524: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:18:24 AT [2023/08/16 14:18:24 ET]
+Table '3632189665 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (345 in chips) 
+Seat 2: Hackdasbo (1155 in chips) 
+Hackdasbo: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8s 8h]
+Hackdasbo: folds 
+Uncalled bet (20) returned to Caio Mugarte
+Caio Mugarte collected 40 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Caio Mugarte (big blind) collected (40)
+Seat 2: Hackdasbo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425766935: Tournament #3632189665, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2023/08/16 15:18:33 AT [2023/08/16 14:18:33 ET]
+Table '3632189665 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (365 in chips) 
+Seat 2: Hackdasbo (1135 in chips) 
+Caio Mugarte: posts small blind 30
+Hackdasbo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c Kc]
+Caio Mugarte: raises 305 to 365 and is all-in
+Hackdasbo: calls 305
+*** FLOP *** [Qs 4s 5s]
+*** TURN *** [Qs 4s 5s] [7c]
+*** RIVER *** [Qs 4s 5s 7c] [3d]
+*** SHOW DOWN ***
+Hackdasbo: shows [7d 7h] (three of a kind, Sevens)
+Caio Mugarte: shows [2c Kc] (high card King)
+Hackdasbo collected 730 from pot
+Caio Mugarte finished the tournament in 2nd place
+Hackdasbo wins the tournament - congratulations!
+Hackdasbo wins a '$1.00 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [Qs 4s 5s 7c 3d]
+Seat 1: Caio Mugarte (button) (small blind) showed [2c Kc] and lost with high card King
+Seat 2: Hackdasbo (big blind) showed [7d 7h] and won (730) with three of a kind, Sevens
+
+
+

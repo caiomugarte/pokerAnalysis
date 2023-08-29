@@ -1,0 +1,4195 @@
+﻿PokerStars Hand #245432660679: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:35:02 AT [2023/08/16 20:35:02 ET]
+Table '3632346331 1' 9-max Seat #1 is the button
+Seat 1: wilker54 (1500 in chips) 
+Seat 2: Guilão77 (1500 in chips) 
+Seat 4: NaneR00 (1500 in chips) 
+Seat 5: BESILRRO (1500 in chips) 
+Seat 6: MaxSterlinUC (1500 in chips) 
+Seat 8: Caio Mugarte (1500 in chips) 
+Seat 9: MzeaLLWIN (1500 in chips) 
+wilker54: posts the ante 3
+Guilão77: posts the ante 3
+NaneR00: posts the ante 3
+BESILRRO: posts the ante 3
+MaxSterlinUC: posts the ante 3
+Caio Mugarte: posts the ante 3
+MzeaLLWIN: posts the ante 3
+Guilão77: posts small blind 10
+NaneR00: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ks 2h]
+BESILRRO: folds 
+AntonioAllex is disconnected 
+MaxSterlinUC: folds 
+Caio Mugarte: folds 
+MzeaLLWIN: calls 20
+wilker54: raises 50 to 70
+Guilão77: calls 60
+NaneR00: folds 
+MzeaLLWIN: calls 50
+*** FLOP *** [9s Ac 5s]
+Guilão77: bets 1427 and is all-in
+MzeaLLWIN: calls 1427 and is all-in
+wilker54: folds 
+*** TURN *** [9s Ac 5s] [2d]
+*** RIVER *** [9s Ac 5s 2d] [8s]
+*** SHOW DOWN ***
+Guilão77: shows [5d 5h] (three of a kind, Fives)
+MzeaLLWIN: shows [7s 4s] (a flush, Nine high)
+MzeaLLWIN collected 3105 from pot
+Guilão77 finished the tournament
+*** SUMMARY ***
+Total pot 3105 | Rake 0 
+Board [9s Ac 5s 2d 8s]
+Seat 1: wilker54 (button) folded on the Flop
+Seat 2: Guilão77 (small blind) showed [5d 5h] and lost with three of a kind, Fives
+Seat 4: NaneR00 (big blind) folded before Flop
+Seat 5: BESILRRO folded before Flop (didn't bet)
+Seat 6: MaxSterlinUC folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: MzeaLLWIN showed [7s 4s] and won (3105) with a flush, Nine high
+
+
+
+PokerStars Hand #245432676207: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:36:20 AT [2023/08/16 20:36:20 ET]
+Table '3632346331 1' 9-max Seat #4 is the button
+Seat 1: wilker54 (1427 in chips) 
+Seat 3: dimenri28 (1500 in chips) 
+Seat 4: NaneR00 (1477 in chips) 
+Seat 6: MaxSterlinUC (1497 in chips) 
+Seat 7: AntonioAllex (1500 in chips) 
+Seat 8: Caio Mugarte (1497 in chips) 
+Seat 9: MzeaLLWIN (3105 in chips) 
+wilker54: posts the ante 3
+dimenri28: posts the ante 3
+NaneR00: posts the ante 3
+MaxSterlinUC: posts the ante 3
+AntonioAllex: posts the ante 3
+Caio Mugarte: posts the ante 3
+MzeaLLWIN: posts the ante 3
+MaxSterlinUC: posts small blind 10
+AntonioAllex: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d Jc]
+Caio Mugarte: folds 
+MzeaLLWIN: raises 20 to 40
+wilker54: folds 
+dimenri28: folds 
+NaneR00: folds 
+MaxSterlinUC: calls 30
+Tgathayde is disconnected 
+AntonioAllex: folds 
+*** FLOP *** [8c Qh 8d]
+MaxSterlinUC: checks 
+MzeaLLWIN: checks 
+*** TURN *** [8c Qh 8d] [6d]
+MaxSterlinUC: checks 
+MzeaLLWIN: bets 60
+MaxSterlinUC: calls 60
+*** RIVER *** [8c Qh 8d 6d] [2s]
+MaxSterlinUC: bets 80
+MzeaLLWIN: raises 2922 to 3002 and is all-in
+MaxSterlinUC: folds [Ah]
+Uncalled bet (2922) returned to MzeaLLWIN
+MzeaLLWIN collected 401 from pot
+MzeaLLWIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 401 | Rake 0 
+Board [8c Qh 8d 6d 2s]
+Seat 1: wilker54 folded before Flop (didn't bet)
+Seat 3: dimenri28 folded before Flop (didn't bet)
+Seat 4: NaneR00 (button) folded before Flop (didn't bet)
+Seat 6: MaxSterlinUC (small blind) folded on the River
+Seat 7: AntonioAllex (big blind) folded before Flop
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: MzeaLLWIN collected (401)
+
+
+
+PokerStars Hand #245432688720: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:37:21 AT [2023/08/16 20:37:21 ET]
+Table '3632346331 1' 9-max Seat #6 is the button
+Seat 1: wilker54 (1424 in chips) 
+Seat 3: dimenri28 (1497 in chips) 
+Seat 4: NaneR00 (1474 in chips) 
+Seat 5: Tgathayde (1500 in chips) 
+Seat 6: MaxSterlinUC (1314 in chips) 
+Seat 7: AntonioAllex (1477 in chips) 
+Seat 8: Caio Mugarte (1494 in chips) 
+Seat 9: MzeaLLWIN (3323 in chips) 
+wilker54: posts the ante 3
+dimenri28: posts the ante 3
+NaneR00: posts the ante 3
+Tgathayde: posts the ante 3
+MaxSterlinUC: posts the ante 3
+AntonioAllex: posts the ante 3
+Caio Mugarte: posts the ante 3
+MzeaLLWIN: posts the ante 3
+AntonioAllex: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c Js]
+MzeaLLWIN: folds 
+wilker54: folds 
+wander360 is disconnected 
+dimenri28: calls 20
+NaneR00: folds 
+Tgathayde: raises 40 to 60
+MaxSterlinUC: raises 194 to 254
+AntonioAllex: folds 
+Caio Mugarte: folds 
+dimenri28: folds 
+Tgathayde: folds 
+Uncalled bet (194) returned to MaxSterlinUC
+MaxSterlinUC collected 194 from pot
+*** SUMMARY ***
+Total pot 194 | Rake 0 
+Seat 1: wilker54 folded before Flop (didn't bet)
+Seat 3: dimenri28 folded before Flop
+Seat 4: NaneR00 folded before Flop (didn't bet)
+Seat 5: Tgathayde folded before Flop
+Seat 6: MaxSterlinUC (button) collected (194)
+Seat 7: AntonioAllex (small blind) folded before Flop
+Seat 8: Caio Mugarte (big blind) folded before Flop
+Seat 9: MzeaLLWIN folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432698713: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:38:11 AT [2023/08/16 20:38:11 ET]
+Table '3632346331 1' 9-max Seat #7 is the button
+Seat 1: wilker54 (1421 in chips) 
+Seat 2: wander360 (1500 in chips) 
+Seat 3: dimenri28 (1474 in chips) 
+Seat 4: NaneR00 (1471 in chips) 
+Seat 5: Tgathayde (1437 in chips) 
+Seat 6: MaxSterlinUC (1445 in chips) 
+Seat 7: AntonioAllex (1464 in chips) 
+Seat 8: Caio Mugarte (1471 in chips) 
+wilker54: posts the ante 3
+wander360: posts the ante 3
+dimenri28: posts the ante 3
+NaneR00: posts the ante 3
+Tgathayde: posts the ante 3
+MaxSterlinUC: posts the ante 3
+AntonioAllex: posts the ante 3
+Caio Mugarte: posts the ante 3
+Caio Mugarte: posts small blind 10
+wilker54: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8h 2h]
+wander360: folds 
+dimenri28: calls 20
+NaneR00: folds 
+Tgathayde: folds 
+MaxSterlinUC: folds 
+AntonioAllex: folds 
+Caio Mugarte: folds 
+wilker54: checks 
+*** FLOP *** [9s Qs Qc]
+wilker54: bets 20
+dimenri28: raises 20 to 40
+wilker54: calls 20
+*** TURN *** [9s Qs Qc] [7h]
+wilker54: bets 40
+dimenri28: calls 40
+*** RIVER *** [9s Qs Qc 7h] [Jc]
+wilker54: checks 
+dimenri28: checks 
+*** SHOW DOWN ***
+wilker54: shows [5s 7s] (two pair, Queens and Sevens)
+dimenri28: shows [9c Th] (two pair, Queens and Nines)
+dimenri28 collected 234 from pot
+*** SUMMARY ***
+Total pot 234 | Rake 0 
+Board [9s Qs Qc 7h Jc]
+Seat 1: wilker54 (big blind) showed [5s 7s] and lost with two pair, Queens and Sevens
+Seat 2: wander360 folded before Flop (didn't bet)
+Seat 3: dimenri28 showed [9c Th] and won (234) with two pair, Queens and Nines
+Seat 4: NaneR00 folded before Flop (didn't bet)
+Seat 5: Tgathayde folded before Flop (didn't bet)
+Seat 6: MaxSterlinUC folded before Flop (didn't bet)
+Seat 7: AntonioAllex (button) folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (small blind) folded before Flop
+
+
+
+PokerStars Hand #245432708671: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:39:01 AT [2023/08/16 20:39:01 ET]
+Table '3632346331 1' 9-max Seat #8 is the button
+Seat 1: wilker54 (1318 in chips) 
+Seat 2: wander360 (1497 in chips) 
+Seat 3: dimenri28 (1605 in chips) 
+Seat 4: NaneR00 (1468 in chips) 
+Seat 5: Tgathayde (1434 in chips) 
+Seat 6: MaxSterlinUC (1442 in chips) 
+Seat 7: AntonioAllex (1461 in chips) 
+Seat 8: Caio Mugarte (1458 in chips) 
+wilker54: posts the ante 3
+wander360: posts the ante 3
+dimenri28: posts the ante 3
+NaneR00: posts the ante 3
+Tgathayde: posts the ante 3
+MaxSterlinUC: posts the ante 3
+AntonioAllex: posts the ante 3
+Caio Mugarte: posts the ante 3
+wilker54: posts small blind 10
+wander360: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9h Ac]
+dimenri28: folds 
+NaneR00: folds 
+Tgathayde: folds 
+MaxSterlinUC: folds 
+difdutra is disconnected 
+AntonioAllex: calls 20
+Caio Mugarte: folds 
+wilker54: calls 10
+wander360: checks 
+*** FLOP *** [Ks Kd 3s]
+wilker54: checks 
+wander360: checks 
+AntonioAllex: checks 
+*** TURN *** [Ks Kd 3s] [Qd]
+wilker54: checks 
+wander360: checks 
+AntonioAllex: bets 80
+wilker54: folds 
+wander360: folds 
+Uncalled bet (80) returned to AntonioAllex
+AntonioAllex collected 84 from pot
+AntonioAllex: doesn't show hand 
+*** SUMMARY ***
+Total pot 84 | Rake 0 
+Board [Ks Kd 3s Qd]
+Seat 1: wilker54 (small blind) folded on the Turn
+Seat 2: wander360 (big blind) folded on the Turn
+Seat 3: dimenri28 folded before Flop (didn't bet)
+Seat 4: NaneR00 folded before Flop (didn't bet)
+Seat 5: Tgathayde folded before Flop (didn't bet)
+Seat 6: MaxSterlinUC folded before Flop (didn't bet)
+Seat 7: AntonioAllex collected (84)
+Seat 8: Caio Mugarte (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432722778: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:40:11 AT [2023/08/16 20:40:11 ET]
+Table '3632346331 1' 9-max Seat #1 is the button
+Seat 1: wilker54 (1295 in chips) 
+Seat 2: wander360 (1474 in chips) 
+Seat 3: dimenri28 (1602 in chips) 
+Seat 4: NaneR00 (1465 in chips) 
+Seat 5: Tgathayde (1431 in chips) 
+Seat 6: MaxSterlinUC (1439 in chips) 
+Seat 7: AntonioAllex (1522 in chips) 
+Seat 8: Caio Mugarte (1455 in chips) 
+Seat 9: difdutra (1500 in chips) 
+wilker54: posts the ante 3
+wander360: posts the ante 3
+dimenri28: posts the ante 3
+NaneR00: posts the ante 3
+Tgathayde: posts the ante 3
+MaxSterlinUC: posts the ante 3
+AntonioAllex: posts the ante 3
+Caio Mugarte: posts the ante 3
+difdutra: posts the ante 3
+wander360: posts small blind 10
+dimenri28: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 3h]
+NaneR00: folds 
+Tgathayde: folds 
+MaxSterlinUC: calls 20
+AntonioAllex: folds 
+Caio Mugarte: folds 
+difdutra: calls 20
+wilker54: raises 70 to 90
+wander360: folds 
+dimenri28: calls 70
+MaxSterlinUC: calls 70
+difdutra: calls 70
+*** FLOP *** [8h 5s Jd]
+dimenri28: bets 20
+MaxSterlinUC: raises 291 to 311
+difdutra: folds 
+wilker54: folds 
+dimenri28: folds 
+Uncalled bet (291) returned to MaxSterlinUC
+MaxSterlinUC collected 437 from pot
+*** SUMMARY ***
+Total pot 437 | Rake 0 
+Board [8h 5s Jd]
+Seat 1: wilker54 (button) folded on the Flop
+Seat 2: wander360 (small blind) folded before Flop
+Seat 3: dimenri28 (big blind) folded on the Flop
+Seat 4: NaneR00 folded before Flop (didn't bet)
+Seat 5: Tgathayde folded before Flop (didn't bet)
+Seat 6: MaxSterlinUC collected (437)
+Seat 7: AntonioAllex folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: difdutra folded on the Flop
+
+
+
+PokerStars Hand #245432738829: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:41:32 AT [2023/08/16 20:41:32 ET]
+Table '3632346331 1' 9-max Seat #2 is the button
+Seat 1: wilker54 (1202 in chips) 
+Seat 2: wander360 (1461 in chips) 
+Seat 3: dimenri28 (1489 in chips) 
+Seat 4: NaneR00 (1462 in chips) 
+Seat 5: Tgathayde (1428 in chips) 
+Seat 6: MaxSterlinUC (1763 in chips) 
+Seat 7: AntonioAllex (1519 in chips) 
+Seat 8: Caio Mugarte (1452 in chips) 
+Seat 9: difdutra (1407 in chips) 
+wilker54: posts the ante 3
+wander360: posts the ante 3
+dimenri28: posts the ante 3
+NaneR00: posts the ante 3
+Tgathayde: posts the ante 3
+MaxSterlinUC: posts the ante 3
+AntonioAllex: posts the ante 3
+Caio Mugarte: posts the ante 3
+difdutra: posts the ante 3
+dimenri28: posts small blind 10
+NaneR00: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2h Qs]
+Tgathayde: raises 20 to 40
+MaxSterlinUC: folds 
+AntonioAllex: folds 
+Caio Mugarte: folds 
+difdutra: calls 40
+wilker54: folds 
+wander360: calls 40
+dimenri28: calls 30
+NaneR00: folds 
+*** FLOP *** [4d Kd Qc]
+dimenri28: bets 20
+Tgathayde: raises 62 to 82
+difdutra: folds 
+wander360: raises 1336 to 1418 and is all-in
+dimenri28: folds 
+Tgathayde: calls 1303 and is all-in
+Uncalled bet (33) returned to wander360
+*** TURN *** [4d Kd Qc] [Jh]
+*** RIVER *** [4d Kd Qc Jh] [Td]
+*** SHOW DOWN ***
+Tgathayde: shows [Ah Ac] (a straight, Ten to Ace)
+wander360: shows [Kh Qd] (two pair, Kings and Queens)
+Tgathayde collected 2997 from pot
+*** SUMMARY ***
+Total pot 2997 | Rake 0 
+Board [4d Kd Qc Jh Td]
+Seat 1: wilker54 folded before Flop (didn't bet)
+Seat 2: wander360 (button) showed [Kh Qd] and lost with two pair, Kings and Queens
+Seat 3: dimenri28 (small blind) folded on the Flop
+Seat 4: NaneR00 (big blind) folded before Flop
+Seat 5: Tgathayde showed [Ah Ac] and won (2997) with a straight, Ten to Ace
+Seat 6: MaxSterlinUC folded before Flop (didn't bet)
+Seat 7: AntonioAllex folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: difdutra folded on the Flop
+
+
+
+PokerStars Hand #245432757777: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:43:08 AT [2023/08/16 20:43:08 ET]
+Table '3632346331 1' 9-max Seat #3 is the button
+Seat 1: wilker54 (1199 in chips) 
+Seat 2: wander360 (33 in chips) 
+Seat 3: dimenri28 (1426 in chips) 
+Seat 4: NaneR00 (1439 in chips) 
+Seat 5: Tgathayde (2997 in chips) 
+Seat 6: MaxSterlinUC (1760 in chips) 
+Seat 7: AntonioAllex (1516 in chips) 
+Seat 8: Caio Mugarte (1449 in chips) 
+Seat 9: difdutra (1364 in chips) 
+wilker54: posts the ante 3
+wander360: posts the ante 3
+dimenri28: posts the ante 3
+NaneR00: posts the ante 3
+Tgathayde: posts the ante 3
+MaxSterlinUC: posts the ante 3
+AntonioAllex: posts the ante 3
+Caio Mugarte: posts the ante 3
+difdutra: posts the ante 3
+NaneR00: posts small blind 10
+Tgathayde: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s 8h]
+MaxSterlinUC: calls 20
+AntonioAllex: folds 
+Caio Mugarte: folds 
+difdutra: folds 
+wilker54: folds 
+wander360: raises 10 to 30 and is all-in
+dimenri28: raises 137 to 167
+NaneR00: folds 
+Tgathayde: folds 
+MaxSterlinUC: calls 147
+*** FLOP *** [3h Kc 6h]
+MaxSterlinUC: checks 
+dimenri28: checks 
+*** TURN *** [3h Kc 6h] [Qh]
+MaxSterlinUC: bets 281
+dimenri28: calls 281
+*** RIVER *** [3h Kc 6h Qh] [Qc]
+MaxSterlinUC: bets 520
+dimenri28: calls 520
+*** SHOW DOWN ***
+MaxSterlinUC: shows [7h Jh] (a flush, Queen high)
+dimenri28: mucks hand 
+MaxSterlinUC collected 1876 from side pot
+wander360: mucks hand 
+MaxSterlinUC collected 147 from main pot
+wander360 finished the tournament in 41st place
+*** SUMMARY ***
+Total pot 2023 Main pot 147. Side pot 1876. | Rake 0 
+Board [3h Kc 6h Qh Qc]
+Seat 1: wilker54 folded before Flop (didn't bet)
+Seat 2: wander360 mucked [4c 6d]
+Seat 3: dimenri28 (button) mucked [9c 9s]
+Seat 4: NaneR00 (small blind) folded before Flop
+Seat 5: Tgathayde (big blind) folded before Flop
+Seat 6: MaxSterlinUC showed [7h Jh] and won (2023) with a flush, Queen high
+Seat 7: AntonioAllex folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: difdutra folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432772451: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 21:44:22 AT [2023/08/16 20:44:22 ET]
+Table '3632346331 1' 9-max Seat #4 is the button
+Seat 1: wilker54 (1196 in chips) 
+Seat 3: dimenri28 (455 in chips) 
+Seat 4: NaneR00 (1426 in chips) 
+Seat 5: Tgathayde (2974 in chips) 
+Seat 6: MaxSterlinUC (2812 in chips) 
+Seat 7: AntonioAllex (1513 in chips) 
+Seat 8: Caio Mugarte (1446 in chips) 
+Seat 9: difdutra (1361 in chips) 
+wilker54: posts the ante 3
+dimenri28: posts the ante 3
+NaneR00: posts the ante 3
+Tgathayde: posts the ante 3
+MaxSterlinUC: posts the ante 3
+AntonioAllex: posts the ante 3
+Caio Mugarte: posts the ante 3
+difdutra: posts the ante 3
+Tgathayde: posts small blind 10
+MaxSterlinUC: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad Th]
+AntonioAllex: calls 20
+dimenri28 is disconnected 
+Caio Mugarte: folds 
+difdutra: calls 20
+wilker54: folds 
+dimenri28 is connected 
+dimenri28: raises 114 to 134
+NaneR00: folds 
+Tgathayde: folds 
+MaxSterlinUC: folds 
+AntonioAllex: calls 114
+difdutra: calls 114
+*** FLOP *** [5h 9s Kd]
+AntonioAllex: checks 
+difdutra: checks 
+dimenri28: bets 318 and is all-in
+AntonioAllex: calls 318
+difdutra: folds 
+*** TURN *** [5h 9s Kd] [7c]
+*** RIVER *** [5h 9s Kd 7c] [6d]
+*** SHOW DOWN ***
+AntonioAllex: shows [Qs Td] (high card King)
+dimenri28: shows [Ts Ks] (a pair of Kings)
+dimenri28 collected 1092 from pot
+*** SUMMARY ***
+Total pot 1092 | Rake 0 
+Board [5h 9s Kd 7c 6d]
+Seat 1: wilker54 folded before Flop (didn't bet)
+Seat 3: dimenri28 showed [Ts Ks] and won (1092) with a pair of Kings
+Seat 4: NaneR00 (button) folded before Flop (didn't bet)
+Seat 5: Tgathayde (small blind) folded before Flop
+Seat 6: MaxSterlinUC (big blind) folded before Flop
+Seat 7: AntonioAllex showed [Qs Td] and lost with high card King
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: difdutra folded on the Flop
+
+
+
+PokerStars Hand #245432789469: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 21:45:47 AT [2023/08/16 20:45:47 ET]
+Table '3632346331 1' 9-max Seat #5 is the button
+Seat 1: wilker54 (1193 in chips) 
+Seat 3: dimenri28 (1092 in chips) 
+Seat 4: NaneR00 (1423 in chips) 
+Seat 5: Tgathayde (2961 in chips) 
+Seat 6: MaxSterlinUC (2789 in chips) 
+Seat 7: AntonioAllex (1058 in chips) 
+Seat 8: Caio Mugarte (1443 in chips) 
+Seat 9: difdutra (1224 in chips) 
+wilker54: posts the ante 4
+dimenri28: posts the ante 4
+NaneR00: posts the ante 4
+Tgathayde: posts the ante 4
+MaxSterlinUC: posts the ante 4
+AntonioAllex: posts the ante 4
+Caio Mugarte: posts the ante 4
+difdutra: posts the ante 4
+MaxSterlinUC: posts small blind 15
+AntonioAllex: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s 6s]
+Caio Mugarte: folds 
+difdutra: folds 
+wilker54: folds 
+dimenri28: calls 30
+NaneR00: folds 
+Tgathayde: folds 
+MaxSterlinUC: calls 15
+AntonioAllex: checks 
+*** FLOP *** [4c 8d Jh]
+MaxSterlinUC: checks 
+AntonioAllex: checks 
+dimenri28: bets 122
+MaxSterlinUC: calls 122
+AntonioAllex: folds 
+*** TURN *** [4c 8d Jh] [9s]
+MaxSterlinUC: checks 
+dimenri28: bets 60
+MaxSterlinUC: calls 60
+*** RIVER *** [4c 8d Jh 9s] [Js]
+MaxSterlinUC: bets 150
+dimenri28: calls 150
+*** SHOW DOWN ***
+MaxSterlinUC: shows [3h Ah] (a pair of Jacks)
+dimenri28: shows [8s 7d] (two pair, Jacks and Eights)
+dimenri28 collected 786 from pot
+*** SUMMARY ***
+Total pot 786 | Rake 0 
+Board [4c 8d Jh 9s Js]
+Seat 1: wilker54 folded before Flop (didn't bet)
+Seat 3: dimenri28 showed [8s 7d] and won (786) with two pair, Jacks and Eights
+Seat 4: NaneR00 folded before Flop (didn't bet)
+Seat 5: Tgathayde (button) folded before Flop (didn't bet)
+Seat 6: MaxSterlinUC (small blind) showed [3h Ah] and lost with a pair of Jacks
+Seat 7: AntonioAllex (big blind) folded on the Flop
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: difdutra folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432803680: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 21:46:59 AT [2023/08/16 20:46:59 ET]
+Table '3632346331 1' 9-max Seat #6 is the button
+Seat 1: wilker54 (1189 in chips) 
+Seat 3: dimenri28 (1512 in chips) 
+Seat 4: NaneR00 (1419 in chips) 
+Seat 5: Tgathayde (2957 in chips) 
+Seat 6: MaxSterlinUC (2423 in chips) 
+Seat 7: AntonioAllex (1024 in chips) 
+Seat 8: Caio Mugarte (1439 in chips) 
+Seat 9: difdutra (1220 in chips) 
+wilker54: posts the ante 4
+dimenri28: posts the ante 4
+NaneR00: posts the ante 4
+Tgathayde: posts the ante 4
+MaxSterlinUC: posts the ante 4
+AntonioAllex: posts the ante 4
+Caio Mugarte: posts the ante 4
+difdutra: posts the ante 4
+AntonioAllex: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h Th]
+difdutra: calls 30
+wilker54: raises 105 to 135
+dimenri28: calls 135
+NaneR00: folds 
+Tgathayde: folds 
+MaxSterlinUC: calls 135
+AntonioAllex: folds 
+Caio Mugarte: folds 
+difdutra: calls 105
+*** FLOP *** [4c 2c Jh]
+difdutra: checks 
+wilker54: checks 
+dimenri28: checks 
+MaxSterlinUC: checks 
+*** TURN *** [4c 2c Jh] [Ad]
+difdutra: checks 
+wilker54: checks 
+dimenri28: checks 
+MaxSterlinUC: bets 411
+difdutra: folds 
+wilker54: folds 
+dimenri28: calls 411
+*** RIVER *** [4c 2c Jh Ad] [Ah]
+dimenri28: checks 
+MaxSterlinUC: bets 540
+dimenri28: raises 422 to 962 and is all-in
+MaxSterlinUC: folds 
+Uncalled bet (422) returned to dimenri28
+dimenri28 collected 2519 from pot
+dimenri28: doesn't show hand 
+*** SUMMARY ***
+Total pot 2519 | Rake 0 
+Board [4c 2c Jh Ad Ah]
+Seat 1: wilker54 folded on the Turn
+Seat 3: dimenri28 collected (2519)
+Seat 4: NaneR00 folded before Flop (didn't bet)
+Seat 5: Tgathayde folded before Flop (didn't bet)
+Seat 6: MaxSterlinUC (button) folded on the River
+Seat 7: AntonioAllex (small blind) folded before Flop
+Seat 8: Caio Mugarte (big blind) folded before Flop
+Seat 9: difdutra folded on the Turn
+
+
+
+PokerStars Hand #245432822806: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 21:48:37 AT [2023/08/16 20:48:37 ET]
+Table '3632346331 1' 9-max Seat #7 is the button
+Seat 1: wilker54 (1050 in chips) 
+Seat 4: NaneR00 (1415 in chips) 
+Seat 5: Tgathayde (2953 in chips) 
+Seat 6: MaxSterlinUC (1333 in chips) 
+Seat 7: AntonioAllex (1005 in chips) 
+Seat 8: Caio Mugarte (1405 in chips) 
+Seat 9: difdutra (1081 in chips) 
+wilker54: posts the ante 4
+NaneR00: posts the ante 4
+Tgathayde: posts the ante 4
+MaxSterlinUC: posts the ante 4
+AntonioAllex: posts the ante 4
+Caio Mugarte: posts the ante 4
+difdutra: posts the ante 4
+Caio Mugarte: posts small blind 15
+difdutra: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s Td]
+wilker54: folds 
+NaneR00: folds 
+Tgathayde: raises 30 to 60
+MaxSterlinUC: folds 
+AntonioAllex: folds 
+Caio Mugarte: folds 
+difdutra: folds 
+Uncalled bet (30) returned to Tgathayde
+Tgathayde collected 103 from pot
+Tgathayde: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 1: wilker54 folded before Flop (didn't bet)
+Seat 4: NaneR00 folded before Flop (didn't bet)
+Seat 5: Tgathayde collected (103)
+Seat 6: MaxSterlinUC folded before Flop (didn't bet)
+Seat 7: AntonioAllex (button) folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (small blind) folded before Flop
+Seat 9: difdutra (big blind) folded before Flop
+
+
+
+PokerStars Hand #245432829605: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 21:49:12 AT [2023/08/16 20:49:12 ET]
+Table '3632346331 1' 9-max Seat #8 is the button
+Seat 1: wilker54 (1046 in chips) 
+Seat 4: NaneR00 (1411 in chips) 
+Seat 5: Tgathayde (3022 in chips) 
+Seat 6: MaxSterlinUC (1329 in chips) 
+Seat 7: AntonioAllex (1001 in chips) 
+Seat 8: Caio Mugarte (1386 in chips) 
+Seat 9: difdutra (1047 in chips) 
+wilker54: posts the ante 4
+NaneR00: posts the ante 4
+Tgathayde: posts the ante 4
+MaxSterlinUC: posts the ante 4
+AntonioAllex: posts the ante 4
+Caio Mugarte: posts the ante 4
+difdutra: posts the ante 4
+difdutra: posts small blind 15
+wilker54: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts Qc]
+NaneR00: folds 
+Tgathayde: folds 
+MaxSterlinUC: folds 
+AntonioAllex: folds 
+Caio Mugarte: raises 30 to 60
+difdutra: calls 45
+wilker54: calls 30
+*** FLOP *** [Kd 2s 3d]
+difdutra: checks 
+wilker54: checks 
+Caio Mugarte: bets 69
+difdutra: folds 
+wilker54: calls 69
+*** TURN *** [Kd 2s 3d] [9s]
+wilker54: checks 
+Caio Mugarte: bets 180
+wilker54: folds 
+Uncalled bet (180) returned to Caio Mugarte
+Caio Mugarte collected 346 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 346 | Rake 0 
+Board [Kd 2s 3d 9s]
+Seat 1: wilker54 (big blind) folded on the Turn
+Seat 4: NaneR00 folded before Flop (didn't bet)
+Seat 5: Tgathayde folded before Flop (didn't bet)
+Seat 6: MaxSterlinUC folded before Flop (didn't bet)
+Seat 7: AntonioAllex folded before Flop (didn't bet)
+Seat 8: Caio Mugarte (button) collected (346)
+Seat 9: difdutra (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245432853028: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 21:51:12 AT [2023/08/16 20:51:12 ET]
+Table '3632346331 1' 9-max Seat #9 is the button
+Seat 1: wilker54 (913 in chips) 
+Seat 4: NaneR00 (1407 in chips) 
+Seat 5: Tgathayde (3018 in chips) 
+Seat 6: MaxSterlinUC (1325 in chips) 
+Seat 7: AntonioAllex (997 in chips) 
+Seat 8: Caio Mugarte (1599 in chips) 
+Seat 9: difdutra (983 in chips) 
+wilker54: posts the ante 4
+NaneR00: posts the ante 4
+Tgathayde: posts the ante 4
+MaxSterlinUC: posts the ante 4
+AntonioAllex: posts the ante 4
+Caio Mugarte: posts the ante 4
+difdutra: posts the ante 4
+wilker54: posts small blind 15
+NaneR00: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h 9h]
+Tgathayde: folds 
+MaxSterlinUC: raises 150 to 180
+AntonioAllex: folds 
+Caio Mugarte: folds 
+difdutra: folds 
+wilker54: calls 165
+NaneR00: folds 
+*** FLOP *** [Jd 2h 2s]
+wilker54: checks 
+MaxSterlinUC: bets 480
+wilker54: calls 480
+*** TURN *** [Jd 2h 2s] [As]
+wilker54: checks 
+MaxSterlinUC: bets 300
+wilker54: calls 249 and is all-in
+Uncalled bet (51) returned to MaxSterlinUC
+*** RIVER *** [Jd 2h 2s As] [3c]
+*** SHOW DOWN ***
+wilker54: shows [Ts Tc] (two pair, Tens and Deuces)
+MaxSterlinUC: shows [Ad Qs] (two pair, Aces and Deuces)
+MaxSterlinUC collected 1876 from pot
+wilker54 finished the tournament in 37th place
+*** SUMMARY ***
+Total pot 1876 | Rake 0 
+Board [Jd 2h 2s As 3c]
+Seat 1: wilker54 (small blind) showed [Ts Tc] and lost with two pair, Tens and Deuces
+Seat 4: NaneR00 (big blind) folded before Flop
+Seat 5: Tgathayde folded before Flop (didn't bet)
+Seat 6: MaxSterlinUC showed [Ad Qs] and won (1876) with two pair, Aces and Deuces
+Seat 7: AntonioAllex folded before Flop (didn't bet)
+Seat 8: Caio Mugarte folded before Flop (didn't bet)
+Seat 9: difdutra (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432872111: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 21:52:50 AT [2023/08/16 20:52:50 ET]
+Table '3632346331 5' 9-max Seat #3 is the button
+Seat 1: MzeaLLWIN (3280 in chips) 
+Seat 2: alfcapone87 (4436 in chips) 
+Seat 3: jppvicto (1771 in chips) 
+Seat 4: K4rmina (1864 in chips) 
+Seat 5: EdsonBura (1611 in chips) 
+Seat 6: koma385 (1745 in chips) 
+Seat 7: Caio Mugarte (1595 in chips) 
+Seat 8: nncar (1568 in chips) 
+Seat 9: vivispadeto (655 in chips) 
+MzeaLLWIN: posts the ante 4
+alfcapone87: posts the ante 4
+jppvicto: posts the ante 4
+K4rmina: posts the ante 4
+EdsonBura: posts the ante 4
+koma385: posts the ante 4
+Caio Mugarte: posts the ante 4
+nncar: posts the ante 4
+vivispadeto: posts the ante 4
+K4rmina: posts small blind 15
+EdsonBura: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d 2h]
+koma385: folds 
+Caio Mugarte: folds 
+nncar: raises 33 to 63
+vivispadeto: calls 63
+MzeaLLWIN: calls 63
+alfcapone87: folds 
+jppvicto: raises 1704 to 1767 and is all-in
+K4rmina: folds 
+EdsonBura: folds 
+nncar: folds 
+vivispadeto: calls 588 and is all-in
+MzeaLLWIN: folds 
+Uncalled bet (1116) returned to jppvicto
+*** FLOP *** [6s 9d 5d]
+*** TURN *** [6s 9d 5d] [6d]
+*** RIVER *** [6s 9d 5d 6d] [7d]
+*** SHOW DOWN ***
+vivispadeto: shows [Jh Ad] (a flush, Ace high)
+jppvicto: shows [Td Tc] (a flush, Ten high)
+vivispadeto collected 1509 from pot
+*** SUMMARY ***
+Total pot 1509 | Rake 0 
+Board [6s 9d 5d 6d 7d]
+Seat 1: MzeaLLWIN folded before Flop
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 3: jppvicto (button) showed [Td Tc] and lost with a flush, Ten high
+Seat 4: K4rmina (small blind) folded before Flop
+Seat 5: EdsonBura (big blind) folded before Flop
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: nncar folded before Flop
+Seat 9: vivispadeto showed [Jh Ad] and won (1509) with a flush, Ace high
+
+
+
+PokerStars Hand #245432882469: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 21:53:44 AT [2023/08/16 20:53:44 ET]
+Table '3632346331 5' 9-max Seat #4 is the button
+Seat 1: MzeaLLWIN (3213 in chips) 
+Seat 2: alfcapone87 (4432 in chips) 
+Seat 3: jppvicto (1116 in chips) 
+Seat 4: K4rmina (1845 in chips) 
+Seat 5: EdsonBura (1577 in chips) 
+Seat 6: koma385 (1741 in chips) 
+Seat 7: Caio Mugarte (1591 in chips) 
+Seat 8: nncar (1501 in chips) 
+Seat 9: vivispadeto (1509 in chips) 
+MzeaLLWIN: posts the ante 4
+alfcapone87: posts the ante 4
+jppvicto: posts the ante 4
+K4rmina: posts the ante 4
+EdsonBura: posts the ante 4
+koma385: posts the ante 4
+Caio Mugarte: posts the ante 4
+nncar: posts the ante 4
+vivispadeto: posts the ante 4
+EdsonBura: posts small blind 15
+koma385: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6h Js]
+Caio Mugarte: folds 
+nncar: folds 
+vivispadeto: folds 
+MzeaLLWIN: raises 30 to 60
+alfcapone87: folds 
+jppvicto: calls 60
+K4rmina: folds 
+EdsonBura: folds 
+koma385: folds 
+*** FLOP *** [Qh 5d Kd]
+MzeaLLWIN: bets 60
+jppvicto: folds 
+Uncalled bet (60) returned to MzeaLLWIN
+MzeaLLWIN collected 201 from pot
+MzeaLLWIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 201 | Rake 0 
+Board [Qh 5d Kd]
+Seat 1: MzeaLLWIN collected (201)
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 3: jppvicto folded on the Flop
+Seat 4: K4rmina (button) folded before Flop (didn't bet)
+Seat 5: EdsonBura (small blind) folded before Flop
+Seat 6: koma385 (big blind) folded before Flop
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: nncar folded before Flop (didn't bet)
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432891366: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 21:54:30 AT [2023/08/16 20:54:30 ET]
+Table '3632346331 5' 9-max Seat #5 is the button
+Seat 1: MzeaLLWIN (3350 in chips) 
+Seat 2: alfcapone87 (4428 in chips) 
+Seat 3: jppvicto (1052 in chips) 
+Seat 4: K4rmina (1841 in chips) 
+Seat 5: EdsonBura (1558 in chips) 
+Seat 6: koma385 (1707 in chips) 
+Seat 7: Caio Mugarte (1587 in chips) 
+Seat 8: nncar (1497 in chips) 
+Seat 9: vivispadeto (1505 in chips) 
+MzeaLLWIN: posts the ante 4
+alfcapone87: posts the ante 4
+jppvicto: posts the ante 4
+K4rmina: posts the ante 4
+EdsonBura: posts the ante 4
+koma385: posts the ante 4
+Caio Mugarte: posts the ante 4
+nncar: posts the ante 4
+vivispadeto: posts the ante 4
+koma385: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad 6s]
+nncar: folds 
+vivispadeto: calls 30
+MzeaLLWIN: folds 
+alfcapone87: folds 
+jppvicto: folds 
+K4rmina: calls 30
+EdsonBura: calls 30
+koma385: calls 15
+Caio Mugarte: checks 
+*** FLOP *** [9c Kc 7h]
+koma385: checks 
+Caio Mugarte: checks 
+vivispadeto: checks 
+K4rmina: checks 
+EdsonBura: checks 
+*** TURN *** [9c Kc 7h] [7d]
+koma385: checks 
+Caio Mugarte: checks 
+vivispadeto: checks 
+K4rmina: checks 
+EdsonBura: checks 
+*** RIVER *** [9c Kc 7h 7d] [Jc]
+koma385: bets 60
+Caio Mugarte: folds 
+vivispadeto: folds 
+K4rmina: calls 60
+EdsonBura: folds 
+*** SHOW DOWN ***
+koma385: shows [6c Js] (two pair, Jacks and Sevens)
+K4rmina: shows [Jh Tc] (two pair, Jacks and Sevens)
+koma385 collected 153 from pot
+K4rmina collected 153 from pot
+*** SUMMARY ***
+Total pot 306 | Rake 0 
+Board [9c Kc 7h 7d Jc]
+Seat 1: MzeaLLWIN folded before Flop (didn't bet)
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 3: jppvicto folded before Flop (didn't bet)
+Seat 4: K4rmina showed [Jh Tc] and won (153) with two pair, Jacks and Sevens
+Seat 5: EdsonBura (button) folded on the River
+Seat 6: koma385 (small blind) showed [6c Js] and won (153) with two pair, Jacks and Sevens
+Seat 7: Caio Mugarte (big blind) folded on the River
+Seat 8: nncar folded before Flop (didn't bet)
+Seat 9: vivispadeto folded on the River
+
+
+
+PokerStars Hand #245432957421: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 22:01:19 AT [2023/08/16 21:01:19 ET]
+Table '3632346331 5' 9-max Seat #6 is the button
+Seat 1: MzeaLLWIN (3346 in chips) 
+Seat 2: alfcapone87 (4424 in chips) 
+Seat 3: jppvicto (1048 in chips) 
+Seat 4: K4rmina (1900 in chips) 
+Seat 5: EdsonBura (1524 in chips) 
+Seat 6: koma385 (1766 in chips) 
+Seat 7: Caio Mugarte (1553 in chips) 
+Seat 8: nncar (1493 in chips) 
+Seat 9: vivispadeto (1471 in chips) 
+MzeaLLWIN: posts the ante 4
+alfcapone87: posts the ante 4
+jppvicto: posts the ante 4
+K4rmina: posts the ante 4
+EdsonBura: posts the ante 4
+koma385: posts the ante 4
+Caio Mugarte: posts the ante 4
+nncar: posts the ante 4
+vivispadeto: posts the ante 4
+Caio Mugarte: posts small blind 15
+nncar: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kh Js]
+vivispadeto: folds 
+MzeaLLWIN: folds 
+alfcapone87: folds 
+jppvicto: raises 30 to 60
+K4rmina: calls 60
+EdsonBura: raises 30 to 90
+koma385: folds 
+Caio Mugarte: folds 
+nncar: calls 60
+jppvicto: calls 30
+K4rmina: calls 30
+*** FLOP *** [6c Jh 5c]
+nncar: checks 
+jppvicto: bets 954 and is all-in
+K4rmina: folds 
+EdsonBura: calls 954
+nncar: folds 
+*** TURN *** [6c Jh 5c] [3d]
+*** RIVER *** [6c Jh 5c 3d] [Qh]
+*** SHOW DOWN ***
+jppvicto: shows [Jd Kd] (a pair of Jacks)
+EdsonBura: shows [Qs Qc] (three of a kind, Queens)
+EdsonBura collected 2319 from pot
+jppvicto finished the tournament in 35th place
+*** SUMMARY ***
+Total pot 2319 | Rake 0 
+Board [6c Jh 5c 3d Qh]
+Seat 1: MzeaLLWIN folded before Flop (didn't bet)
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 3: jppvicto showed [Jd Kd] and lost with a pair of Jacks
+Seat 4: K4rmina folded on the Flop
+Seat 5: EdsonBura showed [Qs Qc] and won (2319) with three of a kind, Queens
+Seat 6: koma385 (button) folded before Flop (didn't bet)
+Seat 7: Caio Mugarte (small blind) folded before Flop
+Seat 8: nncar (big blind) folded on the Flop
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432976089: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:02:56 AT [2023/08/16 21:02:56 ET]
+Table '3632346331 5' 9-max Seat #7 is the button
+Seat 1: MzeaLLWIN (3342 in chips) 
+Seat 2: alfcapone87 (4420 in chips) 
+Seat 4: K4rmina (1806 in chips) 
+Seat 5: EdsonBura (2795 in chips) 
+Seat 6: koma385 (1762 in chips) 
+Seat 7: Caio Mugarte (1534 in chips) 
+Seat 8: nncar (1399 in chips) 
+Seat 9: vivispadeto (1467 in chips) 
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+nncar: posts the ante 6
+vivispadeto: posts the ante 6
+nncar: posts small blind 25
+vivispadeto: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d Jd]
+MzeaLLWIN: folds 
+alfcapone87: folds 
+K4rmina: folds 
+EdsonBura: folds 
+koma385: folds 
+Caio Mugarte: raises 50 to 100
+nncar: folds 
+vivispadeto: folds 
+Uncalled bet (50) returned to Caio Mugarte
+Caio Mugarte collected 173 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: MzeaLLWIN folded before Flop (didn't bet)
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura folded before Flop (didn't bet)
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte (button) collected (173)
+Seat 8: nncar (small blind) folded before Flop
+Seat 9: vivispadeto (big blind) folded before Flop
+
+
+
+PokerStars Hand #245432980202: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:03:17 AT [2023/08/16 21:03:17 ET]
+Table '3632346331 5' 9-max Seat #8 is the button
+Seat 1: MzeaLLWIN (3336 in chips) 
+Seat 2: alfcapone87 (4414 in chips) 
+Seat 4: K4rmina (1800 in chips) 
+Seat 5: EdsonBura (2789 in chips) 
+Seat 6: koma385 (1756 in chips) 
+Seat 7: Caio Mugarte (1651 in chips) 
+Seat 8: nncar (1368 in chips) 
+Seat 9: vivispadeto (1411 in chips) 
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+nncar: posts the ante 6
+vivispadeto: posts the ante 6
+vivispadeto: posts small blind 25
+MzeaLLWIN: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qd Qc]
+alfcapone87: folds 
+K4rmina: calls 50
+EdsonBura: raises 50 to 100
+koma385: folds 
+Caio Mugarte: raises 250 to 350
+nncar: folds 
+vivispadeto: folds 
+MzeaLLWIN: raises 2980 to 3330 and is all-in
+K4rmina: folds 
+EdsonBura: folds 
+Caio Mugarte: calls 1295 and is all-in
+Uncalled bet (1685) returned to MzeaLLWIN
+*** FLOP *** [5d Qs 5s]
+*** TURN *** [5d Qs 5s] [2h]
+*** RIVER *** [5d Qs 5s 2h] [5h]
+*** SHOW DOWN ***
+MzeaLLWIN: shows [9s 9h] (a full house, Fives full of Nines)
+Caio Mugarte: shows [Qd Qc] (a full house, Queens full of Fives)
+Caio Mugarte collected 3513 from pot
+*** SUMMARY ***
+Total pot 3513 | Rake 0 
+Board [5d Qs 5s 2h 5h]
+Seat 1: MzeaLLWIN (big blind) showed [9s 9h] and lost with a full house, Fives full of Nines
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 4: K4rmina folded before Flop
+Seat 5: EdsonBura folded before Flop
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte showed [Qd Qc] and won (3513) with a full house, Queens full of Fives
+Seat 8: nncar (button) folded before Flop (didn't bet)
+Seat 9: vivispadeto (small blind) folded before Flop
+
+
+
+PokerStars Hand #245432990725: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:04:12 AT [2023/08/16 21:04:12 ET]
+Table '3632346331 5' 9-max Seat #9 is the button
+Seat 1: MzeaLLWIN (1685 in chips) 
+Seat 2: alfcapone87 (4408 in chips) 
+Seat 4: K4rmina (1744 in chips) 
+Seat 5: EdsonBura (2683 in chips) 
+Seat 6: koma385 (1750 in chips) 
+Seat 7: Caio Mugarte (3513 in chips) 
+Seat 8: nncar (1362 in chips) 
+Seat 9: vivispadeto (1380 in chips) 
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+nncar: posts the ante 6
+vivispadeto: posts the ante 6
+MzeaLLWIN: posts small blind 25
+alfcapone87: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qd 5d]
+K4rmina: folds 
+EdsonBura: folds 
+koma385: folds 
+Caio Mugarte: folds 
+nncar: folds 
+vivispadeto: folds 
+MzeaLLWIN: raises 50 to 100
+alfcapone87: folds 
+Uncalled bet (50) returned to MzeaLLWIN
+MzeaLLWIN collected 148 from pot
+MzeaLLWIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 148 | Rake 0 
+Seat 1: MzeaLLWIN (small blind) collected (148)
+Seat 2: alfcapone87 (big blind) folded before Flop
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura folded before Flop (didn't bet)
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: nncar folded before Flop (didn't bet)
+Seat 9: vivispadeto (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245432995604: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:04:37 AT [2023/08/16 21:04:37 ET]
+Table '3632346331 5' 9-max Seat #1 is the button
+Seat 1: MzeaLLWIN (1777 in chips) 
+Seat 2: alfcapone87 (4352 in chips) 
+Seat 4: K4rmina (1738 in chips) 
+Seat 5: EdsonBura (2677 in chips) 
+Seat 6: koma385 (1744 in chips) 
+Seat 7: Caio Mugarte (3507 in chips) 
+Seat 8: nncar (1356 in chips) 
+Seat 9: vivispadeto (1374 in chips) 
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+nncar: posts the ante 6
+vivispadeto: posts the ante 6
+alfcapone87: posts small blind 25
+K4rmina: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kh As]
+EdsonBura: folds 
+koma385: calls 50
+Caio Mugarte: raises 125 to 175
+nncar: folds 
+vivispadeto: folds 
+MzeaLLWIN: calls 175
+alfcapone87: folds 
+K4rmina: folds 
+koma385: folds 
+*** FLOP *** [6c 4s 9d]
+Caio Mugarte: checks 
+MzeaLLWIN: checks 
+*** TURN *** [6c 4s 9d] [2s]
+Caio Mugarte: checks 
+MzeaLLWIN: checks 
+*** RIVER *** [6c 4s 9d 2s] [8c]
+Caio Mugarte: bets 125
+MzeaLLWIN: calls 125
+*** SHOW DOWN ***
+Caio Mugarte: shows [Kh As] (high card Ace)
+MzeaLLWIN: shows [2d Qd] (a pair of Deuces)
+MzeaLLWIN collected 773 from pot
+*** SUMMARY ***
+Total pot 773 | Rake 0 
+Board [6c 4s 9d 2s 8c]
+Seat 1: MzeaLLWIN (button) showed [2d Qd] and won (773) with a pair of Deuces
+Seat 2: alfcapone87 (small blind) folded before Flop
+Seat 4: K4rmina (big blind) folded before Flop
+Seat 5: EdsonBura folded before Flop (didn't bet)
+Seat 6: koma385 folded before Flop
+Seat 7: Caio Mugarte showed [Kh As] and lost with high card Ace
+Seat 8: nncar folded before Flop (didn't bet)
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433006370: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:05:32 AT [2023/08/16 21:05:32 ET]
+Table '3632346331 5' 9-max Seat #2 is the button
+Seat 1: MzeaLLWIN (2244 in chips) 
+Seat 2: alfcapone87 (4321 in chips) 
+Seat 4: K4rmina (1682 in chips) 
+Seat 5: EdsonBura (2671 in chips) 
+Seat 6: koma385 (1688 in chips) 
+Seat 7: Caio Mugarte (3201 in chips) 
+Seat 9: vivispadeto (1368 in chips) 
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+vivispadeto: posts the ante 6
+K4rmina: posts small blind 25
+EdsonBura: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kd Jc]
+koma385: folds 
+Caio Mugarte: raises 50 to 100
+vivispadeto: folds 
+MzeaLLWIN: calls 100
+alfcapone87: folds 
+K4rmina: folds 
+EdsonBura: calls 50
+*** FLOP *** [9s 7s 3c]
+EdsonBura: checks 
+Caio Mugarte: checks 
+MzeaLLWIN: bets 184
+EdsonBura: folds 
+Caio Mugarte: folds 
+Uncalled bet (184) returned to MzeaLLWIN
+MzeaLLWIN collected 367 from pot
+MzeaLLWIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 367 | Rake 0 
+Board [9s 7s 3c]
+Seat 1: MzeaLLWIN collected (367)
+Seat 2: alfcapone87 (button) folded before Flop (didn't bet)
+Seat 4: K4rmina (small blind) folded before Flop
+Seat 5: EdsonBura (big blind) folded on the Flop
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte folded on the Flop
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433014389: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:06:12 AT [2023/08/16 21:06:12 ET]
+Table '3632346331 5' 9-max Seat #4 is the button
+Seat 1: MzeaLLWIN (2505 in chips) 
+Seat 2: alfcapone87 (4315 in chips) 
+Seat 4: K4rmina (1651 in chips) 
+Seat 5: EdsonBura (2565 in chips) 
+Seat 6: koma385 (1682 in chips) 
+Seat 7: Caio Mugarte (3095 in chips) 
+Seat 9: vivispadeto (1362 in chips) 
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+vivispadeto: posts the ante 6
+EdsonBura: posts small blind 25
+koma385: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ah Th]
+Caio Mugarte: raises 50 to 100
+vivispadeto: folds 
+MzeaLLWIN: calls 100
+alfcapone87: folds 
+K4rmina: folds 
+EdsonBura: calls 75
+koma385: folds 
+*** FLOP *** [8h 2c Ts]
+EdsonBura: bets 196
+Caio Mugarte: calls 196
+MzeaLLWIN: folds 
+*** TURN *** [8h 2c Ts] [3s]
+EdsonBura: bets 392
+Caio Mugarte: folds 
+Uncalled bet (392) returned to EdsonBura
+EdsonBura collected 784 from pot
+*** SUMMARY ***
+Total pot 784 | Rake 0 
+Board [8h 2c Ts 3s]
+Seat 1: MzeaLLWIN folded on the Flop
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 4: K4rmina (button) folded before Flop (didn't bet)
+Seat 5: EdsonBura (small blind) collected (784)
+Seat 6: koma385 (big blind) folded before Flop
+Seat 7: Caio Mugarte folded on the Turn
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433024386: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:07:04 AT [2023/08/16 21:07:04 ET]
+Table '3632346331 5' 9-max Seat #5 is the button
+Seat 1: MzeaLLWIN (2399 in chips) 
+Seat 2: alfcapone87 (4309 in chips) 
+Seat 4: K4rmina (1645 in chips) 
+Seat 5: EdsonBura (3047 in chips) 
+Seat 6: koma385 (1626 in chips) 
+Seat 7: Caio Mugarte (2793 in chips) 
+Seat 9: vivispadeto (1356 in chips) 
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+vivispadeto: posts the ante 6
+koma385: posts small blind 25
+Caio Mugarte: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d 2c]
+vivispadeto: calls 50
+MzeaLLWIN: raises 100 to 150
+alfcapone87: folds 
+K4rmina: folds 
+EdsonBura: folds 
+koma385: folds 
+Caio Mugarte: folds 
+vivispadeto: calls 100
+*** FLOP *** [Ah 8s Ad]
+vivispadeto: checks 
+MzeaLLWIN: checks 
+*** TURN *** [Ah 8s Ad] [Kc]
+vivispadeto: bets 50
+MzeaLLWIN: calls 50
+*** RIVER *** [Ah 8s Ad Kc] [Td]
+vivispadeto: bets 100
+MzeaLLWIN: calls 100
+*** SHOW DOWN ***
+vivispadeto: shows [As 2s] (three of a kind, Aces)
+MzeaLLWIN: mucks hand 
+vivispadeto collected 717 from pot
+*** SUMMARY ***
+Total pot 717 | Rake 0 
+Board [Ah 8s Ad Kc Td]
+Seat 1: MzeaLLWIN mucked [Jh Kh]
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura (button) folded before Flop (didn't bet)
+Seat 6: koma385 (small blind) folded before Flop
+Seat 7: Caio Mugarte (big blind) folded before Flop
+Seat 9: vivispadeto showed [As 2s] and won (717) with three of a kind, Aces
+
+
+
+PokerStars Hand #245433034278: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:07:55 AT [2023/08/16 21:07:55 ET]
+Table '3632346331 5' 9-max Seat #6 is the button
+Seat 1: MzeaLLWIN (2093 in chips) 
+Seat 2: alfcapone87 (4303 in chips) 
+Seat 4: K4rmina (1639 in chips) 
+Seat 5: EdsonBura (3041 in chips) 
+Seat 6: koma385 (1595 in chips) 
+Seat 7: Caio Mugarte (2737 in chips) 
+Seat 9: vivispadeto (1767 in chips) 
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+vivispadeto: posts the ante 6
+Caio Mugarte: posts small blind 25
+vivispadeto: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc 3h]
+MzeaLLWIN: folds 
+alfcapone87: raises 100 to 150
+K4rmina: folds 
+EdsonBura: raises 100 to 250
+koma385: folds 
+Caio Mugarte: folds 
+vivispadeto: folds 
+alfcapone87: raises 617 to 867
+EdsonBura: raises 617 to 1484
+alfcapone87: raises 2813 to 4297 and is all-in
+EdsonBura: calls 1551 and is all-in
+Uncalled bet (1262) returned to alfcapone87
+*** FLOP *** [8c Qh Kd]
+*** TURN *** [8c Qh Kd] [Qd]
+*** RIVER *** [8c Qh Kd Qd] [4h]
+*** SHOW DOWN ***
+alfcapone87: shows [Ac Ah] (two pair, Aces and Queens)
+EdsonBura: shows [As Ad] (two pair, Aces and Queens)
+alfcapone87 collected 3094 from pot
+EdsonBura collected 3093 from pot
+*** SUMMARY ***
+Total pot 6187 | Rake 0 
+Board [8c Qh Kd Qd 4h]
+Seat 1: MzeaLLWIN folded before Flop (didn't bet)
+Seat 2: alfcapone87 showed [Ac Ah] and won (3094) with two pair, Aces and Queens
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura showed [As Ad] and won (3093) with two pair, Aces and Queens
+Seat 6: koma385 (button) folded before Flop (didn't bet)
+Seat 7: Caio Mugarte (small blind) folded before Flop
+Seat 9: vivispadeto (big blind) folded before Flop
+
+
+
+PokerStars Hand #245433042518: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:08:36 AT [2023/08/16 21:08:36 ET]
+Table '3632346331 5' 9-max Seat #7 is the button
+Seat 1: MzeaLLWIN (2087 in chips) 
+Seat 2: alfcapone87 (4356 in chips) 
+Seat 3: seanzy1967 (2972 in chips) 
+Seat 4: K4rmina (1633 in chips) 
+Seat 5: EdsonBura (3093 in chips) 
+Seat 6: koma385 (1589 in chips) 
+Seat 7: Caio Mugarte (2706 in chips) 
+Seat 8: brinic1990 (3846 in chips) out of hand (moved from another table into small blind)
+Seat 9: vivispadeto (1711 in chips) 
+brinic1990 will be allowed to play after the button
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+seanzy1967: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+vivispadeto: posts the ante 6
+vivispadeto: posts small blind 25
+MzeaLLWIN: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ac Ks]
+alfcapone87: folds 
+seanzy1967: folds 
+K4rmina: calls 50
+EdsonBura: folds 
+koma385: folds 
+Caio Mugarte: raises 125 to 175
+EdsonBura is disconnected 
+vivispadeto: folds 
+MzeaLLWIN: folds 
+K4rmina: folds 
+Uncalled bet (125) returned to Caio Mugarte
+Caio Mugarte collected 223 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 223 | Rake 0 
+Seat 1: MzeaLLWIN (big blind) folded before Flop
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 3: seanzy1967 folded before Flop (didn't bet)
+Seat 4: K4rmina folded before Flop
+Seat 5: EdsonBura folded before Flop (didn't bet)
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte (button) collected (223)
+Seat 9: vivispadeto (small blind) folded before Flop
+
+
+
+PokerStars Hand #245433051244: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:09:22 AT [2023/08/16 21:09:22 ET]
+Table '3632346331 5' 9-max Seat #9 is the button
+Seat 1: MzeaLLWIN (2031 in chips) 
+Seat 2: alfcapone87 (4350 in chips) 
+Seat 3: seanzy1967 (2966 in chips) 
+Seat 4: K4rmina (1577 in chips) 
+Seat 5: EdsonBura (3087 in chips) 
+Seat 6: koma385 (1583 in chips) 
+Seat 7: Caio Mugarte (2873 in chips) 
+Seat 8: brinic1990 (3846 in chips) 
+Seat 9: vivispadeto (1680 in chips) 
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+seanzy1967: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+brinic1990: posts the ante 6
+vivispadeto: posts the ante 6
+MzeaLLWIN: posts small blind 25
+alfcapone87: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7s 9h]
+seanzy1967: folds 
+K4rmina: folds 
+EdsonBura has timed out while disconnected
+EdsonBura: folds 
+EdsonBura is sitting out
+koma385: calls 50
+Caio Mugarte: folds 
+brinic1990: folds 
+vivispadeto: folds 
+MzeaLLWIN: folds 
+EdsonBura is disconnected 
+alfcapone87: checks 
+*** FLOP *** [6c Kd 8h]
+EdsonBura has returned
+alfcapone87: checks 
+koma385: bets 90
+alfcapone87: folds 
+Uncalled bet (90) returned to koma385
+koma385 collected 179 from pot
+koma385: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Board [6c Kd 8h]
+Seat 1: MzeaLLWIN (small blind) folded before Flop
+Seat 2: alfcapone87 (big blind) folded on the Flop
+Seat 3: seanzy1967 folded before Flop (didn't bet)
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura folded before Flop (didn't bet)
+Seat 6: koma385 collected (179)
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: brinic1990 folded before Flop (didn't bet)
+Seat 9: vivispadeto (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433059198: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:10:03 AT [2023/08/16 21:10:03 ET]
+Table '3632346331 5' 9-max Seat #1 is the button
+Seat 1: MzeaLLWIN (2000 in chips) 
+Seat 2: alfcapone87 (4294 in chips) 
+Seat 3: seanzy1967 (2960 in chips) 
+Seat 4: K4rmina (1571 in chips) 
+Seat 5: EdsonBura (3081 in chips) 
+Seat 6: koma385 (1706 in chips) 
+Seat 7: Caio Mugarte (2867 in chips) 
+Seat 8: brinic1990 (3840 in chips) 
+Seat 9: vivispadeto (1674 in chips) 
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+seanzy1967: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+brinic1990: posts the ante 6
+vivispadeto: posts the ante 6
+alfcapone87: posts small blind 25
+seanzy1967: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ks 9h]
+K4rmina: folds 
+EdsonBura: folds 
+koma385: calls 50
+Caio Mugarte: folds 
+brinic1990: raises 229 to 279
+vivispadeto: folds 
+MzeaLLWIN: folds 
+alfcapone87: folds 
+seanzy1967: folds 
+koma385: calls 229
+*** FLOP *** [3d Tc 9d]
+koma385: checks 
+brinic1990: bets 500
+koma385: folds 
+Uncalled bet (500) returned to brinic1990
+brinic1990 collected 687 from pot
+*** SUMMARY ***
+Total pot 687 | Rake 0 
+Board [3d Tc 9d]
+Seat 1: MzeaLLWIN (button) folded before Flop (didn't bet)
+Seat 2: alfcapone87 (small blind) folded before Flop
+Seat 3: seanzy1967 (big blind) folded before Flop
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura folded before Flop (didn't bet)
+Seat 6: koma385 folded on the Flop
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: brinic1990 collected (687)
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433068796: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 22:10:53 AT [2023/08/16 21:10:53 ET]
+Table '3632346331 5' 9-max Seat #2 is the button
+Seat 1: MzeaLLWIN (1994 in chips) 
+Seat 2: alfcapone87 (4263 in chips) 
+Seat 3: seanzy1967 (2904 in chips) 
+Seat 4: K4rmina (1565 in chips) 
+Seat 5: EdsonBura (3075 in chips) 
+Seat 6: koma385 (1421 in chips) 
+Seat 7: Caio Mugarte (2861 in chips) 
+Seat 8: brinic1990 (4242 in chips) 
+Seat 9: vivispadeto (1668 in chips) 
+MzeaLLWIN: posts the ante 6
+alfcapone87: posts the ante 6
+seanzy1967: posts the ante 6
+K4rmina: posts the ante 6
+EdsonBura: posts the ante 6
+koma385: posts the ante 6
+Caio Mugarte: posts the ante 6
+brinic1990: posts the ante 6
+vivispadeto: posts the ante 6
+seanzy1967: posts small blind 25
+K4rmina: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Td 9s]
+EdsonBura: folds 
+koma385: folds 
+Caio Mugarte: folds 
+brinic1990: folds 
+vivispadeto: folds 
+MzeaLLWIN: raises 50 to 100
+alfcapone87: raises 329 to 429
+seanzy1967: folds 
+K4rmina: folds 
+MzeaLLWIN: folds 
+Uncalled bet (329) returned to alfcapone87
+alfcapone87 collected 329 from pot
+alfcapone87: doesn't show hand 
+*** SUMMARY ***
+Total pot 329 | Rake 0 
+Seat 1: MzeaLLWIN folded before Flop
+Seat 2: alfcapone87 (button) collected (329)
+Seat 3: seanzy1967 (small blind) folded before Flop
+Seat 4: K4rmina (big blind) folded before Flop
+Seat 5: EdsonBura folded before Flop (didn't bet)
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: brinic1990 folded before Flop (didn't bet)
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433080418: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:11:54 AT [2023/08/16 21:11:54 ET]
+Table '3632346331 5' 9-max Seat #3 is the button
+Seat 1: MzeaLLWIN (1888 in chips) 
+Seat 2: alfcapone87 (4486 in chips) 
+Seat 3: seanzy1967 (2873 in chips) 
+Seat 4: K4rmina (1509 in chips) 
+Seat 5: EdsonBura (3069 in chips) 
+Seat 6: koma385 (1415 in chips) 
+Seat 7: Caio Mugarte (2855 in chips) 
+Seat 8: brinic1990 (4236 in chips) 
+Seat 9: vivispadeto (1662 in chips) 
+MzeaLLWIN: posts the ante 10
+alfcapone87: posts the ante 10
+seanzy1967: posts the ante 10
+K4rmina: posts the ante 10
+EdsonBura: posts the ante 10
+koma385: posts the ante 10
+Caio Mugarte: posts the ante 10
+brinic1990: posts the ante 10
+vivispadeto: posts the ante 10
+K4rmina: posts small blind 40
+EdsonBura: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7d Ac]
+koma385: folds 
+Caio Mugarte: folds 
+brinic1990: raises 290 to 370
+vivispadeto: folds 
+MzeaLLWIN: calls 370
+alfcapone87: folds 
+seanzy1967: folds 
+K4rmina: folds 
+EdsonBura: folds 
+*** FLOP *** [9d 9h 4c]
+brinic1990: checks 
+MzeaLLWIN: checks 
+*** TURN *** [9d 9h 4c] [3c]
+brinic1990: bets 475
+MzeaLLWIN: folds 
+Uncalled bet (475) returned to brinic1990
+brinic1990 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [9d 9h 4c 3c]
+Seat 1: MzeaLLWIN folded on the Turn
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 3: seanzy1967 (button) folded before Flop (didn't bet)
+Seat 4: K4rmina (small blind) folded before Flop
+Seat 5: EdsonBura (big blind) folded before Flop
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: brinic1990 collected (950)
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433087534: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:12:32 AT [2023/08/16 21:12:32 ET]
+Table '3632346331 5' 9-max Seat #4 is the button
+Seat 1: MzeaLLWIN (1508 in chips) 
+Seat 2: alfcapone87 (4476 in chips) 
+Seat 3: seanzy1967 (2863 in chips) 
+Seat 4: K4rmina (1459 in chips) 
+Seat 5: EdsonBura (2979 in chips) 
+Seat 6: koma385 (1405 in chips) 
+Seat 7: Caio Mugarte (2845 in chips) 
+Seat 8: brinic1990 (4806 in chips) 
+Seat 9: vivispadeto (1652 in chips) 
+MzeaLLWIN: posts the ante 10
+alfcapone87: posts the ante 10
+seanzy1967: posts the ante 10
+K4rmina: posts the ante 10
+EdsonBura: posts the ante 10
+koma385: posts the ante 10
+Caio Mugarte: posts the ante 10
+brinic1990: posts the ante 10
+vivispadeto: posts the ante 10
+EdsonBura: posts small blind 40
+koma385: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kd Ah]
+Caio Mugarte: raises 80 to 160
+brinic1990: folds 
+vivispadeto: folds 
+MzeaLLWIN: folds 
+alfcapone87: folds 
+seanzy1967: folds 
+K4rmina: folds 
+EdsonBura: folds 
+koma385: folds 
+Uncalled bet (80) returned to Caio Mugarte
+Caio Mugarte collected 290 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: MzeaLLWIN folded before Flop (didn't bet)
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 3: seanzy1967 folded before Flop (didn't bet)
+Seat 4: K4rmina (button) folded before Flop (didn't bet)
+Seat 5: EdsonBura (small blind) folded before Flop
+Seat 6: koma385 (big blind) folded before Flop
+Seat 7: Caio Mugarte collected (290)
+Seat 8: brinic1990 folded before Flop (didn't bet)
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433092611: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:12:59 AT [2023/08/16 21:12:59 ET]
+Table '3632346331 5' 9-max Seat #5 is the button
+Seat 1: MzeaLLWIN (1498 in chips) 
+Seat 2: alfcapone87 (4466 in chips) 
+Seat 3: seanzy1967 (2853 in chips) 
+Seat 4: K4rmina (1449 in chips) 
+Seat 5: EdsonBura (2929 in chips) 
+Seat 6: koma385 (1315 in chips) 
+Seat 7: Caio Mugarte (3045 in chips) 
+Seat 8: brinic1990 (4796 in chips) 
+Seat 9: vivispadeto (1642 in chips) 
+MzeaLLWIN: posts the ante 10
+alfcapone87: posts the ante 10
+seanzy1967: posts the ante 10
+K4rmina: posts the ante 10
+EdsonBura: posts the ante 10
+koma385: posts the ante 10
+Caio Mugarte: posts the ante 10
+brinic1990: posts the ante 10
+vivispadeto: posts the ante 10
+koma385: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qc Kd]
+brinic1990: folds 
+vivispadeto has timed out
+vivispadeto: folds 
+vivispadeto is sitting out
+MzeaLLWIN: raises 80 to 160
+alfcapone87: folds 
+seanzy1967: calls 160
+K4rmina: folds 
+EdsonBura: folds 
+koma385: folds 
+Caio Mugarte: calls 80
+*** FLOP *** [Ks 2c 3c]
+Caio Mugarte: checks 
+MzeaLLWIN: checks 
+seanzy1967: bets 305
+Caio Mugarte: calls 305
+MzeaLLWIN: folds 
+*** TURN *** [Ks 2c 3c] [As]
+Caio Mugarte: checks 
+seanzy1967: checks 
+*** RIVER *** [Ks 2c 3c As] [Kc]
+vivispadeto has returned
+Caio Mugarte: bets 805
+seanzy1967: raises 805 to 1610
+Caio Mugarte: calls 805
+*** SHOW DOWN ***
+seanzy1967: shows [Jd Kh] (three of a kind, Kings)
+Caio Mugarte: shows [Qc Kd] (three of a kind, Kings - Ace+Queen kicker)
+Caio Mugarte collected 4440 from pot
+*** SUMMARY ***
+Total pot 4440 | Rake 0 
+Board [Ks 2c 3c As Kc]
+Seat 1: MzeaLLWIN folded on the Flop
+Seat 2: alfcapone87 folded before Flop (didn't bet)
+Seat 3: seanzy1967 showed [Jd Kh] and lost with three of a kind, Kings
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura (button) folded before Flop (didn't bet)
+Seat 6: koma385 (small blind) folded before Flop
+Seat 7: Caio Mugarte (big blind) showed [Qc Kd] and won (4440) with three of a kind, Kings
+Seat 8: brinic1990 folded before Flop (didn't bet)
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433110461: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:14:32 AT [2023/08/16 21:14:32 ET]
+Table '3632346331 5' 9-max Seat #6 is the button
+Seat 1: MzeaLLWIN (1328 in chips) 
+Seat 3: seanzy1967 (768 in chips) 
+Seat 4: K4rmina (1439 in chips) 
+Seat 5: EdsonBura (2919 in chips) 
+Seat 6: koma385 (1265 in chips) 
+Seat 7: Caio Mugarte (5400 in chips) 
+Seat 8: brinic1990 (4786 in chips) 
+Seat 9: vivispadeto (1632 in chips) 
+MzeaLLWIN: posts the ante 10
+seanzy1967: posts the ante 10
+K4rmina: posts the ante 10
+EdsonBura: posts the ante 10
+koma385: posts the ante 10
+Caio Mugarte: posts the ante 10
+brinic1990: posts the ante 10
+vivispadeto: posts the ante 10
+Caio Mugarte: posts small blind 40
+brinic1990: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qs Qh]
+vivispadeto: folds 
+MzeaLLWIN: raises 80 to 160
+seanzy1967: folds 
+K4rmina: folds 
+EdsonBura: raises 80 to 240
+koma385: folds 
+Caio Mugarte: raises 960 to 1200
+brinic1990: raises 3576 to 4776 and is all-in
+MzeaLLWIN: calls 1158 and is all-in
+EdsonBura: folds 
+Caio Mugarte: calls 3576
+*** FLOP *** [Ts Ac 2c]
+*** TURN *** [Ts Ac 2c] [Ad]
+*** RIVER *** [Ts Ac 2c Ad] [Js]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Qs Qh] (two pair, Aces and Queens)
+brinic1990: shows [Kh Ah] (three of a kind, Aces)
+brinic1990 collected 6916 from side pot
+MzeaLLWIN: shows [As Kd] (three of a kind, Aces)
+brinic1990 collected 2137 from main pot
+MzeaLLWIN collected 2137 from main pot
+*** SUMMARY ***
+Total pot 11190 Main pot 4274. Side pot 6916. | Rake 0 
+Board [Ts Ac 2c Ad Js]
+Seat 1: MzeaLLWIN showed [As Kd] and won (2137) with three of a kind, Aces
+Seat 3: seanzy1967 folded before Flop (didn't bet)
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura folded before Flop
+Seat 6: koma385 (button) folded before Flop (didn't bet)
+Seat 7: Caio Mugarte (small blind) showed [Qs Qh] and lost with two pair, Aces and Queens
+Seat 8: brinic1990 (big blind) showed [Kh Ah] and won (9053) with three of a kind, Aces
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433120011: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:15:22 AT [2023/08/16 21:15:22 ET]
+Table '3632346331 5' 9-max Seat #7 is the button
+Seat 1: MzeaLLWIN (2137 in chips) 
+Seat 3: seanzy1967 (758 in chips) 
+Seat 4: K4rmina (1429 in chips) 
+Seat 5: EdsonBura (2669 in chips) 
+Seat 6: koma385 (1255 in chips) 
+Seat 7: Caio Mugarte (614 in chips) 
+Seat 8: brinic1990 (9053 in chips) 
+Seat 9: vivispadeto (1622 in chips) 
+MzeaLLWIN: posts the ante 10
+seanzy1967: posts the ante 10
+K4rmina: posts the ante 10
+EdsonBura: posts the ante 10
+koma385: posts the ante 10
+Caio Mugarte: posts the ante 10
+brinic1990: posts the ante 10
+vivispadeto: posts the ante 10
+brinic1990: posts small blind 40
+vivispadeto: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s 3d]
+MzeaLLWIN: raises 80 to 160
+seanzy1967: calls 160
+K4rmina: folds 
+EdsonBura: raises 80 to 240
+koma385: folds 
+Caio Mugarte: folds 
+brinic1990: folds 
+vivispadeto: calls 160
+MzeaLLWIN: calls 80
+seanzy1967: raises 508 to 748 and is all-in
+EdsonBura: calls 508
+vivispadeto: calls 508
+MzeaLLWIN: calls 508
+*** FLOP *** [9d 3h Kh]
+vivispadeto: bets 864 and is all-in
+MzeaLLWIN: raises 515 to 1379 and is all-in
+EdsonBura: folds 
+Uncalled bet (515) returned to MzeaLLWIN
+*** TURN *** [9d 3h Kh] [2s]
+*** RIVER *** [9d 3h Kh 2s] [7h]
+*** SHOW DOWN ***
+vivispadeto: shows [2h Ah] (a flush, Ace high)
+MzeaLLWIN: shows [Ac 9c] (a pair of Nines)
+vivispadeto collected 1728 from side pot
+seanzy1967: shows [4s 9s] (a pair of Nines)
+vivispadeto collected 3112 from main pot
+seanzy1967 finished the tournament in 21st place
+*** SUMMARY ***
+Total pot 4840 Main pot 3112. Side pot 1728. | Rake 0 
+Board [9d 3h Kh 2s 7h]
+Seat 1: MzeaLLWIN showed [Ac 9c] and lost with a pair of Nines
+Seat 3: seanzy1967 showed [4s 9s] and lost with a pair of Nines
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura folded on the Flop
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 8: brinic1990 (small blind) folded before Flop
+Seat 9: vivispadeto (big blind) showed [2h Ah] and won (4840) with a flush, Ace high
+
+
+
+PokerStars Hand #245433131876: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:16:24 AT [2023/08/16 21:16:24 ET]
+Table '3632346331 5' 9-max Seat #8 is the button
+Seat 1: MzeaLLWIN (515 in chips) 
+Seat 4: K4rmina (1419 in chips) 
+Seat 5: EdsonBura (1911 in chips) 
+Seat 6: koma385 (1245 in chips) 
+Seat 7: Caio Mugarte (604 in chips) 
+Seat 8: brinic1990 (9003 in chips) 
+Seat 9: vivispadeto (4840 in chips) 
+MzeaLLWIN: posts the ante 10
+K4rmina: posts the ante 10
+EdsonBura: posts the ante 10
+koma385: posts the ante 10
+Caio Mugarte: posts the ante 10
+brinic1990: posts the ante 10
+vivispadeto: posts the ante 10
+vivispadeto: posts small blind 40
+MzeaLLWIN: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kh 7h]
+K4rmina: folds 
+EdsonBura: raises 80 to 160
+koma385: folds 
+Caio Mugarte: folds 
+brinic1990: folds 
+vivispadeto: folds 
+MzeaLLWIN: calls 80
+*** FLOP *** [4c 8s 7s]
+MzeaLLWIN: bets 345 and is all-in
+EdsonBura: calls 345
+*** TURN *** [4c 8s 7s] [Qd]
+*** RIVER *** [4c 8s 7s Qd] [6d]
+*** SHOW DOWN ***
+MzeaLLWIN: shows [Th 9d] (a straight, Six to Ten)
+EdsonBura: shows [2d As] (high card Ace)
+MzeaLLWIN collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [4c 8s 7s Qd 6d]
+Seat 1: MzeaLLWIN (big blind) showed [Th 9d] and won (1120) with a straight, Six to Ten
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura showed [2d As] and lost with high card Ace
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: brinic1990 (button) folded before Flop (didn't bet)
+Seat 9: vivispadeto (small blind) folded before Flop
+
+
+
+PokerStars Hand #245433140362: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:17:09 AT [2023/08/16 21:17:09 ET]
+Table '3632346331 5' 9-max Seat #9 is the button
+Seat 1: MzeaLLWIN (1120 in chips) 
+Seat 4: K4rmina (1409 in chips) 
+Seat 5: EdsonBura (1396 in chips) 
+Seat 6: koma385 (1235 in chips) 
+Seat 7: Caio Mugarte (594 in chips) 
+Seat 8: brinic1990 (8993 in chips) 
+Seat 9: vivispadeto (4790 in chips) 
+MzeaLLWIN: posts the ante 10
+K4rmina: posts the ante 10
+EdsonBura: posts the ante 10
+koma385: posts the ante 10
+Caio Mugarte: posts the ante 10
+brinic1990: posts the ante 10
+vivispadeto: posts the ante 10
+MzeaLLWIN: posts small blind 40
+K4rmina: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6d 8h]
+EdsonBura: raises 1306 to 1386 and is all-in
+koma385: folds 
+Caio Mugarte: folds 
+brinic1990: folds 
+vivispadeto: folds 
+MzeaLLWIN: folds 
+K4rmina: folds 
+Uncalled bet (1306) returned to EdsonBura
+EdsonBura collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: MzeaLLWIN (small blind) folded before Flop
+Seat 4: K4rmina (big blind) folded before Flop
+Seat 5: EdsonBura collected (270)
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: brinic1990 folded before Flop (didn't bet)
+Seat 9: vivispadeto (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433147990: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:17:49 AT [2023/08/16 21:17:49 ET]
+Table '3632346331 5' 9-max Seat #1 is the button
+Seat 1: MzeaLLWIN (1070 in chips) 
+Seat 4: K4rmina (1319 in chips) 
+Seat 5: EdsonBura (1576 in chips) 
+Seat 6: koma385 (1225 in chips) 
+Seat 7: Caio Mugarte (584 in chips) 
+Seat 8: brinic1990 (8983 in chips) 
+Seat 9: vivispadeto (4780 in chips) 
+MzeaLLWIN: posts the ante 10
+K4rmina: posts the ante 10
+EdsonBura: posts the ante 10
+koma385: posts the ante 10
+Caio Mugarte: posts the ante 10
+brinic1990: posts the ante 10
+vivispadeto: posts the ante 10
+K4rmina: posts small blind 40
+EdsonBura: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d 3h]
+koma385: folds 
+Caio Mugarte: raises 494 to 574 and is all-in
+brinic1990: raises 8399 to 8973 and is all-in
+vivispadeto: folds 
+MzeaLLWIN is disconnected 
+MzeaLLWIN has timed out while disconnected
+MzeaLLWIN: folds 
+MzeaLLWIN is sitting out
+K4rmina: folds 
+EdsonBura: folds 
+Uncalled bet (8399) returned to brinic1990
+*** FLOP *** [3s Qc 2s]
+*** TURN *** [3s Qc 2s] [Td]
+*** RIVER *** [3s Qc 2s Td] [7d]
+MzeaLLWIN has returned
+*** SHOW DOWN ***
+Caio Mugarte: shows [3d 3h] (three of a kind, Threes)
+brinic1990: shows [Ad 8c] (high card Ace)
+Caio Mugarte collected 1338 from pot
+*** SUMMARY ***
+Total pot 1338 | Rake 0 
+Board [3s Qc 2s Td 7d]
+Seat 1: MzeaLLWIN (button) folded before Flop (didn't bet)
+Seat 4: K4rmina (small blind) folded before Flop
+Seat 5: EdsonBura (big blind) folded before Flop
+Seat 6: koma385 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte showed [3d 3h] and won (1338) with three of a kind, Threes
+Seat 8: brinic1990 showed [Ad 8c] and lost with high card Ace
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433156465: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:18:34 AT [2023/08/16 21:18:34 ET]
+Table '3632346331 5' 9-max Seat #4 is the button
+Seat 1: MzeaLLWIN (1060 in chips) 
+Seat 4: K4rmina (1269 in chips) 
+Seat 5: EdsonBura (1486 in chips) 
+Seat 6: koma385 (1215 in chips) 
+Seat 7: Caio Mugarte (1338 in chips) 
+Seat 8: brinic1990 (8399 in chips) 
+Seat 9: vivispadeto (4770 in chips) 
+MzeaLLWIN: posts the ante 10
+K4rmina: posts the ante 10
+EdsonBura: posts the ante 10
+koma385: posts the ante 10
+Caio Mugarte: posts the ante 10
+brinic1990: posts the ante 10
+vivispadeto: posts the ante 10
+EdsonBura: posts small blind 40
+koma385: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qs 9h]
+Caio Mugarte: folds 
+brinic1990: folds 
+vivispadeto: folds 
+MzeaLLWIN: raises 970 to 1050 and is all-in
+K4rmina: folds 
+EdsonBura: folds 
+koma385: folds 
+Uncalled bet (970) returned to MzeaLLWIN
+MzeaLLWIN collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: MzeaLLWIN collected (270)
+Seat 4: K4rmina (button) folded before Flop (didn't bet)
+Seat 5: EdsonBura (small blind) folded before Flop
+Seat 6: koma385 (big blind) folded before Flop
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: brinic1990 folded before Flop (didn't bet)
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433161936: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:19:03 AT [2023/08/16 21:19:03 ET]
+Table '3632346331 5' 9-max Seat #5 is the button
+Seat 1: MzeaLLWIN (1240 in chips) 
+Seat 4: K4rmina (1259 in chips) 
+Seat 5: EdsonBura (1436 in chips) 
+Seat 6: koma385 (1125 in chips) 
+Seat 7: Caio Mugarte (1328 in chips) 
+Seat 8: brinic1990 (8389 in chips) 
+Seat 9: vivispadeto (4760 in chips) 
+MzeaLLWIN: posts the ante 10
+K4rmina: posts the ante 10
+EdsonBura: posts the ante 10
+koma385: posts the ante 10
+Caio Mugarte: posts the ante 10
+brinic1990: posts the ante 10
+vivispadeto: posts the ante 10
+koma385: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s 9s]
+brinic1990: folds 
+vivispadeto: folds 
+MzeaLLWIN: folds 
+K4rmina: folds 
+EdsonBura: raises 80 to 160
+koma385: folds 
+Caio Mugarte: calls 80
+*** FLOP *** [Qs 8d Jc]
+Caio Mugarte: checks 
+EdsonBura: checks 
+*** TURN *** [Qs 8d Jc] [6s]
+Caio Mugarte: checks 
+EdsonBura: checks 
+*** RIVER *** [Qs 8d Jc 6s] [7c]
+Caio Mugarte: checks 
+EdsonBura: bets 80
+Caio Mugarte: folds 
+Uncalled bet (80) returned to EdsonBura
+EdsonBura collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [Qs 8d Jc 6s 7c]
+Seat 1: MzeaLLWIN folded before Flop (didn't bet)
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura (button) collected (430)
+Seat 6: koma385 (small blind) folded before Flop
+Seat 7: Caio Mugarte (big blind) folded on the River
+Seat 8: brinic1990 folded before Flop (didn't bet)
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433171602: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:19:54 AT [2023/08/16 21:19:54 ET]
+Table '3632346331 5' 9-max Seat #6 is the button
+Seat 1: MzeaLLWIN (1230 in chips) 
+Seat 4: K4rmina (1249 in chips) 
+Seat 5: EdsonBura (1696 in chips) 
+Seat 6: koma385 (1075 in chips) 
+Seat 7: Caio Mugarte (1158 in chips) 
+Seat 8: brinic1990 (8379 in chips) 
+Seat 9: vivispadeto (4750 in chips) 
+MzeaLLWIN: posts the ante 10
+K4rmina: posts the ante 10
+EdsonBura: posts the ante 10
+koma385: posts the ante 10
+Caio Mugarte: posts the ante 10
+brinic1990: posts the ante 10
+vivispadeto: posts the ante 10
+Caio Mugarte: posts small blind 40
+brinic1990: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d 8c]
+vivispadeto: folds 
+MzeaLLWIN: folds 
+K4rmina: folds 
+EdsonBura: calls 80
+koma385: raises 160 to 240
+Caio Mugarte: raises 908 to 1148 and is all-in
+brinic1990: raises 7221 to 8369 and is all-in
+EdsonBura: folds 
+koma385: calls 825 and is all-in
+Uncalled bet (7221) returned to brinic1990
+*** FLOP *** [Qs 2s Ts]
+*** TURN *** [Qs 2s Ts] [3s]
+*** RIVER *** [Qs 2s Ts 3s] [Qc]
+*** SHOW DOWN ***
+Caio Mugarte: shows [8d 8c] (two pair, Queens and Eights)
+brinic1990: shows [2d Jd] (two pair, Queens and Deuces)
+Caio Mugarte collected 166 from side pot
+koma385: shows [Ac Jc] (a pair of Queens)
+Caio Mugarte collected 3345 from main pot
+koma385 finished the tournament in 19th place
+*** SUMMARY ***
+Total pot 3511 Main pot 3345. Side pot 166. | Rake 0 
+Board [Qs 2s Ts 3s Qc]
+Seat 1: MzeaLLWIN folded before Flop (didn't bet)
+Seat 4: K4rmina folded before Flop (didn't bet)
+Seat 5: EdsonBura folded before Flop
+Seat 6: koma385 (button) showed [Ac Jc] and lost with a pair of Queens
+Seat 7: Caio Mugarte (small blind) showed [8d 8c] and won (3511) with two pair, Queens and Eights
+Seat 8: brinic1990 (big blind) showed [2d Jd] and lost with two pair, Queens and Deuces
+Seat 9: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433181123: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 22:20:44 AT [2023/08/16 21:20:44 ET]
+Table '3632346331 2' 9-max Seat #6 is the button
+Seat 1: alfcapone87 (4016 in chips) 
+Seat 2: Caio Mugarte (3511 in chips) 
+Seat 3: EdsonBura (1606 in chips) 
+Seat 4: picaron11 (2836 in chips) 
+Seat 5: brinic1990 (7221 in chips) 
+Seat 6: NaneR00 (11582 in chips) 
+Seat 7: mugre86 (6404 in chips) 
+Seat 8: IMaBuzzyBee (1497 in chips) 
+Seat 9: K4rmina (1239 in chips) 
+alfcapone87: posts the ante 10
+Caio Mugarte: posts the ante 10
+EdsonBura: posts the ante 10
+picaron11: posts the ante 10
+brinic1990: posts the ante 10
+NaneR00: posts the ante 10
+mugre86: posts the ante 10
+IMaBuzzyBee: posts the ante 10
+K4rmina: posts the ante 10
+mugre86: posts small blind 40
+IMaBuzzyBee: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc Ts]
+K4rmina: folds 
+alfcapone87: raises 160 to 240
+Caio Mugarte: calls 240
+EdsonBura: raises 1356 to 1596 and is all-in
+picaron11: folds 
+brinic1990: folds 
+NaneR00: folds 
+mugre86: folds 
+IMaBuzzyBee: folds 
+alfcapone87: raises 2410 to 4006 and is all-in
+Caio Mugarte: folds 
+Uncalled bet (2410) returned to alfcapone87
+*** FLOP *** [Qc 7d 6s]
+*** TURN *** [Qc 7d 6s] [7c]
+*** RIVER *** [Qc 7d 6s 7c] [Ac]
+*** SHOW DOWN ***
+alfcapone87: shows [Jd Jh] (two pair, Jacks and Sevens)
+EdsonBura: shows [Ad As] (a full house, Aces full of Sevens)
+EdsonBura collected 3642 from pot
+*** SUMMARY ***
+Total pot 3642 | Rake 0 
+Board [Qc 7d 6s 7c Ac]
+Seat 1: alfcapone87 showed [Jd Jh] and lost with two pair, Jacks and Sevens
+Seat 2: Caio Mugarte folded before Flop
+Seat 3: EdsonBura showed [Ad As] and won (3642) with a full house, Aces full of Sevens
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 (button) folded before Flop (didn't bet)
+Seat 7: mugre86 (small blind) folded before Flop
+Seat 8: IMaBuzzyBee (big blind) folded before Flop
+Seat 9: K4rmina folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433189109: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:21:26 AT [2023/08/16 21:21:26 ET]
+Table '3632346331 2' 9-max Seat #7 is the button
+Seat 1: alfcapone87 (2410 in chips) 
+Seat 2: Caio Mugarte (3261 in chips) 
+Seat 3: EdsonBura (3642 in chips) 
+Seat 4: picaron11 (2826 in chips) 
+Seat 5: brinic1990 (7211 in chips) 
+Seat 6: NaneR00 (11572 in chips) 
+Seat 7: mugre86 (6354 in chips) 
+Seat 8: IMaBuzzyBee (1407 in chips) 
+Seat 9: K4rmina (1229 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+IMaBuzzyBee: posts the ante 15
+K4rmina: posts the ante 15
+IMaBuzzyBee: posts small blind 60
+K4rmina: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Td 2h]
+alfcapone87: folds 
+Caio Mugarte: folds 
+EdsonBura: folds 
+picaron11: folds 
+brinic1990: raises 435 to 555
+NaneR00: folds 
+mugre86: folds 
+IMaBuzzyBee: folds 
+K4rmina: folds 
+Uncalled bet (435) returned to brinic1990
+brinic1990 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: EdsonBura folded before Flop (didn't bet)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 collected (435)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 (button) folded before Flop (didn't bet)
+Seat 8: IMaBuzzyBee (small blind) folded before Flop
+Seat 9: K4rmina (big blind) folded before Flop
+
+
+
+PokerStars Hand #245433194418: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:21:53 AT [2023/08/16 21:21:53 ET]
+Table '3632346331 2' 9-max Seat #8 is the button
+Seat 1: alfcapone87 (2395 in chips) 
+Seat 2: Caio Mugarte (3246 in chips) 
+Seat 3: EdsonBura (3627 in chips) 
+Seat 4: picaron11 (2811 in chips) 
+Seat 5: brinic1990 (7511 in chips) 
+Seat 6: NaneR00 (11557 in chips) 
+Seat 7: mugre86 (6339 in chips) 
+Seat 8: IMaBuzzyBee (1332 in chips) 
+Seat 9: K4rmina (1094 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+IMaBuzzyBee: posts the ante 15
+K4rmina: posts the ante 15
+K4rmina: posts small blind 60
+alfcapone87: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8c 8h]
+Caio Mugarte: raises 120 to 240
+EdsonBura: folds 
+picaron11: folds 
+brinic1990: folds 
+NaneR00: folds 
+mugre86: calls 240
+IMaBuzzyBee: calls 240
+K4rmina: folds 
+alfcapone87: calls 120
+*** FLOP *** [8d 6c 9c]
+alfcapone87: checks 
+Caio Mugarte: bets 660
+mugre86: folds 
+IMaBuzzyBee: raises 417 to 1077 and is all-in
+alfcapone87: folds 
+Caio Mugarte: calls 417
+*** TURN *** [8d 6c 9c] [9d]
+*** RIVER *** [8d 6c 9c 9d] [5s]
+*** SHOW DOWN ***
+Caio Mugarte: shows [8c 8h] (a full house, Eights full of Nines)
+IMaBuzzyBee: shows [Jc Jh] (two pair, Jacks and Nines)
+Caio Mugarte collected 3309 from pot
+IMaBuzzyBee finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 3309 | Rake 0 
+Board [8d 6c 9c 9d 5s]
+Seat 1: alfcapone87 (big blind) folded on the Flop
+Seat 2: Caio Mugarte showed [8c 8h] and won (3309) with a full house, Eights full of Nines
+Seat 3: EdsonBura folded before Flop (didn't bet)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 folded on the Flop
+Seat 8: IMaBuzzyBee (button) showed [Jc Jh] and lost with two pair, Jacks and Nines
+Seat 9: K4rmina (small blind) folded before Flop
+
+
+
+PokerStars Hand #245433203047: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:22:38 AT [2023/08/16 21:22:38 ET]
+Table '3632346331 2' 9-max Seat #9 is the button
+Seat 1: alfcapone87 (2140 in chips) 
+Seat 2: Caio Mugarte (5223 in chips) 
+Seat 3: EdsonBura (3612 in chips) 
+Seat 4: picaron11 (2796 in chips) 
+Seat 5: brinic1990 (7496 in chips) 
+Seat 6: NaneR00 (11542 in chips) 
+Seat 7: mugre86 (6084 in chips) 
+Seat 9: K4rmina (1019 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+K4rmina: posts the ante 15
+alfcapone87: posts small blind 60
+Caio Mugarte: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d 7c]
+EdsonBura: raises 120 to 240
+picaron11: folds 
+brinic1990: raises 780 to 1020
+NaneR00: folds 
+mugre86: folds 
+K4rmina: folds 
+alfcapone87: folds 
+Caio Mugarte: folds 
+EdsonBura: folds 
+Uncalled bet (780) returned to brinic1990
+brinic1990 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Seat 1: alfcapone87 (small blind) folded before Flop
+Seat 2: Caio Mugarte (big blind) folded before Flop
+Seat 3: EdsonBura folded before Flop
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 collected (780)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 folded before Flop (didn't bet)
+Seat 9: K4rmina (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433208432: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:23:06 AT [2023/08/16 21:23:06 ET]
+Table '3632346331 2' 9-max Seat #1 is the button
+Seat 1: alfcapone87 (2065 in chips) 
+Seat 2: Caio Mugarte (5088 in chips) 
+Seat 3: EdsonBura (3357 in chips) 
+Seat 4: picaron11 (2781 in chips) 
+Seat 5: brinic1990 (8021 in chips) 
+Seat 6: NaneR00 (11527 in chips) 
+Seat 7: mugre86 (6069 in chips) 
+Seat 9: K4rmina (1004 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+K4rmina: posts the ante 15
+Caio Mugarte: posts small blind 60
+EdsonBura: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad Jd]
+picaron11: folds 
+brinic1990: folds 
+NaneR00: raises 120 to 240
+mugre86: folds 
+K4rmina: folds 
+alfcapone87: folds 
+Caio Mugarte: calls 180
+EdsonBura: calls 120
+*** FLOP *** [2h Qh 5d]
+Caio Mugarte: checks 
+EdsonBura: bets 120
+NaneR00: raises 356 to 476
+Caio Mugarte: folds 
+EdsonBura: calls 356
+*** TURN *** [2h Qh 5d] [9d]
+EdsonBura: checks 
+NaneR00: bets 1195
+EdsonBura: calls 1195
+*** RIVER *** [2h Qh 5d 9d] [5h]
+EdsonBura: checks 
+NaneR00: checks 
+*** SHOW DOWN ***
+EdsonBura: shows [7d 7s] (two pair, Sevens and Fives)
+NaneR00: shows [Qs Ac] (two pair, Queens and Fives)
+NaneR00 collected 4182 from pot
+*** SUMMARY ***
+Total pot 4182 | Rake 0 
+Board [2h Qh 5d 9d 5h]
+Seat 1: alfcapone87 (button) folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (small blind) folded on the Flop
+Seat 3: EdsonBura (big blind) showed [7d 7s] and lost with two pair, Sevens and Fives
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 showed [Qs Ac] and won (4182) with two pair, Queens and Fives
+Seat 7: mugre86 folded before Flop (didn't bet)
+Seat 9: K4rmina folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433219621: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:24:04 AT [2023/08/16 21:24:04 ET]
+Table '3632346331 2' 9-max Seat #2 is the button
+Seat 1: alfcapone87 (2050 in chips) 
+Seat 2: Caio Mugarte (4833 in chips) 
+Seat 3: EdsonBura (1431 in chips) 
+Seat 4: picaron11 (2766 in chips) 
+Seat 5: brinic1990 (8006 in chips) 
+Seat 6: NaneR00 (13783 in chips) 
+Seat 7: mugre86 (6054 in chips) 
+Seat 9: K4rmina (989 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+K4rmina: posts the ante 15
+EdsonBura: posts small blind 60
+picaron11: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s 4d]
+brinic1990: folds 
+NaneR00: folds 
+mugre86: calls 120
+K4rmina: folds 
+alfcapone87: raises 1915 to 2035 and is all-in
+Caio Mugarte: folds 
+EdsonBura: folds 
+picaron11: folds 
+mugre86: folds 
+Uncalled bet (1915) returned to alfcapone87
+alfcapone87 collected 540 from pot
+alfcapone87: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: alfcapone87 collected (540)
+Seat 2: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 3: EdsonBura (small blind) folded before Flop
+Seat 4: picaron11 (big blind) folded before Flop
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 folded before Flop
+Seat 9: K4rmina folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433224083: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:24:27 AT [2023/08/16 21:24:27 ET]
+Table '3632346331 2' 9-max Seat #3 is the button
+Seat 1: alfcapone87 (2455 in chips) 
+Seat 2: Caio Mugarte (4818 in chips) 
+Seat 3: EdsonBura (1356 in chips) 
+Seat 4: picaron11 (2631 in chips) 
+Seat 5: brinic1990 (7991 in chips) 
+Seat 6: NaneR00 (13768 in chips) 
+Seat 7: mugre86 (5919 in chips) 
+Seat 9: K4rmina (974 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+K4rmina: posts the ante 15
+picaron11: posts small blind 60
+brinic1990: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2h Ac]
+NaneR00: raises 120 to 240
+mugre86: raises 5664 to 5904 and is all-in
+K4rmina: folds 
+alfcapone87: folds 
+Caio Mugarte: folds 
+EdsonBura: folds 
+picaron11: folds 
+brinic1990: folds 
+NaneR00: folds 
+Uncalled bet (5664) returned to mugre86
+mugre86 collected 780 from pot
+mugre86: doesn't show hand 
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: EdsonBura (button) folded before Flop (didn't bet)
+Seat 4: picaron11 (small blind) folded before Flop
+Seat 5: brinic1990 (big blind) folded before Flop
+Seat 6: NaneR00 folded before Flop
+Seat 7: mugre86 collected (780)
+Seat 9: K4rmina folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433228879: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:24:53 AT [2023/08/16 21:24:53 ET]
+Table '3632346331 2' 9-max Seat #4 is the button
+Seat 1: alfcapone87 (2440 in chips) 
+Seat 2: Caio Mugarte (4803 in chips) 
+Seat 3: EdsonBura (1341 in chips) 
+Seat 4: picaron11 (2556 in chips) 
+Seat 5: brinic1990 (7856 in chips) 
+Seat 6: NaneR00 (13513 in chips) 
+Seat 7: mugre86 (6444 in chips) 
+Seat 9: K4rmina (959 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+K4rmina: posts the ante 15
+brinic1990: posts small blind 60
+NaneR00: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s 2h]
+mugre86: folds 
+K4rmina: folds 
+alfcapone87: folds 
+Caio Mugarte: folds 
+EdsonBura: folds 
+picaron11: folds 
+brinic1990: raises 120 to 240
+NaneR00: calls 120
+*** FLOP *** [Js 4h Ks]
+brinic1990: bets 120
+NaneR00: folds 
+Uncalled bet (120) returned to brinic1990
+brinic1990 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Js 4h Ks]
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: EdsonBura folded before Flop (didn't bet)
+Seat 4: picaron11 (button) folded before Flop (didn't bet)
+Seat 5: brinic1990 (small blind) collected (600)
+Seat 6: NaneR00 (big blind) folded on the Flop
+Seat 7: mugre86 folded before Flop (didn't bet)
+Seat 9: K4rmina folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433235337: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:25:27 AT [2023/08/16 21:25:27 ET]
+Table '3632346331 2' 9-max Seat #5 is the button
+Seat 1: alfcapone87 (2425 in chips) 
+Seat 2: Caio Mugarte (4788 in chips) 
+Seat 3: EdsonBura (1326 in chips) 
+Seat 4: picaron11 (2541 in chips) 
+Seat 5: brinic1990 (8201 in chips) 
+Seat 6: NaneR00 (13258 in chips) 
+Seat 7: mugre86 (6429 in chips) 
+Seat 9: K4rmina (944 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+K4rmina: posts the ante 15
+NaneR00: posts small blind 60
+mugre86: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kd Jc]
+K4rmina: folds 
+alfcapone87: folds 
+Caio Mugarte: raises 120 to 240
+EdsonBura: folds 
+picaron11: folds 
+brinic1990: raises 780 to 1020
+NaneR00: folds 
+mugre86: folds 
+Caio Mugarte: folds 
+Uncalled bet (780) returned to brinic1990
+brinic1990 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop
+Seat 3: EdsonBura folded before Flop (didn't bet)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 (button) collected (780)
+Seat 6: NaneR00 (small blind) folded before Flop
+Seat 7: mugre86 (big blind) folded before Flop
+Seat 9: K4rmina folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433240629: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:25:54 AT [2023/08/16 21:25:54 ET]
+Table '3632346331 2' 9-max Seat #6 is the button
+Seat 1: alfcapone87 (2410 in chips) 
+Seat 2: Caio Mugarte (4533 in chips) 
+Seat 3: EdsonBura (1311 in chips) 
+Seat 4: picaron11 (2526 in chips) 
+Seat 5: brinic1990 (8726 in chips) 
+Seat 6: NaneR00 (13183 in chips) 
+Seat 7: mugre86 (6294 in chips) 
+Seat 9: K4rmina (929 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+K4rmina: posts the ante 15
+mugre86: posts small blind 60
+K4rmina: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d 5s]
+alfcapone87: raises 2275 to 2395 and is all-in
+Caio Mugarte: folds 
+EdsonBura: folds 
+picaron11: folds 
+brinic1990: folds 
+NaneR00: folds 
+mugre86: folds 
+K4rmina: folds 
+Uncalled bet (2275) returned to alfcapone87
+alfcapone87 collected 420 from pot
+alfcapone87: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: alfcapone87 collected (420)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: EdsonBura folded before Flop (didn't bet)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 (button) folded before Flop (didn't bet)
+Seat 7: mugre86 (small blind) folded before Flop
+Seat 9: K4rmina (big blind) folded before Flop
+
+
+
+PokerStars Hand #245433243504: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:26:10 AT [2023/08/16 21:26:10 ET]
+Table '3632346331 2' 9-max Seat #7 is the button
+Seat 1: alfcapone87 (2695 in chips) 
+Seat 2: Caio Mugarte (4518 in chips) 
+Seat 3: EdsonBura (1296 in chips) 
+Seat 4: picaron11 (2511 in chips) 
+Seat 5: brinic1990 (8711 in chips) 
+Seat 6: NaneR00 (13168 in chips) 
+Seat 7: mugre86 (6219 in chips) 
+Seat 9: K4rmina (794 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+K4rmina: posts the ante 15
+K4rmina: posts small blind 60
+alfcapone87: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc 2c]
+Caio Mugarte: folds 
+EdsonBura: raises 1161 to 1281 and is all-in
+picaron11: folds 
+brinic1990: folds 
+NaneR00: folds 
+mugre86: folds 
+K4rmina: calls 719 and is all-in
+alfcapone87: folds 
+Uncalled bet (502) returned to EdsonBura
+*** FLOP *** [Kh 2s 8h]
+*** TURN *** [Kh 2s 8h] [4h]
+*** RIVER *** [Kh 2s 8h 4h] [Qs]
+*** SHOW DOWN ***
+K4rmina: shows [5c 5s] (a pair of Fives)
+EdsonBura: shows [Kc Qc] (two pair, Kings and Queens)
+EdsonBura collected 1798 from pot
+K4rmina finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 1798 | Rake 0 
+Board [Kh 2s 8h 4h Qs]
+Seat 1: alfcapone87 (big blind) folded before Flop
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: EdsonBura showed [Kc Qc] and won (1798) with two pair, Kings and Queens
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 (button) folded before Flop (didn't bet)
+Seat 9: K4rmina (small blind) showed [5c 5s] and lost with a pair of Fives
+
+
+
+PokerStars Hand #245433248618: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:26:37 AT [2023/08/16 21:26:37 ET]
+Table '3632346331 2' 9-max Seat #1 is the button
+Seat 1: alfcapone87 (2560 in chips) 
+Seat 2: Caio Mugarte (4503 in chips) 
+Seat 3: EdsonBura (2300 in chips) 
+Seat 4: picaron11 (2496 in chips) 
+Seat 5: brinic1990 (8696 in chips) 
+Seat 6: NaneR00 (13153 in chips) 
+Seat 7: mugre86 (6204 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+Caio Mugarte: posts small blind 60
+EdsonBura: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qs 4s]
+picaron11: calls 120
+brinic1990: folds 
+NaneR00: folds 
+mugre86: raises 120 to 240
+alfcapone87: folds 
+Caio Mugarte: folds 
+EdsonBura: folds 
+picaron11: calls 120
+*** FLOP *** [9s 9c Jc]
+picaron11: bets 383
+mugre86: raises 5566 to 5949 and is all-in
+picaron11: folds 
+Uncalled bet (5566) returned to mugre86
+mugre86 collected 1531 from pot
+mugre86: doesn't show hand 
+*** SUMMARY ***
+Total pot 1531 | Rake 0 
+Board [9s 9c Jc]
+Seat 1: alfcapone87 (button) folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 3: EdsonBura (big blind) folded before Flop
+Seat 4: picaron11 folded on the Flop
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 collected (1531)
+
+
+
+PokerStars Hand #245433254977: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:27:10 AT [2023/08/16 21:27:10 ET]
+Table '3632346331 2' 9-max Seat #2 is the button
+Seat 1: alfcapone87 (2545 in chips) 
+Seat 2: Caio Mugarte (4428 in chips) 
+Seat 3: EdsonBura (2165 in chips) 
+Seat 4: picaron11 (1858 in chips) 
+Seat 5: brinic1990 (8681 in chips) 
+Seat 6: NaneR00 (13138 in chips) 
+Seat 7: mugre86 (7097 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+EdsonBura: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+EdsonBura: posts small blind 60
+picaron11: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s 8d]
+brinic1990: folds 
+NaneR00: folds 
+mugre86: raises 6546 to 6666
+alfcapone87: folds 
+Caio Mugarte: folds 
+EdsonBura: calls 2090 and is all-in
+picaron11: folds 
+Uncalled bet (4516) returned to mugre86
+*** FLOP *** [Kc Td 3c]
+*** TURN *** [Kc Td 3c] [5h]
+*** RIVER *** [Kc Td 3c 5h] [2s]
+*** SHOW DOWN ***
+EdsonBura: shows [Ad Kh] (a pair of Kings)
+mugre86: shows [Th Tc] (three of a kind, Tens)
+mugre86 collected 4525 from pot
+EdsonBura finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 4525 | Rake 0 
+Board [Kc Td 3c 5h 2s]
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 3: EdsonBura (small blind) showed [Ad Kh] and lost with a pair of Kings
+Seat 4: picaron11 (big blind) folded before Flop
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 showed [Th Tc] and won (4525) with three of a kind, Tens
+
+
+
+PokerStars Hand #245433262139: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:27:48 AT [2023/08/16 21:27:48 ET]
+Table '3632346331 2' 9-max Seat #4 is the button
+Seat 1: alfcapone87 (2530 in chips) 
+Seat 2: Caio Mugarte (4413 in chips) 
+Seat 4: picaron11 (1723 in chips) 
+Seat 5: brinic1990 (8666 in chips) 
+Seat 6: NaneR00 (13123 in chips) 
+Seat 7: mugre86 (9457 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+brinic1990: posts small blind 60
+NaneR00: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h 3d]
+mugre86: raises 120 to 240
+alfcapone87: folds 
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: folds 
+NaneR00: folds 
+Uncalled bet (120) returned to mugre86
+mugre86 collected 390 from pot
+mugre86: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: picaron11 (button) folded before Flop (didn't bet)
+Seat 5: brinic1990 (small blind) folded before Flop
+Seat 6: NaneR00 (big blind) folded before Flop
+Seat 7: mugre86 collected (390)
+
+
+
+PokerStars Hand #245433264162: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:27:59 AT [2023/08/16 21:27:59 ET]
+Table '3632346331 2' 9-max Seat #5 is the button
+Seat 1: alfcapone87 (2515 in chips) 
+Seat 2: Caio Mugarte (4398 in chips) 
+Seat 4: picaron11 (1708 in chips) 
+Seat 5: brinic1990 (8591 in chips) 
+Seat 6: NaneR00 (12988 in chips) 
+Seat 7: mugre86 (9712 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+NaneR00: posts small blind 60
+mugre86: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h Kh]
+alfcapone87: folds 
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: folds 
+NaneR00: calls 60
+mugre86: checks 
+*** FLOP *** [6d 8h 3d]
+NaneR00: checks 
+mugre86: bets 240
+NaneR00: calls 240
+*** TURN *** [6d 8h 3d] [8c]
+NaneR00: bets 540
+mugre86: calls 540
+*** RIVER *** [6d 8h 3d 8c] [2h]
+NaneR00: checks 
+mugre86: checks 
+*** SHOW DOWN ***
+NaneR00: shows [5d 8s] (three of a kind, Eights)
+mugre86: mucks hand 
+NaneR00 collected 1890 from pot
+*** SUMMARY ***
+Total pot 1890 | Rake 0 
+Board [6d 8h 3d 8c 2h]
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 (button) folded before Flop (didn't bet)
+Seat 6: NaneR00 (small blind) showed [5d 8s] and won (1890) with three of a kind, Eights
+Seat 7: mugre86 (big blind) mucked [9h Td]
+
+
+
+PokerStars Hand #245433270548: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:28:33 AT [2023/08/16 21:28:33 ET]
+Table '3632346331 2' 9-max Seat #6 is the button
+Seat 1: alfcapone87 (2500 in chips) 
+Seat 2: Caio Mugarte (4383 in chips) 
+Seat 4: picaron11 (1693 in chips) 
+Seat 5: brinic1990 (8576 in chips) 
+Seat 6: NaneR00 (13963 in chips) 
+Seat 7: mugre86 (8797 in chips) 
+Seat 8: vivispadeto (4430 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+vivispadeto: posts the ante 15
+mugre86: posts small blind 60
+vivispadeto: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc 5h]
+alfcapone87: folds 
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: folds 
+NaneR00: raises 120 to 240
+mugre86: raises 8542 to 8782 and is all-in
+vivispadeto: folds 
+NaneR00: folds 
+Uncalled bet (8542) returned to mugre86
+mugre86 collected 705 from pot
+mugre86: doesn't show hand 
+*** SUMMARY ***
+Total pot 705 | Rake 0 
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 (button) folded before Flop
+Seat 7: mugre86 (small blind) collected (705)
+Seat 8: vivispadeto (big blind) folded before Flop
+
+
+
+PokerStars Hand #245433276258: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:29:04 AT [2023/08/16 21:29:04 ET]
+Table '3632346331 2' 9-max Seat #7 is the button
+Seat 1: alfcapone87 (2485 in chips) 
+Seat 2: Caio Mugarte (4368 in chips) 
+Seat 4: picaron11 (1678 in chips) 
+Seat 5: brinic1990 (8561 in chips) 
+Seat 6: NaneR00 (13708 in chips) 
+Seat 7: mugre86 (9247 in chips) 
+Seat 8: vivispadeto (4295 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+vivispadeto: posts the ante 15
+vivispadeto: posts small blind 60
+alfcapone87: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qs 9d]
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: folds 
+NaneR00: folds 
+mugre86: raises 120 to 240
+vivispadeto: folds 
+alfcapone87: folds 
+Uncalled bet (120) returned to mugre86
+mugre86 collected 405 from pot
+mugre86: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: alfcapone87 (big blind) folded before Flop
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 (button) collected (405)
+Seat 8: vivispadeto (small blind) folded before Flop
+
+
+
+PokerStars Hand #245433283025: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:29:40 AT [2023/08/16 21:29:40 ET]
+Table '3632346331 2' 9-max Seat #8 is the button
+Seat 1: alfcapone87 (2350 in chips) 
+Seat 2: Caio Mugarte (4353 in chips) 
+Seat 4: picaron11 (1663 in chips) 
+Seat 5: brinic1990 (8546 in chips) 
+Seat 6: NaneR00 (13693 in chips) 
+Seat 7: mugre86 (9517 in chips) 
+Seat 8: vivispadeto (4220 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+vivispadeto: posts the ante 15
+alfcapone87: posts small blind 60
+Caio Mugarte: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s 7s]
+picaron11: folds 
+brinic1990: raises 405 to 525
+NaneR00: folds 
+mugre86: folds 
+vivispadeto: folds 
+alfcapone87: folds 
+Caio Mugarte: calls 405
+*** FLOP *** [2d Ks 4c]
+Caio Mugarte: checks 
+brinic1990: bets 608
+Caio Mugarte: folds 
+Uncalled bet (608) returned to brinic1990
+brinic1990 collected 1215 from pot
+*** SUMMARY ***
+Total pot 1215 | Rake 0 
+Board [2d Ks 4c]
+Seat 1: alfcapone87 (small blind) folded before Flop
+Seat 2: Caio Mugarte (big blind) folded on the Flop
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 collected (1215)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 folded before Flop (didn't bet)
+Seat 8: vivispadeto (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433290968: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:30:23 AT [2023/08/16 21:30:23 ET]
+Table '3632346331 2' 9-max Seat #1 is the button
+Seat 1: alfcapone87 (2275 in chips) 
+Seat 2: Caio Mugarte (3813 in chips) 
+Seat 4: picaron11 (1648 in chips) 
+Seat 5: brinic1990 (9221 in chips) 
+Seat 6: NaneR00 (13678 in chips) 
+Seat 7: mugre86 (9502 in chips) 
+Seat 8: vivispadeto (4205 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+vivispadeto: posts the ante 15
+Caio Mugarte: posts small blind 60
+picaron11: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s 6h]
+brinic1990: folds 
+NaneR00: raises 120 to 240
+mugre86: folds 
+vivispadeto: folds 
+alfcapone87: folds 
+Caio Mugarte: calls 180
+picaron11: folds 
+*** FLOP *** [Qs 5d Ah]
+Caio Mugarte: checks 
+NaneR00: bets 233
+Caio Mugarte: folds 
+Uncalled bet (233) returned to NaneR00
+NaneR00 collected 705 from pot
+NaneR00: doesn't show hand 
+*** SUMMARY ***
+Total pot 705 | Rake 0 
+Board [Qs 5d Ah]
+Seat 1: alfcapone87 (button) folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (small blind) folded on the Flop
+Seat 4: picaron11 (big blind) folded before Flop
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 collected (705)
+Seat 7: mugre86 folded before Flop (didn't bet)
+Seat 8: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433300590: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 22:31:14 AT [2023/08/16 21:31:14 ET]
+Table '3632346331 2' 9-max Seat #2 is the button
+Seat 1: alfcapone87 (2260 in chips) 
+Seat 2: Caio Mugarte (3558 in chips) 
+Seat 4: picaron11 (1513 in chips) 
+Seat 5: brinic1990 (9206 in chips) 
+Seat 6: NaneR00 (14128 in chips) 
+Seat 7: mugre86 (9487 in chips) 
+Seat 8: vivispadeto (4190 in chips) 
+alfcapone87: posts the ante 15
+Caio Mugarte: posts the ante 15
+picaron11: posts the ante 15
+brinic1990: posts the ante 15
+NaneR00: posts the ante 15
+mugre86: posts the ante 15
+vivispadeto: posts the ante 15
+picaron11: posts small blind 60
+brinic1990: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d 8h]
+NaneR00: folds 
+mugre86: raises 120 to 240
+vivispadeto: calls 240
+alfcapone87: folds 
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: calls 120
+*** FLOP *** [Js Jd Ad]
+brinic1990: checks 
+mugre86: checks 
+vivispadeto: bets 240
+brinic1990: folds 
+mugre86: folds 
+Uncalled bet (240) returned to vivispadeto
+vivispadeto collected 885 from pot
+*** SUMMARY ***
+Total pot 885 | Rake 0 
+Board [Js Jd Ad]
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 4: picaron11 (small blind) folded before Flop
+Seat 5: brinic1990 (big blind) folded on the Flop
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 folded on the Flop
+Seat 8: vivispadeto collected (885)
+
+
+
+PokerStars Hand #245433310036: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:32:05 AT [2023/08/16 21:32:05 ET]
+Table '3632346331 2' 9-max Seat #4 is the button
+Seat 1: alfcapone87 (2245 in chips) 
+Seat 2: Caio Mugarte (3543 in chips) 
+Seat 4: picaron11 (1438 in chips) 
+Seat 5: brinic1990 (8951 in chips) 
+Seat 6: NaneR00 (14113 in chips) 
+Seat 7: mugre86 (9232 in chips) 
+Seat 8: vivispadeto (4820 in chips) 
+alfcapone87: posts the ante 20
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+mugre86: posts the ante 20
+vivispadeto: posts the ante 20
+brinic1990: posts small blind 80
+NaneR00: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c 4d]
+mugre86: raises 160 to 320
+vivispadeto: folds 
+alfcapone87: raises 1905 to 2225 and is all-in
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: calls 2145
+NaneR00: folds 
+mugre86: folds 
+*** FLOP *** [Kc 2s Th]
+*** TURN *** [Kc 2s Th] [8d]
+*** RIVER *** [Kc 2s Th 8d] [6d]
+*** SHOW DOWN ***
+brinic1990: shows [Qs Ad] (high card Ace)
+alfcapone87: shows [Ah Qh] (high card Ace)
+brinic1990 collected 2535 from pot
+alfcapone87 collected 2535 from pot
+*** SUMMARY ***
+Total pot 5070 | Rake 0 
+Board [Kc 2s Th 8d 6d]
+Seat 1: alfcapone87 showed [Ah Qh] and won (2535) with high card Ace
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: picaron11 (button) folded before Flop (didn't bet)
+Seat 5: brinic1990 (small blind) showed [Qs Ad] and won (2535) with high card Ace
+Seat 6: NaneR00 (big blind) folded before Flop
+Seat 7: mugre86 folded before Flop
+Seat 8: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433315357: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:32:34 AT [2023/08/16 21:32:34 ET]
+Table '3632346331 2' 9-max Seat #5 is the button
+Seat 1: alfcapone87 (2535 in chips) 
+Seat 2: Caio Mugarte (3523 in chips) 
+Seat 4: picaron11 (1418 in chips) 
+Seat 5: brinic1990 (9241 in chips) 
+Seat 6: NaneR00 (13933 in chips) 
+Seat 7: mugre86 (8892 in chips) 
+Seat 8: vivispadeto (4800 in chips) 
+alfcapone87: posts the ante 20
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+mugre86: posts the ante 20
+vivispadeto: posts the ante 20
+NaneR00: posts small blind 80
+mugre86: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9h 3c]
+vivispadeto: folds 
+alfcapone87: folds 
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: folds 
+NaneR00: calls 80
+mugre86: checks 
+*** FLOP *** [2d Qs 9s]
+NaneR00: checks 
+mugre86: bets 160
+NaneR00: folds 
+Uncalled bet (160) returned to mugre86
+mugre86 collected 460 from pot
+mugre86: doesn't show hand 
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [2d Qs 9s]
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 (button) folded before Flop (didn't bet)
+Seat 6: NaneR00 (small blind) folded on the Flop
+Seat 7: mugre86 (big blind) collected (460)
+Seat 8: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433322555: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:33:13 AT [2023/08/16 21:33:13 ET]
+Table '3632346331 2' 9-max Seat #6 is the button
+Seat 1: alfcapone87 (2515 in chips) 
+Seat 2: Caio Mugarte (3503 in chips) 
+Seat 4: picaron11 (1398 in chips) 
+Seat 5: brinic1990 (9221 in chips) 
+Seat 6: NaneR00 (13753 in chips) 
+Seat 7: mugre86 (9172 in chips) 
+Seat 8: vivispadeto (4780 in chips) 
+alfcapone87: posts the ante 20
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+mugre86: posts the ante 20
+vivispadeto: posts the ante 20
+mugre86: posts small blind 80
+vivispadeto: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5h 9d]
+alfcapone87: folds 
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: folds 
+NaneR00: raises 160 to 320
+mugre86: folds 
+vivispadeto: folds 
+Uncalled bet (160) returned to NaneR00
+NaneR00 collected 540 from pot
+NaneR00: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 (button) collected (540)
+Seat 7: mugre86 (small blind) folded before Flop
+Seat 8: vivispadeto (big blind) folded before Flop
+
+
+
+PokerStars Hand #245433327344: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:33:39 AT [2023/08/16 21:33:39 ET]
+Table '3632346331 2' 9-max Seat #7 is the button
+Seat 1: alfcapone87 (2495 in chips) 
+Seat 2: Caio Mugarte (3483 in chips) 
+Seat 4: picaron11 (1378 in chips) 
+Seat 5: brinic1990 (9201 in chips) 
+Seat 6: NaneR00 (14113 in chips) 
+Seat 7: mugre86 (9072 in chips) 
+Seat 8: vivispadeto (4600 in chips) 
+alfcapone87: posts the ante 20
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+mugre86: posts the ante 20
+vivispadeto: posts the ante 20
+vivispadeto: posts small blind 80
+alfcapone87: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ah 5d]
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: folds 
+NaneR00: folds 
+mugre86: folds 
+vivispadeto: folds 
+Uncalled bet (80) returned to alfcapone87
+alfcapone87 collected 300 from pot
+alfcapone87: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: alfcapone87 (big blind) collected (300)
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 (button) folded before Flop (didn't bet)
+Seat 8: vivispadeto (small blind) folded before Flop
+
+
+
+PokerStars Hand #245433330650: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:33:56 AT [2023/08/16 21:33:56 ET]
+Table '3632346331 2' 9-max Seat #8 is the button
+Seat 1: alfcapone87 (2695 in chips) 
+Seat 2: Caio Mugarte (3463 in chips) 
+Seat 4: picaron11 (1358 in chips) 
+Seat 5: brinic1990 (9181 in chips) 
+Seat 6: NaneR00 (14093 in chips) 
+Seat 7: mugre86 (9052 in chips) 
+Seat 8: vivispadeto (4500 in chips) 
+alfcapone87: posts the ante 20
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+mugre86: posts the ante 20
+vivispadeto: posts the ante 20
+alfcapone87: posts small blind 80
+Caio Mugarte: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2s 9d]
+picaron11: calls 160
+brinic1990: raises 160 to 320
+NaneR00: folds 
+mugre86: folds 
+vivispadeto has timed out
+vivispadeto: folds 
+vivispadeto is sitting out
+alfcapone87: folds 
+vivispadeto has returned
+Caio Mugarte: folds 
+picaron11: calls 160
+*** FLOP *** [6d Ks 4c]
+picaron11: checks 
+brinic1990: bets 510
+picaron11: folds 
+Uncalled bet (510) returned to brinic1990
+brinic1990 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [6d Ks 4c]
+Seat 1: alfcapone87 (small blind) folded before Flop
+Seat 2: Caio Mugarte (big blind) folded before Flop
+Seat 4: picaron11 folded on the Flop
+Seat 5: brinic1990 collected (1020)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 7: mugre86 folded before Flop (didn't bet)
+Seat 8: vivispadeto (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433341932: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:34:56 AT [2023/08/16 21:34:56 ET]
+Table '3632346331 2' 9-max Seat #1 is the button
+Seat 1: alfcapone87 (2595 in chips) 
+Seat 2: Caio Mugarte (3283 in chips) 
+Seat 4: picaron11 (1018 in chips) 
+Seat 5: brinic1990 (9861 in chips) 
+Seat 6: NaneR00 (14073 in chips) 
+Seat 8: vivispadeto (4480 in chips) 
+alfcapone87: posts the ante 20
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+vivispadeto: posts the ante 20
+Caio Mugarte: posts small blind 80
+picaron11: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5h Tc]
+brinic1990: raises 160 to 320
+NaneR00: calls 320
+vivispadeto: folds 
+alfcapone87: folds 
+Caio Mugarte: folds 
+picaron11: folds 
+*** FLOP *** [Jc Ts 7s]
+brinic1990: bets 160
+NaneR00: calls 160
+*** TURN *** [Jc Ts 7s] [Qs]
+brinic1990: bets 480
+NaneR00: folds 
+Uncalled bet (480) returned to brinic1990
+brinic1990 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Jc Ts 7s Qs]
+Seat 1: alfcapone87 (button) folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 4: picaron11 (big blind) folded before Flop
+Seat 5: brinic1990 collected (1320)
+Seat 6: NaneR00 folded on the Turn
+Seat 8: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433350831: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:35:43 AT [2023/08/16 21:35:43 ET]
+Table '3632346331 2' 9-max Seat #2 is the button
+Seat 1: alfcapone87 (2575 in chips) 
+Seat 2: Caio Mugarte (3183 in chips) 
+Seat 4: picaron11 (838 in chips) 
+Seat 5: brinic1990 (10681 in chips) 
+Seat 6: NaneR00 (13573 in chips) 
+Seat 8: vivispadeto (4460 in chips) 
+alfcapone87: posts the ante 20
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+vivispadeto: posts the ante 20
+picaron11: posts small blind 80
+brinic1990: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8h 4c]
+NaneR00: raises 160 to 320
+vivispadeto: calls 320
+alfcapone87: folds 
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: folds 
+*** FLOP *** [9d Qh 5s]
+NaneR00: checks 
+vivispadeto: checks 
+*** TURN *** [9d Qh 5s] [Th]
+NaneR00: bets 330
+vivispadeto: calls 330
+*** RIVER *** [9d Qh 5s Th] [2s]
+NaneR00: checks 
+vivispadeto: checks 
+*** SHOW DOWN ***
+NaneR00: shows [5d Ac] (a pair of Fives)
+vivispadeto: shows [Js Jh] (a pair of Jacks)
+vivispadeto collected 1660 from pot
+*** SUMMARY ***
+Total pot 1660 | Rake 0 
+Board [9d Qh 5s Th 2s]
+Seat 1: alfcapone87 folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 4: picaron11 (small blind) folded before Flop
+Seat 5: brinic1990 (big blind) folded before Flop
+Seat 6: NaneR00 showed [5d Ac] and lost with a pair of Fives
+Seat 8: vivispadeto showed [Js Jh] and won (1660) with a pair of Jacks
+
+
+
+PokerStars Hand #245433360017: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:36:32 AT [2023/08/16 21:36:32 ET]
+Table '3632346331 2' 9-max Seat #4 is the button
+Seat 1: alfcapone87 (2555 in chips) 
+Seat 2: Caio Mugarte (3163 in chips) 
+Seat 4: picaron11 (738 in chips) 
+Seat 5: brinic1990 (10501 in chips) 
+Seat 6: NaneR00 (12903 in chips) 
+Seat 8: vivispadeto (5450 in chips) 
+alfcapone87: posts the ante 20
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+vivispadeto: posts the ante 20
+brinic1990: posts small blind 80
+NaneR00: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6d Td]
+vivispadeto: folds 
+alfcapone87: raises 2375 to 2535 and is all-in
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: raises 7946 to 10481 and is all-in
+NaneR00: folds 
+Uncalled bet (7946) returned to brinic1990
+*** FLOP *** [4h Kd Ac]
+*** TURN *** [4h Kd Ac] [As]
+*** RIVER *** [4h Kd Ac As] [9s]
+*** SHOW DOWN ***
+brinic1990: shows [7d Ad] (three of a kind, Aces)
+alfcapone87: shows [Qh Kc] (two pair, Aces and Kings)
+brinic1990 collected 5350 from pot
+alfcapone87 finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 5350 | Rake 0 
+Board [4h Kd Ac As 9s]
+Seat 1: alfcapone87 showed [Qh Kc] and lost with two pair, Aces and Kings
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: picaron11 (button) folded before Flop (didn't bet)
+Seat 5: brinic1990 (small blind) showed [7d Ad] and won (5350) with three of a kind, Aces
+Seat 6: NaneR00 (big blind) folded before Flop
+Seat 8: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433364728: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:36:57 AT [2023/08/16 21:36:57 ET]
+Table '3632346331 2' 9-max Seat #5 is the button
+Seat 2: Caio Mugarte (3143 in chips) 
+Seat 4: picaron11 (718 in chips) 
+Seat 5: brinic1990 (13296 in chips) 
+Seat 6: NaneR00 (12723 in chips) 
+Seat 8: vivispadeto (5430 in chips) 
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+vivispadeto: posts the ante 20
+NaneR00: posts small blind 80
+vivispadeto: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6d 4d]
+Caio Mugarte: folds 
+picaron11: folds 
+brinic1990: folds 
+NaneR00: calls 80
+vivispadeto: checks 
+*** FLOP *** [Ac Td 3d]
+NaneR00: bets 160
+vivispadeto: calls 160
+*** TURN *** [Ac Td 3d] [Qc]
+brinic1990 is disconnected 
+NaneR00: checks 
+vivispadeto: bets 160
+NaneR00: calls 160
+*** RIVER *** [Ac Td 3d Qc] [Kd]
+NaneR00: checks 
+vivispadeto: bets 320
+NaneR00: calls 320
+*** SHOW DOWN ***
+vivispadeto: shows [6c As] (a pair of Aces)
+NaneR00: mucks hand 
+vivispadeto collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [Ac Td 3d Qc Kd]
+Seat 2: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 (button) folded before Flop (didn't bet)
+Seat 6: NaneR00 (small blind) mucked [7c Qd]
+Seat 8: vivispadeto (big blind) showed [6c As] and won (1700) with a pair of Aces
+
+
+
+PokerStars Hand #245433376892: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:38:02 AT [2023/08/16 21:38:02 ET]
+Table '3632346331 2' 9-max Seat #6 is the button
+Seat 2: Caio Mugarte (3123 in chips) 
+Seat 4: picaron11 (698 in chips) 
+Seat 5: brinic1990 (13276 in chips) 
+Seat 6: NaneR00 (11903 in chips) 
+Seat 8: vivispadeto (6310 in chips) 
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+vivispadeto: posts the ante 20
+vivispadeto: posts small blind 80
+Caio Mugarte: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s 4d]
+picaron11: folds 
+brinic1990 is connected 
+brinic1990: folds 
+NaneR00: raises 160 to 320
+vivispadeto: folds 
+Caio Mugarte: folds 
+Uncalled bet (160) returned to NaneR00
+NaneR00 collected 500 from pot
+NaneR00: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 2: Caio Mugarte (big blind) folded before Flop
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 (button) collected (500)
+Seat 8: vivispadeto (small blind) folded before Flop
+
+
+
+PokerStars Hand #245433383692: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:38:38 AT [2023/08/16 21:38:38 ET]
+Table '3632346331 2' 9-max Seat #8 is the button
+Seat 2: Caio Mugarte (2943 in chips) 
+Seat 4: picaron11 (678 in chips) 
+Seat 5: brinic1990 (13256 in chips) 
+Seat 6: NaneR00 (12223 in chips) 
+Seat 8: vivispadeto (6210 in chips) 
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+vivispadeto: posts the ante 20
+Caio Mugarte: posts small blind 80
+picaron11: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3h 2c]
+brinic1990: folds 
+NaneR00: raises 160 to 320
+vivispadeto: folds 
+Caio Mugarte: folds 
+picaron11: folds 
+Uncalled bet (160) returned to NaneR00
+NaneR00 collected 500 from pot
+NaneR00: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 4: picaron11 (big blind) folded before Flop
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 collected (500)
+Seat 8: vivispadeto (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433391134: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:39:17 AT [2023/08/16 21:39:17 ET]
+Table '3632346331 2' 9-max Seat #2 is the button
+Seat 2: Caio Mugarte (2843 in chips) 
+Seat 4: picaron11 (498 in chips) 
+Seat 5: brinic1990 (13236 in chips) 
+Seat 6: NaneR00 (12543 in chips) 
+Seat 8: vivispadeto (6190 in chips) 
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+vivispadeto: posts the ante 20
+picaron11: posts small blind 80
+brinic1990: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s Kd]
+NaneR00: folds 
+vivispadeto: folds 
+Caio Mugarte: folds 
+picaron11: folds 
+Uncalled bet (80) returned to brinic1990
+brinic1990 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 2: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 4: picaron11 (small blind) folded before Flop
+Seat 5: brinic1990 (big blind) collected (260)
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 8: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433395318: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:39:40 AT [2023/08/16 21:39:40 ET]
+Table '3632346331 2' 9-max Seat #4 is the button
+Seat 2: Caio Mugarte (2823 in chips) 
+Seat 4: picaron11 (398 in chips) 
+Seat 5: brinic1990 (13396 in chips) 
+Seat 6: NaneR00 (12523 in chips) 
+Seat 8: vivispadeto (6170 in chips) 
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+vivispadeto: posts the ante 20
+brinic1990: posts small blind 80
+NaneR00: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9h Jh]
+vivispadeto: folds 
+Caio Mugarte: raises 160 to 320
+picaron11: folds 
+brinic1990: calls 240
+NaneR00: calls 160
+*** FLOP *** [Qd Td Qh]
+brinic1990: checks 
+NaneR00: checks 
+Caio Mugarte: bets 350
+brinic1990: folds 
+NaneR00: folds 
+Uncalled bet (350) returned to Caio Mugarte
+Caio Mugarte collected 1060 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [Qd Td Qh]
+Seat 2: Caio Mugarte collected (1060)
+Seat 4: picaron11 (button) folded before Flop (didn't bet)
+Seat 5: brinic1990 (small blind) folded on the Flop
+Seat 6: NaneR00 (big blind) folded on the Flop
+Seat 8: vivispadeto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433403721: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:40:25 AT [2023/08/16 21:40:25 ET]
+Table '3632346331 2' 9-max Seat #5 is the button
+Seat 2: Caio Mugarte (3543 in chips) 
+Seat 4: picaron11 (378 in chips) 
+Seat 5: brinic1990 (13056 in chips) 
+Seat 6: NaneR00 (12183 in chips) 
+Seat 8: vivispadeto (6150 in chips) 
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+vivispadeto: posts the ante 20
+NaneR00: posts small blind 80
+vivispadeto: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6h 6c]
+Caio Mugarte: raises 160 to 320
+picaron11: folds 
+brinic1990: folds 
+NaneR00: folds 
+vivispadeto: folds 
+Uncalled bet (160) returned to Caio Mugarte
+Caio Mugarte collected 500 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 2: Caio Mugarte collected (500)
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 (button) folded before Flop (didn't bet)
+Seat 6: NaneR00 (small blind) folded before Flop
+Seat 8: vivispadeto (big blind) folded before Flop
+
+
+
+PokerStars Hand #245433408096: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 22:40:49 AT [2023/08/16 21:40:49 ET]
+Table '3632346331 2' 9-max Seat #6 is the button
+Seat 2: Caio Mugarte (3863 in chips) 
+Seat 4: picaron11 (358 in chips) 
+Seat 5: brinic1990 (13036 in chips) 
+Seat 6: NaneR00 (12083 in chips) 
+Seat 8: vivispadeto (5970 in chips) 
+Caio Mugarte: posts the ante 20
+picaron11: posts the ante 20
+brinic1990: posts the ante 20
+NaneR00: posts the ante 20
+vivispadeto: posts the ante 20
+vivispadeto: posts small blind 80
+Caio Mugarte: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5d Ac]
+picaron11: folds 
+brinic1990: folds 
+NaneR00: raises 160 to 320
+vivispadeto: calls 240
+Caio Mugarte: calls 160
+*** FLOP *** [Kd Jd 2c]
+vivispadeto: checks 
+Caio Mugarte: checks 
+NaneR00: bets 350
+vivispadeto: calls 350
+Caio Mugarte: folds 
+*** TURN *** [Kd Jd 2c] [2h]
+vivispadeto: checks 
+NaneR00: bets 1173
+vivispadeto: calls 1173
+*** RIVER *** [Kd Jd 2c 2h] [4c]
+vivispadeto: checks 
+NaneR00: bets 3285
+vivispadeto: raises 822 to 4107 and is all-in
+NaneR00: calls 822
+*** SHOW DOWN ***
+vivispadeto: shows [Ks Kc] (a full house, Kings full of Deuces)
+NaneR00: shows [Jh Js] (a full house, Jacks full of Deuces)
+vivispadeto collected 12320 from pot
+*** SUMMARY ***
+Total pot 12320 | Rake 0 
+Board [Kd Jd 2c 2h 4c]
+Seat 2: Caio Mugarte (big blind) folded on the Flop
+Seat 4: picaron11 folded before Flop (didn't bet)
+Seat 5: brinic1990 folded before Flop (didn't bet)
+Seat 6: NaneR00 (button) showed [Jh Js] and lost with a full house, Jacks full of Deuces
+Seat 8: vivispadeto (small blind) showed [Ks Kc] and won (12320) with a full house, Kings full of Deuces
+
+
+
+PokerStars Hand #245433419181: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2023/08/16 22:41:49 AT [2023/08/16 21:41:49 ET]
+Table '3632346331 2' 9-max Seat #8 is the button
+Seat 2: Caio Mugarte (3523 in chips) 
+Seat 4: picaron11 (338 in chips) 
+Seat 5: brinic1990 (13016 in chips) 
+Seat 6: NaneR00 (6113 in chips) 
+Seat 8: vivispadeto (12320 in chips) 
+Caio Mugarte: posts the ante 25
+picaron11: posts the ante 25
+brinic1990: posts the ante 25
+NaneR00: posts the ante 25
+vivispadeto: posts the ante 25
+Caio Mugarte: posts small blind 100
+picaron11: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d 9c]
+brinic1990: raises 625 to 825
+NaneR00: folds 
+vivispadeto: folds 
+Caio Mugarte: folds 
+picaron11: calls 113 and is all-in
+Uncalled bet (512) returned to brinic1990
+*** FLOP *** [Ah 6c 3d]
+*** TURN *** [Ah 6c 3d] [5d]
+*** RIVER *** [Ah 6c 3d 5d] [As]
+*** SHOW DOWN ***
+picaron11: shows [5c 4h] (two pair, Aces and Fives)
+brinic1990: shows [Ad Jc] (three of a kind, Aces)
+brinic1990 collected 851 from pot
+picaron11 finished the tournament in 10th place
+*** SUMMARY ***
+Total pot 851 | Rake 0 
+Board [Ah 6c 3d 5d As]
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 4: picaron11 (big blind) showed [5c 4h] and lost with two pair, Aces and Fives
+Seat 5: brinic1990 showed [Ad Jc] and won (851) with three of a kind, Aces
+Seat 6: NaneR00 folded before Flop (didn't bet)
+Seat 8: vivispadeto (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433430525: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2023/08/16 22:42:50 AT [2023/08/16 21:42:50 ET]
+Table '3632346331 4' 9-max Seat #8 is the button
+Seat 1: mugre86 (10864 in chips) 
+Seat 2: vivispadeto (12295 in chips) 
+Seat 3: NaneR00 (6088 in chips) 
+Seat 4: Guilão77 (4800 in chips) 
+Seat 5: SlaterGio25 (6079 in chips) 
+Seat 6: dimenri28 (4380 in chips) 
+Seat 7: Caio Mugarte (3398 in chips) 
+Seat 8: Tgathayde (6067 in chips) 
+Seat 9: brinic1990 (13529 in chips) out of hand (moved from another table into small blind)
+brinic1990 will be allowed to play after the button
+mugre86: posts the ante 25
+vivispadeto: posts the ante 25
+NaneR00: posts the ante 25
+Guilão77: posts the ante 25
+SlaterGio25: posts the ante 25
+dimenri28: posts the ante 25
+Caio Mugarte: posts the ante 25
+Tgathayde: posts the ante 25
+mugre86: posts small blind 100
+vivispadeto: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc As]
+NaneR00: raises 200 to 400
+Guilão77: folds 
+SlaterGio25: calls 400
+dimenri28: folds 
+Caio Mugarte: folds 
+Tgathayde: folds 
+mugre86: folds 
+vivispadeto: folds 
+*** FLOP *** [Kd 2h 6d]
+NaneR00: checks 
+SlaterGio25: bets 600
+NaneR00: folds 
+Uncalled bet (600) returned to SlaterGio25
+SlaterGio25 collected 1300 from pot
+SlaterGio25: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [Kd 2h 6d]
+Seat 1: mugre86 (small blind) folded before Flop
+Seat 2: vivispadeto (big blind) folded before Flop
+Seat 3: NaneR00 folded on the Flop
+Seat 4: Guilão77 folded before Flop (didn't bet)
+Seat 5: SlaterGio25 collected (1300)
+Seat 6: dimenri28 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: Tgathayde (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433438277: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2023/08/16 22:43:31 AT [2023/08/16 21:43:31 ET]
+Table '3632346331 4' 9-max Seat #1 is the button
+Seat 1: mugre86 (10739 in chips) 
+Seat 2: vivispadeto (12070 in chips) 
+Seat 3: NaneR00 (5663 in chips) 
+Seat 4: Guilão77 (4775 in chips) 
+Seat 5: SlaterGio25 (6954 in chips) 
+Seat 6: dimenri28 (4355 in chips) 
+Seat 7: Caio Mugarte (3373 in chips) 
+Seat 8: Tgathayde (6042 in chips) 
+Seat 9: brinic1990 (13529 in chips) 
+mugre86: posts the ante 25
+vivispadeto: posts the ante 25
+NaneR00: posts the ante 25
+Guilão77: posts the ante 25
+SlaterGio25: posts the ante 25
+dimenri28: posts the ante 25
+Caio Mugarte: posts the ante 25
+Tgathayde: posts the ante 25
+brinic1990: posts the ante 25
+vivispadeto: posts small blind 100
+NaneR00: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s 8h]
+Guilão77: folds 
+SlaterGio25: folds 
+dimenri28: calls 200
+Caio Mugarte: folds 
+Tgathayde: folds 
+brinic1990: folds 
+mugre86: calls 200
+vivispadeto: calls 100
+NaneR00: checks 
+*** FLOP *** [Jh 6c 7s]
+vivispadeto: checks 
+NaneR00: checks 
+dimenri28: checks 
+mugre86: checks 
+*** TURN *** [Jh 6c 7s] [Kh]
+vivispadeto: checks 
+NaneR00: checks 
+dimenri28: checks 
+mugre86: checks 
+*** RIVER *** [Jh 6c 7s Kh] [Jc]
+vivispadeto: checks 
+NaneR00: checks 
+dimenri28: checks 
+mugre86: checks 
+*** SHOW DOWN ***
+vivispadeto: shows [8d 9c] (a pair of Jacks)
+NaneR00: shows [9s 6s] (two pair, Jacks and Sixes)
+dimenri28: mucks hand 
+mugre86: mucks hand 
+NaneR00 collected 1025 from pot
+*** SUMMARY ***
+Total pot 1025 | Rake 0 
+Board [Jh 6c 7s Kh Jc]
+Seat 1: mugre86 (button) mucked [Ac 3s]
+Seat 2: vivispadeto (small blind) showed [8d 9c] and lost with a pair of Jacks
+Seat 3: NaneR00 (big blind) showed [9s 6s] and won (1025) with two pair, Jacks and Sixes
+Seat 4: Guilão77 folded before Flop (didn't bet)
+Seat 5: SlaterGio25 folded before Flop (didn't bet)
+Seat 6: dimenri28 mucked [9d Qc]
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: Tgathayde folded before Flop (didn't bet)
+Seat 9: brinic1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433461978: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2023/08/16 22:45:37 AT [2023/08/16 21:45:37 ET]
+Table '3632346331 4' 9-max Seat #2 is the button
+Seat 1: mugre86 (10514 in chips) 
+Seat 2: vivispadeto (11845 in chips) 
+Seat 3: NaneR00 (6463 in chips) 
+Seat 4: Guilão77 (4750 in chips) 
+Seat 5: SlaterGio25 (6929 in chips) 
+Seat 6: dimenri28 (4130 in chips) 
+Seat 7: Caio Mugarte (3348 in chips) 
+Seat 8: Tgathayde (6017 in chips) 
+Seat 9: brinic1990 (13504 in chips) 
+mugre86: posts the ante 25
+vivispadeto: posts the ante 25
+NaneR00: posts the ante 25
+Guilão77: posts the ante 25
+SlaterGio25: posts the ante 25
+dimenri28: posts the ante 25
+Caio Mugarte: posts the ante 25
+Tgathayde: posts the ante 25
+brinic1990: posts the ante 25
+NaneR00: posts small blind 100
+Guilão77: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s 4c]
+SlaterGio25: folds 
+dimenri28: raises 725 to 925
+Caio Mugarte: folds 
+Tgathayde: calls 925
+brinic1990: folds 
+mugre86: folds 
+vivispadeto: folds 
+NaneR00: folds 
+Guilão77: folds 
+*** FLOP *** [4d Qd 8h]
+dimenri28: checks 
+Tgathayde: checks 
+*** TURN *** [4d Qd 8h] [Th]
+dimenri28: bets 200
+Tgathayde: calls 200
+*** RIVER *** [4d Qd 8h Th] [7s]
+dimenri28: bets 1388
+Tgathayde: folds 
+Uncalled bet (1388) returned to dimenri28
+dimenri28 collected 2775 from pot
+*** SUMMARY ***
+Total pot 2775 | Rake 0 
+Board [4d Qd 8h Th 7s]
+Seat 1: mugre86 folded before Flop (didn't bet)
+Seat 2: vivispadeto (button) folded before Flop (didn't bet)
+Seat 3: NaneR00 (small blind) folded before Flop
+Seat 4: Guilão77 (big blind) folded before Flop
+Seat 5: SlaterGio25 folded before Flop (didn't bet)
+Seat 6: dimenri28 collected (2775)
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: Tgathayde folded on the River
+Seat 9: brinic1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433476068: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2023/08/16 22:46:53 AT [2023/08/16 21:46:53 ET]
+Table '3632346331 4' 9-max Seat #3 is the button
+Seat 1: mugre86 (10489 in chips) 
+Seat 2: vivispadeto (11820 in chips) 
+Seat 3: NaneR00 (6338 in chips) 
+Seat 4: Guilão77 (4525 in chips) 
+Seat 5: SlaterGio25 (6904 in chips) 
+Seat 6: dimenri28 (5755 in chips) 
+Seat 7: Caio Mugarte (3323 in chips) 
+Seat 8: Tgathayde (4867 in chips) 
+Seat 9: brinic1990 (13479 in chips) 
+mugre86: posts the ante 25
+vivispadeto: posts the ante 25
+NaneR00: posts the ante 25
+Guilão77: posts the ante 25
+SlaterGio25: posts the ante 25
+dimenri28: posts the ante 25
+Caio Mugarte: posts the ante 25
+Tgathayde: posts the ante 25
+brinic1990: posts the ante 25
+Guilão77: posts small blind 100
+SlaterGio25: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7d 3c]
+dimenri28: folds 
+Caio Mugarte: folds 
+Tgathayde: folds 
+brinic1990: folds 
+mugre86: folds 
+vivispadeto: calls 200
+NaneR00: folds 
+Guilão77: folds 
+SlaterGio25: raises 6679 to 6879 and is all-in
+vivispadeto: folds 
+Uncalled bet (6679) returned to SlaterGio25
+SlaterGio25 collected 725 from pot
+SlaterGio25: doesn't show hand 
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: mugre86 folded before Flop (didn't bet)
+Seat 2: vivispadeto folded before Flop
+Seat 3: NaneR00 (button) folded before Flop (didn't bet)
+Seat 4: Guilão77 (small blind) folded before Flop
+Seat 5: SlaterGio25 (big blind) collected (725)
+Seat 6: dimenri28 folded before Flop (didn't bet)
+Seat 7: Caio Mugarte folded before Flop (didn't bet)
+Seat 8: Tgathayde folded before Flop (didn't bet)
+Seat 9: brinic1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245433482189: Tournament #3632346331, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2023/08/16 22:47:27 AT [2023/08/16 21:47:27 ET]
+Table '3632346331 4' 9-max Seat #4 is the button
+Seat 1: mugre86 (10464 in chips) 
+Seat 2: vivispadeto (11595 in chips) 
+Seat 3: NaneR00 (6313 in chips) 
+Seat 4: Guilão77 (4400 in chips) 
+Seat 5: SlaterGio25 (7404 in chips) 
+Seat 6: dimenri28 (5730 in chips) 
+Seat 7: Caio Mugarte (3298 in chips) 
+Seat 8: Tgathayde (4842 in chips) 
+Seat 9: brinic1990 (13454 in chips) 
+mugre86: posts the ante 25
+vivispadeto: posts the ante 25
+NaneR00: posts the ante 25
+Guilão77: posts the ante 25
+SlaterGio25: posts the ante 25
+dimenri28: posts the ante 25
+Caio Mugarte: posts the ante 25
+Tgathayde: posts the ante 25
+brinic1990: posts the ante 25
+SlaterGio25: posts small blind 100
+dimenri28: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qc Ah]
+Caio Mugarte: raises 3073 to 3273 and is all-in
+Tgathayde: folds 
+brinic1990: raises 3073 to 6346
+mugre86: folds 
+vivispadeto: folds 
+NaneR00: folds 
+Guilão77: folds 
+SlaterGio25: folds 
+dimenri28: folds 
+Uncalled bet (3073) returned to brinic1990
+*** FLOP *** [8h Jc 2d]
+*** TURN *** [8h Jc 2d] [9c]
+*** RIVER *** [8h Jc 2d 9c] [4c]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Qc Ah] (high card Ace)
+brinic1990: shows [Js Kh] (a pair of Jacks)
+brinic1990 collected 7071 from pot
+Caio Mugarte finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 7071 | Rake 0 
+Board [8h Jc 2d 9c 4c]
+Seat 1: mugre86 folded before Flop (didn't bet)
+Seat 2: vivispadeto folded before Flop (didn't bet)
+Seat 3: NaneR00 folded before Flop (didn't bet)
+Seat 4: Guilão77 (button) folded before Flop (didn't bet)
+Seat 5: SlaterGio25 (small blind) folded before Flop
+Seat 6: dimenri28 (big blind) folded before Flop
+Seat 7: Caio Mugarte showed [Qc Ah] and lost with high card Ace
+Seat 8: Tgathayde folded before Flop (didn't bet)
+Seat 9: brinic1990 showed [Js Kh] and won (7071) with a pair of Jacks
+
+
+

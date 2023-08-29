@@ -1,0 +1,3497 @@
+﻿PokerStars Hand #245424171779: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:39:48 AT [2023/08/16 12:39:48 ET]
+Table '3632153283 3' 9-max Seat #1 is the button
+Seat 1: julia5762 (1500 in chips) 
+Seat 2: Fezikni (1500 in chips) 
+Seat 4: Caio Mugarte (1500 in chips) 
+Seat 5: jepta03 (1500 in chips) 
+Seat 6: Vlad1slav S. (1500 in chips) 
+Seat 7: notahipster (1500 in chips) 
+Seat 8: Asildar (1500 in chips) 
+Seat 9: P34CE (1500 in chips) 
+julia5762: posts the ante 3
+Fezikni: posts the ante 3
+Caio Mugarte: posts the ante 3
+jepta03: posts the ante 3
+Vlad1slav S.: posts the ante 3
+notahipster: posts the ante 3
+Asildar: posts the ante 3
+P34CE: posts the ante 3
+Fezikni: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qd Ad]
+jepta03: folds 
+Vlad1slav S.: folds 
+notahipster: folds 
+Asildar: raises 20 to 40
+P34CE: folds 
+julia5762: folds 
+Fezikni: calls 30
+Caio Mugarte: calls 20
+*** FLOP *** [Th 8s 2s]
+Fezikni: bets 72
+Caio Mugarte: folds 
+Asildar: folds 
+Uncalled bet (72) returned to Fezikni
+Fezikni collected 144 from pot
+Fezikni: doesn't show hand 
+*** SUMMARY ***
+Total pot 144 | Rake 0 
+Board [Th 8s 2s]
+Seat 1: julia5762 (button) folded before Flop (didn't bet)
+Seat 2: Fezikni (small blind) collected (144)
+Seat 4: Caio Mugarte (big blind) folded on the Flop
+Seat 5: jepta03 folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. folded before Flop (didn't bet)
+Seat 7: notahipster folded before Flop (didn't bet)
+Seat 8: Asildar folded on the Flop
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424187721: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:40:49 AT [2023/08/16 12:40:49 ET]
+Table '3632153283 3' 9-max Seat #2 is the button
+Seat 1: julia5762 (1497 in chips) 
+Seat 2: Fezikni (1601 in chips) 
+Seat 3: Thomaz 11 (1500 in chips) out of hand (moved from another table into small blind)
+Seat 4: Caio Mugarte (1457 in chips) 
+Seat 6: Vlad1slav S. (1497 in chips) 
+Seat 7: notahipster (1497 in chips) 
+Seat 8: Asildar (1457 in chips) 
+Seat 9: P34CE (1497 in chips) 
+Thomaz 11 will be allowed to play after the button
+julia5762: posts the ante 3
+Fezikni: posts the ante 3
+Caio Mugarte: posts the ante 3
+Vlad1slav S.: posts the ante 3
+notahipster: posts the ante 3
+Asildar: posts the ante 3
+P34CE: posts the ante 3
+Caio Mugarte: posts small blind 10
+Vlad1slav S.: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4c Ts]
+notahipster: folds 
+Asildar: folds 
+P34CE: folds 
+Thomaz 11 is disconnected 
+julia5762: calls 20
+Fezikni: calls 20
+Caio Mugarte: folds 
+Vlad1slav S.: checks 
+*** FLOP *** [8h Td Jd]
+Vlad1slav S.: checks 
+julia5762: bets 40
+Fezikni: calls 40
+Vlad1slav S.: folds 
+*** TURN *** [8h Td Jd] [6s]
+julia5762: bets 40
+Fezikni: calls 40
+*** RIVER *** [8h Td Jd 6s] [As]
+julia5762: checks 
+Fezikni: checks 
+*** SHOW DOWN ***
+julia5762: shows [7c Tc] (a pair of Tens)
+Fezikni: mucks hand 
+julia5762 collected 251 from pot
+*** SUMMARY ***
+Total pot 251 | Rake 0 
+Board [8h Td Jd 6s As]
+Seat 1: julia5762 showed [7c Tc] and won (251) with a pair of Tens
+Seat 2: Fezikni (button) mucked [3s 3h]
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 6: Vlad1slav S. (big blind) folded on the Flop
+Seat 7: notahipster folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424200791: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:41:39 AT [2023/08/16 12:41:39 ET]
+Table '3632153283 3' 9-max Seat #4 is the button
+Seat 1: julia5762 (1645 in chips) 
+Seat 2: Fezikni (1498 in chips) 
+Seat 3: Thomaz 11 (1500 in chips) 
+Seat 4: Caio Mugarte (1444 in chips) 
+Seat 6: Vlad1slav S. (1474 in chips) 
+Seat 8: Asildar (1454 in chips) 
+Seat 9: P34CE (1494 in chips) 
+julia5762: posts the ante 3
+Fezikni: posts the ante 3
+Thomaz 11: posts the ante 3
+Caio Mugarte: posts the ante 3
+Vlad1slav S.: posts the ante 3
+Asildar: posts the ante 3
+P34CE: posts the ante 3
+Vlad1slav S.: posts small blind 10
+Asildar: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2h Qc]
+P34CE: folds 
+julia5762: calls 20
+Fezikni: raises 40 to 60
+Thomaz 11: calls 60
+Caio Mugarte: folds 
+Vlad1slav S.: folds 
+Asildar: calls 40
+julia5762: calls 40
+*** FLOP *** [4d 4h Ah]
+Asildar: checks 
+julia5762: checks 
+Fezikni: bets 136
+Thomaz 11: calls 136
+Asildar: folds 
+julia5762: folds 
+*** TURN *** [4d 4h Ah] [5d]
+Fezikni: checks 
+Thomaz 11: checks 
+*** RIVER *** [4d 4h Ah 5d] [8d]
+Fezikni: checks 
+Thomaz 11: bets 240
+Fezikni: calls 240
+*** SHOW DOWN ***
+Thomaz 11: shows [4s 4c] (four of a kind, Fours)
+Fezikni: mucks hand 
+Thomaz 11 collected 1023 from pot
+*** SUMMARY ***
+Total pot 1023 | Rake 0 
+Board [4d 4h Ah 5d 8d]
+Seat 1: julia5762 folded on the Flop
+Seat 2: Fezikni mucked [Ks Kh]
+Seat 3: Thomaz 11 showed [4s 4c] and won (1023) with four of a kind, Fours
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. (small blind) folded before Flop
+Seat 8: Asildar (big blind) folded on the Flop
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424218437: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:42:46 AT [2023/08/16 12:42:46 ET]
+Table '3632153283 3' 9-max Seat #6 is the button
+Seat 1: julia5762 (1582 in chips) 
+Seat 2: Fezikni (1059 in chips) 
+Seat 3: Thomaz 11 (2084 in chips) 
+Seat 4: Caio Mugarte (1441 in chips) 
+Seat 6: Vlad1slav S. (1461 in chips) 
+Seat 8: Asildar (1391 in chips) 
+Seat 9: P34CE (1491 in chips) 
+julia5762: posts the ante 3
+Fezikni: posts the ante 3
+Thomaz 11: posts the ante 3
+Caio Mugarte: posts the ante 3
+Vlad1slav S.: posts the ante 3
+Asildar: posts the ante 3
+P34CE: posts the ante 3
+Asildar: posts small blind 10
+P34CE: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 4h]
+julia5762: raises 20 to 40
+Fezikni: folds 
+luizcwb186 is disconnected 
+Thomaz 11: calls 40
+Caio Mugarte: folds 
+Vlad1slav S.: folds 
+Asildar: folds 
+P34CE: calls 20
+*** FLOP *** [As 3d Tc]
+P34CE: checks 
+julia5762: checks 
+Thomaz 11: bets 76
+P34CE: folds 
+julia5762: calls 76
+*** TURN *** [As 3d Tc] [5s]
+NIX2013 is disconnected 
+julia5762: checks 
+Thomaz 11: bets 140
+julia5762: folds 
+Uncalled bet (140) returned to Thomaz 11
+Thomaz 11 collected 303 from pot
+Thomaz 11: doesn't show hand 
+*** SUMMARY ***
+Total pot 303 | Rake 0 
+Board [As 3d Tc 5s]
+Seat 1: julia5762 folded on the Turn
+Seat 2: Fezikni folded before Flop (didn't bet)
+Seat 3: Thomaz 11 collected (303)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. (button) folded before Flop (didn't bet)
+Seat 8: Asildar (small blind) folded before Flop
+Seat 9: P34CE (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245424242574: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:44:17 AT [2023/08/16 12:44:17 ET]
+Table '3632153283 3' 9-max Seat #8 is the button
+Seat 1: julia5762 (1463 in chips) 
+Seat 2: Fezikni (1056 in chips) 
+Seat 3: Thomaz 11 (2268 in chips) 
+Seat 4: Caio Mugarte (1438 in chips) 
+Seat 5: NIX2013 (1500 in chips) 
+Seat 6: Vlad1slav S. (1458 in chips) 
+Seat 7: luizcwb186 (1500 in chips) 
+Seat 8: Asildar (1378 in chips) 
+Seat 9: P34CE (1448 in chips) 
+julia5762: posts the ante 3
+Fezikni: posts the ante 3
+Thomaz 11: posts the ante 3
+Caio Mugarte: posts the ante 3
+NIX2013: posts the ante 3
+Vlad1slav S.: posts the ante 3
+luizcwb186: posts the ante 3
+Asildar: posts the ante 3
+P34CE: posts the ante 3
+P34CE: posts small blind 10
+julia5762: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad 6d]
+Fezikni: folds 
+Thomaz 11: folds 
+Caio Mugarte: raises 20 to 40
+NIX2013: folds 
+Vlad1slav S.: calls 40
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+julia5762: raises 20 to 60
+Caio Mugarte: calls 20
+Vlad1slav S.: calls 20
+*** FLOP *** [4c 5d Th]
+julia5762: checks 
+Caio Mugarte: checks 
+Vlad1slav S.: bets 72
+julia5762: calls 72
+Caio Mugarte: folds 
+*** TURN *** [4c 5d Th] [Kd]
+julia5762: checks 
+Vlad1slav S.: checks 
+*** RIVER *** [4c 5d Th Kd] [As]
+julia5762: checks 
+Vlad1slav S.: checks 
+*** SHOW DOWN ***
+julia5762: shows [Jh 9c] (high card Ace)
+Vlad1slav S.: shows [9s Ts] (a pair of Tens)
+Vlad1slav S. collected 361 from pot
+*** SUMMARY ***
+Total pot 361 | Rake 0 
+Board [4c 5d Th Kd As]
+Seat 1: julia5762 (big blind) showed [Jh 9c] and lost with high card Ace
+Seat 2: Fezikni folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded on the Flop
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. showed [9s Ts] and won (361) with a pair of Tens
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar (button) folded before Flop (didn't bet)
+Seat 9: P34CE (small blind) folded before Flop
+
+
+
+PokerStars Hand #245424262019: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:45:30 AT [2023/08/16 12:45:30 ET]
+Table '3632153283 3' 9-max Seat #9 is the button
+Seat 1: julia5762 (1328 in chips) 
+Seat 3: Thomaz 11 (2265 in chips) 
+Seat 4: Caio Mugarte (1375 in chips) 
+Seat 5: NIX2013 (1497 in chips) 
+Seat 6: Vlad1slav S. (1684 in chips) 
+Seat 7: luizcwb186 (1497 in chips) 
+Seat 8: Asildar (1375 in chips) 
+Seat 9: P34CE (1435 in chips) 
+julia5762: posts the ante 3
+Thomaz 11: posts the ante 3
+Caio Mugarte: posts the ante 3
+NIX2013: posts the ante 3
+Vlad1slav S.: posts the ante 3
+luizcwb186: posts the ante 3
+Asildar: posts the ante 3
+P34CE: posts the ante 3
+julia5762: posts small blind 10
+Thomaz 11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ks 8h]
+Caio Mugarte: folds 
+NIX2013: folds 
+Vlad1slav S.: raises 20 to 40
+luizcwb186: folds 
+Asildar: folds 
+P34CE: raises 1392 to 1432 and is all-in
+julia5762: folds 
+Thomaz 11: folds 
+Vlad1slav S.: folds 
+Uncalled bet (1392) returned to P34CE
+P34CE collected 134 from pot
+P34CE: doesn't show hand 
+*** SUMMARY ***
+Total pot 134 | Rake 0 
+Seat 1: julia5762 (small blind) folded before Flop
+Seat 3: Thomaz 11 (big blind) folded before Flop
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. folded before Flop
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE (button) collected (134)
+
+
+
+PokerStars Hand #245424268045: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:45:52 AT [2023/08/16 12:45:52 ET]
+Table '3632153283 3' 9-max Seat #1 is the button
+Seat 1: julia5762 (1315 in chips) 
+Seat 3: Thomaz 11 (2242 in chips) 
+Seat 4: Caio Mugarte (1372 in chips) 
+Seat 5: NIX2013 (1494 in chips) 
+Seat 6: Vlad1slav S. (1641 in chips) 
+Seat 7: luizcwb186 (1494 in chips) 
+Seat 8: Asildar (1372 in chips) 
+Seat 9: P34CE (1526 in chips) 
+julia5762: posts the ante 3
+Thomaz 11: posts the ante 3
+Caio Mugarte: posts the ante 3
+NIX2013: posts the ante 3
+Vlad1slav S.: posts the ante 3
+luizcwb186: posts the ante 3
+Asildar: posts the ante 3
+P34CE: posts the ante 3
+Thomaz 11: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d 8s]
+NIX2013: folds 
+Vlad1slav S.: folds 
+luizcwb186: folds 
+Asildar: raises 20 to 40
+P34CE: folds 
+julia5762: calls 40
+Thomaz 11: calls 30
+Caio Mugarte: folds 
+*** FLOP *** [3s 5d 5s]
+Thomaz 11: checks 
+Asildar: checks 
+julia5762: checks 
+*** TURN *** [3s 5d 5s] [6c]
+Thomaz 11: bets 80
+Asildar: folds 
+julia5762: folds 
+Uncalled bet (80) returned to Thomaz 11
+Thomaz 11 collected 164 from pot
+Thomaz 11: doesn't show hand 
+*** SUMMARY ***
+Total pot 164 | Rake 0 
+Board [3s 5d 5s 6c]
+Seat 1: julia5762 (button) folded on the Turn
+Seat 3: Thomaz 11 (small blind) collected (164)
+Seat 4: Caio Mugarte (big blind) folded before Flop
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded on the Turn
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424285776: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:46:59 AT [2023/08/16 12:46:59 ET]
+Table '3632153283 3' 9-max Seat #3 is the button
+Seat 1: julia5762 (1272 in chips) 
+Seat 3: Thomaz 11 (2363 in chips) 
+Seat 4: Caio Mugarte (1349 in chips) 
+Seat 5: NIX2013 (1491 in chips) 
+Seat 6: Vlad1slav S. (1638 in chips) 
+Seat 7: luizcwb186 (1491 in chips) 
+Seat 8: Asildar (1329 in chips) 
+Seat 9: P34CE (1523 in chips) 
+julia5762: posts the ante 3
+Thomaz 11: posts the ante 3
+Caio Mugarte: posts the ante 3
+NIX2013: posts the ante 3
+Vlad1slav S.: posts the ante 3
+luizcwb186: posts the ante 3
+Asildar: posts the ante 3
+P34CE: posts the ante 3
+Caio Mugarte: posts small blind 10
+NIX2013: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qh 7h]
+Vlad1slav S.: folds 
+luizcwb186: raises 20 to 40
+Asildar: raises 106 to 146
+P34CE: folds 
+julia5762: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+NIX2013: calls 126
+luizcwb186: folds 
+*** FLOP *** [Tc 5h 5d]
+NIX2013: bets 1342 and is all-in
+Asildar: calls 1180 and is all-in
+Uncalled bet (162) returned to NIX2013
+*** TURN *** [Tc 5h 5d] [6h]
+*** RIVER *** [Tc 5h 5d 6h] [5c]
+*** SHOW DOWN ***
+NIX2013: shows [Kd 9s] (three of a kind, Fives)
+Asildar: shows [Qc Qd] (a full house, Fives full of Queens)
+Asildar collected 2726 from pot
+*** SUMMARY ***
+Total pot 2726 | Rake 0 
+Board [Tc 5h 5d 6h 5c]
+Seat 1: julia5762 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 (button) folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 5: NIX2013 (big blind) showed [Kd 9s] and lost with three of a kind, Fives
+Seat 6: Vlad1slav S. folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop
+Seat 8: Asildar showed [Qc Qd] and won (2726) with a full house, Fives full of Queens
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424299016: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:47:49 AT [2023/08/16 12:47:49 ET]
+Table '3632153283 3' 9-max Seat #4 is the button
+Seat 1: julia5762 (1269 in chips) 
+Seat 3: Thomaz 11 (2360 in chips) 
+Seat 4: Caio Mugarte (1336 in chips) 
+Seat 5: NIX2013 (162 in chips) 
+Seat 6: Vlad1slav S. (1635 in chips) 
+Seat 7: luizcwb186 (1448 in chips) 
+Seat 8: Asildar (2726 in chips) 
+Seat 9: P34CE (1520 in chips) 
+julia5762: posts the ante 3
+Thomaz 11: posts the ante 3
+Caio Mugarte: posts the ante 3
+NIX2013: posts the ante 3
+Vlad1slav S.: posts the ante 3
+luizcwb186: posts the ante 3
+Asildar: posts the ante 3
+P34CE: posts the ante 3
+NIX2013: posts small blind 10
+Vlad1slav S.: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7s 8d]
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+julia5762: calls 20
+Thomaz 11: calls 20
+Caio Mugarte: folds 
+NIX2013: raises 139 to 159 and is all-in
+Vlad1slav S.: folds 
+julia5762: calls 139
+Thomaz 11: folds 
+*** FLOP *** [Qs 7d Jc]
+*** TURN *** [Qs 7d Jc] [Jh]
+*** RIVER *** [Qs 7d Jc Jh] [4c]
+*** SHOW DOWN ***
+NIX2013: shows [Qc Qd] (a full house, Queens full of Jacks)
+julia5762: shows [Qh 9d] (two pair, Queens and Jacks)
+NIX2013 collected 382 from pot
+*** SUMMARY ***
+Total pot 382 | Rake 0 
+Board [Qs 7d Jc Jh 4c]
+Seat 1: julia5762 showed [Qh 9d] and lost with two pair, Queens and Jacks
+Seat 3: Thomaz 11 folded before Flop
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 5: NIX2013 (small blind) showed [Qc Qd] and won (382) with a full house, Queens full of Jacks
+Seat 6: Vlad1slav S. (big blind) folded before Flop
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424312116: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:48:39 AT [2023/08/16 12:48:39 ET]
+Table '3632153283 3' 9-max Seat #5 is the button
+Seat 1: julia5762 (1107 in chips) 
+Seat 3: Thomaz 11 (2337 in chips) 
+Seat 4: Caio Mugarte (1333 in chips) 
+Seat 5: NIX2013 (382 in chips) 
+Seat 6: Vlad1slav S. (1612 in chips) 
+Seat 7: luizcwb186 (1445 in chips) 
+Seat 8: Asildar (2723 in chips) 
+Seat 9: P34CE (1517 in chips) 
+julia5762: posts the ante 3
+Thomaz 11: posts the ante 3
+Caio Mugarte: posts the ante 3
+NIX2013: posts the ante 3
+Vlad1slav S.: posts the ante 3
+luizcwb186: posts the ante 3
+Asildar: posts the ante 3
+P34CE: posts the ante 3
+Vlad1slav S.: posts small blind 10
+luizcwb186: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8c 3s]
+Asildar: folds 
+P34CE: folds 
+julia5762: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+NIX2013: raises 20 to 40
+Vlad1slav S.: folds 
+luizcwb186: calls 20
+*** FLOP *** [6c 5c Ah]
+luizcwb186: checks 
+NIX2013: bets 20
+luizcwb186: folds 
+Uncalled bet (20) returned to NIX2013
+NIX2013 collected 114 from pot
+NIX2013: doesn't show hand 
+*** SUMMARY ***
+Total pot 114 | Rake 0 
+Board [6c 5c Ah]
+Seat 1: julia5762 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: NIX2013 (button) collected (114)
+Seat 6: Vlad1slav S. (small blind) folded before Flop
+Seat 7: luizcwb186 (big blind) folded on the Flop
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424325312: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:49:29 AT [2023/08/16 12:49:29 ET]
+Table '3632153283 3' 9-max Seat #6 is the button
+Seat 1: julia5762 (1104 in chips) 
+Seat 3: Thomaz 11 (2334 in chips) 
+Seat 4: Caio Mugarte (1330 in chips) 
+Seat 5: NIX2013 (453 in chips) 
+Seat 6: Vlad1slav S. (1599 in chips) 
+Seat 7: luizcwb186 (1402 in chips) 
+Seat 8: Asildar (2720 in chips) 
+Seat 9: P34CE (1514 in chips) 
+julia5762: posts the ante 3
+Thomaz 11: posts the ante 3
+Caio Mugarte: posts the ante 3
+NIX2013: posts the ante 3
+Vlad1slav S.: posts the ante 3
+luizcwb186: posts the ante 3
+Asildar: posts the ante 3
+P34CE: posts the ante 3
+luizcwb186: posts small blind 10
+Asildar: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s Ad]
+P34CE: folds 
+julia5762: folds 
+Thomaz 11: raises 20 to 40
+Caio Mugarte: folds 
+NIX2013: calls 40
+Vlad1slav S.: folds 
+luizcwb186: folds 
+Asildar: calls 20
+*** FLOP *** [7h Ac 3c]
+Asildar: checks 
+Thomaz 11: bets 60
+NIX2013: calls 60
+Asildar: folds 
+*** TURN *** [7h Ac 3c] [3s]
+Thomaz 11: checks 
+NIX2013: bets 350 and is all-in
+Thomaz 11: folds 
+Uncalled bet (350) returned to NIX2013
+NIX2013 collected 274 from pot
+NIX2013: doesn't show hand 
+*** SUMMARY ***
+Total pot 274 | Rake 0 
+Board [7h Ac 3c 3s]
+Seat 1: julia5762 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded on the Turn
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: NIX2013 collected (274)
+Seat 6: Vlad1slav S. (button) folded before Flop (didn't bet)
+Seat 7: luizcwb186 (small blind) folded before Flop
+Seat 8: Asildar (big blind) folded on the Flop
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424338113: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:50:18 AT [2023/08/16 12:50:18 ET]
+Table '3632153283 3' 9-max Seat #7 is the button
+Seat 1: julia5762 (1101 in chips) 
+Seat 3: Thomaz 11 (2231 in chips) 
+Seat 4: Caio Mugarte (1327 in chips) 
+Seat 5: NIX2013 (624 in chips) 
+Seat 6: Vlad1slav S. (1596 in chips) 
+Seat 7: luizcwb186 (1389 in chips) 
+Seat 8: Asildar (2677 in chips) 
+Seat 9: P34CE (1511 in chips) 
+julia5762: posts the ante 4
+Thomaz 11: posts the ante 4
+Caio Mugarte: posts the ante 4
+NIX2013: posts the ante 4
+Vlad1slav S.: posts the ante 4
+luizcwb186: posts the ante 4
+Asildar: posts the ante 4
+P34CE: posts the ante 4
+Asildar: posts small blind 15
+P34CE: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc 5c]
+julia5762: calls 30
+Thomaz 11: folds 
+Caio Mugarte: folds 
+NIX2013: calls 30
+Vlad1slav S.: raises 120 to 150
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+julia5762: calls 120
+NIX2013: calls 120
+*** FLOP *** [Ac 9d 4c]
+julia5762: checks 
+NIX2013: bets 470 and is all-in
+Vlad1slav S.: calls 470
+julia5762: folds 
+*** TURN *** [Ac 9d 4c] [Ts]
+*** RIVER *** [Ac 9d 4c Ts] [Td]
+*** SHOW DOWN ***
+NIX2013: shows [Js 9h] (two pair, Tens and Nines)
+Vlad1slav S.: shows [Qh Ah] (two pair, Aces and Tens)
+Vlad1slav S. collected 1467 from pot
+NIX2013 finished the tournament in 41st place
+*** SUMMARY ***
+Total pot 1467 | Rake 0 
+Board [Ac 9d 4c Ts Td]
+Seat 1: julia5762 folded on the Flop
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: NIX2013 showed [Js 9h] and lost with two pair, Tens and Nines
+Seat 6: Vlad1slav S. showed [Qh Ah] and won (1467) with two pair, Aces and Tens
+Seat 7: luizcwb186 (button) folded before Flop (didn't bet)
+Seat 8: Asildar (small blind) folded before Flop
+Seat 9: P34CE (big blind) folded before Flop
+
+
+
+PokerStars Hand #245424349699: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:51:01 AT [2023/08/16 12:51:01 ET]
+Table '3632153283 3' 9-max Seat #8 is the button
+Seat 1: julia5762 (947 in chips) 
+Seat 3: Thomaz 11 (2227 in chips) 
+Seat 4: Caio Mugarte (1323 in chips) 
+Seat 6: Vlad1slav S. (2439 in chips) 
+Seat 7: luizcwb186 (1385 in chips) 
+Seat 8: Asildar (2658 in chips) 
+Seat 9: P34CE (1477 in chips) 
+julia5762: posts the ante 4
+Thomaz 11: posts the ante 4
+Caio Mugarte: posts the ante 4
+Vlad1slav S.: posts the ante 4
+luizcwb186: posts the ante 4
+Asildar: posts the ante 4
+P34CE: posts the ante 4
+P34CE: posts small blind 15
+julia5762: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jd 9c]
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Vlad1slav S.: raises 30 to 60
+luizcwb186: calls 60
+Asildar: folds 
+P34CE: folds 
+julia5762: folds 
+*** FLOP *** [9d 5s 6d]
+Vlad1slav S.: checks 
+luizcwb186: checks 
+*** TURN *** [9d 5s 6d] [4c]
+Vlad1slav S.: checks 
+luizcwb186: checks 
+*** RIVER *** [9d 5s 6d 4c] [6h]
+Vlad1slav S.: checks 
+luizcwb186: checks 
+*** SHOW DOWN ***
+Vlad1slav S.: shows [Qs Kc] (a pair of Sixes)
+luizcwb186: mucks hand 
+Vlad1slav S. collected 193 from pot
+*** SUMMARY ***
+Total pot 193 | Rake 0 
+Board [9d 5s 6d 4c 6h]
+Seat 1: julia5762 (big blind) folded before Flop
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. showed [Qs Kc] and won (193) with a pair of Sixes
+Seat 7: luizcwb186 mucked [Jh Kh]
+Seat 8: Asildar (button) folded before Flop (didn't bet)
+Seat 9: P34CE (small blind) folded before Flop
+
+
+
+PokerStars Hand #245424364591: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:51:57 AT [2023/08/16 12:51:57 ET]
+Table '3632153283 3' 9-max Seat #9 is the button
+Seat 1: julia5762 (913 in chips) 
+Seat 2: C.Eduardo.007 (1488 in chips) 
+Seat 3: Thomaz 11 (2223 in chips) 
+Seat 4: Caio Mugarte (1319 in chips) 
+Seat 6: Vlad1slav S. (2568 in chips) 
+Seat 7: luizcwb186 (1321 in chips) 
+Seat 8: Asildar (2654 in chips) 
+Seat 9: P34CE (1458 in chips) 
+julia5762: posts the ante 4
+C.Eduardo.007: posts the ante 4
+Thomaz 11: posts the ante 4
+Caio Mugarte: posts the ante 4
+Vlad1slav S.: posts the ante 4
+luizcwb186: posts the ante 4
+Asildar: posts the ante 4
+P34CE: posts the ante 4
+julia5762: posts small blind 15
+C.Eduardo.007: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6c 7c]
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Vlad1slav S.: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: raises 30 to 60
+julia5762: calls 45
+C.Eduardo.007: folds 
+*** FLOP *** [3s Ad 5d]
+julia5762: bets 91
+P34CE: folds 
+Uncalled bet (91) returned to julia5762
+julia5762 collected 182 from pot
+julia5762: doesn't show hand 
+*** SUMMARY ***
+Total pot 182 | Rake 0 
+Board [3s Ad 5d]
+Seat 1: julia5762 (small blind) collected (182)
+Seat 2: C.Eduardo.007 (big blind) folded before Flop
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE (button) folded on the Flop
+
+
+
+PokerStars Hand #245424377712: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:52:47 AT [2023/08/16 12:52:47 ET]
+Table '3632153283 3' 9-max Seat #1 is the button
+Seat 1: julia5762 (1031 in chips) 
+Seat 2: C.Eduardo.007 (1454 in chips) 
+Seat 3: Thomaz 11 (2219 in chips) 
+Seat 4: Caio Mugarte (1315 in chips) 
+Seat 6: Vlad1slav S. (2564 in chips) 
+Seat 7: luizcwb186 (1317 in chips) 
+Seat 8: Asildar (2650 in chips) 
+Seat 9: P34CE (1394 in chips) 
+julia5762: posts the ante 4
+C.Eduardo.007: posts the ante 4
+Thomaz 11: posts the ante 4
+Caio Mugarte: posts the ante 4
+Vlad1slav S.: posts the ante 4
+luizcwb186: posts the ante 4
+Asildar: posts the ante 4
+P34CE: posts the ante 4
+C.Eduardo.007: posts small blind 15
+Thomaz 11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Js 4d]
+Caio Mugarte: folds 
+Vlad1slav S.: folds 
+luizcwb186: raises 30 to 60
+Asildar: folds 
+P34CE: folds 
+julia5762: folds 
+C.Eduardo.007: calls 45
+Thomaz 11: calls 30
+*** FLOP *** [Ad Qs 7d]
+C.Eduardo.007: checks 
+Thomaz 11: checks 
+luizcwb186: bets 106
+C.Eduardo.007: folds 
+Thomaz 11: folds 
+Uncalled bet (106) returned to luizcwb186
+luizcwb186 collected 212 from pot
+luizcwb186: doesn't show hand 
+*** SUMMARY ***
+Total pot 212 | Rake 0 
+Board [Ad Qs 7d]
+Seat 1: julia5762 (button) folded before Flop (didn't bet)
+Seat 2: C.Eduardo.007 (small blind) folded on the Flop
+Seat 3: Thomaz 11 (big blind) folded on the Flop
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. folded before Flop (didn't bet)
+Seat 7: luizcwb186 collected (212)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424394306: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:53:49 AT [2023/08/16 12:53:49 ET]
+Table '3632153283 3' 9-max Seat #2 is the button
+Seat 1: julia5762 (1027 in chips) 
+Seat 2: C.Eduardo.007 (1390 in chips) 
+Seat 3: Thomaz 11 (2155 in chips) 
+Seat 4: Caio Mugarte (1311 in chips) 
+Seat 6: Vlad1slav S. (2560 in chips) 
+Seat 7: luizcwb186 (1465 in chips) 
+Seat 8: Asildar (2646 in chips) 
+Seat 9: P34CE (1390 in chips) 
+julia5762: posts the ante 4
+C.Eduardo.007: posts the ante 4
+Thomaz 11: posts the ante 4
+Caio Mugarte: posts the ante 4
+Vlad1slav S.: posts the ante 4
+luizcwb186: posts the ante 4
+Asildar: posts the ante 4
+P34CE: posts the ante 4
+Thomaz 11: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts 2s]
+Vlad1slav S.: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+julia5762: raises 45 to 75
+C.Eduardo.007: folds 
+Thomaz 11: folds 
+Caio Mugarte: calls 45
+*** FLOP *** [2d 2c Kc]
+Caio Mugarte: checks 
+julia5762: bets 99
+Caio Mugarte: raises 201 to 300
+julia5762: raises 648 to 948 and is all-in
+Caio Mugarte: calls 648
+*** TURN *** [2d 2c Kc] [9h]
+*** RIVER *** [2d 2c Kc 9h] [Td]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Ts 2s] (a full house, Deuces full of Tens)
+julia5762: shows [Kd Ac] (two pair, Kings and Deuces)
+Caio Mugarte collected 2093 from pot
+julia5762 finished the tournament in 39th place
+*** SUMMARY ***
+Total pot 2093 | Rake 0 
+Board [2d 2c Kc 9h Td]
+Seat 1: julia5762 showed [Kd Ac] and lost with two pair, Kings and Deuces
+Seat 2: C.Eduardo.007 (button) folded before Flop (didn't bet)
+Seat 3: Thomaz 11 (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) showed [Ts 2s] and won (2093) with a full house, Deuces full of Tens
+Seat 6: Vlad1slav S. folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424410005: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:54:48 AT [2023/08/16 12:54:48 ET]
+Table '3632153283 3' 9-max Seat #3 is the button
+Seat 2: C.Eduardo.007 (1386 in chips) 
+Seat 3: Thomaz 11 (2136 in chips) 
+Seat 4: Caio Mugarte (2377 in chips) 
+Seat 6: Vlad1slav S. (2556 in chips) 
+Seat 7: luizcwb186 (1461 in chips) 
+Seat 8: Asildar (2642 in chips) 
+Seat 9: P34CE (1386 in chips) 
+C.Eduardo.007: posts the ante 4
+Thomaz 11: posts the ante 4
+Caio Mugarte: posts the ante 4
+Vlad1slav S.: posts the ante 4
+luizcwb186: posts the ante 4
+Asildar: posts the ante 4
+P34CE: posts the ante 4
+Caio Mugarte: posts small blind 15
+Vlad1slav S.: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d Tc]
+luizcwb186: raises 30 to 60
+Asildar: folds 
+P34CE: folds 
+C.Eduardo.007: calls 60
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Vlad1slav S.: calls 30
+*** FLOP *** [6s 2h Ks]
+Vlad1slav S.: checks 
+luizcwb186: checks 
+C.Eduardo.007: checks 
+*** TURN *** [6s 2h Ks] [Jd]
+Vlad1slav S.: checks 
+luizcwb186: checks 
+C.Eduardo.007: checks 
+*** RIVER *** [6s 2h Ks Jd] [Ad]
+Vlad1slav S.: checks 
+luizcwb186: checks 
+C.Eduardo.007: bets 105
+Vlad1slav S.: folds 
+luizcwb186: folds 
+Uncalled bet (105) returned to C.Eduardo.007
+C.Eduardo.007 collected 223 from pot
+C.Eduardo.007: doesn't show hand 
+*** SUMMARY ***
+Total pot 223 | Rake 0 
+Board [6s 2h Ks Jd Ad]
+Seat 2: C.Eduardo.007 collected (223)
+Seat 3: Thomaz 11 (button) folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 6: Vlad1slav S. (big blind) folded on the River
+Seat 7: luizcwb186 folded on the River
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424485909: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 14:00:50 AT [2023/08/16 13:00:50 ET]
+Table '3632153283 3' 9-max Seat #4 is the button
+Seat 2: C.Eduardo.007 (1545 in chips) 
+Seat 3: Thomaz 11 (2132 in chips) 
+Seat 4: Caio Mugarte (2358 in chips) 
+Seat 6: Vlad1slav S. (2492 in chips) 
+Seat 7: luizcwb186 (1397 in chips) 
+Seat 8: Asildar (2638 in chips) 
+Seat 9: P34CE (1382 in chips) 
+C.Eduardo.007: posts the ante 4
+Thomaz 11: posts the ante 4
+Caio Mugarte: posts the ante 4
+Vlad1slav S.: posts the ante 4
+luizcwb186: posts the ante 4
+Asildar: posts the ante 4
+P34CE: posts the ante 4
+Vlad1slav S.: posts small blind 15
+luizcwb186: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5h Kh]
+Asildar: folds 
+P34CE: folds 
+C.Eduardo.007: calls 30
+Thomaz 11: calls 30
+Caio Mugarte: folds 
+Vlad1slav S.: raises 150 to 180
+luizcwb186: calls 150
+C.Eduardo.007: folds 
+Thomaz 11: calls 150
+*** FLOP *** [Kc 5c 6d]
+Vlad1slav S.: checks 
+luizcwb186: bets 209
+Thomaz 11: raises 1739 to 1948 and is all-in
+Vlad1slav S.: calls 1948
+luizcwb186: folds [Kd Qh]
+*** TURN *** [Kc 5c 6d] [Ts]
+*** RIVER *** [Kc 5c 6d Ts] [6h]
+*** SHOW DOWN ***
+Vlad1slav S.: shows [Ac 9c] (a pair of Sixes)
+Thomaz 11: shows [4c 6c] (three of a kind, Sixes)
+Thomaz 11 collected 4703 from pot
+*** SUMMARY ***
+Total pot 4703 | Rake 0 
+Board [Kc 5c 6d Ts 6h]
+Seat 2: C.Eduardo.007 folded before Flop
+Seat 3: Thomaz 11 showed [4c 6c] and won (4703) with three of a kind, Sixes
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. (small blind) showed [Ac 9c] and lost with a pair of Sixes
+Seat 7: luizcwb186 (big blind) folded on the Flop
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424510031: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 14:02:25 AT [2023/08/16 13:02:25 ET]
+Table '3632153283 3' 9-max Seat #6 is the button
+Seat 2: C.Eduardo.007 (1511 in chips) 
+Seat 3: Thomaz 11 (4703 in chips) 
+Seat 4: Caio Mugarte (2354 in chips) 
+Seat 6: Vlad1slav S. (360 in chips) 
+Seat 7: luizcwb186 (1004 in chips) 
+Seat 8: Asildar (2634 in chips) 
+Seat 9: P34CE (1378 in chips) 
+C.Eduardo.007: posts the ante 4
+Thomaz 11: posts the ante 4
+Caio Mugarte: posts the ante 4
+Vlad1slav S.: posts the ante 4
+luizcwb186: posts the ante 4
+Asildar: posts the ante 4
+P34CE: posts the ante 4
+luizcwb186: posts small blind 15
+Asildar: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6d 9c]
+gatoalicia is disconnected 
+P34CE: folds 
+C.Eduardo.007: raises 120 to 150
+Thomaz 11: calls 150
+Caio Mugarte: folds 
+Vlad1slav S.: folds 
+luizcwb186: folds 
+Asildar: folds 
+*** FLOP *** [7d 3d 6h]
+C.Eduardo.007: checks 
+Thomaz 11: bets 180
+C.Eduardo.007: raises 1177 to 1357 and is all-in
+Thomaz 11: calls 1177
+*** TURN *** [7d 3d 6h] [4c]
+*** RIVER *** [7d 3d 6h 4c] [Td]
+*** SHOW DOWN ***
+C.Eduardo.007: shows [As Ks] (high card Ace)
+Thomaz 11: shows [4d 4s] (three of a kind, Fours)
+Thomaz 11 collected 3087 from pot
+C.Eduardo.007 finished the tournament in 36th place
+*** SUMMARY ***
+Total pot 3087 | Rake 0 
+Board [7d 3d 6h 4c Td]
+Seat 2: C.Eduardo.007 showed [As Ks] and lost with high card Ace
+Seat 3: Thomaz 11 showed [4d 4s] and won (3087) with three of a kind, Fours
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. (button) folded before Flop (didn't bet)
+Seat 7: luizcwb186 (small blind) folded before Flop
+Seat 8: Asildar (big blind) folded before Flop
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424530129: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 14:03:42 AT [2023/08/16 13:03:42 ET]
+Table '3632153283 3' 9-max Seat #7 is the button
+Seat 1: gatoalicia (1979 in chips) 
+Seat 3: Thomaz 11 (6279 in chips) 
+Seat 4: Caio Mugarte (2350 in chips) 
+Seat 5: Rosa885 (1394 in chips) 
+Seat 6: Vlad1slav S. (356 in chips) 
+Seat 7: luizcwb186 (985 in chips) 
+Seat 8: Asildar (2600 in chips) 
+Seat 9: P34CE (1374 in chips) 
+gatoalicia: posts the ante 4
+Thomaz 11: posts the ante 4
+Caio Mugarte: posts the ante 4
+Rosa885: posts the ante 4
+Vlad1slav S.: posts the ante 4
+luizcwb186: posts the ante 4
+Asildar: posts the ante 4
+P34CE: posts the ante 4
+Asildar: posts small blind 15
+P34CE: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th 3h]
+gatoalicia: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: calls 30
+Vlad1slav S.: folds 
+luizcwb186: folds 
+Asildar: calls 15
+P34CE: checks 
+*** FLOP *** [7h 4h 5c]
+Asildar: checks 
+P34CE: checks 
+Rosa885 has timed out
+Rosa885: checks 
+*** TURN *** [7h 4h 5c] [4c]
+Asildar: checks 
+P34CE: checks 
+Rosa885: checks 
+*** RIVER *** [7h 4h 5c 4c] [Jd]
+Asildar: checks 
+P34CE: checks 
+Rosa885: bets 41
+Asildar: folds 
+P34CE: calls 41
+*** SHOW DOWN ***
+Rosa885: shows [Kc Jh] (two pair, Jacks and Fours)
+P34CE: mucks hand 
+Rosa885 collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | Rake 0 
+Board [7h 4h 5c 4c Jd]
+Seat 1: gatoalicia folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 showed [Kc Jh] and won (204) with two pair, Jacks and Fours
+Seat 6: Vlad1slav S. folded before Flop (didn't bet)
+Seat 7: luizcwb186 (button) folded before Flop (didn't bet)
+Seat 8: Asildar (small blind) folded on the River
+Seat 9: P34CE (big blind) mucked [8d Ah]
+
+
+
+PokerStars Hand #245424572052: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:06:19 AT [2023/08/16 13:06:19 ET]
+Table '3632153283 3' 9-max Seat #8 is the button
+Seat 1: gatoalicia (1975 in chips) 
+Seat 3: Thomaz 11 (6275 in chips) 
+Seat 4: Caio Mugarte (2346 in chips) 
+Seat 5: Rosa885 (1523 in chips) 
+Seat 6: Vlad1slav S. (352 in chips) 
+Seat 7: luizcwb186 (981 in chips) 
+Seat 8: Asildar (2566 in chips) 
+Seat 9: P34CE (1299 in chips) 
+gatoalicia: posts the ante 6
+Thomaz 11: posts the ante 6
+Caio Mugarte: posts the ante 6
+Rosa885: posts the ante 6
+Vlad1slav S.: posts the ante 6
+luizcwb186: posts the ante 6
+Asildar: posts the ante 6
+P34CE: posts the ante 6
+P34CE: posts small blind 25
+gatoalicia: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5d Kc]
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: folds 
+Vlad1slav S.: folds 
+luizcwb186: folds 
+Asildar: raises 50 to 100
+P34CE: calls 75
+gatoalicia: calls 50
+*** FLOP *** [4c 9d 8c]
+P34CE: checks 
+gatoalicia: checks 
+Asildar: bets 180
+P34CE: folds 
+gatoalicia: folds 
+Uncalled bet (180) returned to Asildar
+Asildar collected 348 from pot
+Asildar: doesn't show hand 
+*** SUMMARY ***
+Total pot 348 | Rake 0 
+Board [4c 9d 8c]
+Seat 1: gatoalicia (big blind) folded on the Flop
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar (button) collected (348)
+Seat 9: P34CE (small blind) folded on the Flop
+
+
+
+PokerStars Hand #245424587370: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:07:16 AT [2023/08/16 13:07:16 ET]
+Table '3632153283 3' 9-max Seat #9 is the button
+Seat 1: gatoalicia (1869 in chips) 
+Seat 3: Thomaz 11 (6269 in chips) 
+Seat 4: Caio Mugarte (2340 in chips) 
+Seat 5: Rosa885 (1517 in chips) 
+Seat 6: Vlad1slav S. (346 in chips) 
+Seat 7: luizcwb186 (975 in chips) 
+Seat 8: Asildar (2808 in chips) 
+Seat 9: P34CE (1193 in chips) 
+gatoalicia: posts the ante 6
+Thomaz 11: posts the ante 6
+Caio Mugarte: posts the ante 6
+Rosa885: posts the ante 6
+Vlad1slav S.: posts the ante 6
+luizcwb186: posts the ante 6
+Asildar: posts the ante 6
+P34CE: posts the ante 6
+gatoalicia: posts small blind 25
+Thomaz 11: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7h 4h]
+Caio Mugarte: folds 
+Rosa885 has timed out
+Rosa885: folds 
+Rosa885 is sitting out
+Rosa885 has returned
+Vlad1slav S.: raises 290 to 340 and is all-in
+luizcwb186: folds 
+Asildar: raises 2462 to 2802 and is all-in
+P34CE: folds 
+gatoalicia: folds 
+Thomaz 11: calls 2752
+*** FLOP *** [6s Qh 5h]
+*** TURN *** [6s Qh 5h] [6d]
+*** RIVER *** [6s Qh 5h 6d] [4d]
+*** SHOW DOWN ***
+Thomaz 11: shows [Kh Ah] (a pair of Sixes)
+Asildar: shows [As Kd] (a pair of Sixes)
+Thomaz 11 collected 2462 from side pot
+Asildar collected 2462 from side pot
+Vlad1slav S.: shows [Ad Qc] (two pair, Queens and Sixes)
+Vlad1slav S. collected 1093 from main pot
+*** SUMMARY ***
+Total pot 6017 Main pot 1093. Side pot 4924. | Rake 0 
+Board [6s Qh 5h 6d 4d]
+Seat 1: gatoalicia (small blind) folded before Flop
+Seat 3: Thomaz 11 (big blind) showed [Kh Ah] and won (2462) with a pair of Sixes
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 6: Vlad1slav S. showed [Ad Qc] and won (1093) with two pair, Queens and Sixes
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar showed [As Kd] and won (2462) with a pair of Sixes
+Seat 9: P34CE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424598602: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:07:57 AT [2023/08/16 13:07:57 ET]
+Table '3632153283 3' 9-max Seat #1 is the button
+Seat 1: gatoalicia (1838 in chips) 
+Seat 3: Thomaz 11 (5923 in chips) 
+Seat 4: Caio Mugarte (2334 in chips) 
+Seat 5: Rosa885 (1511 in chips) 
+Seat 6: Vlad1slav S. (1093 in chips) 
+Seat 7: luizcwb186 (969 in chips) 
+Seat 8: Asildar (2462 in chips) 
+Seat 9: P34CE (1187 in chips) 
+gatoalicia: posts the ante 6
+Thomaz 11: posts the ante 6
+Caio Mugarte: posts the ante 6
+Rosa885: posts the ante 6
+Vlad1slav S.: posts the ante 6
+luizcwb186: posts the ante 6
+Asildar: posts the ante 6
+P34CE: posts the ante 6
+Thomaz 11: posts small blind 25
+Caio Mugarte: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6d Qs]
+Rosa885: raises 100 to 150
+Vlad1slav S.: raises 937 to 1087 and is all-in
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+gatoalicia: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: calls 937
+*** FLOP *** [7s 4c 5h]
+*** TURN *** [7s 4c 5h] [6c]
+*** RIVER *** [7s 4c 5h 6c] [6h]
+*** SHOW DOWN ***
+Rosa885: shows [Kh Ks] (two pair, Kings and Sixes)
+Vlad1slav S.: shows [Qh Qc] (two pair, Queens and Sixes)
+Rosa885 collected 2297 from pot
+Vlad1slav S. finished the tournament in 33rd place
+*** SUMMARY ***
+Total pot 2297 | Rake 0 
+Board [7s 4c 5h 6c 6h]
+Seat 1: gatoalicia (button) folded before Flop (didn't bet)
+Seat 3: Thomaz 11 (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) folded before Flop
+Seat 5: Rosa885 showed [Kh Ks] and won (2297) with two pair, Kings and Sixes
+Seat 6: Vlad1slav S. showed [Qh Qc] and lost with two pair, Queens and Sixes
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424614391: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:08:56 AT [2023/08/16 13:08:56 ET]
+Table '3632153283 3' 9-max Seat #3 is the button
+Seat 1: gatoalicia (1832 in chips) 
+Seat 3: Thomaz 11 (5892 in chips) 
+Seat 4: Caio Mugarte (2278 in chips) 
+Seat 5: Rosa885 (2715 in chips) 
+Seat 7: luizcwb186 (963 in chips) 
+Seat 8: Asildar (2456 in chips) 
+Seat 9: P34CE (1181 in chips) 
+gatoalicia: posts the ante 6
+Thomaz 11: posts the ante 6
+Caio Mugarte: posts the ante 6
+Rosa885: posts the ante 6
+luizcwb186: posts the ante 6
+Asildar: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts small blind 25
+Rosa885: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kh Td]
+luizcwb186: raises 907 to 957 and is all-in
+Asildar: folds 
+P34CE: folds 
+gatoalicia: raises 869 to 1826 and is all-in
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: folds 
+Uncalled bet (869) returned to gatoalicia
+*** FLOP *** [8h 5s 3d]
+*** TURN *** [8h 5s 3d] [Jh]
+*** RIVER *** [8h 5s 3d Jh] [Ac]
+*** SHOW DOWN ***
+luizcwb186: shows [5c 5d] (three of a kind, Fives)
+gatoalicia: shows [Qc As] (a pair of Aces)
+luizcwb186 collected 2031 from pot
+*** SUMMARY ***
+Total pot 2031 | Rake 0 
+Board [8h 5s 3d Jh Ac]
+Seat 1: gatoalicia showed [Qc As] and lost with a pair of Aces
+Seat 3: Thomaz 11 (button) folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 5: Rosa885 (big blind) folded before Flop
+Seat 7: luizcwb186 showed [5c 5d] and won (2031) with three of a kind, Fives
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424623628: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:09:30 AT [2023/08/16 13:09:30 ET]
+Table '3632153283 3' 9-max Seat #4 is the button
+Seat 1: gatoalicia (869 in chips) 
+Seat 3: Thomaz 11 (5886 in chips) 
+Seat 4: Caio Mugarte (2247 in chips) 
+Seat 5: Rosa885 (2659 in chips) 
+Seat 7: luizcwb186 (2031 in chips) 
+Seat 8: Asildar (2450 in chips) 
+Seat 9: P34CE (1175 in chips) 
+gatoalicia: posts the ante 6
+Thomaz 11: posts the ante 6
+Caio Mugarte: posts the ante 6
+Rosa885: posts the ante 6
+luizcwb186: posts the ante 6
+Asildar: posts the ante 6
+P34CE: posts the ante 6
+Rosa885: posts small blind 25
+luizcwb186: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jd 3c]
+Asildar: folds 
+P34CE: raises 65 to 115
+gatoalicia: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Tiewire is disconnected 
+Rosa885: folds 
+luizcwb186: folds 
+Uncalled bet (65) returned to P34CE
+P34CE collected 167 from pot
+P34CE: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 1: gatoalicia folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 5: Rosa885 (small blind) folded before Flop
+Seat 7: luizcwb186 (big blind) folded before Flop
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE collected (167)
+
+
+
+PokerStars Hand #245424631998: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:10:01 AT [2023/08/16 13:10:01 ET]
+Table '3632153283 3' 9-max Seat #5 is the button
+Seat 1: gatoalicia (863 in chips) 
+Seat 2: Tiewire (1392 in chips) 
+Seat 3: Thomaz 11 (5880 in chips) 
+Seat 4: Caio Mugarte (2241 in chips) 
+Seat 5: Rosa885 (2628 in chips) 
+Seat 7: luizcwb186 (1975 in chips) 
+Seat 8: Asildar (2444 in chips) 
+Seat 9: P34CE (1286 in chips) 
+gatoalicia: posts the ante 6
+Tiewire: posts the ante 6
+Thomaz 11: posts the ante 6
+Caio Mugarte: posts the ante 6
+Rosa885: posts the ante 6
+luizcwb186: posts the ante 6
+Asildar: posts the ante 6
+P34CE: posts the ante 6
+luizcwb186: posts small blind 25
+Asildar: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th 4c]
+P34CE: folds 
+gatoalicia: folds 
+Tiewire: raises 55 to 105
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: calls 105
+luizcwb186: folds 
+Asildar: calls 55
+*** FLOP *** [3h 2c Ac]
+Asildar: checks 
+Tiewire: bets 128
+Rosa885: folds 
+Asildar: calls 128
+*** TURN *** [3h 2c Ac] [6s]
+Asildar: checks 
+Tiewire: bets 213
+Asildar: calls 213
+*** RIVER *** [3h 2c Ac 6s] [5s]
+Asildar: checks 
+Tiewire: bets 353
+Asildar: raises 870 to 1223
+Tiewire: calls 587 and is all-in
+Uncalled bet (283) returned to Asildar
+*** SHOW DOWN ***
+Asildar: shows [Ah 4s] (a straight, Deuce to Six)
+Tiewire: shows [3s 5c] (two pair, Fives and Threes)
+Asildar collected 2950 from pot
+Tiewire finished the tournament in 31st place
+*** SUMMARY ***
+Total pot 2950 | Rake 0 
+Board [3h 2c Ac 6s 5s]
+Seat 1: gatoalicia folded before Flop (didn't bet)
+Seat 2: Tiewire showed [3s 5c] and lost with two pair, Fives and Threes
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 (button) folded on the Flop
+Seat 7: luizcwb186 (small blind) folded before Flop
+Seat 8: Asildar (big blind) showed [Ah 4s] and won (2950) with a straight, Deuce to Six
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424656906: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:11:34 AT [2023/08/16 13:11:34 ET]
+Table '3632153283 3' 9-max Seat #7 is the button
+Seat 1: gatoalicia (857 in chips) 
+Seat 3: Thomaz 11 (5874 in chips) 
+Seat 4: Caio Mugarte (2235 in chips) 
+Seat 5: Rosa885 (2517 in chips) 
+Seat 7: luizcwb186 (1944 in chips) 
+Seat 8: Asildar (4002 in chips) 
+Seat 9: P34CE (1280 in chips) 
+gatoalicia: posts the ante 6
+Thomaz 11: posts the ante 6
+Caio Mugarte: posts the ante 6
+Rosa885: posts the ante 6
+luizcwb186: posts the ante 6
+Asildar: posts the ante 6
+P34CE: posts the ante 6
+Asildar: posts small blind 25
+P34CE: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ks Kd]
+gatoalicia: folds 
+Thomaz 11: raises 50 to 100
+Caio Mugarte: raises 175 to 275
+Rosa885: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+Thomaz 11: calls 175
+*** FLOP *** [6c Qh Th]
+Thomaz 11: checks 
+Caio Mugarte: bets 275
+Thomaz 11: folds 
+Uncalled bet (275) returned to Caio Mugarte
+Caio Mugarte collected 667 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 667 | Rake 0 
+Board [6c Qh Th]
+Seat 1: gatoalicia folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded on the Flop
+Seat 4: Caio Mugarte collected (667)
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 7: luizcwb186 (button) folded before Flop (didn't bet)
+Seat 8: Asildar (small blind) folded before Flop
+Seat 9: P34CE (big blind) folded before Flop
+
+
+
+PokerStars Hand #245424669694: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:12:21 AT [2023/08/16 13:12:21 ET]
+Table '3632153283 3' 9-max Seat #8 is the button
+Seat 1: gatoalicia (851 in chips) 
+Seat 3: Thomaz 11 (5593 in chips) 
+Seat 4: Caio Mugarte (2621 in chips) 
+Seat 5: Rosa885 (2511 in chips) 
+Seat 7: luizcwb186 (1938 in chips) 
+Seat 8: Asildar (3971 in chips) 
+Seat 9: P34CE (1224 in chips) 
+gatoalicia: posts the ante 6
+Thomaz 11: posts the ante 6
+Caio Mugarte: posts the ante 6
+Rosa885: posts the ante 6
+luizcwb186: posts the ante 6
+Asildar: posts the ante 6
+P34CE: posts the ante 6
+P34CE: posts small blind 25
+gatoalicia: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d 2h]
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+Uncalled bet (25) returned to gatoalicia
+gatoalicia collected 92 from pot
+gatoalicia: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: gatoalicia (big blind) collected (92)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar (button) folded before Flop (didn't bet)
+Seat 9: P34CE (small blind) folded before Flop
+
+
+
+PokerStars Hand #245424675945: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:12:44 AT [2023/08/16 13:12:44 ET]
+Table '3632153283 3' 9-max Seat #9 is the button
+Seat 1: gatoalicia (912 in chips) 
+Seat 3: Thomaz 11 (5587 in chips) 
+Seat 4: Caio Mugarte (2615 in chips) 
+Seat 5: Rosa885 (2505 in chips) 
+Seat 7: luizcwb186 (1932 in chips) 
+Seat 8: Asildar (3965 in chips) 
+Seat 9: P34CE (1193 in chips) 
+gatoalicia: posts the ante 6
+Thomaz 11: posts the ante 6
+Caio Mugarte: posts the ante 6
+Rosa885: posts the ante 6
+luizcwb186: posts the ante 6
+Asildar: posts the ante 6
+P34CE: posts the ante 6
+gatoalicia: posts small blind 25
+Thomaz 11: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2s 7h]
+Caio Mugarte: folds 
+Rosa885: folds 
+luizcwb186: folds 
+Asildar: raises 50 to 100
+P34CE: calls 100
+gatoalicia: folds 
+Thomaz 11: calls 50
+*** FLOP *** [4s 6d 6s]
+Thomaz 11: checks 
+Asildar: bets 125
+P34CE: folds 
+Thomaz 11: calls 125
+*** TURN *** [4s 6d 6s] [3d]
+Thomaz 11: checks 
+Asildar: checks 
+*** RIVER *** [4s 6d 6s 3d] [Jd]
+Thomaz 11: checks 
+Asildar: checks 
+*** SHOW DOWN ***
+Thomaz 11: shows [4c 7c] (two pair, Sixes and Fours)
+Asildar: mucks hand 
+Thomaz 11 collected 617 from pot
+*** SUMMARY ***
+Total pot 617 | Rake 0 
+Board [4s 6d 6s 3d Jd]
+Seat 1: gatoalicia (small blind) folded before Flop
+Seat 3: Thomaz 11 (big blind) showed [4c 7c] and won (617) with two pair, Sixes and Fours
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar mucked [9s Qs]
+Seat 9: P34CE (button) folded on the Flop
+
+
+
+PokerStars Hand #245424698744: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:14:08 AT [2023/08/16 13:14:08 ET]
+Table '3632153283 3' 9-max Seat #1 is the button
+Seat 1: gatoalicia (881 in chips) 
+Seat 3: Thomaz 11 (5973 in chips) 
+Seat 4: Caio Mugarte (2609 in chips) 
+Seat 5: Rosa885 (2499 in chips) 
+Seat 7: luizcwb186 (1926 in chips) 
+Seat 8: Asildar (3734 in chips) 
+Seat 9: P34CE (1087 in chips) 
+gatoalicia: posts the ante 6
+Thomaz 11: posts the ante 6
+Caio Mugarte: posts the ante 6
+Rosa885: posts the ante 6
+luizcwb186: posts the ante 6
+Asildar: posts the ante 6
+P34CE: posts the ante 6
+Thomaz 11: posts small blind 25
+Caio Mugarte: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Td 3s]
+Rosa885: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: raises 65 to 115
+gatoalicia: raises 760 to 875 and is all-in
+Thomaz 11: folds 
+Caio Mugarte: folds 
+P34CE: folds 
+Uncalled bet (760) returned to gatoalicia
+gatoalicia collected 347 from pot
+gatoalicia: doesn't show hand 
+*** SUMMARY ***
+Total pot 347 | Rake 0 
+Seat 1: gatoalicia (button) collected (347)
+Seat 3: Thomaz 11 (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) folded before Flop
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop
+
+
+
+PokerStars Hand #245424712972: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:15:01 AT [2023/08/16 13:15:01 ET]
+Table '3632153283 3' 9-max Seat #3 is the button
+Seat 1: gatoalicia (1107 in chips) 
+Seat 3: Thomaz 11 (5942 in chips) 
+Seat 4: Caio Mugarte (2553 in chips) 
+Seat 5: Rosa885 (2493 in chips) 
+Seat 7: luizcwb186 (1920 in chips) 
+Seat 8: Asildar (3728 in chips) 
+Seat 9: P34CE (966 in chips) 
+gatoalicia: posts the ante 6
+Thomaz 11: posts the ante 6
+Caio Mugarte: posts the ante 6
+Rosa885: posts the ante 6
+luizcwb186: posts the ante 6
+Asildar: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts small blind 25
+Rosa885: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 4d]
+luizcwb186: raises 50 to 100
+Asildar: calls 100
+P34CE: folds 
+gatoalicia: folds 
+Thomaz 11: calls 100
+Caio Mugarte: folds 
+Rosa885: calls 50
+*** FLOP *** [8s Kc Kh]
+Rosa885: checks 
+luizcwb186: bets 234
+Asildar: calls 234
+Thomaz 11: folds 
+Rosa885 has timed out
+Rosa885: folds 
+Rosa885 is sitting out
+*** TURN *** [8s Kc Kh] [5s]
+Rosa885 has returned
+luizcwb186: bets 368
+Asildar: calls 368
+*** RIVER *** [8s Kc Kh 5s] [Jc]
+luizcwb186: checks 
+Asildar: checks 
+*** SHOW DOWN ***
+luizcwb186: shows [8d Ad] (two pair, Kings and Eights)
+Asildar: shows [7d Kd] (three of a kind, Kings)
+Asildar collected 1671 from pot
+*** SUMMARY ***
+Total pot 1671 | Rake 0 
+Board [8s Kc Kh 5s Jc]
+Seat 1: gatoalicia folded before Flop (didn't bet)
+Seat 3: Thomaz 11 (button) folded on the Flop
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 5: Rosa885 (big blind) folded on the Flop
+Seat 7: luizcwb186 showed [8d Ad] and lost with two pair, Kings and Eights
+Seat 8: Asildar showed [7d Kd] and won (1671) with three of a kind, Kings
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424739869: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:16:41 AT [2023/08/16 13:16:41 ET]
+Table '3632153283 3' 9-max Seat #4 is the button
+Seat 1: gatoalicia (1101 in chips) 
+Seat 3: Thomaz 11 (5836 in chips) 
+Seat 4: Caio Mugarte (2522 in chips) 
+Seat 5: Rosa885 (2387 in chips) 
+Seat 7: luizcwb186 (1212 in chips) 
+Seat 8: Asildar (4691 in chips) 
+Seat 9: P34CE (960 in chips) 
+gatoalicia: posts the ante 10
+Thomaz 11: posts the ante 10
+Caio Mugarte: posts the ante 10
+Rosa885: posts the ante 10
+luizcwb186: posts the ante 10
+Asildar: posts the ante 10
+P34CE: posts the ante 10
+Rosa885: posts small blind 40
+luizcwb186: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c 9h]
+Asildar: folds 
+P34CE: folds 
+gatoalicia: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: raises 2297 to 2377 and is all-in
+luizcwb186: folds 
+Uncalled bet (2297) returned to Rosa885
+Rosa885 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Seat 1: gatoalicia folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 5: Rosa885 (small blind) collected (230)
+Seat 7: luizcwb186 (big blind) folded before Flop
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424752772: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:17:29 AT [2023/08/16 13:17:29 ET]
+Table '3632153283 3' 9-max Seat #5 is the button
+Seat 1: gatoalicia (1091 in chips) 
+Seat 3: Thomaz 11 (5826 in chips) 
+Seat 4: Caio Mugarte (2512 in chips) 
+Seat 5: Rosa885 (2527 in chips) 
+Seat 7: luizcwb186 (1122 in chips) 
+Seat 8: Asildar (4681 in chips) 
+Seat 9: P34CE (950 in chips) 
+gatoalicia: posts the ante 10
+Thomaz 11: posts the ante 10
+Caio Mugarte: posts the ante 10
+Rosa885: posts the ante 10
+luizcwb186: posts the ante 10
+Asildar: posts the ante 10
+P34CE: posts the ante 10
+luizcwb186: posts small blind 40
+Asildar: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc 6d]
+P34CE: folds 
+gatoalicia: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: folds 
+luizcwb186: folds 
+Uncalled bet (40) returned to Asildar
+Asildar collected 150 from pot
+Asildar: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: gatoalicia folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 (button) folded before Flop (didn't bet)
+Seat 7: luizcwb186 (small blind) folded before Flop
+Seat 8: Asildar (big blind) collected (150)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424758065: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:17:48 AT [2023/08/16 13:17:48 ET]
+Table '3632153283 3' 9-max Seat #7 is the button
+Seat 1: gatoalicia (1081 in chips) 
+Seat 3: Thomaz 11 (5816 in chips) 
+Seat 4: Caio Mugarte (2502 in chips) 
+Seat 5: Rosa885 (2517 in chips) 
+Seat 7: luizcwb186 (1072 in chips) 
+Seat 8: Asildar (4781 in chips) 
+Seat 9: P34CE (940 in chips) 
+gatoalicia: posts the ante 10
+Thomaz 11: posts the ante 10
+Caio Mugarte: posts the ante 10
+Rosa885: posts the ante 10
+luizcwb186: posts the ante 10
+Asildar: posts the ante 10
+P34CE: posts the ante 10
+Asildar: posts small blind 40
+P34CE: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7s 5s]
+gatoalicia: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: calls 80
+luizcwb186: folds 
+Asildar: calls 40
+P34CE: checks 
+*** FLOP *** [7d 2c Ah]
+Asildar: checks 
+P34CE: checks 
+Rosa885: checks 
+*** TURN *** [7d 2c Ah] [Tc]
+Asildar: checks 
+P34CE: checks 
+Rosa885: checks 
+*** RIVER *** [7d 2c Ah Tc] [Qd]
+Asildar: checks 
+P34CE: checks 
+Rosa885: bets 158
+Asildar: folds 
+P34CE: folds 
+Uncalled bet (158) returned to Rosa885
+Rosa885 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [7d 2c Ah Tc Qd]
+Seat 1: gatoalicia folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 collected (310)
+Seat 7: luizcwb186 (button) folded before Flop (didn't bet)
+Seat 8: Asildar (small blind) folded on the River
+Seat 9: P34CE (big blind) folded on the River
+
+
+
+PokerStars Hand #245424783294: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:19:21 AT [2023/08/16 13:19:21 ET]
+Table '3632153283 3' 9-max Seat #8 is the button
+Seat 1: gatoalicia (1071 in chips) 
+Seat 3: Thomaz 11 (5806 in chips) 
+Seat 4: Caio Mugarte (2492 in chips) 
+Seat 5: Rosa885 (2737 in chips) 
+Seat 7: luizcwb186 (1062 in chips) 
+Seat 8: Asildar (4691 in chips) 
+Seat 9: P34CE (850 in chips) 
+gatoalicia: posts the ante 10
+Thomaz 11: posts the ante 10
+Caio Mugarte: posts the ante 10
+Rosa885: posts the ante 10
+luizcwb186: posts the ante 10
+Asildar: posts the ante 10
+P34CE: posts the ante 10
+P34CE: posts small blind 40
+gatoalicia: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7d Jc]
+Thomaz 11: calls 80
+Caio Mugarte: folds 
+Rosa885: folds 
+luizcwb186: folds 
+Asildar: calls 80
+P34CE: folds 
+gatoalicia: checks 
+*** FLOP *** [As Kc 8c]
+gatoalicia: checks 
+Thomaz 11: bets 160
+Asildar: folds 
+gatoalicia: calls 160
+*** TURN *** [As Kc 8c] [2c]
+gatoalicia: checks 
+Thomaz 11: bets 255
+gatoalicia: calls 255
+*** RIVER *** [As Kc 8c 2c] [6d]
+gatoalicia: checks 
+Thomaz 11: checks 
+*** SHOW DOWN ***
+gatoalicia: shows [8d 4d] (a pair of Eights)
+Thomaz 11: shows [2d 2s] (three of a kind, Deuces)
+Thomaz 11 collected 1180 from pot
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [As Kc 8c 2c 6d]
+Seat 1: gatoalicia (big blind) showed [8d 4d] and lost with a pair of Eights
+Seat 3: Thomaz 11 showed [2d 2s] and won (1180) with three of a kind, Deuces
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar (button) folded on the Flop
+Seat 9: P34CE (small blind) folded before Flop
+
+
+
+PokerStars Hand #245424804729: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:20:40 AT [2023/08/16 13:20:40 ET]
+Table '3632153283 3' 9-max Seat #9 is the button
+Seat 1: gatoalicia (566 in chips) 
+Seat 3: Thomaz 11 (6481 in chips) 
+Seat 4: Caio Mugarte (2482 in chips) 
+Seat 5: Rosa885 (2727 in chips) 
+Seat 7: luizcwb186 (1052 in chips) 
+Seat 8: Asildar (4601 in chips) 
+Seat 9: P34CE (800 in chips) 
+gatoalicia: posts the ante 10
+Thomaz 11: posts the ante 10
+Caio Mugarte: posts the ante 10
+Rosa885: posts the ante 10
+luizcwb186: posts the ante 10
+Asildar: posts the ante 10
+P34CE: posts the ante 10
+gatoalicia: posts small blind 40
+Thomaz 11: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d Ts]
+Caio Mugarte: folds 
+Rosa885: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+gatoalicia: folds 
+Uncalled bet (40) returned to Thomaz 11
+Thomaz 11 collected 150 from pot
+Thomaz 11: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: gatoalicia (small blind) folded before Flop
+Seat 3: Thomaz 11 (big blind) collected (150)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424810538: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:21:01 AT [2023/08/16 13:21:01 ET]
+Table '3632153283 3' 9-max Seat #1 is the button
+Seat 1: gatoalicia (516 in chips) 
+Seat 3: Thomaz 11 (6581 in chips) 
+Seat 4: Caio Mugarte (2472 in chips) 
+Seat 5: Rosa885 (2717 in chips) 
+Seat 7: luizcwb186 (1042 in chips) 
+Seat 8: Asildar (4591 in chips) 
+Seat 9: P34CE (790 in chips) 
+gatoalicia: posts the ante 10
+Thomaz 11: posts the ante 10
+Caio Mugarte: posts the ante 10
+Rosa885: posts the ante 10
+luizcwb186: posts the ante 10
+Asildar: posts the ante 10
+P34CE: posts the ante 10
+Thomaz 11: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ac 8c]
+Rosa885: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+gatoalicia: raises 426 to 506 and is all-in
+Thomaz 11: folds 
+Caio Mugarte: calls 426
+*** FLOP *** [3h Qc Qs]
+*** TURN *** [3h Qc Qs] [Jc]
+*** RIVER *** [3h Qc Qs Jc] [9s]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Ac 8c] (a pair of Queens)
+gatoalicia: shows [Ad Ks] (a pair of Queens - Ace+King kicker)
+gatoalicia collected 1122 from pot
+*** SUMMARY ***
+Total pot 1122 | Rake 0 
+Board [3h Qc Qs Jc 9s]
+Seat 1: gatoalicia (button) showed [Ad Ks] and won (1122) with a pair of Queens
+Seat 3: Thomaz 11 (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) showed [Ac 8c] and lost with a pair of Queens
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424824187: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:21:50 AT [2023/08/16 13:21:50 ET]
+Table '3632153283 3' 9-max Seat #3 is the button
+Seat 1: gatoalicia (1122 in chips) 
+Seat 3: Thomaz 11 (6531 in chips) 
+Seat 4: Caio Mugarte (1956 in chips) 
+Seat 5: Rosa885 (2707 in chips) 
+Seat 7: luizcwb186 (1032 in chips) 
+Seat 8: Asildar (4581 in chips) 
+Seat 9: P34CE (780 in chips) 
+gatoalicia: posts the ante 10
+Thomaz 11: posts the ante 10
+Caio Mugarte: posts the ante 10
+Rosa885: posts the ante 10
+luizcwb186: posts the ante 10
+Asildar: posts the ante 10
+P34CE: posts the ante 10
+Caio Mugarte: posts small blind 40
+Rosa885: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5d Jh]
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+gatoalicia: raises 80 to 160
+Thomaz 11: calls 160
+Caio Mugarte: folds 
+Rosa885: folds 
+*** FLOP *** [Qs 4h 8s]
+gatoalicia: bets 128
+Thomaz 11: folds 
+Uncalled bet (128) returned to gatoalicia
+gatoalicia collected 510 from pot
+gatoalicia: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Qs 4h 8s]
+Seat 1: gatoalicia collected (510)
+Seat 3: Thomaz 11 (button) folded on the Flop
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 5: Rosa885 (big blind) folded before Flop
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424837020: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:22:36 AT [2023/08/16 13:22:36 ET]
+Table '3632153283 3' 9-max Seat #4 is the button
+Seat 1: gatoalicia (1462 in chips) 
+Seat 3: Thomaz 11 (6361 in chips) 
+Seat 4: Caio Mugarte (1906 in chips) 
+Seat 5: Rosa885 (2617 in chips) 
+Seat 7: luizcwb186 (1022 in chips) 
+Seat 8: Asildar (4571 in chips) 
+Seat 9: P34CE (770 in chips) 
+gatoalicia: posts the ante 10
+Thomaz 11: posts the ante 10
+Caio Mugarte: posts the ante 10
+Rosa885: posts the ante 10
+luizcwb186: posts the ante 10
+Asildar: posts the ante 10
+P34CE: posts the ante 10
+Rosa885: posts small blind 40
+luizcwb186: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc 8s]
+Asildar: folds 
+P34CE: folds 
+gatoalicia: folds 
+Thomaz 11: raises 80 to 160
+chardo666 is disconnected 
+lucasveiga20 is disconnected 
+Caio Mugarte: folds 
+Rosa885: calls 120
+luizcwb186: raises 852 to 1012 and is all-in
+Thomaz 11: folds 
+Rosa885: folds 
+Uncalled bet (852) returned to luizcwb186
+luizcwb186 collected 550 from pot
+luizcwb186: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Seat 1: gatoalicia folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 5: Rosa885 (small blind) folded before Flop
+Seat 7: luizcwb186 (big blind) collected (550)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424846334: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:23:09 AT [2023/08/16 13:23:09 ET]
+Table '3632153283 3' 9-max Seat #5 is the button
+Seat 1: gatoalicia (1452 in chips) 
+Seat 2: lucasveiga20 (3937 in chips) 
+Seat 3: Thomaz 11 (6191 in chips) 
+Seat 4: Caio Mugarte (1896 in chips) 
+Seat 5: Rosa885 (2447 in chips) 
+Seat 6: chardo666 (3537 in chips) out of hand (moved from another table into small blind)
+Seat 7: luizcwb186 (1402 in chips) 
+Seat 8: Asildar (4561 in chips) 
+Seat 9: P34CE (760 in chips) 
+chardo666 will be allowed to play after the button
+gatoalicia: posts the ante 10
+lucasveiga20: posts the ante 10
+Thomaz 11: posts the ante 10
+Caio Mugarte: posts the ante 10
+Rosa885: posts the ante 10
+luizcwb186: posts the ante 10
+Asildar: posts the ante 10
+P34CE: posts the ante 10
+luizcwb186: posts small blind 40
+Asildar: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad 6h]
+P34CE: folds 
+gatoalicia: raises 80 to 160
+lucasveiga20: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: folds 
+luizcwb186: folds 
+Asildar: calls 80
+*** FLOP *** [3d 6c Td]
+Asildar: checks 
+gatoalicia: checks 
+*** TURN *** [3d 6c Td] [5d]
+Asildar: checks 
+gatoalicia: checks 
+*** RIVER *** [3d 6c Td 5d] [As]
+Asildar: bets 190
+gatoalicia: raises 410 to 600
+Asildar: calls 410
+*** SHOW DOWN ***
+gatoalicia: shows [6d Ah] (two pair, Aces and Sixes)
+Asildar: mucks hand 
+gatoalicia collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | Rake 0 
+Board [3d 6c Td 5d As]
+Seat 1: gatoalicia showed [6d Ah] and won (1640) with two pair, Aces and Sixes
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 (button) folded before Flop (didn't bet)
+Seat 7: luizcwb186 (small blind) folded before Flop
+Seat 8: Asildar (big blind) mucked [Ac 8d]
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424861459: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:24:04 AT [2023/08/16 13:24:04 ET]
+Table '3632153283 3' 9-max Seat #7 is the button
+Seat 1: gatoalicia (2322 in chips) 
+Seat 2: lucasveiga20 (3927 in chips) 
+Seat 3: Thomaz 11 (6181 in chips) 
+Seat 4: Caio Mugarte (1886 in chips) 
+Seat 5: Rosa885 (2437 in chips) 
+Seat 6: chardo666 (3537 in chips) 
+Seat 7: luizcwb186 (1352 in chips) 
+Seat 8: Asildar (3791 in chips) 
+Seat 9: P34CE (750 in chips) 
+gatoalicia: posts the ante 10
+lucasveiga20: posts the ante 10
+Thomaz 11: posts the ante 10
+Caio Mugarte: posts the ante 10
+Rosa885: posts the ante 10
+chardo666: posts the ante 10
+luizcwb186: posts the ante 10
+Asildar: posts the ante 10
+P34CE: posts the ante 10
+Asildar: posts small blind 40
+P34CE: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kh 9c]
+gatoalicia: raises 88 to 168
+lucasveiga20: folds 
+Thomaz 11: calls 168
+Caio Mugarte: folds 
+Rosa885: folds 
+chardo666: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+*** FLOP *** [2s Ac 7c]
+gatoalicia: bets 137
+Thomaz 11: raises 183 to 320
+gatoalicia: folds 
+Uncalled bet (183) returned to Thomaz 11
+Thomaz 11 collected 820 from pot
+Thomaz 11: doesn't show hand 
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [2s Ac 7c]
+Seat 1: gatoalicia folded on the Flop
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 collected (820)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 6: chardo666 folded before Flop (didn't bet)
+Seat 7: luizcwb186 (button) folded before Flop (didn't bet)
+Seat 8: Asildar (small blind) folded before Flop
+Seat 9: P34CE (big blind) folded before Flop
+
+
+
+PokerStars Hand #245424876311: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:24:58 AT [2023/08/16 13:24:58 ET]
+Table '3632153283 3' 9-max Seat #8 is the button
+Seat 1: gatoalicia (2007 in chips) 
+Seat 2: lucasveiga20 (3917 in chips) 
+Seat 3: Thomaz 11 (6686 in chips) 
+Seat 4: Caio Mugarte (1876 in chips) 
+Seat 5: Rosa885 (2427 in chips) 
+Seat 6: chardo666 (3527 in chips) 
+Seat 7: luizcwb186 (1342 in chips) 
+Seat 8: Asildar (3741 in chips) 
+Seat 9: P34CE (660 in chips) 
+gatoalicia: posts the ante 10
+lucasveiga20: posts the ante 10
+Thomaz 11: posts the ante 10
+Caio Mugarte: posts the ante 10
+Rosa885: posts the ante 10
+chardo666: posts the ante 10
+luizcwb186: posts the ante 10
+Asildar: posts the ante 10
+P34CE: posts the ante 10
+P34CE: posts small blind 40
+gatoalicia: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9h Qd]
+lucasveiga20: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: calls 80
+chardo666: calls 80
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+gatoalicia: checks 
+*** FLOP *** [Td 4c Qc]
+gatoalicia: checks 
+Rosa885: checks 
+chardo666: checks 
+*** TURN *** [Td 4c Qc] [5s]
+gatoalicia: checks 
+Rosa885: checks 
+chardo666: bets 370
+gatoalicia: calls 370
+Rosa885: folds 
+*** RIVER *** [Td 4c Qc 5s] [5d]
+gatoalicia: bets 1547 and is all-in
+chardo666: folds 
+Uncalled bet (1547) returned to gatoalicia
+gatoalicia collected 1110 from pot
+gatoalicia: doesn't show hand 
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [Td 4c Qc 5s 5d]
+Seat 1: gatoalicia (big blind) collected (1110)
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 folded on the Turn
+Seat 6: chardo666 folded on the River
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar (button) folded before Flop (didn't bet)
+Seat 9: P34CE (small blind) folded before Flop
+
+
+
+PokerStars Hand #245424896089: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:26:09 AT [2023/08/16 13:26:09 ET]
+Table '3632153283 3' 9-max Seat #9 is the button
+Seat 1: gatoalicia (2657 in chips) 
+Seat 2: lucasveiga20 (3907 in chips) 
+Seat 3: Thomaz 11 (6676 in chips) 
+Seat 4: Caio Mugarte (1866 in chips) 
+Seat 5: Rosa885 (2337 in chips) 
+Seat 6: chardo666 (3067 in chips) 
+Seat 7: luizcwb186 (1332 in chips) 
+Seat 8: Asildar (3731 in chips) 
+Seat 9: P34CE (610 in chips) 
+gatoalicia: posts the ante 15
+lucasveiga20: posts the ante 15
+Thomaz 11: posts the ante 15
+Caio Mugarte: posts the ante 15
+Rosa885: posts the ante 15
+chardo666: posts the ante 15
+luizcwb186: posts the ante 15
+Asildar: posts the ante 15
+P34CE: posts the ante 15
+gatoalicia: posts small blind 60
+lucasveiga20: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ks Qs]
+Thomaz 11: folds 
+Caio Mugarte: raises 120 to 240
+Rosa885: folds 
+chardo666: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+gatoalicia: calls 180
+lucasveiga20: folds 
+*** FLOP *** [8s 5s 4h]
+gatoalicia: checks 
+Caio Mugarte: checks 
+*** TURN *** [8s 5s 4h] [9h]
+gatoalicia: bets 368
+Caio Mugarte: calls 368
+*** RIVER *** [8s 5s 4h 9h] [7s]
+gatoalicia: bets 2034 and is all-in
+Caio Mugarte: calls 1243 and is all-in
+Uncalled bet (791) returned to gatoalicia
+*** SHOW DOWN ***
+gatoalicia: shows [As Jc] (high card Ace)
+Caio Mugarte: shows [Ks Qs] (a flush, King high)
+Caio Mugarte collected 3957 from pot
+*** SUMMARY ***
+Total pot 3957 | Rake 0 
+Board [8s 5s 4h 9h 7s]
+Seat 1: gatoalicia (small blind) showed [As Jc] and lost with high card Ace
+Seat 2: lucasveiga20 (big blind) folded before Flop
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte showed [Ks Qs] and won (3957) with a flush, King high
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 6: chardo666 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424913870: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:27:14 AT [2023/08/16 13:27:14 ET]
+Table '3632153283 3' 9-max Seat #1 is the button
+Seat 1: gatoalicia (791 in chips) 
+Seat 2: lucasveiga20 (3772 in chips) 
+Seat 3: Thomaz 11 (6661 in chips) 
+Seat 4: Caio Mugarte (3957 in chips) 
+Seat 5: Rosa885 (2322 in chips) 
+Seat 6: chardo666 (3052 in chips) 
+Seat 7: luizcwb186 (1317 in chips) 
+Seat 8: Asildar (3716 in chips) 
+Seat 9: P34CE (595 in chips) 
+gatoalicia: posts the ante 15
+lucasveiga20: posts the ante 15
+Thomaz 11: posts the ante 15
+Caio Mugarte: posts the ante 15
+Rosa885: posts the ante 15
+chardo666: posts the ante 15
+luizcwb186: posts the ante 15
+Asildar: posts the ante 15
+P34CE: posts the ante 15
+lucasveiga20: posts small blind 60
+Thomaz 11: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad 9d]
+Caio Mugarte: raises 120 to 240
+Rosa885: folds 
+chardo666: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+gatoalicia: raises 536 to 776 and is all-in
+lucasveiga20: folds 
+Thomaz 11: raises 536 to 1312
+Caio Mugarte: folds 
+Uncalled bet (536) returned to Thomaz 11
+*** FLOP *** [6h Jd Js]
+*** TURN *** [6h Jd Js] [6d]
+*** RIVER *** [6h Jd Js 6d] [5c]
+*** SHOW DOWN ***
+Thomaz 11: shows [As Ah] (two pair, Aces and Jacks)
+gatoalicia: shows [5s Ac] (two pair, Jacks and Sixes)
+Thomaz 11 collected 1987 from pot
+gatoalicia finished the tournament in 25th place
+*** SUMMARY ***
+Total pot 1987 | Rake 0 
+Board [6h Jd Js 6d 5c]
+Seat 1: gatoalicia (button) showed [5s Ac] and lost with two pair, Jacks and Sixes
+Seat 2: lucasveiga20 (small blind) folded before Flop
+Seat 3: Thomaz 11 (big blind) showed [As Ah] and won (1987) with two pair, Aces and Jacks
+Seat 4: Caio Mugarte folded before Flop
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 6: chardo666 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424933140: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:28:24 AT [2023/08/16 13:28:24 ET]
+Table '3632153283 3' 9-max Seat #2 is the button
+Seat 2: lucasveiga20 (3697 in chips) 
+Seat 3: Thomaz 11 (7857 in chips) 
+Seat 4: Caio Mugarte (3702 in chips) 
+Seat 5: Rosa885 (2307 in chips) 
+Seat 6: chardo666 (3037 in chips) 
+Seat 7: luizcwb186 (1302 in chips) 
+Seat 8: Asildar (3701 in chips) 
+Seat 9: P34CE (580 in chips) 
+lucasveiga20: posts the ante 15
+Thomaz 11: posts the ante 15
+Caio Mugarte: posts the ante 15
+Rosa885: posts the ante 15
+chardo666: posts the ante 15
+luizcwb186: posts the ante 15
+Asildar: posts the ante 15
+P34CE: posts the ante 15
+Thomaz 11: posts small blind 60
+Caio Mugarte: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8s 6d]
+Rosa885: folds 
+chardo666: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+lucasveiga20: folds 
+Thomaz 11: raises 120 to 240
+Caio Mugarte: calls 120
+*** FLOP *** [Kh 9c Kd]
+Thomaz 11: checks 
+Caio Mugarte: bets 120
+Thomaz 11: folds [As]
+Uncalled bet (120) returned to Caio Mugarte
+Caio Mugarte collected 600 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Kh 9c Kd]
+Seat 2: lucasveiga20 (button) folded before Flop (didn't bet)
+Seat 3: Thomaz 11 (small blind) folded on the Flop
+Seat 4: Caio Mugarte (big blind) collected (600)
+Seat 5: Rosa885 folded before Flop (didn't bet)
+Seat 6: chardo666 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424949733: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:29:24 AT [2023/08/16 13:29:24 ET]
+Table '3632153283 3' 9-max Seat #3 is the button
+Seat 2: lucasveiga20 (3682 in chips) 
+Seat 3: Thomaz 11 (7602 in chips) 
+Seat 4: Caio Mugarte (4047 in chips) 
+Seat 5: Rosa885 (2292 in chips) 
+Seat 6: chardo666 (3022 in chips) 
+Seat 7: luizcwb186 (1287 in chips) 
+Seat 8: Asildar (3686 in chips) 
+Seat 9: P34CE (565 in chips) 
+lucasveiga20: posts the ante 15
+Thomaz 11: posts the ante 15
+Caio Mugarte: posts the ante 15
+Rosa885: posts the ante 15
+chardo666: posts the ante 15
+luizcwb186: posts the ante 15
+Asildar: posts the ante 15
+P34CE: posts the ante 15
+Caio Mugarte: posts small blind 60
+Rosa885: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3c 6d]
+chardo666: folds 
+luizcwb186: folds 
+Asildar: folds 
+P34CE: folds 
+lucasveiga20: raises 144 to 264
+Thomaz 11: calls 264
+Caio Mugarte: folds 
+Rosa885: folds 
+*** FLOP *** [4s 7h Ks]
+lucasveiga20: bets 265
+Thomaz 11: calls 265
+*** TURN *** [4s 7h Ks] [Ts]
+lucasveiga20: checks 
+Thomaz 11: checks 
+*** RIVER *** [4s 7h Ks Ts] [3h]
+lucasveiga20: checks 
+Thomaz 11: checks 
+*** SHOW DOWN ***
+lucasveiga20: shows [Ad Qc] (high card Ace)
+Thomaz 11: mucks hand 
+lucasveiga20 collected 1358 from pot
+*** SUMMARY ***
+Total pot 1358 | Rake 0 
+Board [4s 7h Ks Ts 3h]
+Seat 2: lucasveiga20 showed [Ad Qc] and won (1358) with high card Ace
+Seat 3: Thomaz 11 (button) mucked [9d As]
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 5: Rosa885 (big blind) folded before Flop
+Seat 6: chardo666 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424961359: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:30:06 AT [2023/08/16 13:30:06 ET]
+Table '3632153283 3' 9-max Seat #4 is the button
+Seat 2: lucasveiga20 (4496 in chips) 
+Seat 3: Thomaz 11 (7058 in chips) 
+Seat 4: Caio Mugarte (3972 in chips) 
+Seat 5: Rosa885 (2157 in chips) 
+Seat 6: chardo666 (3007 in chips) 
+Seat 7: luizcwb186 (1272 in chips) 
+Seat 8: Asildar (3671 in chips) 
+Seat 9: P34CE (550 in chips) 
+lucasveiga20: posts the ante 15
+Thomaz 11: posts the ante 15
+Caio Mugarte: posts the ante 15
+Rosa885: posts the ante 15
+chardo666: posts the ante 15
+luizcwb186: posts the ante 15
+Asildar: posts the ante 15
+P34CE: posts the ante 15
+Rosa885: posts small blind 60
+chardo666: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9h 7s]
+luizcwb186: folds 
+Asildar: folds 
+P34CE has timed out
+P34CE: folds 
+P34CE is sitting out
+lucasveiga20: folds 
+P34CE has returned
+Thomaz 11: raises 120 to 240
+Caio Mugarte: folds 
+Rosa885: folds 
+chardo666: calls 120
+*** FLOP *** [3s Qs Qd]
+chardo666: checks 
+Thomaz 11: bets 330
+chardo666: folds 
+Uncalled bet (330) returned to Thomaz 11
+Thomaz 11 collected 660 from pot
+Thomaz 11: doesn't show hand 
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [3s Qs Qd]
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 collected (660)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 5: Rosa885 (small blind) folded before Flop
+Seat 6: chardo666 (big blind) folded on the Flop
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424976273: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:30:58 AT [2023/08/16 13:30:58 ET]
+Table '3632153283 3' 9-max Seat #5 is the button
+Seat 2: lucasveiga20 (4481 in chips) 
+Seat 3: Thomaz 11 (7463 in chips) 
+Seat 4: Caio Mugarte (3957 in chips) 
+Seat 5: Rosa885 (2082 in chips) 
+Seat 6: chardo666 (2752 in chips) 
+Seat 7: luizcwb186 (1257 in chips) 
+Seat 8: Asildar (3656 in chips) 
+Seat 9: P34CE (535 in chips) 
+lucasveiga20: posts the ante 15
+Thomaz 11: posts the ante 15
+Caio Mugarte: posts the ante 15
+Rosa885: posts the ante 15
+chardo666: posts the ante 15
+luizcwb186: posts the ante 15
+Asildar: posts the ante 15
+P34CE: posts the ante 15
+chardo666: posts small blind 60
+luizcwb186: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s 5c]
+Asildar: folds 
+P34CE: folds 
+lucasveiga20: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Rosa885: folds 
+chardo666: folds 
+Uncalled bet (60) returned to luizcwb186
+luizcwb186 collected 240 from pot
+luizcwb186: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 (button) folded before Flop (didn't bet)
+Seat 6: chardo666 (small blind) folded before Flop
+Seat 7: luizcwb186 (big blind) collected (240)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424983517: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:31:24 AT [2023/08/16 13:31:24 ET]
+Table '3632153283 3' 9-max Seat #6 is the button
+Seat 2: lucasveiga20 (4466 in chips) 
+Seat 3: Thomaz 11 (7448 in chips) 
+Seat 4: Caio Mugarte (3942 in chips) 
+Seat 5: Rosa885 (2067 in chips) 
+Seat 6: chardo666 (2677 in chips) 
+Seat 7: luizcwb186 (1422 in chips) 
+Seat 8: Asildar (3641 in chips) 
+Seat 9: P34CE (520 in chips) 
+lucasveiga20: posts the ante 15
+Thomaz 11: posts the ante 15
+Caio Mugarte: posts the ante 15
+Rosa885: posts the ante 15
+chardo666: posts the ante 15
+luizcwb186: posts the ante 15
+Asildar: posts the ante 15
+P34CE: posts the ante 15
+luizcwb186: posts small blind 60
+Asildar: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th 5d]
+P34CE has timed out
+P34CE: folds 
+P34CE is sitting out
+lucasveiga20: folds 
+Thomaz 11: folds 
+P34CE has returned
+Caio Mugarte: folds 
+Rosa885: raises 1932 to 2052 and is all-in
+chardo666: folds 
+luizcwb186: folds 
+Asildar: calls 1932
+*** FLOP *** [7h 4d Qs]
+*** TURN *** [7h 4d Qs] [8h]
+*** RIVER *** [7h 4d Qs 8h] [Kc]
+*** SHOW DOWN ***
+Asildar: shows [As Kh] (a pair of Kings)
+Rosa885: shows [Tc Ah] (high card Ace)
+Asildar collected 4284 from pot
+Rosa885 finished the tournament in 23rd place
+*** SUMMARY ***
+Total pot 4284 | Rake 0 
+Board [7h 4d Qs 8h Kc]
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Rosa885 showed [Tc Ah] and lost with high card Ace
+Seat 6: chardo666 (button) folded before Flop (didn't bet)
+Seat 7: luizcwb186 (small blind) folded before Flop
+Seat 8: Asildar (big blind) showed [As Kh] and won (4284) with a pair of Kings
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424993339: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:31:59 AT [2023/08/16 13:31:59 ET]
+Table '3632153283 3' 9-max Seat #7 is the button
+Seat 2: lucasveiga20 (4451 in chips) 
+Seat 3: Thomaz 11 (7433 in chips) 
+Seat 4: Caio Mugarte (3927 in chips) 
+Seat 6: chardo666 (2662 in chips) 
+Seat 7: luizcwb186 (1347 in chips) 
+Seat 8: Asildar (5858 in chips) 
+Seat 9: P34CE (505 in chips) 
+lucasveiga20: posts the ante 15
+Thomaz 11: posts the ante 15
+Caio Mugarte: posts the ante 15
+chardo666: posts the ante 15
+luizcwb186: posts the ante 15
+Asildar: posts the ante 15
+P34CE: posts the ante 15
+Asildar: posts small blind 60
+P34CE: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ac Ts]
+lucasveiga20: folds 
+Thomaz 11: folds 
+Caio Mugarte: raises 120 to 240
+chardo666: folds 
+luizcwb186: raises 1092 to 1332 and is all-in
+Asildar: folds 
+P34CE: folds 
+Caio Mugarte: calls 1092
+*** FLOP *** [7d 9c As]
+*** TURN *** [7d 9c As] [9d]
+*** RIVER *** [7d 9c As 9d] [6c]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Ac Ts] (two pair, Aces and Nines)
+luizcwb186: shows [Jd Ad] (two pair, Aces and Nines - Jack kicker)
+luizcwb186 collected 2949 from pot
+*** SUMMARY ***
+Total pot 2949 | Rake 0 
+Board [7d 9c As 9d 6c]
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte showed [Ac Ts] and lost with two pair, Aces and Nines
+Seat 6: chardo666 folded before Flop (didn't bet)
+Seat 7: luizcwb186 (button) showed [Jd Ad] and won (2949) with two pair, Aces and Nines
+Seat 8: Asildar (small blind) folded before Flop
+Seat 9: P34CE (big blind) folded before Flop
+
+
+
+PokerStars Hand #245425006056: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:32:44 AT [2023/08/16 13:32:44 ET]
+Table '3632153283 3' 9-max Seat #8 is the button
+Seat 2: lucasveiga20 (4436 in chips) 
+Seat 3: Thomaz 11 (7418 in chips) 
+Seat 4: Caio Mugarte (2580 in chips) 
+Seat 6: chardo666 (2647 in chips) 
+Seat 7: luizcwb186 (2949 in chips) 
+Seat 8: Asildar (5783 in chips) 
+Seat 9: P34CE (370 in chips) 
+lucasveiga20: posts the ante 15
+Thomaz 11: posts the ante 15
+Caio Mugarte: posts the ante 15
+chardo666: posts the ante 15
+luizcwb186: posts the ante 15
+Asildar: posts the ante 15
+P34CE: posts the ante 15
+P34CE: posts small blind 60
+lucasveiga20: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4c 5d]
+Thomaz 11: folds 
+Caio Mugarte: folds 
+chardo666: folds 
+luizcwb186: raises 120 to 240
+Asildar: folds 
+P34CE: folds 
+lucasveiga20: calls 120
+*** FLOP *** [Jd 2s 7s]
+lucasveiga20: checks 
+luizcwb186: checks 
+*** TURN *** [Jd 2s 7s] [4s]
+lucasveiga20: bets 206
+luizcwb186 has timed out
+luizcwb186: folds 
+luizcwb186 is sitting out
+Uncalled bet (206) returned to lucasveiga20
+lucasveiga20 collected 645 from pot
+lucasveiga20: doesn't show hand 
+*** SUMMARY ***
+Total pot 645 | Rake 0 
+Board [Jd 2s 7s 4s]
+Seat 2: lucasveiga20 (big blind) collected (645)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: chardo666 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded on the Turn
+Seat 8: Asildar (button) folded before Flop (didn't bet)
+Seat 9: P34CE (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425028484: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:34:05 AT [2023/08/16 13:34:05 ET]
+Table '3632153283 3' 9-max Seat #9 is the button
+Seat 2: lucasveiga20 (4826 in chips) 
+Seat 3: Thomaz 11 (7403 in chips) 
+Seat 4: Caio Mugarte (2565 in chips) 
+Seat 6: chardo666 (2632 in chips) 
+Seat 7: luizcwb186 (2694 in chips) is sitting out
+Seat 8: Asildar (5768 in chips) 
+Seat 9: P34CE (295 in chips) 
+lucasveiga20: posts the ante 15
+Thomaz 11: posts the ante 15
+Caio Mugarte: posts the ante 15
+chardo666: posts the ante 15
+luizcwb186: posts the ante 15
+Asildar: posts the ante 15
+P34CE: posts the ante 15
+lucasveiga20: posts small blind 60
+Thomaz 11: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3c Qd]
+Caio Mugarte: folds 
+luizcwb186 has returned
+chardo666: calls 120
+luizcwb186: calls 120
+Asildar: folds 
+P34CE: folds 
+lucasveiga20: folds 
+Thomaz 11: checks 
+*** FLOP *** [Qc 5d 4s]
+Thomaz 11: checks 
+chardo666: checks 
+luizcwb186: checks 
+*** TURN *** [Qc 5d 4s] [4d]
+Thomaz 11: bets 240
+chardo666: calls 240
+luizcwb186: folds 
+*** RIVER *** [Qc 5d 4s 4d] [5c]
+Thomaz 11: checks 
+chardo666: bets 503
+Thomaz 11: calls 503
+*** SHOW DOWN ***
+chardo666: shows [7d Jd] (two pair, Fives and Fours)
+Thomaz 11: shows [3h Ah] (two pair, Fives and Fours - Ace kicker)
+Thomaz 11 collected 2011 from pot
+*** SUMMARY ***
+Total pot 2011 | Rake 0 
+Board [Qc 5d 4s 4d 5c]
+Seat 2: lucasveiga20 (small blind) folded before Flop
+Seat 3: Thomaz 11 (big blind) showed [3h Ah] and won (2011) with two pair, Fives and Fours
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: chardo666 showed [7d Jd] and lost with two pair, Fives and Fours
+Seat 7: luizcwb186 folded on the Turn
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425051466: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:35:27 AT [2023/08/16 13:35:27 ET]
+Table '3632153283 3' 9-max Seat #2 is the button
+Seat 2: lucasveiga20 (4751 in chips) 
+Seat 3: Thomaz 11 (8536 in chips) 
+Seat 4: Caio Mugarte (2550 in chips) 
+Seat 6: chardo666 (1754 in chips) 
+Seat 7: luizcwb186 (2559 in chips) 
+Seat 8: Asildar (5753 in chips) 
+Seat 9: P34CE (280 in chips) 
+lucasveiga20: posts the ante 15
+Thomaz 11: posts the ante 15
+Caio Mugarte: posts the ante 15
+chardo666: posts the ante 15
+luizcwb186: posts the ante 15
+Asildar: posts the ante 15
+P34CE: posts the ante 15
+Thomaz 11: posts small blind 60
+Caio Mugarte: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8c Ks]
+chardo666: calls 120
+luizcwb186: raises 120 to 240
+Asildar: folds 
+P34CE: folds 
+lucasveiga20: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+chardo666: calls 120
+*** FLOP *** [As Td 7h]
+chardo666: checks 
+luizcwb186: checks 
+*** TURN *** [As Td 7h] [5d]
+chardo666: checks 
+luizcwb186: checks 
+*** RIVER *** [As Td 7h 5d] [4s]
+chardo666: bets 765
+luizcwb186: folds 
+Uncalled bet (765) returned to chardo666
+chardo666 collected 765 from pot
+chardo666: doesn't show hand 
+*** SUMMARY ***
+Total pot 765 | Rake 0 
+Board [As Td 7h 5d 4s]
+Seat 2: lucasveiga20 (button) folded before Flop (didn't bet)
+Seat 3: Thomaz 11 (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) folded before Flop
+Seat 6: chardo666 collected (765)
+Seat 7: luizcwb186 folded on the River
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425074935: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:36:50 AT [2023/08/16 13:36:50 ET]
+Table '3632153283 3' 9-max Seat #3 is the button
+Seat 2: lucasveiga20 (4736 in chips) 
+Seat 3: Thomaz 11 (8461 in chips) 
+Seat 4: Caio Mugarte (2415 in chips) 
+Seat 6: chardo666 (2264 in chips) 
+Seat 7: luizcwb186 (2304 in chips) 
+Seat 8: Asildar (5738 in chips) 
+Seat 9: P34CE (265 in chips) 
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+chardo666: posts the ante 20
+luizcwb186: posts the ante 20
+Asildar: posts the ante 20
+P34CE: posts the ante 20
+Caio Mugarte: posts small blind 80
+chardo666: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8s 7c]
+luizcwb186: folds 
+Asildar: raises 160 to 320
+P34CE: folds 
+lucasveiga20: folds 
+Thomaz 11: calls 320
+Caio Mugarte: folds 
+chardo666: folds 
+*** FLOP *** [Kc Ks 6s]
+Asildar: checks 
+Thomaz 11: checks 
+*** TURN *** [Kc Ks 6s] [Kd]
+Asildar: checks 
+Thomaz 11: checks 
+*** RIVER *** [Kc Ks 6s Kd] [6c]
+Asildar: bets 1024
+Thomaz 11: calls 1024
+*** SHOW DOWN ***
+Asildar: shows [Kh 8h] (four of a kind, Kings)
+Thomaz 11: mucks hand 
+Asildar collected 3068 from pot
+*** SUMMARY ***
+Total pot 3068 | Rake 0 
+Board [Kc Ks 6s Kd 6c]
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 (button) mucked [3s As]
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 6: chardo666 (big blind) folded before Flop
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar showed [Kh 8h] and won (3068) with four of a kind, Kings
+Seat 9: P34CE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425098770: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:38:14 AT [2023/08/16 13:38:14 ET]
+Table '3632153283 3' 9-max Seat #4 is the button
+Seat 2: lucasveiga20 (4716 in chips) 
+Seat 3: Thomaz 11 (7097 in chips) 
+Seat 4: Caio Mugarte (2315 in chips) 
+Seat 6: chardo666 (2084 in chips) 
+Seat 7: luizcwb186 (2284 in chips) 
+Seat 8: Asildar (7442 in chips) 
+Seat 9: P34CE (245 in chips) 
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+chardo666: posts the ante 20
+luizcwb186: posts the ante 20
+Asildar: posts the ante 20
+P34CE: posts the ante 20
+chardo666: posts small blind 80
+luizcwb186: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9c 4c]
+Asildar: folds 
+P34CE: raises 65 to 225 and is all-in
+lucasveiga20: calls 225
+Thomaz 11: folds 
+Caio Mugarte: folds 
+chardo666: calls 145
+luizcwb186: folds 
+*** FLOP *** [Qc 5h 3d]
+chardo666: checks 
+lucasveiga20: checks 
+*** TURN *** [Qc 5h 3d] [Ks]
+chardo666: checks 
+lucasveiga20: bets 312
+chardo666: calls 312
+*** RIVER *** [Qc 5h 3d Ks] [3c]
+chardo666: bets 800
+lucasveiga20: calls 800
+*** SHOW DOWN ***
+chardo666: shows [5c 5d] (a full house, Fives full of Threes)
+lucasveiga20: mucks hand 
+chardo666 collected 2224 from side pot
+P34CE: mucks hand 
+chardo666 collected 975 from main pot
+P34CE finished the tournament in 20th place
+*** SUMMARY ***
+Total pot 3199 Main pot 975. Side pot 2224. | Rake 0 
+Board [Qc 5h 3d Ks 3c]
+Seat 2: lucasveiga20 mucked [Th Kh]
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: chardo666 (small blind) showed [5c 5d] and won (3199) with a full house, Fives full of Threes
+Seat 7: luizcwb186 (big blind) folded before Flop
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: P34CE mucked [5s Qs]
+
+
+
+PokerStars Hand #245425119936: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:39:29 AT [2023/08/16 13:39:29 ET]
+Table '3632153283 3' 9-max Seat #6 is the button
+Seat 2: lucasveiga20 (3359 in chips) 
+Seat 3: Thomaz 11 (7077 in chips) 
+Seat 4: Caio Mugarte (2295 in chips) 
+Seat 6: chardo666 (3926 in chips) 
+Seat 7: luizcwb186 (2104 in chips) 
+Seat 8: Asildar (7422 in chips) 
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+chardo666: posts the ante 20
+luizcwb186: posts the ante 20
+Asildar: posts the ante 20
+luizcwb186: posts small blind 80
+Asildar: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h 9d]
+lucasveiga20: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+chardo666: folds 
+luizcwb186: raises 1924 to 2084 and is all-in
+Asildar: folds 
+Uncalled bet (1924) returned to luizcwb186
+luizcwb186 collected 440 from pot
+luizcwb186: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: chardo666 (button) folded before Flop (didn't bet)
+Seat 7: luizcwb186 (small blind) collected (440)
+Seat 8: Asildar (big blind) folded before Flop
+
+
+
+PokerStars Hand #245425127846: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:39:57 AT [2023/08/16 13:39:57 ET]
+Table '3632153283 3' 9-max Seat #7 is the button
+Seat 2: lucasveiga20 (3339 in chips) 
+Seat 3: Thomaz 11 (7057 in chips) 
+Seat 4: Caio Mugarte (2275 in chips) 
+Seat 6: chardo666 (3906 in chips) 
+Seat 7: luizcwb186 (2364 in chips) 
+Seat 8: Asildar (7242 in chips) 
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+chardo666: posts the ante 20
+luizcwb186: posts the ante 20
+Asildar: posts the ante 20
+Asildar: posts small blind 80
+lucasveiga20: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc 7s]
+Thomaz 11: folds 
+Caio Mugarte: folds 
+chardo666: folds 
+luizcwb186: raises 2184 to 2344 and is all-in
+Asildar: folds 
+lucasveiga20: folds 
+Uncalled bet (2184) returned to luizcwb186
+luizcwb186 collected 520 from pot
+luizcwb186: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 2: lucasveiga20 (big blind) folded before Flop
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: chardo666 folded before Flop (didn't bet)
+Seat 7: luizcwb186 (button) collected (520)
+Seat 8: Asildar (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425137015: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:40:30 AT [2023/08/16 13:40:30 ET]
+Table '3632153283 3' 9-max Seat #8 is the button
+Seat 2: lucasveiga20 (3159 in chips) 
+Seat 3: Thomaz 11 (7037 in chips) 
+Seat 4: Caio Mugarte (2255 in chips) 
+Seat 6: chardo666 (3886 in chips) 
+Seat 7: luizcwb186 (2704 in chips) 
+Seat 8: Asildar (7142 in chips) 
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+chardo666: posts the ante 20
+luizcwb186: posts the ante 20
+Asildar: posts the ante 20
+lucasveiga20: posts small blind 80
+Thomaz 11: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4c Td]
+Caio Mugarte: folds 
+chardo666: folds 
+luizcwb186: folds 
+Asildar: raises 160 to 320
+lucasveiga20: folds 
+Thomaz 11: calls 160
+*** FLOP *** [8d 9s Kd]
+Thomaz 11: checks 
+Asildar: bets 286
+Thomaz 11: folds 
+Uncalled bet (286) returned to Asildar
+Asildar collected 840 from pot
+Asildar: doesn't show hand 
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [8d 9s Kd]
+Seat 2: lucasveiga20 (small blind) folded before Flop
+Seat 3: Thomaz 11 (big blind) folded on the Flop
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: chardo666 folded before Flop (didn't bet)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar (button) collected (840)
+
+
+
+PokerStars Hand #245425146585: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:41:04 AT [2023/08/16 13:41:04 ET]
+Table '3632153283 3' 9-max Seat #2 is the button
+Seat 2: lucasveiga20 (3059 in chips) 
+Seat 3: Thomaz 11 (6697 in chips) 
+Seat 4: Caio Mugarte (2235 in chips) 
+Seat 6: chardo666 (3866 in chips) 
+Seat 7: luizcwb186 (2684 in chips) 
+Seat 8: Asildar (7642 in chips) 
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+chardo666: posts the ante 20
+luizcwb186: posts the ante 20
+Asildar: posts the ante 20
+Thomaz 11: posts small blind 80
+Caio Mugarte: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qc 6h]
+chardo666: raises 320 to 480
+luizcwb186: folds 
+Asildar: raises 800 to 1280
+lucasveiga20: folds 
+Jhoow-fitnes is disconnected 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+chardo666: calls 800
+*** FLOP *** [5d Jc Th]
+chardo666: bets 2566 and is all-in
+Asildar: calls 2566
+*** TURN *** [5d Jc Th] [As]
+*** RIVER *** [5d Jc Th As] [2c]
+*** SHOW DOWN ***
+chardo666: shows [Qd Jd] (a pair of Jacks)
+Asildar: shows [Ad Ah] (three of a kind, Aces)
+Asildar collected 8052 from pot
+chardo666 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 8052 | Rake 0 
+Board [5d Jc Th As 2c]
+Seat 2: lucasveiga20 (button) folded before Flop (didn't bet)
+Seat 3: Thomaz 11 (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) folded before Flop
+Seat 6: chardo666 showed [Qd Jd] and lost with a pair of Jacks
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar showed [Ad Ah] and won (8052) with three of a kind, Aces
+
+
+
+PokerStars Hand #245425161050: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:41:55 AT [2023/08/16 13:41:55 ET]
+Table '3632153283 3' 9-max Seat #3 is the button
+Seat 1: Jhoow-fitnes (7371 in chips) 
+Seat 2: lucasveiga20 (3039 in chips) 
+Seat 3: Thomaz 11 (6597 in chips) 
+Seat 4: Caio Mugarte (2055 in chips) 
+Seat 5: Chaconds (8073 in chips) 
+Seat 7: luizcwb186 (2664 in chips) 
+Seat 8: Asildar (11828 in chips) 
+Seat 9: donisivi (1481 in chips) is sitting out
+Jhoow-fitnes: posts the ante 20
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+Chaconds: posts the ante 20
+luizcwb186: posts the ante 20
+Asildar: posts the ante 20
+donisivi: posts the ante 20
+Caio Mugarte: posts small blind 80
+Chaconds: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8h Js]
+luizcwb186: folds 
+Asildar: folds 
+donisivi: folds 
+Jhoow-fitnes: folds 
+lucasveiga20: folds 
+Thomaz 11: raises 160 to 320
+Caio Mugarte: folds 
+Chaconds: calls 160
+*** FLOP *** [Ad 5h 4h]
+Chaconds: checks 
+Thomaz 11: bets 480
+Chaconds: calls 480
+*** TURN *** [Ad 5h 4h] [6c]
+Chaconds: checks 
+Thomaz 11: checks 
+*** RIVER *** [Ad 5h 4h 6c] [6h]
+Chaconds: bets 920
+Thomaz 11: folds 
+Uncalled bet (920) returned to Chaconds
+Chaconds collected 1840 from pot
+Chaconds: doesn't show hand 
+*** SUMMARY ***
+Total pot 1840 | Rake 0 
+Board [Ad 5h 4h 6c 6h]
+Seat 1: Jhoow-fitnes folded before Flop (didn't bet)
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 (button) folded on the River
+Seat 4: Caio Mugarte (small blind) folded before Flop
+Seat 5: Chaconds (big blind) collected (1840)
+Seat 7: luizcwb186 folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: donisivi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425175236: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:42:46 AT [2023/08/16 13:42:46 ET]
+Table '3632153283 3' 9-max Seat #4 is the button
+Seat 1: Jhoow-fitnes (7351 in chips) 
+Seat 2: lucasveiga20 (3019 in chips) 
+Seat 3: Thomaz 11 (5777 in chips) 
+Seat 4: Caio Mugarte (1955 in chips) 
+Seat 5: Chaconds (9093 in chips) 
+Seat 7: luizcwb186 (2644 in chips) 
+Seat 8: Asildar (11808 in chips) 
+Seat 9: donisivi (1461 in chips) is sitting out
+Jhoow-fitnes: posts the ante 20
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+Chaconds: posts the ante 20
+luizcwb186: posts the ante 20
+Asildar: posts the ante 20
+donisivi: posts the ante 20
+Chaconds: posts small blind 80
+luizcwb186: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c 8d]
+Asildar: raises 160 to 320
+donisivi: folds 
+Jhoow-fitnes: folds 
+lucasveiga20: folds 
+Thomaz 11: calls 320
+Caio Mugarte: folds 
+Chaconds: calls 240
+luizcwb186 has timed out
+luizcwb186: folds 
+luizcwb186 is sitting out
+*** FLOP *** [5c 9h Jd]
+Chaconds: checks 
+Asildar: checks 
+Thomaz 11: bets 480
+Chaconds: folds 
+luizcwb186 has returned
+Asildar: raises 682 to 1162
+Thomaz 11: calls 682
+*** TURN *** [5c 9h Jd] [Kh]
+Asildar: bets 10306 and is all-in
+Thomaz 11: folds 
+Uncalled bet (10306) returned to Asildar
+Asildar collected 3604 from pot
+Asildar: doesn't show hand 
+*** SUMMARY ***
+Total pot 3604 | Rake 0 
+Board [5c 9h Jd Kh]
+Seat 1: Jhoow-fitnes folded before Flop (didn't bet)
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded on the Turn
+Seat 4: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 5: Chaconds (small blind) folded on the Flop
+Seat 7: luizcwb186 (big blind) folded before Flop
+Seat 8: Asildar collected (3604)
+Seat 9: donisivi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425192579: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:43:48 AT [2023/08/16 13:43:48 ET]
+Table '3632153283 3' 9-max Seat #5 is the button
+Seat 1: Jhoow-fitnes (7331 in chips) 
+Seat 2: lucasveiga20 (2999 in chips) 
+Seat 3: Thomaz 11 (4275 in chips) 
+Seat 4: Caio Mugarte (1935 in chips) 
+Seat 5: Chaconds (8753 in chips) 
+Seat 7: luizcwb186 (2464 in chips) 
+Seat 8: Asildar (13910 in chips) 
+Seat 9: donisivi (1441 in chips) is sitting out
+Jhoow-fitnes: posts the ante 20
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+Chaconds: posts the ante 20
+luizcwb186: posts the ante 20
+Asildar: posts the ante 20
+donisivi: posts the ante 20
+luizcwb186: posts small blind 80
+Asildar: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jh 4d]
+donisivi: folds 
+Jhoow-fitnes: folds 
+lucasveiga20: folds 
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Chaconds: folds 
+luizcwb186: raises 160 to 320
+Asildar: raises 6000 to 6320
+luizcwb186: calls 2124 and is all-in
+Uncalled bet (3876) returned to Asildar
+*** FLOP *** [9h 4h 5h]
+*** TURN *** [9h 4h 5h] [Qd]
+*** RIVER *** [9h 4h 5h Qd] [8d]
+*** SHOW DOWN ***
+luizcwb186: shows [Ks Jc] (high card King)
+Asildar: shows [2h 2c] (a pair of Deuces)
+Asildar collected 5048 from pot
+luizcwb186 finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 5048 | Rake 0 
+Board [9h 4h 5h Qd 8d]
+Seat 1: Jhoow-fitnes folded before Flop (didn't bet)
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Chaconds (button) folded before Flop (didn't bet)
+Seat 7: luizcwb186 (small blind) showed [Ks Jc] and lost with high card King
+Seat 8: Asildar (big blind) showed [2h 2c] and won (5048) with a pair of Deuces
+Seat 9: donisivi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425204906: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:44:32 AT [2023/08/16 13:44:32 ET]
+Table '3632153283 3' 9-max Seat #8 is the button
+Seat 1: Jhoow-fitnes (7311 in chips) 
+Seat 2: lucasveiga20 (2979 in chips) 
+Seat 3: Thomaz 11 (4255 in chips) 
+Seat 4: Caio Mugarte (1915 in chips) 
+Seat 5: Chaconds (8733 in chips) 
+Seat 8: Asildar (16494 in chips) 
+Seat 9: donisivi (1421 in chips) is sitting out
+Jhoow-fitnes: posts the ante 20
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+Chaconds: posts the ante 20
+Asildar: posts the ante 20
+donisivi: posts the ante 20
+donisivi: posts small blind 80
+Jhoow-fitnes: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th 6h]
+lucasveiga20: folds 
+Thomaz 11: folds 
+Rx_Kings is disconnected 
+Caio Mugarte: folds 
+Chaconds: folds 
+Asildar: raises 160 to 320
+donisivi: folds 
+Jhoow-fitnes: folds 
+Uncalled bet (160) returned to Asildar
+Asildar collected 540 from pot
+Asildar: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 1: Jhoow-fitnes (big blind) folded before Flop
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Chaconds folded before Flop (didn't bet)
+Seat 8: Asildar (button) collected (540)
+Seat 9: donisivi (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425210761: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:44:53 AT [2023/08/16 13:44:53 ET]
+Table '3632153283 3' 9-max Seat #9 is the button
+Seat 1: Jhoow-fitnes (7131 in chips) 
+Seat 2: lucasveiga20 (2959 in chips) 
+Seat 3: Thomaz 11 (4235 in chips) 
+Seat 4: Caio Mugarte (1895 in chips) 
+Seat 5: Chaconds (8713 in chips) 
+Seat 6: Rx_Kings (1110 in chips) 
+Seat 8: Asildar (16854 in chips) 
+Seat 9: donisivi (1321 in chips) is sitting out
+Jhoow-fitnes: posts the ante 20
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+Chaconds: posts the ante 20
+Rx_Kings: posts the ante 20
+Asildar: posts the ante 20
+donisivi: posts the ante 20
+Jhoow-fitnes: posts small blind 80
+lucasveiga20: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Td 5s]
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Chaconds: folds 
+Rx_Kings: folds 
+Asildar: folds 
+donisivi: folds 
+Jhoow-fitnes: raises 240 to 400
+lucasveiga20: calls 240
+*** FLOP *** [Kh 7c As]
+Jhoow-fitnes: bets 480
+lucasveiga20: folds 
+Uncalled bet (480) returned to Jhoow-fitnes
+Jhoow-fitnes collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Kh 7c As]
+Seat 1: Jhoow-fitnes (small blind) collected (960)
+Seat 2: lucasveiga20 (big blind) folded on the Flop
+Seat 3: Thomaz 11 folded before Flop (didn't bet)
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Chaconds folded before Flop (didn't bet)
+Seat 6: Rx_Kings folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: donisivi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425218183: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:45:20 AT [2023/08/16 13:45:20 ET]
+Table '3632153283 3' 9-max Seat #1 is the button
+Seat 1: Jhoow-fitnes (7671 in chips) 
+Seat 2: lucasveiga20 (2539 in chips) 
+Seat 3: Thomaz 11 (4215 in chips) 
+Seat 4: Caio Mugarte (1875 in chips) 
+Seat 5: Chaconds (8693 in chips) 
+Seat 6: Rx_Kings (1090 in chips) 
+Seat 8: Asildar (16834 in chips) 
+Seat 9: donisivi (1301 in chips) is sitting out
+Jhoow-fitnes: posts the ante 20
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+Chaconds: posts the ante 20
+Rx_Kings: posts the ante 20
+Asildar: posts the ante 20
+donisivi: posts the ante 20
+lucasveiga20: posts small blind 80
+Thomaz 11: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7h 4s]
+Caio Mugarte: folds 
+Chaconds: folds 
+Rx_Kings: folds 
+Asildar: folds 
+donisivi: folds 
+Jhoow-fitnes: folds 
+lucasveiga20: raises 256 to 416
+Thomaz 11: folds 
+Uncalled bet (256) returned to lucasveiga20
+lucasveiga20 collected 480 from pot
+lucasveiga20: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: Jhoow-fitnes (button) folded before Flop (didn't bet)
+Seat 2: lucasveiga20 (small blind) collected (480)
+Seat 3: Thomaz 11 (big blind) folded before Flop
+Seat 4: Caio Mugarte folded before Flop (didn't bet)
+Seat 5: Chaconds folded before Flop (didn't bet)
+Seat 6: Rx_Kings folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: donisivi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425222409: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:45:35 AT [2023/08/16 13:45:35 ET]
+Table '3632153283 3' 9-max Seat #2 is the button
+Seat 1: Jhoow-fitnes (7651 in chips) 
+Seat 2: lucasveiga20 (2839 in chips) 
+Seat 3: Thomaz 11 (4035 in chips) 
+Seat 4: Caio Mugarte (1855 in chips) 
+Seat 5: Chaconds (8673 in chips) 
+Seat 6: Rx_Kings (1070 in chips) 
+Seat 8: Asildar (16814 in chips) 
+Seat 9: donisivi (1281 in chips) is sitting out
+Jhoow-fitnes: posts the ante 20
+lucasveiga20: posts the ante 20
+Thomaz 11: posts the ante 20
+Caio Mugarte: posts the ante 20
+Chaconds: posts the ante 20
+Rx_Kings: posts the ante 20
+Asildar: posts the ante 20
+donisivi: posts the ante 20
+Thomaz 11: posts small blind 80
+Caio Mugarte: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8s Kd]
+Chaconds: folds 
+Rx_Kings: folds 
+Asildar: raises 160 to 320
+donisivi: folds 
+Jhoow-fitnes: folds 
+lucasveiga20: raises 2499 to 2819 and is all-in
+Thomaz 11: folds 
+Caio Mugarte: folds 
+Asildar: folds 
+Uncalled bet (2499) returned to lucasveiga20
+lucasveiga20 collected 1040 from pot
+lucasveiga20: doesn't show hand 
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Seat 1: Jhoow-fitnes folded before Flop (didn't bet)
+Seat 2: lucasveiga20 (button) collected (1040)
+Seat 3: Thomaz 11 (small blind) folded before Flop
+Seat 4: Caio Mugarte (big blind) folded before Flop
+Seat 5: Chaconds folded before Flop (didn't bet)
+Seat 6: Rx_Kings folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop
+Seat 9: donisivi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425230025: Tournament #3632153283, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2023/08/16 14:46:02 AT [2023/08/16 13:46:02 ET]
+Table '3632153283 3' 9-max Seat #3 is the button
+Seat 1: Jhoow-fitnes (7631 in chips) 
+Seat 2: lucasveiga20 (3539 in chips) 
+Seat 3: Thomaz 11 (3935 in chips) 
+Seat 4: Caio Mugarte (1675 in chips) 
+Seat 5: Chaconds (8653 in chips) 
+Seat 6: Rx_Kings (1050 in chips) 
+Seat 8: Asildar (16474 in chips) 
+Seat 9: donisivi (1261 in chips) is sitting out
+Jhoow-fitnes: posts the ante 25
+lucasveiga20: posts the ante 25
+Thomaz 11: posts the ante 25
+Caio Mugarte: posts the ante 25
+Chaconds: posts the ante 25
+Rx_Kings: posts the ante 25
+Asildar: posts the ante 25
+donisivi: posts the ante 25
+Caio Mugarte: posts small blind 100
+Chaconds: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ac 5h]
+Rx_Kings: folds 
+Asildar: folds 
+donisivi: folds 
+Jhoow-fitnes: folds 
+lucasveiga20: folds 
+Thomaz 11: folds 
+Caio Mugarte: raises 1450 to 1650 and is all-in
+Chaconds: calls 1450
+*** FLOP *** [Kc Kh Ks]
+*** TURN *** [Kc Kh Ks] [Ts]
+*** RIVER *** [Kc Kh Ks Ts] [8c]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Ac 5h] (three of a kind, Kings)
+Chaconds: shows [Ah As] (a full house, Kings full of Aces)
+Chaconds collected 3500 from pot
+Caio Mugarte finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Board [Kc Kh Ks Ts 8c]
+Seat 1: Jhoow-fitnes folded before Flop (didn't bet)
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: Thomaz 11 (button) folded before Flop (didn't bet)
+Seat 4: Caio Mugarte (small blind) showed [Ac 5h] and lost with three of a kind, Kings
+Seat 5: Chaconds (big blind) showed [Ah As] and won (3500) with a full house, Kings full of Aces
+Seat 6: Rx_Kings folded before Flop (didn't bet)
+Seat 8: Asildar folded before Flop (didn't bet)
+Seat 9: donisivi folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,355 @@
+﻿PokerStars Hand #245447195180: Tournament #3632699788, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2023/08/17 18:10:24 AT [2023/08/17 17:10:24 ET]
+Table '3632699788 4' 4-max Seat #1 is the button
+Seat 1: hotlainblingas (500 in chips) 
+Seat 2: Caio Mugarte (500 in chips) 
+Seat 3: john_entony (500 in chips) 
+Seat 4: edias80 (500 in chips) 
+hotlainblingas: posts the ante 10
+Caio Mugarte: posts the ante 10
+john_entony: posts the ante 10
+edias80: posts the ante 10
+Caio Mugarte: posts small blind 25
+john_entony: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d Ac]
+edias80 has timed out
+edias80: folds 
+edias80 is sitting out
+edias80 has returned
+hotlainblingas: raises 440 to 490 and is all-in
+Caio Mugarte: folds 
+john_entony: calls 440 and is all-in
+*** FLOP *** [3c 4d Qs]
+*** TURN *** [3c 4d Qs] [3s]
+*** RIVER *** [3c 4d Qs 3s] [Jd]
+*** SHOW DOWN ***
+john_entony: shows [7s Ks] (a pair of Threes)
+hotlainblingas: shows [As Td] (a pair of Threes - Ace kicker)
+hotlainblingas collected 1045 from pot
+john_entony finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 1045 | Rake 0 
+Board [3c 4d Qs 3s Jd]
+Seat 1: hotlainblingas (button) showed [As Td] and won (1045) with a pair of Threes
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 3: john_entony (big blind) showed [7s Ks] and lost with a pair of Threes
+Seat 4: edias80 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447211471: Tournament #3632699788, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2023/08/17 18:11:13 AT [2023/08/17 17:11:13 ET]
+Table '3632699788 4' 4-max Seat #2 is the button
+Seat 1: hotlainblingas (1045 in chips) 
+Seat 2: Caio Mugarte (465 in chips) 
+Seat 4: edias80 (490 in chips) 
+hotlainblingas: posts the ante 10
+Caio Mugarte: posts the ante 10
+edias80: posts the ante 10
+edias80: posts small blind 25
+hotlainblingas: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qh 9s]
+Caio Mugarte: folds 
+edias80: calls 25
+hotlainblingas: checks 
+*** FLOP *** [5h Jh 4s]
+edias80: checks 
+hotlainblingas: checks 
+*** TURN *** [5h Jh 4s] [2c]
+edias80: checks 
+hotlainblingas: bets 50
+edias80: folds 
+Uncalled bet (50) returned to hotlainblingas
+hotlainblingas collected 130 from pot
+hotlainblingas: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [5h Jh 4s 2c]
+Seat 1: hotlainblingas (big blind) collected (130)
+Seat 2: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 4: edias80 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #245447222785: Tournament #3632699788, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2023/08/17 18:11:47 AT [2023/08/17 17:11:47 ET]
+Table '3632699788 4' 4-max Seat #4 is the button
+Seat 1: hotlainblingas (1115 in chips) 
+Seat 2: Caio Mugarte (455 in chips) 
+Seat 4: edias80 (430 in chips) 
+hotlainblingas: posts the ante 10
+Caio Mugarte: posts the ante 10
+edias80: posts the ante 10
+hotlainblingas: posts small blind 25
+Caio Mugarte: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc 9d]
+edias80 has timed out
+edias80: folds 
+edias80 is sitting out
+edias80 has returned
+hotlainblingas: raises 50 to 100
+Caio Mugarte: raises 345 to 445 and is all-in
+hotlainblingas: calls 345
+*** FLOP *** [Jc Ks 3c]
+*** TURN *** [Jc Ks 3c] [6h]
+*** RIVER *** [Jc Ks 3c 6h] [3h]
+*** SHOW DOWN ***
+hotlainblingas: shows [Ts Td] (two pair, Tens and Threes)
+Caio Mugarte: shows [Kc 9d] (two pair, Kings and Threes)
+Caio Mugarte collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [Jc Ks 3c 6h 3h]
+Seat 1: hotlainblingas (small blind) showed [Ts Td] and lost with two pair, Tens and Threes
+Seat 2: Caio Mugarte (big blind) showed [Kc 9d] and won (920) with two pair, Kings and Threes
+Seat 4: edias80 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447233768: Tournament #3632699788, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2023/08/17 18:12:20 AT [2023/08/17 17:12:20 ET]
+Table '3632699788 4' 4-max Seat #1 is the button
+Seat 1: hotlainblingas (660 in chips) 
+Seat 2: Caio Mugarte (920 in chips) 
+Seat 4: edias80 (420 in chips) 
+hotlainblingas: posts the ante 10
+Caio Mugarte: posts the ante 10
+edias80: posts the ante 10
+Caio Mugarte: posts small blind 25
+edias80: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad 7h]
+hotlainblingas: folds 
+Caio Mugarte: raises 860 to 910 and is all-in
+edias80: calls 360 and is all-in
+Uncalled bet (500) returned to Caio Mugarte
+*** FLOP *** [2h Ks 9d]
+*** TURN *** [2h Ks 9d] [3h]
+*** RIVER *** [2h Ks 9d 3h] [Qd]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Ad 7h] (high card Ace)
+edias80: shows [Jc Ah] (high card Ace - King+Queen+Jack kicker)
+edias80 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [2h Ks 9d 3h Qd]
+Seat 1: hotlainblingas (button) folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (small blind) showed [Ad 7h] and lost with high card Ace
+Seat 4: edias80 (big blind) showed [Jc Ah] and won (850) with high card Ace
+
+
+
+PokerStars Hand #245447239204: Tournament #3632699788, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2023/08/17 18:12:36 AT [2023/08/17 17:12:36 ET]
+Table '3632699788 4' 4-max Seat #2 is the button
+Seat 1: hotlainblingas (650 in chips) 
+Seat 2: Caio Mugarte (500 in chips) 
+Seat 4: edias80 (850 in chips) 
+hotlainblingas: posts the ante 10
+Caio Mugarte: posts the ante 10
+edias80: posts the ante 10
+edias80: posts small blind 25
+hotlainblingas: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8h 8d]
+Caio Mugarte: raises 440 to 490 and is all-in
+edias80: folds 
+hotlainblingas: folds 
+Uncalled bet (440) returned to Caio Mugarte
+Caio Mugarte collected 155 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 155 | Rake 0 
+Seat 1: hotlainblingas (big blind) folded before Flop
+Seat 2: Caio Mugarte (button) collected (155)
+Seat 4: edias80 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245447243309: Tournament #3632699788, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2023/08/17 18:12:48 AT [2023/08/17 17:12:48 ET]
+Table '3632699788 4' 4-max Seat #4 is the button
+Seat 1: hotlainblingas (590 in chips) 
+Seat 2: Caio Mugarte (595 in chips) 
+Seat 4: edias80 (815 in chips) 
+hotlainblingas: posts the ante 10
+Caio Mugarte: posts the ante 10
+edias80: posts the ante 10
+hotlainblingas: posts small blind 25
+Caio Mugarte: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s Jh]
+edias80: folds 
+hotlainblingas: calls 25
+Caio Mugarte: checks 
+*** FLOP *** [8c Td 5s]
+hotlainblingas: checks 
+Caio Mugarte: checks 
+*** TURN *** [8c Td 5s] [7d]
+hotlainblingas: checks 
+Caio Mugarte: bets 50
+hotlainblingas: folds 
+Uncalled bet (50) returned to Caio Mugarte
+Caio Mugarte collected 130 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [8c Td 5s 7d]
+Seat 1: hotlainblingas (small blind) folded on the Turn
+Seat 2: Caio Mugarte (big blind) collected (130)
+Seat 4: edias80 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245447252435: Tournament #3632699788, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2023/08/17 18:13:16 AT [2023/08/17 17:13:16 ET]
+Table '3632699788 4' 4-max Seat #1 is the button
+Seat 1: hotlainblingas (530 in chips) 
+Seat 2: Caio Mugarte (665 in chips) 
+Seat 4: edias80 (805 in chips) 
+hotlainblingas: posts the ante 10
+Caio Mugarte: posts the ante 10
+edias80: posts the ante 10
+Caio Mugarte: posts small blind 25
+edias80: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ks 7c]
+hotlainblingas: folds 
+Caio Mugarte: raises 605 to 655 and is all-in
+edias80: folds 
+Uncalled bet (605) returned to Caio Mugarte
+Caio Mugarte collected 130 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Seat 1: hotlainblingas (button) folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (small blind) collected (130)
+Seat 4: edias80 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245447257024: Tournament #3632699788, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2023/08/17 18:13:29 AT [2023/08/17 17:13:29 ET]
+Table '3632699788 4' 4-max Seat #2 is the button
+Seat 1: hotlainblingas (520 in chips) 
+Seat 2: Caio Mugarte (735 in chips) 
+Seat 4: edias80 (745 in chips) 
+hotlainblingas: posts the ante 20
+Caio Mugarte: posts the ante 20
+edias80: posts the ante 20
+edias80: posts small blind 50
+hotlainblingas: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s As]
+Caio Mugarte: raises 615 to 715 and is all-in
+edias80: folds 
+hotlainblingas: calls 400 and is all-in
+Uncalled bet (215) returned to Caio Mugarte
+*** FLOP *** [4d 4h Qh]
+*** TURN *** [4d 4h Qh] [3h]
+*** RIVER *** [4d 4h Qh 3h] [2d]
+*** SHOW DOWN ***
+hotlainblingas: shows [Jh Qd] (two pair, Queens and Fours)
+Caio Mugarte: shows [6s As] (a pair of Fours)
+hotlainblingas collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [4d 4h Qh 3h 2d]
+Seat 1: hotlainblingas (big blind) showed [Jh Qd] and won (1110) with two pair, Queens and Fours
+Seat 2: Caio Mugarte (button) showed [6s As] and lost with a pair of Fours
+Seat 4: edias80 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245447262728: Tournament #3632699788, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2023/08/17 18:13:46 AT [2023/08/17 17:13:46 ET]
+Table '3632699788 4' 4-max Seat #4 is the button
+Seat 1: hotlainblingas (1110 in chips) 
+Seat 2: Caio Mugarte (215 in chips) 
+Seat 4: edias80 (675 in chips) 
+hotlainblingas: posts the ante 20
+Caio Mugarte: posts the ante 20
+edias80: posts the ante 20
+hotlainblingas: posts small blind 50
+Caio Mugarte: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [As Kd]
+edias80: raises 555 to 655 and is all-in
+hotlainblingas: folds 
+Caio Mugarte: calls 95 and is all-in
+Uncalled bet (460) returned to edias80
+*** FLOP *** [8s 9c 3d]
+*** TURN *** [8s 9c 3d] [Ks]
+*** RIVER *** [8s 9c 3d Ks] [8h]
+*** SHOW DOWN ***
+Caio Mugarte: shows [As Kd] (two pair, Kings and Eights)
+edias80: shows [Ah 7s] (a pair of Eights)
+Caio Mugarte collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [8s 9c 3d Ks 8h]
+Seat 1: hotlainblingas (small blind) folded before Flop
+Seat 2: Caio Mugarte (big blind) showed [As Kd] and won (500) with two pair, Kings and Eights
+Seat 4: edias80 (button) showed [Ah 7s] and lost with a pair of Eights
+
+
+
+PokerStars Hand #245447268422: Tournament #3632699788, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2023/08/17 18:14:03 AT [2023/08/17 17:14:03 ET]
+Table '3632699788 4' 4-max Seat #1 is the button
+Seat 1: hotlainblingas (1040 in chips) 
+Seat 2: Caio Mugarte (500 in chips) 
+Seat 4: edias80 (460 in chips) 
+hotlainblingas: posts the ante 20
+Caio Mugarte: posts the ante 20
+edias80: posts the ante 20
+Caio Mugarte: posts small blind 50
+edias80: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc 7c]
+hotlainblingas: raises 920 to 1020 and is all-in
+Caio Mugarte: folds 
+edias80: calls 340 and is all-in
+Uncalled bet (580) returned to hotlainblingas
+*** FLOP *** [Jd Qs 4d]
+*** TURN *** [Jd Qs 4d] [4c]
+*** RIVER *** [Jd Qs 4d 4c] [8d]
+*** SHOW DOWN ***
+edias80: shows [Qd Ac] (two pair, Queens and Fours)
+hotlainblingas: shows [Ad 2h] (a pair of Fours)
+edias80 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [Jd Qs 4d 4c 8d]
+Seat 1: hotlainblingas (button) showed [Ad 2h] and lost with a pair of Fours
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 4: edias80 (big blind) showed [Qd Ac] and won (990) with two pair, Queens and Fours
+
+
+
+PokerStars Hand #245447277204: Tournament #3632699788, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level II (50/100) - 2023/08/17 18:14:29 AT [2023/08/17 17:14:29 ET]
+Table '3632699788 4' 4-max Seat #2 is the button
+Seat 1: hotlainblingas (580 in chips) 
+Seat 2: Caio Mugarte (430 in chips) 
+Seat 4: edias80 (990 in chips) 
+hotlainblingas: posts the ante 20
+Caio Mugarte: posts the ante 20
+edias80: posts the ante 20
+edias80: posts small blind 50
+hotlainblingas: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qs Kd]
+Caio Mugarte: raises 310 to 410 and is all-in
+edias80: raises 560 to 970 and is all-in
+hotlainblingas: folds 
+Uncalled bet (560) returned to edias80
+*** FLOP *** [Ad 9h 2c]
+*** TURN *** [Ad 9h 2c] [Ah]
+*** RIVER *** [Ad 9h 2c Ah] [7d]
+*** SHOW DOWN ***
+edias80: shows [3h 3d] (two pair, Aces and Threes)
+Caio Mugarte: shows [Qs Kd] (a pair of Aces)
+edias80 collected 980 from pot
+Caio Mugarte finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Ad 9h 2c Ah 7d]
+Seat 1: hotlainblingas (big blind) folded before Flop
+Seat 2: Caio Mugarte (button) showed [Qs Kd] and lost with a pair of Aces
+Seat 4: edias80 (small blind) showed [3h 3d] and won (980) with two pair, Aces and Threes
+
+
+

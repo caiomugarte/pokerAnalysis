@@ -1,0 +1,912 @@
+﻿PokerStars Hand #245425425254: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 14:58:31 AT [2023/08/16 13:58:31 ET]
+Table '3632184222 1' 3-max Seat #1 is the button
+Seat 1: HartCos (500 in chips) 
+Seat 2: Caio Mugarte (500 in chips) 
+Seat 3: zozoo99 (500 in chips) 
+Caio Mugarte: posts small blind 10
+zozoo99: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d 7s]
+HartCos: folds 
+Caio Mugarte: calls 10
+zozoo99: raises 40 to 60
+Caio Mugarte: folds 
+Uncalled bet (40) returned to zozoo99
+zozoo99 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: HartCos (button) folded before Flop (didn't bet)
+Seat 2: Caio Mugarte (small blind) folded before Flop
+Seat 3: zozoo99 (big blind) collected (40)
+
+
+
+PokerStars Hand #245425427598: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 14:58:42 AT [2023/08/16 13:58:42 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 1: HartCos (500 in chips) 
+Seat 2: Caio Mugarte (480 in chips) 
+Seat 3: zozoo99 (520 in chips) 
+zozoo99: posts small blind 10
+HartCos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc 3c]
+Caio Mugarte: folds 
+zozoo99: calls 10
+HartCos: checks 
+*** FLOP *** [9d 7d Qs]
+zozoo99: checks 
+HartCos: checks 
+*** TURN *** [9d 7d Qs] [9h]
+zozoo99: checks 
+HartCos: checks 
+*** RIVER *** [9d 7d Qs 9h] [8s]
+zozoo99: checks 
+HartCos: checks 
+*** SHOW DOWN ***
+zozoo99: shows [Ks 3s] (a pair of Nines)
+HartCos: shows [7c 4h] (two pair, Nines and Sevens)
+HartCos collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9d 7d Qs 9h 8s]
+Seat 1: HartCos (big blind) showed [7c 4h] and won (40) with two pair, Nines and Sevens
+Seat 2: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 3: zozoo99 (small blind) showed [Ks 3s] and lost with a pair of Nines
+
+
+
+PokerStars Hand #245425432689: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 14:59:06 AT [2023/08/16 13:59:06 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 1: HartCos (520 in chips) 
+Seat 2: Caio Mugarte (480 in chips) 
+Seat 3: zozoo99 (500 in chips) 
+HartCos: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kd Kh]
+zozoo99: folds 
+HartCos: calls 10
+Caio Mugarte: raises 40 to 60
+HartCos: calls 40
+*** FLOP *** [6h 4h 7s]
+HartCos: checks 
+Caio Mugarte: bets 60
+HartCos: folds 
+Uncalled bet (60) returned to Caio Mugarte
+Caio Mugarte collected 120 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6h 4h 7s]
+Seat 1: HartCos (small blind) folded on the Flop
+Seat 2: Caio Mugarte (big blind) collected (120)
+Seat 3: zozoo99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425439217: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 14:59:36 AT [2023/08/16 13:59:36 ET]
+Table '3632184222 1' 3-max Seat #1 is the button
+Seat 1: HartCos (460 in chips) 
+Seat 2: Caio Mugarte (540 in chips) 
+Seat 3: zozoo99 (500 in chips) 
+Caio Mugarte: posts small blind 10
+zozoo99: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc Ac]
+HartCos: raises 20 to 40
+Caio Mugarte: raises 100 to 140
+zozoo99: folds 
+HartCos: calls 100
+*** FLOP *** [4c 5d Kd]
+Caio Mugarte: bets 99
+HartCos: raises 221 to 320 and is all-in
+Caio Mugarte: calls 221
+*** TURN *** [4c 5d Kd] [7c]
+*** RIVER *** [4c 5d Kd 7c] [Th]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Kc Ac] (a pair of Kings)
+HartCos: shows [Ah 5c] (a pair of Fives)
+Caio Mugarte collected 940 from pot
+HartCos finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [4c 5d Kd 7c Th]
+Seat 1: HartCos (button) showed [Ah 5c] and lost with a pair of Fives
+Seat 2: Caio Mugarte (small blind) showed [Kc Ac] and won (940) with a pair of Kings
+Seat 3: zozoo99 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245425449080: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:00:20 AT [2023/08/16 14:00:20 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (1020 in chips) 
+Seat 3: zozoo99 (480 in chips) 
+zozoo99: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7h Th]
+zozoo99: calls 10
+Caio Mugarte: checks 
+*** FLOP *** [4d 2h 9c]
+Caio Mugarte: checks 
+zozoo99: bets 40
+Caio Mugarte: folds 
+Uncalled bet (40) returned to zozoo99
+zozoo99 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4d 2h 9c]
+Seat 2: Caio Mugarte (big blind) folded on the Flop
+Seat 3: zozoo99 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #245425454869: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:00:44 AT [2023/08/16 14:00:44 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (1000 in chips) 
+Seat 3: zozoo99 (500 in chips) 
+Caio Mugarte: posts small blind 15
+zozoo99: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc 5s]
+Caio Mugarte: calls 15
+zozoo99: checks 
+*** FLOP *** [7s 3h 6s]
+zozoo99: bets 60
+Caio Mugarte: folds 
+Uncalled bet (60) returned to zozoo99
+zozoo99 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s 3h 6s]
+Seat 2: Caio Mugarte (button) (small blind) folded on the Flop
+Seat 3: zozoo99 (big blind) collected (60)
+
+
+
+PokerStars Hand #245425459917: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:01:04 AT [2023/08/16 14:01:04 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (970 in chips) 
+Seat 3: zozoo99 (530 in chips) 
+zozoo99: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 8h]
+zozoo99: folds 
+Uncalled bet (15) returned to Caio Mugarte
+Caio Mugarte collected 30 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: Caio Mugarte (big blind) collected (30)
+Seat 3: zozoo99 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425461089: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:01:08 AT [2023/08/16 14:01:08 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (985 in chips) 
+Seat 3: zozoo99 (515 in chips) 
+Caio Mugarte: posts small blind 15
+zozoo99: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc 7h]
+Caio Mugarte: raises 45 to 75
+zozoo99: folds 
+Uncalled bet (45) returned to Caio Mugarte
+Caio Mugarte collected 60 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) collected (60)
+Seat 3: zozoo99 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245425465713: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:01:26 AT [2023/08/16 14:01:26 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (1015 in chips) 
+Seat 3: zozoo99 (485 in chips) 
+zozoo99: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d Tc]
+zozoo99: calls 15
+Caio Mugarte: checks 
+*** FLOP *** [2d 8s 9c]
+Caio Mugarte: checks 
+zozoo99: checks 
+*** TURN *** [2d 8s 9c] [Kd]
+Caio Mugarte: bets 30
+zozoo99: calls 30
+*** RIVER *** [2d 8s 9c Kd] [Ks]
+Caio Mugarte: checks 
+zozoo99: checks 
+*** SHOW DOWN ***
+Caio Mugarte: shows [8d Tc] (two pair, Kings and Eights)
+zozoo99: mucks hand 
+Caio Mugarte collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d 8s 9c Kd Ks]
+Seat 2: Caio Mugarte (big blind) showed [8d Tc] and won (120) with two pair, Kings and Eights
+Seat 3: zozoo99 (button) (small blind) mucked [7h Jh]
+
+
+
+PokerStars Hand #245425476591: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:02:04 AT [2023/08/16 14:02:04 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (1075 in chips) 
+Seat 3: zozoo99 (425 in chips) 
+Caio Mugarte: posts small blind 15
+zozoo99: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2h Jh]
+Caio Mugarte: raises 45 to 75
+zozoo99: raises 45 to 120
+Caio Mugarte: folds 
+Uncalled bet (45) returned to zozoo99
+zozoo99 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: zozoo99 (big blind) collected (150)
+
+
+
+PokerStars Hand #245425480312: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:02:17 AT [2023/08/16 14:02:17 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (1000 in chips) 
+Seat 3: zozoo99 (500 in chips) 
+zozoo99: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qd 7s]
+zozoo99: calls 15
+Caio Mugarte: checks 
+*** FLOP *** [5h Ad Kh]
+Caio Mugarte: checks 
+zozoo99: checks 
+*** TURN *** [5h Ad Kh] [Td]
+Caio Mugarte: checks 
+zozoo99: checks 
+*** RIVER *** [5h Ad Kh Td] [3h]
+Caio Mugarte: checks 
+zozoo99: checks 
+*** SHOW DOWN ***
+Caio Mugarte: shows [Qd 7s] (high card Ace)
+zozoo99: shows [5d Qc] (a pair of Fives)
+zozoo99 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5h Ad Kh Td 3h]
+Seat 2: Caio Mugarte (big blind) showed [Qd 7s] and lost with high card Ace
+Seat 3: zozoo99 (button) (small blind) showed [5d Qc] and won (60) with a pair of Fives
+
+
+
+PokerStars Hand #245425489322: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:02:48 AT [2023/08/16 14:02:48 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (970 in chips) 
+Seat 3: zozoo99 (530 in chips) 
+Caio Mugarte: posts small blind 20
+zozoo99: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2s 4s]
+Caio Mugarte: calls 20
+zozoo99: raises 490 to 530 and is all-in
+Caio Mugarte: folds 
+Uncalled bet (490) returned to zozoo99
+zozoo99 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: zozoo99 (big blind) collected (80)
+
+
+
+PokerStars Hand #245425491725: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:02:57 AT [2023/08/16 14:02:57 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (930 in chips) 
+Seat 3: zozoo99 (570 in chips) 
+zozoo99: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9h 5d]
+zozoo99: calls 20
+Caio Mugarte: checks 
+*** FLOP *** [7c 8d 7d]
+Caio Mugarte: checks 
+zozoo99: checks 
+*** TURN *** [7c 8d 7d] [Td]
+Caio Mugarte: checks 
+zozoo99: checks 
+*** RIVER *** [7c 8d 7d Td] [5h]
+Caio Mugarte: bets 40
+zozoo99: calls 40
+*** SHOW DOWN ***
+Caio Mugarte: shows [9h 5d] (two pair, Sevens and Fives)
+zozoo99: shows [Kc 5s] (two pair, Sevens and Fives - King kicker)
+zozoo99 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7c 8d 7d Td 5h]
+Seat 2: Caio Mugarte (big blind) showed [9h 5d] and lost with two pair, Sevens and Fives
+Seat 3: zozoo99 (button) (small blind) showed [Kc 5s] and won (160) with two pair, Sevens and Fives
+
+
+
+PokerStars Hand #245425502472: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:03:34 AT [2023/08/16 14:03:34 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (850 in chips) 
+Seat 3: zozoo99 (650 in chips) 
+Caio Mugarte: posts small blind 20
+zozoo99: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d Ac]
+Caio Mugarte: raises 810 to 850 and is all-in
+zozoo99: calls 610 and is all-in
+Uncalled bet (200) returned to Caio Mugarte
+*** FLOP *** [Kc 5d 6h]
+*** TURN *** [Kc 5d 6h] [Qc]
+*** RIVER *** [Kc 5d 6h Qc] [Ks]
+*** SHOW DOWN ***
+zozoo99: shows [As 7h] (a pair of Kings)
+Caio Mugarte: shows [4d Ac] (a pair of Kings - lower kicker)
+zozoo99 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [Kc 5d 6h Qc Ks]
+Seat 2: Caio Mugarte (button) (small blind) showed [4d Ac] and lost with a pair of Kings
+Seat 3: zozoo99 (big blind) showed [As 7h] and won (1300) with a pair of Kings
+
+
+
+PokerStars Hand #245425506628: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:03:48 AT [2023/08/16 14:03:48 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (200 in chips) 
+Seat 3: zozoo99 (1300 in chips) 
+zozoo99: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 3d]
+zozoo99: folds 
+Uncalled bet (20) returned to Caio Mugarte
+Caio Mugarte collected 40 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Caio Mugarte (big blind) collected (40)
+Seat 3: zozoo99 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425507861: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:03:53 AT [2023/08/16 14:03:53 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (220 in chips) 
+Seat 3: zozoo99 (1280 in chips) 
+Caio Mugarte: posts small blind 20
+zozoo99: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s 7s]
+Caio Mugarte: folds 
+Uncalled bet (20) returned to zozoo99
+zozoo99 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: zozoo99 (big blind) collected (40)
+
+
+
+PokerStars Hand #245425509194: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:03:57 AT [2023/08/16 14:03:57 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (200 in chips) 
+Seat 3: zozoo99 (1300 in chips) 
+zozoo99: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts Jc]
+zozoo99: calls 20
+Caio Mugarte: raises 160 to 200 and is all-in
+zozoo99: calls 160
+*** FLOP *** [8c 2c 9d]
+*** TURN *** [8c 2c 9d] [Qd]
+*** RIVER *** [8c 2c 9d Qd] [8h]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Ts Jc] (a straight, Eight to Queen)
+zozoo99: shows [4c 3s] (a pair of Eights)
+Caio Mugarte collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [8c 2c 9d Qd 8h]
+Seat 2: Caio Mugarte (big blind) showed [Ts Jc] and won (400) with a straight, Eight to Queen
+Seat 3: zozoo99 (button) (small blind) showed [4c 3s] and lost with a pair of Eights
+
+
+
+PokerStars Hand #245425515268: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:04:18 AT [2023/08/16 14:04:18 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (400 in chips) 
+Seat 3: zozoo99 (1100 in chips) 
+Caio Mugarte: posts small blind 20
+zozoo99: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4c 6s]
+Caio Mugarte: folds 
+Uncalled bet (20) returned to zozoo99
+zozoo99 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: zozoo99 (big blind) collected (40)
+
+
+
+PokerStars Hand #245425516727: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:04:23 AT [2023/08/16 14:04:23 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (380 in chips) 
+Seat 3: zozoo99 (1120 in chips) 
+zozoo99: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 5h]
+zozoo99: calls 20
+Caio Mugarte: checks 
+*** FLOP *** [4s 4c 6h]
+Caio Mugarte: checks 
+zozoo99: checks 
+*** TURN *** [4s 4c 6h] [8d]
+Caio Mugarte: checks 
+zozoo99: checks 
+*** RIVER *** [4s 4c 6h 8d] [Js]
+Caio Mugarte: checks 
+zozoo99: checks 
+*** SHOW DOWN ***
+Caio Mugarte: shows [9s 5h] (a pair of Fours)
+zozoo99: shows [Qs 5s] (a pair of Fours - Queen kicker)
+zozoo99 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s 4c 6h 8d Js]
+Seat 2: Caio Mugarte (big blind) showed [9s 5h] and lost with a pair of Fours
+Seat 3: zozoo99 (button) (small blind) showed [Qs 5s] and won (80) with a pair of Fours
+
+
+
+PokerStars Hand #245425523018: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2023/08/16 15:04:44 AT [2023/08/16 14:04:44 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (340 in chips) 
+Seat 3: zozoo99 (1160 in chips) 
+Caio Mugarte: posts small blind 30
+zozoo99: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8h Ad]
+Caio Mugarte: raises 280 to 340 and is all-in
+zozoo99: folds 
+Uncalled bet (280) returned to Caio Mugarte
+Caio Mugarte collected 120 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) collected (120)
+Seat 3: zozoo99 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245425527387: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2023/08/16 15:04:59 AT [2023/08/16 14:04:59 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (400 in chips) 
+Seat 3: zozoo99 (1100 in chips) 
+zozoo99: posts small blind 30
+Caio Mugarte: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2s Ah]
+zozoo99: calls 30
+Caio Mugarte: raises 340 to 400 and is all-in
+zozoo99: calls 340
+*** FLOP *** [7s Kd 6h]
+*** TURN *** [7s Kd 6h] [6c]
+*** RIVER *** [7s Kd 6h 6c] [3c]
+*** SHOW DOWN ***
+Caio Mugarte: shows [2s Ah] (a pair of Sixes)
+zozoo99: shows [8s 9h] (a pair of Sixes - lower kicker)
+Caio Mugarte collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [7s Kd 6h 6c 3c]
+Seat 2: Caio Mugarte (big blind) showed [2s Ah] and won (800) with a pair of Sixes
+Seat 3: zozoo99 (button) (small blind) showed [8s 9h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #245425532444: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2023/08/16 15:05:16 AT [2023/08/16 14:05:16 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (800 in chips) 
+Seat 3: zozoo99 (700 in chips) 
+Caio Mugarte: posts small blind 30
+zozoo99: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s Ts]
+Caio Mugarte: calls 30
+zozoo99: checks 
+*** FLOP *** [4c 5c 3h]
+zozoo99: checks 
+Caio Mugarte: bets 60
+zozoo99: calls 60
+*** TURN *** [4c 5c 3h] [Qc]
+zozoo99: checks 
+Caio Mugarte: checks 
+*** RIVER *** [4c 5c 3h Qc] [5h]
+zozoo99: checks 
+Caio Mugarte: checks 
+*** SHOW DOWN ***
+zozoo99: shows [7s 2h] (a pair of Fives)
+Caio Mugarte: shows [6s Ts] (a pair of Fives - Queen+Ten kicker)
+Caio Mugarte collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4c 5c 3h Qc 5h]
+Seat 2: Caio Mugarte (button) (small blind) showed [6s Ts] and won (240) with a pair of Fives
+Seat 3: zozoo99 (big blind) showed [7s 2h] and lost with a pair of Fives
+
+
+
+PokerStars Hand #245425538897: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2023/08/16 15:05:38 AT [2023/08/16 14:05:38 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (920 in chips) 
+Seat 3: zozoo99 (580 in chips) 
+zozoo99: posts small blind 30
+Caio Mugarte: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2s 4s]
+zozoo99: raises 520 to 580 and is all-in
+Caio Mugarte: folds 
+Uncalled bet (520) returned to zozoo99
+zozoo99 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Caio Mugarte (big blind) folded before Flop
+Seat 3: zozoo99 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #245425542482: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2023/08/16 15:05:51 AT [2023/08/16 14:05:51 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (860 in chips) 
+Seat 3: zozoo99 (640 in chips) 
+Caio Mugarte: posts small blind 30
+zozoo99: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kh Kc]
+Caio Mugarte: calls 30
+zozoo99: checks 
+*** FLOP *** [Qs 7h 9s]
+zozoo99: checks 
+Caio Mugarte: bets 60
+zozoo99: folds 
+Uncalled bet (60) returned to Caio Mugarte
+Caio Mugarte collected 120 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs 7h 9s]
+Seat 2: Caio Mugarte (button) (small blind) collected (120)
+Seat 3: zozoo99 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245425549802: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2023/08/16 15:06:16 AT [2023/08/16 14:06:16 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (920 in chips) 
+Seat 3: zozoo99 (580 in chips) 
+zozoo99: posts small blind 30
+Caio Mugarte: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 2h]
+zozoo99: calls 30
+Caio Mugarte: checks 
+*** FLOP *** [Ac 7h 9c]
+Caio Mugarte: checks 
+zozoo99: checks 
+*** TURN *** [Ac 7h 9c] [8s]
+Caio Mugarte: bets 60
+zozoo99: folds 
+Uncalled bet (60) returned to Caio Mugarte
+Caio Mugarte collected 120 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ac 7h 9c 8s]
+Seat 2: Caio Mugarte (big blind) collected (120)
+Seat 3: zozoo99 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #245425560295: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:06:51 AT [2023/08/16 14:06:51 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (980 in chips) 
+Seat 3: zozoo99 (520 in chips) 
+Caio Mugarte: posts small blind 40
+zozoo99: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c Qd]
+Caio Mugarte: folds 
+Uncalled bet (40) returned to zozoo99
+zozoo99 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: zozoo99 (big blind) collected (80)
+
+
+
+PokerStars Hand #245425562731: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:07:00 AT [2023/08/16 14:07:00 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (940 in chips) 
+Seat 3: zozoo99 (560 in chips) 
+zozoo99: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jd Tc]
+zozoo99: raises 480 to 560 and is all-in
+Caio Mugarte: calls 480
+*** FLOP *** [4c 7c 7s]
+*** TURN *** [4c 7c 7s] [Qh]
+*** RIVER *** [4c 7c 7s Qh] [4h]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Jd Tc] (two pair, Sevens and Fours)
+zozoo99: shows [Kd Qs] (two pair, Queens and Sevens)
+zozoo99 collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [4c 7c 7s Qh 4h]
+Seat 2: Caio Mugarte (big blind) showed [Jd Tc] and lost with two pair, Sevens and Fours
+Seat 3: zozoo99 (button) (small blind) showed [Kd Qs] and won (1120) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #245425566371: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:07:12 AT [2023/08/16 14:07:12 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (380 in chips) 
+Seat 3: zozoo99 (1120 in chips) 
+Caio Mugarte: posts small blind 40
+zozoo99: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s 9s]
+Caio Mugarte: folds 
+Uncalled bet (40) returned to zozoo99
+zozoo99 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: zozoo99 (big blind) collected (80)
+
+
+
+PokerStars Hand #245425567832: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:07:17 AT [2023/08/16 14:07:17 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (340 in chips) 
+Seat 3: zozoo99 (1160 in chips) 
+zozoo99: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5c Qs]
+zozoo99: folds 
+Uncalled bet (40) returned to Caio Mugarte
+Caio Mugarte collected 80 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Caio Mugarte (big blind) collected (80)
+Seat 3: zozoo99 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425569100: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:07:21 AT [2023/08/16 14:07:21 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (380 in chips) 
+Seat 3: zozoo99 (1120 in chips) 
+Caio Mugarte: posts small blind 40
+zozoo99: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qd 9h]
+Caio Mugarte: raises 300 to 380 and is all-in
+zozoo99: folds 
+Uncalled bet (300) returned to Caio Mugarte
+Caio Mugarte collected 160 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) collected (160)
+Seat 3: zozoo99 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245425571516: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:07:30 AT [2023/08/16 14:07:30 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (460 in chips) 
+Seat 3: zozoo99 (1040 in chips) 
+zozoo99: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8s 8c]
+zozoo99: calls 40
+Caio Mugarte: raises 380 to 460 and is all-in
+zozoo99: folds 
+Uncalled bet (380) returned to Caio Mugarte
+Caio Mugarte collected 160 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: Caio Mugarte (big blind) collected (160)
+Seat 3: zozoo99 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425575583: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:07:44 AT [2023/08/16 14:07:44 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (540 in chips) 
+Seat 3: zozoo99 (960 in chips) 
+Caio Mugarte: posts small blind 40
+zozoo99: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c 8d]
+Caio Mugarte: folds 
+Uncalled bet (40) returned to zozoo99
+zozoo99 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: zozoo99 (big blind) collected (80)
+
+
+
+PokerStars Hand #245425577356: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:07:50 AT [2023/08/16 14:07:50 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (500 in chips) 
+Seat 3: zozoo99 (1000 in chips) 
+zozoo99: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s 8h]
+zozoo99: folds 
+Uncalled bet (40) returned to Caio Mugarte
+Caio Mugarte collected 80 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Caio Mugarte (big blind) collected (80)
+Seat 3: zozoo99 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425578491: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:07:54 AT [2023/08/16 14:07:54 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (540 in chips) 
+Seat 3: zozoo99 (960 in chips) 
+Caio Mugarte: posts small blind 40
+zozoo99: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Js 5c]
+Caio Mugarte: folds 
+Uncalled bet (40) returned to zozoo99
+zozoo99 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: zozoo99 (big blind) collected (80)
+
+
+
+PokerStars Hand #245425580172: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:07:59 AT [2023/08/16 14:07:59 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (500 in chips) 
+Seat 3: zozoo99 (1000 in chips) 
+zozoo99: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8h Qh]
+zozoo99: folds 
+Uncalled bet (40) returned to Caio Mugarte
+Caio Mugarte collected 80 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Caio Mugarte (big blind) collected (80)
+Seat 3: zozoo99 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425582076: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:08:06 AT [2023/08/16 14:08:06 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (540 in chips) 
+Seat 3: zozoo99 (960 in chips) 
+Caio Mugarte: posts small blind 40
+zozoo99: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d Js]
+Caio Mugarte: folds 
+Uncalled bet (40) returned to zozoo99
+zozoo99 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: zozoo99 (big blind) collected (80)
+
+
+
+PokerStars Hand #245425583455: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:08:10 AT [2023/08/16 14:08:10 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (500 in chips) 
+Seat 3: zozoo99 (1000 in chips) 
+zozoo99: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kd Qh]
+zozoo99: calls 40
+Caio Mugarte: raises 420 to 500 and is all-in
+zozoo99: calls 420
+*** FLOP *** [4d Qs Kc]
+*** TURN *** [4d Qs Kc] [Js]
+*** RIVER *** [4d Qs Kc Js] [4h]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Kd Qh] (two pair, Kings and Queens)
+zozoo99: shows [3h Jh] (two pair, Jacks and Fours)
+Caio Mugarte collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [4d Qs Kc Js 4h]
+Seat 2: Caio Mugarte (big blind) showed [Kd Qh] and won (1000) with two pair, Kings and Queens
+Seat 3: zozoo99 (button) (small blind) showed [3h Jh] and lost with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #245425588312: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level V (40/80) - 2023/08/16 15:08:27 AT [2023/08/16 14:08:27 ET]
+Table '3632184222 1' 3-max Seat #2 is the button
+Seat 2: Caio Mugarte (1000 in chips) 
+Seat 3: zozoo99 (500 in chips) 
+Caio Mugarte: posts small blind 40
+zozoo99: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d Ts]
+Caio Mugarte: folds 
+Uncalled bet (40) returned to zozoo99
+zozoo99 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: zozoo99 (big blind) collected (80)
+
+
+
+PokerStars Hand #245425591074: Tournament #3632184222, $0.46+$0.04 USD Hold'em No Limit - Level VI (50/100) - 2023/08/16 15:08:36 AT [2023/08/16 14:08:36 ET]
+Table '3632184222 1' 3-max Seat #3 is the button
+Seat 2: Caio Mugarte (960 in chips) 
+Seat 3: zozoo99 (540 in chips) 
+zozoo99: posts small blind 50
+Caio Mugarte: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc Qc]
+zozoo99: calls 50
+Caio Mugarte: raises 860 to 960 and is all-in
+zozoo99: calls 440 and is all-in
+Uncalled bet (420) returned to Caio Mugarte
+*** FLOP *** [3c Kd 9s]
+*** TURN *** [3c Kd 9s] [9c]
+*** RIVER *** [3c Kd 9s 9c] [8s]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Jc Qc] (a pair of Nines)
+zozoo99: shows [Qs 7s] (a pair of Nines - lower kicker)
+Caio Mugarte collected 1080 from pot
+zozoo99 finished the tournament in 2nd place
+Caio Mugarte wins the tournament - congratulations!
+Caio Mugarte wins a '$1.50 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [3c Kd 9s 9c 8s]
+Seat 2: Caio Mugarte (big blind) showed [Jc Qc] and won (1080) with a pair of Nines
+Seat 3: zozoo99 (button) (small blind) showed [Qs 7s] and lost with a pair of Nines
+
+
+

@@ -1,0 +1,4175 @@
+﻿PokerStars Hand #245424164248: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:39:20 AT [2023/08/16 12:39:20 ET]
+Table '3632150804 1' 9-max Seat #2 is the button
+Seat 1: Caio Mugarte (1500 in chips) 
+Seat 2: the vege (1061 in chips) 
+Seat 3: Summer-High (1176 in chips) 
+Seat 4: gatoalicia (1446 in chips) 
+Seat 5: falzam (2917 in chips) 
+Seat 6: LukoviciusIam (2291 in chips) 
+Seat 7: wusy76 (1609 in chips) 
+Seat 8: Alexjef90 (1117 in chips) 
+Seat 9: Tr1ncho (1553 in chips) 
+Caio Mugarte: posts the ante 3
+the vege: posts the ante 3
+Summer-High: posts the ante 3
+gatoalicia: posts the ante 3
+falzam: posts the ante 3
+LukoviciusIam: posts the ante 3
+wusy76: posts the ante 3
+Alexjef90: posts the ante 3
+Tr1ncho: posts the ante 3
+Summer-High: posts small blind 10
+gatoalicia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5c 4h]
+falzam: calls 20
+LukoviciusIam: calls 20
+wusy76: folds 
+Alexjef90: folds 
+Tr1ncho: folds 
+Caio Mugarte: folds 
+the vege: calls 20
+Summer-High: raises 20 to 40
+gatoalicia: folds 
+falzam: calls 20
+LukoviciusIam: calls 20
+the vege: calls 20
+*** FLOP *** [7d Th Jc]
+Summer-High: bets 104
+falzam: folds 
+LukoviciusIam: folds 
+the vege: folds 
+Uncalled bet (104) returned to Summer-High
+Summer-High collected 207 from pot
+Summer-High: doesn't show hand 
+*** SUMMARY ***
+Total pot 207 | Rake 0 
+Board [7d Th Jc]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 2: the vege (button) folded on the Flop
+Seat 3: Summer-High (small blind) collected (207)
+Seat 4: gatoalicia (big blind) folded before Flop
+Seat 5: falzam folded on the Flop
+Seat 6: LukoviciusIam folded on the Flop
+Seat 7: wusy76 folded before Flop (didn't bet)
+Seat 8: Alexjef90 folded before Flop (didn't bet)
+Seat 9: Tr1ncho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424174212: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:39:58 AT [2023/08/16 12:39:58 ET]
+Table '3632150804 1' 9-max Seat #3 is the button
+Seat 1: Caio Mugarte (1497 in chips) 
+Seat 2: the vege (1018 in chips) 
+Seat 3: Summer-High (1340 in chips) 
+Seat 4: gatoalicia (1423 in chips) 
+Seat 5: falzam (2874 in chips) 
+Seat 6: LukoviciusIam (2248 in chips) 
+Seat 7: wusy76 (1606 in chips) 
+Seat 8: Alexjef90 (1114 in chips) 
+Seat 9: Tr1ncho (1550 in chips) 
+Caio Mugarte: posts the ante 3
+the vege: posts the ante 3
+Summer-High: posts the ante 3
+gatoalicia: posts the ante 3
+falzam: posts the ante 3
+LukoviciusIam: posts the ante 3
+wusy76: posts the ante 3
+Alexjef90: posts the ante 3
+Tr1ncho: posts the ante 3
+gatoalicia: posts small blind 10
+falzam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8c Jd]
+LukoviciusIam: calls 20
+wusy76: calls 20
+Alexjef90: folds 
+Tr1ncho: raises 80 to 100
+Caio Mugarte: folds 
+the vege: folds 
+Summer-High: folds 
+gatoalicia: folds 
+falzam: folds 
+LukoviciusIam: calls 80
+wusy76: folds 
+*** FLOP *** [Kd Kc 7s]
+LukoviciusIam: checks 
+Tr1ncho: checks 
+*** TURN *** [Kd Kc 7s] [7h]
+LukoviciusIam: checks 
+Tr1ncho: bets 86
+LukoviciusIam: folds 
+Uncalled bet (86) returned to Tr1ncho
+Tr1ncho collected 277 from pot
+Tr1ncho: doesn't show hand 
+*** SUMMARY ***
+Total pot 277 | Rake 0 
+Board [Kd Kc 7s 7h]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 2: the vege folded before Flop (didn't bet)
+Seat 3: Summer-High (button) folded before Flop (didn't bet)
+Seat 4: gatoalicia (small blind) folded before Flop
+Seat 5: falzam (big blind) folded before Flop
+Seat 6: LukoviciusIam folded on the Turn
+Seat 7: wusy76 folded before Flop
+Seat 8: Alexjef90 folded before Flop (didn't bet)
+Seat 9: Tr1ncho collected (277)
+
+
+
+PokerStars Hand #245424181777: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:40:26 AT [2023/08/16 12:40:26 ET]
+Table '3632150804 1' 9-max Seat #4 is the button
+Seat 1: Caio Mugarte (1494 in chips) 
+Seat 2: the vege (1015 in chips) 
+Seat 3: Summer-High (1337 in chips) 
+Seat 4: gatoalicia (1410 in chips) 
+Seat 5: falzam (2851 in chips) 
+Seat 6: LukoviciusIam (2145 in chips) 
+Seat 7: wusy76 (1583 in chips) 
+Seat 8: Alexjef90 (1111 in chips) 
+Seat 9: Tr1ncho (1724 in chips) 
+Caio Mugarte: posts the ante 3
+the vege: posts the ante 3
+Summer-High: posts the ante 3
+gatoalicia: posts the ante 3
+falzam: posts the ante 3
+LukoviciusIam: posts the ante 3
+wusy76: posts the ante 3
+Alexjef90: posts the ante 3
+Tr1ncho: posts the ante 3
+falzam: posts small blind 10
+LukoviciusIam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9h Jc]
+wusy76: calls 20
+Alexjef90: folds 
+Tr1ncho: folds 
+Caio Mugarte: folds 
+the vege: folds 
+Summer-High: calls 20
+gatoalicia: folds 
+falzam: calls 10
+LukoviciusIam: checks 
+*** FLOP *** [7d Qs 9s]
+falzam: bets 20
+LukoviciusIam: folds 
+wusy76: folds 
+Summer-High: calls 20
+*** TURN *** [7d Qs 9s] [3d]
+falzam: bets 60
+Summer-High: folds 
+Uncalled bet (60) returned to falzam
+falzam collected 147 from pot
+falzam: doesn't show hand 
+*** SUMMARY ***
+Total pot 147 | Rake 0 
+Board [7d Qs 9s 3d]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 2: the vege folded before Flop (didn't bet)
+Seat 3: Summer-High folded on the Turn
+Seat 4: gatoalicia (button) folded before Flop (didn't bet)
+Seat 5: falzam (small blind) collected (147)
+Seat 6: LukoviciusIam (big blind) folded on the Flop
+Seat 7: wusy76 folded on the Flop
+Seat 8: Alexjef90 folded before Flop (didn't bet)
+Seat 9: Tr1ncho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424195325: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:41:18 AT [2023/08/16 12:41:18 ET]
+Table '3632150804 1' 9-max Seat #5 is the button
+Seat 1: Caio Mugarte (1491 in chips) 
+Seat 2: the vege (1012 in chips) 
+Seat 3: Summer-High (1294 in chips) 
+Seat 4: gatoalicia (1407 in chips) 
+Seat 5: falzam (2955 in chips) 
+Seat 6: LukoviciusIam (2122 in chips) 
+Seat 7: wusy76 (1560 in chips) 
+Seat 8: Alexjef90 (1108 in chips) 
+Seat 9: Tr1ncho (1721 in chips) 
+Caio Mugarte: posts the ante 3
+the vege: posts the ante 3
+Summer-High: posts the ante 3
+gatoalicia: posts the ante 3
+falzam: posts the ante 3
+LukoviciusIam: posts the ante 3
+wusy76: posts the ante 3
+Alexjef90: posts the ante 3
+Tr1ncho: posts the ante 3
+LukoviciusIam: posts small blind 10
+wusy76: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc Qd]
+Alexjef90: folds 
+Tr1ncho: raises 30 to 50
+Caio Mugarte: folds 
+the vege: calls 50
+Summer-High: calls 50
+gatoalicia: folds 
+falzam: folds 
+LukoviciusIam: folds 
+wusy76: calls 30
+*** FLOP *** [Qh 7d 8h]
+wusy76: checks 
+Tr1ncho: bets 120
+the vege: folds 
+Summer-High: folds 
+wusy76: folds 
+Uncalled bet (120) returned to Tr1ncho
+Tr1ncho collected 237 from pot
+Tr1ncho: doesn't show hand 
+*** SUMMARY ***
+Total pot 237 | Rake 0 
+Board [Qh 7d 8h]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 2: the vege folded on the Flop
+Seat 3: Summer-High folded on the Flop
+Seat 4: gatoalicia folded before Flop (didn't bet)
+Seat 5: falzam (button) folded before Flop (didn't bet)
+Seat 6: LukoviciusIam (small blind) folded before Flop
+Seat 7: wusy76 (big blind) folded on the Flop
+Seat 8: Alexjef90 folded before Flop (didn't bet)
+Seat 9: Tr1ncho collected (237)
+
+
+
+PokerStars Hand #245424204769: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:41:54 AT [2023/08/16 12:41:54 ET]
+Table '3632150804 1' 9-max Seat #6 is the button
+Seat 1: Caio Mugarte (1488 in chips) 
+Seat 3: Summer-High (1241 in chips) 
+Seat 4: gatoalicia (1404 in chips) 
+Seat 5: falzam (2952 in chips) 
+Seat 6: LukoviciusIam (2109 in chips) 
+Seat 7: wusy76 (1507 in chips) 
+Seat 8: Alexjef90 (1105 in chips) 
+Seat 9: Tr1ncho (1905 in chips) 
+Caio Mugarte: posts the ante 3
+Summer-High: posts the ante 3
+gatoalicia: posts the ante 3
+falzam: posts the ante 3
+LukoviciusIam: posts the ante 3
+wusy76: posts the ante 3
+Alexjef90: posts the ante 3
+Tr1ncho: posts the ante 3
+wusy76: posts small blind 10
+Alexjef90: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6d 5s]
+Tr1ncho: folds 
+Caio Mugarte: folds 
+Summer-High: folds 
+gatoalicia: folds 
+falzam: calls 20
+LukoviciusIam: calls 20
+wusy76: calls 10
+Alexjef90: checks 
+*** FLOP *** [Ac Jd 3h]
+wusy76: checks 
+Alexjef90: checks 
+falzam: checks 
+LukoviciusIam: bets 40
+wusy76: folds 
+Alexjef90: folds 
+falzam: calls 40
+*** TURN *** [Ac Jd 3h] [8c]
+falzam: checks 
+LukoviciusIam: bets 80
+falzam: folds 
+Uncalled bet (80) returned to LukoviciusIam
+LukoviciusIam collected 184 from pot
+LukoviciusIam: doesn't show hand 
+*** SUMMARY ***
+Total pot 184 | Rake 0 
+Board [Ac Jd 3h 8c]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: Summer-High folded before Flop (didn't bet)
+Seat 4: gatoalicia folded before Flop (didn't bet)
+Seat 5: falzam folded on the Turn
+Seat 6: LukoviciusIam (button) collected (184)
+Seat 7: wusy76 (small blind) folded on the Flop
+Seat 8: Alexjef90 (big blind) folded on the Flop
+Seat 9: Tr1ncho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424215882: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:42:36 AT [2023/08/16 12:42:36 ET]
+Table '3632150804 1' 9-max Seat #7 is the button
+Seat 1: Caio Mugarte (1485 in chips) 
+Seat 3: Summer-High (1238 in chips) 
+Seat 4: gatoalicia (1401 in chips) 
+Seat 5: falzam (2889 in chips) 
+Seat 6: LukoviciusIam (2230 in chips) 
+Seat 7: wusy76 (1484 in chips) 
+Seat 8: Alexjef90 (1082 in chips) 
+Seat 9: Tr1ncho (1902 in chips) 
+Caio Mugarte: posts the ante 3
+Summer-High: posts the ante 3
+gatoalicia: posts the ante 3
+falzam: posts the ante 3
+LukoviciusIam: posts the ante 3
+wusy76: posts the ante 3
+Alexjef90: posts the ante 3
+Tr1ncho: posts the ante 3
+Alexjef90: posts small blind 10
+Tr1ncho: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad 2c]
+Caio Mugarte: folds 
+Summer-High: folds 
+gatoalicia: raises 20 to 40
+falzam: calls 40
+LukoviciusIam: folds 
+wusy76: calls 40
+Alexjef90: calls 30
+Tr1ncho: folds 
+*** FLOP *** [9c 7s 4d]
+Alexjef90: bets 106
+gatoalicia: folds 
+falzam: folds 
+wusy76: calls 106
+*** TURN *** [9c 7s 4d] [3h]
+Alexjef90: bets 300
+wusy76: calls 300
+*** RIVER *** [9c 7s 4d 3h] [Th]
+Alexjef90: checks 
+wusy76: bets 1035 and is all-in
+Alexjef90: calls 633 and is all-in
+Uncalled bet (402) returned to wusy76
+*** SHOW DOWN ***
+wusy76: shows [Ts 8s] (a pair of Tens)
+Alexjef90: shows [Jd 9h] (a pair of Nines)
+wusy76 collected 2282 from pot
+Alexjef90 finished the tournament in 39th place
+*** SUMMARY ***
+Total pot 2282 | Rake 0 
+Board [9c 7s 4d 3h Th]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 3: Summer-High folded before Flop (didn't bet)
+Seat 4: gatoalicia folded on the Flop
+Seat 5: falzam folded on the Flop
+Seat 6: LukoviciusIam folded before Flop (didn't bet)
+Seat 7: wusy76 (button) showed [Ts 8s] and won (2282) with a pair of Tens
+Seat 8: Alexjef90 (small blind) showed [Jd 9h] and lost with a pair of Nines
+Seat 9: Tr1ncho (big blind) folded before Flop
+
+
+
+PokerStars Hand #245424228050: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 13:43:22 AT [2023/08/16 12:43:22 ET]
+Table '3632150804 1' 9-max Seat #9 is the button
+Seat 1: Caio Mugarte (1482 in chips) 
+Seat 3: Summer-High (1235 in chips) 
+Seat 4: gatoalicia (1358 in chips) 
+Seat 5: falzam (2846 in chips) 
+Seat 6: LukoviciusIam (2227 in chips) 
+Seat 7: wusy76 (2684 in chips) 
+Seat 9: Tr1ncho (1879 in chips) 
+Caio Mugarte: posts the ante 3
+Summer-High: posts the ante 3
+gatoalicia: posts the ante 3
+falzam: posts the ante 3
+LukoviciusIam: posts the ante 3
+wusy76: posts the ante 3
+Tr1ncho: posts the ante 3
+Caio Mugarte: posts small blind 10
+Summer-High: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ah Jd]
+gatoalicia: raises 20 to 40
+falzam: folds 
+LukoviciusIam: folds 
+wusy76: folds 
+Tr1ncho: raises 80 to 120
+Caio Mugarte: folds 
+Summer-High: folds 
+gatoalicia: calls 80
+*** FLOP *** [9s Jh 6h]
+gatoalicia: checks 
+Tr1ncho: bets 90
+gatoalicia: folds 
+Uncalled bet (90) returned to Tr1ncho
+Tr1ncho collected 291 from pot
+Tr1ncho: doesn't show hand 
+*** SUMMARY ***
+Total pot 291 | Rake 0 
+Board [9s Jh 6h]
+Seat 1: Caio Mugarte (small blind) folded before Flop
+Seat 3: Summer-High (big blind) folded before Flop
+Seat 4: gatoalicia folded on the Flop
+Seat 5: falzam folded before Flop (didn't bet)
+Seat 6: LukoviciusIam folded before Flop (didn't bet)
+Seat 7: wusy76 folded before Flop (didn't bet)
+Seat 9: Tr1ncho (button) collected (291)
+
+
+
+PokerStars Hand #245424240257: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:44:08 AT [2023/08/16 12:44:08 ET]
+Table '3632150804 1' 9-max Seat #1 is the button
+Seat 1: Caio Mugarte (1469 in chips) 
+Seat 3: Summer-High (1212 in chips) 
+Seat 4: gatoalicia (1235 in chips) 
+Seat 5: falzam (2843 in chips) 
+Seat 6: LukoviciusIam (2224 in chips) 
+Seat 7: wusy76 (2681 in chips) 
+Seat 9: Tr1ncho (2047 in chips) 
+Caio Mugarte: posts the ante 4
+Summer-High: posts the ante 4
+gatoalicia: posts the ante 4
+falzam: posts the ante 4
+LukoviciusIam: posts the ante 4
+wusy76: posts the ante 4
+Tr1ncho: posts the ante 4
+Summer-High: posts small blind 15
+gatoalicia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7d 6h]
+falzam: raises 30 to 60
+LukoviciusIam: calls 60
+wusy76: calls 60
+Tr1ncho: folds 
+Caio Mugarte: folds 
+Summer-High: folds 
+gatoalicia: raises 283 to 343
+falzam: calls 283
+LukoviciusIam: folds 
+wusy76: folds 
+*** FLOP *** [5c 7s Td]
+gatoalicia: bets 888 and is all-in
+falzam: calls 888
+*** TURN *** [5c 7s Td] [Jc]
+*** RIVER *** [5c 7s Td Jc] [4h]
+*** SHOW DOWN ***
+gatoalicia: shows [Ac Qd] (high card Ace)
+falzam: shows [5h Ah] (a pair of Fives)
+falzam collected 2625 from pot
+gatoalicia finished the tournament in 37th place
+*** SUMMARY ***
+Total pot 2625 | Rake 0 
+Board [5c 7s Td Jc 4h]
+Seat 1: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 3: Summer-High (small blind) folded before Flop
+Seat 4: gatoalicia (big blind) showed [Ac Qd] and lost with high card Ace
+Seat 5: falzam showed [5h Ah] and won (2625) with a pair of Fives
+Seat 6: LukoviciusIam folded before Flop
+Seat 7: wusy76 folded before Flop
+Seat 9: Tr1ncho folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424267186: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:45:49 AT [2023/08/16 12:45:49 ET]
+Table '3632150804 3' 9-max Seat #6 is the button
+Seat 1: bip br (1436 in chips) 
+Seat 2: P34CE (1426 in chips) 
+Seat 3: Caio Mugarte (1465 in chips) 
+Seat 4: Jfariass (2931 in chips) 
+Seat 5: Summer-High (1193 in chips) 
+Seat 6: lucasveiga20 (2053 in chips) 
+Seat 7: redprado (1406 in chips) 
+Seat 8: 0Victorinox0 (2528 in chips) 
+Seat 9: arandanos4m (1386 in chips) 
+bip br: posts the ante 4
+P34CE: posts the ante 4
+Caio Mugarte: posts the ante 4
+Jfariass: posts the ante 4
+Summer-High: posts the ante 4
+lucasveiga20: posts the ante 4
+redprado: posts the ante 4
+0Victorinox0: posts the ante 4
+arandanos4m: posts the ante 4
+redprado: posts small blind 15
+0Victorinox0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7s 8c]
+arandanos4m: calls 30
+bip br: folds 
+P34CE: folds 
+Caio Mugarte: folds 
+Jfariass: folds 
+Summer-High: calls 30
+lucasveiga20: folds 
+redprado: folds 
+0Victorinox0: checks 
+*** FLOP *** [7d Tc 9s]
+0Victorinox0: checks 
+arandanos4m: checks 
+Summer-High: checks 
+*** TURN *** [7d Tc 9s] [Ac]
+0Victorinox0: checks 
+arandanos4m: checks 
+Summer-High: bets 60
+0Victorinox0: calls 60
+arandanos4m: calls 60
+*** RIVER *** [7d Tc 9s Ac] [Ts]
+0Victorinox0: checks 
+arandanos4m: checks 
+Summer-High: checks 
+*** SHOW DOWN ***
+0Victorinox0: shows [5s 5d] (two pair, Tens and Fives)
+arandanos4m: shows [Kc As] (two pair, Aces and Tens)
+Summer-High: mucks hand 
+arandanos4m collected 321 from pot
+*** SUMMARY ***
+Total pot 321 | Rake 0 
+Board [7d Tc 9s Ac Ts]
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE folded before Flop (didn't bet)
+Seat 3: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High mucked [4d Ad]
+Seat 6: lucasveiga20 (button) folded before Flop (didn't bet)
+Seat 7: redprado (small blind) folded before Flop
+Seat 8: 0Victorinox0 (big blind) showed [5s 5d] and lost with two pair, Tens and Fives
+Seat 9: arandanos4m showed [Kc As] and won (321) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #245424284012: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:46:53 AT [2023/08/16 12:46:53 ET]
+Table '3632150804 3' 9-max Seat #7 is the button
+Seat 1: bip br (1432 in chips) 
+Seat 2: P34CE (1422 in chips) 
+Seat 3: Caio Mugarte (1461 in chips) 
+Seat 4: Jfariass (2927 in chips) 
+Seat 5: Summer-High (1099 in chips) 
+Seat 6: lucasveiga20 (2049 in chips) 
+Seat 7: redprado (1387 in chips) 
+Seat 8: 0Victorinox0 (2434 in chips) 
+Seat 9: arandanos4m (1613 in chips) 
+bip br: posts the ante 4
+P34CE: posts the ante 4
+Caio Mugarte: posts the ante 4
+Jfariass: posts the ante 4
+Summer-High: posts the ante 4
+lucasveiga20: posts the ante 4
+redprado: posts the ante 4
+0Victorinox0: posts the ante 4
+arandanos4m: posts the ante 4
+0Victorinox0: posts small blind 15
+arandanos4m: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c 3h]
+bip br: folds 
+P34CE: folds 
+Caio Mugarte: folds 
+Jfariass: folds 
+Summer-High: raises 30 to 60
+lucasveiga20: folds 
+redprado: folds 
+0Victorinox0: calls 45
+arandanos4m: calls 30
+*** FLOP *** [4h 8h 2d]
+0Victorinox0: checks 
+arandanos4m: checks 
+Summer-High: checks 
+*** TURN *** [4h 8h 2d] [Td]
+0Victorinox0: bets 90
+arandanos4m: calls 90
+Summer-High: folds 
+*** RIVER *** [4h 8h 2d Td] [Qd]
+0Victorinox0: bets 60
+arandanos4m: calls 60
+*** SHOW DOWN ***
+0Victorinox0: shows [Qs 5s] (a pair of Queens)
+arandanos4m: mucks hand 
+0Victorinox0 collected 516 from pot
+*** SUMMARY ***
+Total pot 516 | Rake 0 
+Board [4h 8h 2d Td Qd]
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE folded before Flop (didn't bet)
+Seat 3: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High folded on the Turn
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 7: redprado (button) folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 (small blind) showed [Qs 5s] and won (516) with a pair of Queens
+Seat 9: arandanos4m (big blind) mucked [8c As]
+
+
+
+PokerStars Hand #245424301254: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:47:58 AT [2023/08/16 12:47:58 ET]
+Table '3632150804 3' 9-max Seat #8 is the button
+Seat 1: bip br (1428 in chips) 
+Seat 2: P34CE (1418 in chips) 
+Seat 3: Caio Mugarte (1457 in chips) 
+Seat 4: Jfariass (2923 in chips) 
+Seat 5: Summer-High (1035 in chips) 
+Seat 6: lucasveiga20 (2045 in chips) 
+Seat 7: redprado (1383 in chips) 
+Seat 8: 0Victorinox0 (2736 in chips) 
+Seat 9: arandanos4m (1399 in chips) 
+bip br: posts the ante 4
+P34CE: posts the ante 4
+Caio Mugarte: posts the ante 4
+Jfariass: posts the ante 4
+Summer-High: posts the ante 4
+lucasveiga20: posts the ante 4
+redprado: posts the ante 4
+0Victorinox0: posts the ante 4
+arandanos4m: posts the ante 4
+arandanos4m: posts small blind 15
+bip br: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [As Qh]
+P34CE: folds 
+Caio Mugarte: raises 30 to 60
+Jfariass: folds 
+Summer-High: folds 
+lucasveiga20: folds 
+redprado: folds 
+0Victorinox0: calls 60
+arandanos4m: folds 
+bip br: folds 
+*** FLOP *** [Ts Kh Ac]
+0Victorinox0 is disconnected 
+Caio Mugarte: bets 66
+0Victorinox0 is connected 
+0Victorinox0 is disconnected 
+0Victorinox0 is connected 
+0Victorinox0: calls 66
+*** TURN *** [Ts Kh Ac] [5d]
+Caio Mugarte: bets 195
+0Victorinox0: calls 195
+*** RIVER *** [Ts Kh Ac 5d] [Kd]
+Caio Mugarte: bets 330
+0Victorinox0: calls 330
+*** SHOW DOWN ***
+Caio Mugarte: shows [As Qh] (two pair, Aces and Kings)
+0Victorinox0: shows [4s Kc] (three of a kind, Kings)
+0Victorinox0 collected 1383 from pot
+*** SUMMARY ***
+Total pot 1383 | Rake 0 
+Board [Ts Kh Ac 5d Kd]
+Seat 1: bip br (big blind) folded before Flop
+Seat 2: P34CE folded before Flop (didn't bet)
+Seat 3: Caio Mugarte showed [As Qh] and lost with two pair, Aces and Kings
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High folded before Flop (didn't bet)
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 7: redprado folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 (button) showed [4s Kc] and won (1383) with three of a kind, Kings
+Seat 9: arandanos4m (small blind) folded before Flop
+
+
+
+PokerStars Hand #245424316966: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:48:57 AT [2023/08/16 12:48:57 ET]
+Table '3632150804 3' 9-max Seat #9 is the button
+Seat 1: bip br (1394 in chips) 
+Seat 2: P34CE (1414 in chips) 
+Seat 3: Caio Mugarte (802 in chips) 
+Seat 4: Jfariass (2919 in chips) 
+Seat 5: Summer-High (1031 in chips) 
+Seat 6: lucasveiga20 (2041 in chips) 
+Seat 7: redprado (1379 in chips) 
+Seat 8: 0Victorinox0 (3464 in chips) 
+Seat 9: arandanos4m (1380 in chips) 
+bip br: posts the ante 4
+P34CE: posts the ante 4
+Caio Mugarte: posts the ante 4
+Jfariass: posts the ante 4
+Summer-High: posts the ante 4
+lucasveiga20: posts the ante 4
+redprado: posts the ante 4
+0Victorinox0: posts the ante 4
+arandanos4m: posts the ante 4
+bip br: posts small blind 15
+P34CE: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [As 8d]
+Caio Mugarte: folds 
+Jfariass: folds 
+Summer-High: folds 
+lucasveiga20: folds 
+redprado: folds 
+0Victorinox0: folds 
+arandanos4m: calls 30
+bip br: raises 120 to 150
+P34CE: folds 
+arandanos4m: calls 120
+*** FLOP *** [9d Kh 6s]
+bip br: bets 121
+arandanos4m: calls 121
+*** TURN *** [9d Kh 6s] [Js]
+bip br: checks 
+arandanos4m: checks 
+*** RIVER *** [9d Kh 6s Js] [7h]
+bip br: checks 
+arandanos4m: checks 
+*** SHOW DOWN ***
+bip br: shows [Qc Ah] (high card Ace)
+arandanos4m: shows [Jc Ac] (a pair of Jacks)
+arandanos4m collected 608 from pot
+*** SUMMARY ***
+Total pot 608 | Rake 0 
+Board [9d Kh 6s Js 7h]
+Seat 1: bip br (small blind) showed [Qc Ah] and lost with high card Ace
+Seat 2: P34CE (big blind) folded before Flop
+Seat 3: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High folded before Flop (didn't bet)
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 7: redprado folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 folded before Flop (didn't bet)
+Seat 9: arandanos4m (button) showed [Jc Ac] and won (608) with a pair of Jacks
+
+
+
+PokerStars Hand #245424339757: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:50:24 AT [2023/08/16 12:50:24 ET]
+Table '3632150804 3' 9-max Seat #1 is the button
+Seat 1: bip br (1119 in chips) 
+Seat 2: P34CE (1380 in chips) 
+Seat 3: Caio Mugarte (798 in chips) 
+Seat 4: Jfariass (2915 in chips) 
+Seat 5: Summer-High (1027 in chips) 
+Seat 6: lucasveiga20 (2037 in chips) 
+Seat 7: redprado (1375 in chips) 
+Seat 8: 0Victorinox0 (3460 in chips) 
+Seat 9: arandanos4m (1713 in chips) 
+bip br: posts the ante 4
+P34CE: posts the ante 4
+Caio Mugarte: posts the ante 4
+Jfariass: posts the ante 4
+Summer-High: posts the ante 4
+lucasveiga20: posts the ante 4
+redprado: posts the ante 4
+0Victorinox0: posts the ante 4
+arandanos4m: posts the ante 4
+P34CE: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s 6h]
+Jfariass: folds 
+Summer-High: calls 30
+lucasveiga20: folds 
+redprado: calls 30
+0Victorinox0: folds 
+arandanos4m: folds 
+bip br: folds 
+P34CE: raises 1346 to 1376 and is all-in
+Caio Mugarte: folds 
+Summer-High: folds 
+redprado: calls 1341 and is all-in
+Uncalled bet (5) returned to P34CE
+*** FLOP *** [2s 6c 2h]
+*** TURN *** [2s 6c 2h] [Jc]
+*** RIVER *** [2s 6c 2h Jc] [3h]
+*** SHOW DOWN ***
+P34CE: shows [7h 7d] (two pair, Sevens and Deuces)
+redprado: shows [Ah Tc] (a pair of Deuces)
+P34CE collected 2838 from pot
+redprado finished the tournament in 35th place
+*** SUMMARY ***
+Total pot 2838 | Rake 0 
+Board [2s 6c 2h Jc 3h]
+Seat 1: bip br (button) folded before Flop (didn't bet)
+Seat 2: P34CE (small blind) showed [7h 7d] and won (2838) with two pair, Sevens and Deuces
+Seat 3: Caio Mugarte (big blind) folded before Flop
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High folded before Flop
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 7: redprado showed [Ah Tc] and lost with a pair of Deuces
+Seat 8: 0Victorinox0 folded before Flop (didn't bet)
+Seat 9: arandanos4m folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424353513: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:51:16 AT [2023/08/16 12:51:16 ET]
+Table '3632150804 3' 9-max Seat #2 is the button
+Seat 1: bip br (1115 in chips) 
+Seat 2: P34CE (2843 in chips) 
+Seat 3: Caio Mugarte (764 in chips) 
+Seat 4: Jfariass (2911 in chips) 
+Seat 5: Summer-High (993 in chips) 
+Seat 6: lucasveiga20 (2033 in chips) 
+Seat 8: 0Victorinox0 (3456 in chips) 
+Seat 9: arandanos4m (1709 in chips) 
+bip br: posts the ante 4
+P34CE: posts the ante 4
+Caio Mugarte: posts the ante 4
+Jfariass: posts the ante 4
+Summer-High: posts the ante 4
+lucasveiga20: posts the ante 4
+0Victorinox0: posts the ante 4
+arandanos4m: posts the ante 4
+Caio Mugarte: posts small blind 15
+Jfariass: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7d Kc]
+Summer-High: folds 
+lucasveiga20: folds 
+0Victorinox0: folds 
+arandanos4m: calls 30
+bip br: folds 
+P34CE: folds 
+Caio Mugarte: folds 
+Jfariass: checks 
+*** FLOP *** [Ts Th 6c]
+Jfariass: bets 107
+arandanos4m: folds 
+Uncalled bet (107) returned to Jfariass
+Jfariass collected 107 from pot
+Jfariass: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Board [Ts Th 6c]
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE (button) folded before Flop (didn't bet)
+Seat 3: Caio Mugarte (small blind) folded before Flop
+Seat 4: Jfariass (big blind) collected (107)
+Seat 5: Summer-High folded before Flop (didn't bet)
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 folded before Flop (didn't bet)
+Seat 9: arandanos4m folded on the Flop
+
+
+
+PokerStars Hand #245424367421: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 13:52:08 AT [2023/08/16 12:52:08 ET]
+Table '3632150804 3' 9-max Seat #3 is the button
+Seat 1: bip br (1111 in chips) 
+Seat 2: P34CE (2839 in chips) 
+Seat 3: Caio Mugarte (745 in chips) 
+Seat 4: Jfariass (2984 in chips) 
+Seat 5: Summer-High (989 in chips) 
+Seat 6: lucasveiga20 (2029 in chips) 
+Seat 8: 0Victorinox0 (3452 in chips) 
+Seat 9: arandanos4m (1675 in chips) 
+bip br: posts the ante 4
+P34CE: posts the ante 4
+Caio Mugarte: posts the ante 4
+Jfariass: posts the ante 4
+Summer-High: posts the ante 4
+lucasveiga20: posts the ante 4
+0Victorinox0: posts the ante 4
+arandanos4m: posts the ante 4
+Jfariass: posts small blind 15
+Summer-High: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9d Th]
+lucasveiga20: folds 
+0Victorinox0: calls 30
+arandanos4m: calls 30
+bip br: folds 
+P34CE: calls 30
+Caio Mugarte: folds 
+Jfariass: calls 15
+Summer-High: checks 
+*** FLOP *** [7c Kc Kd]
+Jfariass: checks 
+Summer-High: checks 
+0Victorinox0: bets 30
+arandanos4m: folds 
+P34CE: calls 30
+Jfariass: folds 
+Summer-High: calls 30
+*** TURN *** [7c Kc Kd] [8c]
+Summer-High: checks 
+0Victorinox0: checks 
+P34CE: checks 
+*** RIVER *** [7c Kc Kd 8c] [8s]
+Summer-High: checks 
+0Victorinox0: bets 270
+P34CE: folds 
+Summer-High: folds 
+Uncalled bet (270) returned to 0Victorinox0
+0Victorinox0 collected 272 from pot
+*** SUMMARY ***
+Total pot 272 | Rake 0 
+Board [7c Kc Kd 8c 8s]
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE folded on the River
+Seat 3: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 4: Jfariass (small blind) folded on the Flop
+Seat 5: Summer-High (big blind) folded on the River
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 collected (272)
+Seat 9: arandanos4m folded on the Flop
+
+
+
+PokerStars Hand #245424397910: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 13:54:02 AT [2023/08/16 12:54:02 ET]
+Table '3632150804 3' 9-max Seat #4 is the button
+Seat 1: bip br (1107 in chips) 
+Seat 2: P34CE (2775 in chips) 
+Seat 3: Caio Mugarte (741 in chips) 
+Seat 4: Jfariass (2950 in chips) 
+Seat 5: Summer-High (925 in chips) 
+Seat 6: lucasveiga20 (2025 in chips) 
+Seat 8: 0Victorinox0 (3660 in chips) 
+Seat 9: arandanos4m (1641 in chips) 
+bip br: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+Summer-High: posts small blind 25
+lucasveiga20: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8c Kh]
+0Victorinox0: calls 50
+arandanos4m: calls 50
+bip br: folds 
+P34CE: folds 
+Caio Mugarte: folds 
+Jfariass: folds 
+Summer-High: folds 
+lucasveiga20: checks 
+*** FLOP *** [6h 4h 4d]
+lucasveiga20: checks 
+0Victorinox0: checks 
+arandanos4m: checks 
+*** TURN *** [6h 4h 4d] [4s]
+lucasveiga20: checks 
+0Victorinox0: bets 223
+arandanos4m: folds 
+lucasveiga20: calls 223
+*** RIVER *** [6h 4h 4d 4s] [7s]
+lucasveiga20: bets 1746 and is all-in
+0Victorinox0: folds 
+Uncalled bet (1746) returned to lucasveiga20
+lucasveiga20 collected 669 from pot
+lucasveiga20: doesn't show hand 
+*** SUMMARY ***
+Total pot 669 | Rake 0 
+Board [6h 4h 4d 4s 7s]
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE folded before Flop (didn't bet)
+Seat 3: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Jfariass (button) folded before Flop (didn't bet)
+Seat 5: Summer-High (small blind) folded before Flop
+Seat 6: lucasveiga20 (big blind) collected (669)
+Seat 8: 0Victorinox0 folded on the River
+Seat 9: arandanos4m folded on the Turn
+
+
+
+PokerStars Hand #245424497608: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:01:38 AT [2023/08/16 13:01:38 ET]
+Table '3632150804 3' 9-max Seat #5 is the button
+Seat 1: bip br (1101 in chips) 
+Seat 2: P34CE (2769 in chips) 
+Seat 3: Caio Mugarte (735 in chips) 
+Seat 4: Jfariass (2944 in chips) 
+Seat 5: Summer-High (894 in chips) 
+Seat 6: lucasveiga20 (2415 in chips) 
+Seat 8: 0Victorinox0 (3381 in chips) 
+Seat 9: arandanos4m (1585 in chips) 
+bip br: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+lucasveiga20: posts small blind 25
+0Victorinox0: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ah Kc]
+arandanos4m has timed out
+arandanos4m: folds 
+arandanos4m is sitting out
+bip br: folds 
+P34CE: folds 
+arandanos4m has returned
+Caio Mugarte: raises 679 to 729 and is all-in
+Jfariass: folds 
+Summer-High: folds 
+lucasveiga20: folds 
+0Victorinox0: calls 679
+*** FLOP *** [2d Qs Qd]
+*** TURN *** [2d Qs Qd] [7s]
+*** RIVER *** [2d Qs Qd 7s] [7d]
+*** SHOW DOWN ***
+0Victorinox0: shows [Ac 5d] (two pair, Queens and Sevens)
+Caio Mugarte: shows [Ah Kc] (two pair, Queens and Sevens)
+0Victorinox0 collected 766 from pot
+Caio Mugarte collected 765 from pot
+*** SUMMARY ***
+Total pot 1531 | Rake 0 
+Board [2d Qs Qd 7s 7d]
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE folded before Flop (didn't bet)
+Seat 3: Caio Mugarte showed [Ah Kc] and won (765) with two pair, Queens and Sevens
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High (button) folded before Flop (didn't bet)
+Seat 6: lucasveiga20 (small blind) folded before Flop
+Seat 8: 0Victorinox0 (big blind) showed [Ac 5d] and won (766) with two pair, Queens and Sevens
+Seat 9: arandanos4m folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424512837: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:02:36 AT [2023/08/16 13:02:36 ET]
+Table '3632150804 3' 9-max Seat #6 is the button
+Seat 1: bip br (1095 in chips) 
+Seat 2: P34CE (2763 in chips) 
+Seat 3: Caio Mugarte (765 in chips) 
+Seat 4: Jfariass (2938 in chips) 
+Seat 5: Summer-High (888 in chips) 
+Seat 6: lucasveiga20 (2384 in chips) 
+Seat 8: 0Victorinox0 (3412 in chips) 
+Seat 9: arandanos4m (1579 in chips) 
+bip br: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+0Victorinox0: posts small blind 25
+arandanos4m: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad 9d]
+bip br: folds 
+P34CE: folds 
+Caio Mugarte: raises 709 to 759 and is all-in
+Jfariass: folds 
+Summer-High: folds 
+lucasveiga20: folds 
+0Victorinox0: folds 
+arandanos4m: folds 
+Uncalled bet (709) returned to Caio Mugarte
+Caio Mugarte collected 173 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE folded before Flop (didn't bet)
+Seat 3: Caio Mugarte collected (173)
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High folded before Flop (didn't bet)
+Seat 6: lucasveiga20 (button) folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 (small blind) folded before Flop
+Seat 9: arandanos4m (big blind) folded before Flop
+
+
+
+PokerStars Hand #245424519291: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:03:01 AT [2023/08/16 13:03:01 ET]
+Table '3632150804 3' 9-max Seat #8 is the button
+Seat 1: bip br (1089 in chips) 
+Seat 2: P34CE (2757 in chips) 
+Seat 3: Caio Mugarte (882 in chips) 
+Seat 4: Jfariass (2932 in chips) 
+Seat 5: Summer-High (882 in chips) 
+Seat 6: lucasveiga20 (2378 in chips) 
+Seat 8: 0Victorinox0 (3381 in chips) 
+Seat 9: arandanos4m (1523 in chips) 
+bip br: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+arandanos4m: posts small blind 25
+bip br: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2s 7s]
+P34CE: folds 
+Caio Mugarte: folds 
+Jfariass: folds 
+Summer-High: raises 826 to 876 and is all-in
+lucasveiga20: folds 
+0Victorinox0: folds 
+arandanos4m: folds 
+bip br: folds 
+Uncalled bet (826) returned to Summer-High
+Summer-High collected 173 from pot
+Summer-High: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: bip br (big blind) folded before Flop
+Seat 2: P34CE folded before Flop (didn't bet)
+Seat 3: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High collected (173)
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 (button) folded before Flop (didn't bet)
+Seat 9: arandanos4m (small blind) folded before Flop
+
+
+
+PokerStars Hand #245424527064: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:03:30 AT [2023/08/16 13:03:30 ET]
+Table '3632150804 3' 9-max Seat #9 is the button
+Seat 1: bip br (1033 in chips) 
+Seat 2: P34CE (2751 in chips) 
+Seat 3: Caio Mugarte (876 in chips) 
+Seat 4: Jfariass (2926 in chips) 
+Seat 5: Summer-High (999 in chips) 
+Seat 6: lucasveiga20 (2372 in chips) 
+Seat 8: 0Victorinox0 (3375 in chips) 
+Seat 9: arandanos4m (1492 in chips) 
+bip br: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+bip br: posts small blind 25
+P34CE: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8h Jd]
+Caio Mugarte: folds 
+Jfariass: folds 
+Summer-High: folds 
+lucasveiga20: folds 
+0Victorinox0: calls 50
+arandanos4m: calls 50
+bip br: folds 
+P34CE: checks 
+*** FLOP *** [5h 4h 3s]
+P34CE: checks 
+0Victorinox0: bets 100
+arandanos4m: folds 
+P34CE: folds 
+Uncalled bet (100) returned to 0Victorinox0
+0Victorinox0 collected 223 from pot
+*** SUMMARY ***
+Total pot 223 | Rake 0 
+Board [5h 4h 3s]
+Seat 1: bip br (small blind) folded before Flop
+Seat 2: P34CE (big blind) folded on the Flop
+Seat 3: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High folded before Flop (didn't bet)
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 collected (223)
+Seat 9: arandanos4m (button) folded on the Flop
+
+
+
+PokerStars Hand #245424539101: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:04:15 AT [2023/08/16 13:04:15 ET]
+Table '3632150804 3' 9-max Seat #1 is the button
+Seat 1: bip br (1002 in chips) 
+Seat 2: P34CE (2695 in chips) 
+Seat 3: Caio Mugarte (870 in chips) 
+Seat 4: Jfariass (2920 in chips) 
+Seat 5: Summer-High (993 in chips) 
+Seat 6: lucasveiga20 (2366 in chips) 
+Seat 8: 0Victorinox0 (3542 in chips) 
+Seat 9: arandanos4m (1436 in chips) 
+bip br: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+P34CE: posts small blind 25
+Caio Mugarte: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Td 9h]
+Jfariass: folds 
+Summer-High: folds 
+lucasveiga20: folds 
+0Victorinox0: calls 50
+arandanos4m: calls 50
+bip br: folds 
+P34CE: folds 
+Caio Mugarte: checks 
+*** FLOP *** [5c 8h As]
+Caio Mugarte: checks 
+0Victorinox0: bets 50
+arandanos4m: calls 50
+Caio Mugarte: folds 
+*** TURN *** [5c 8h As] [Ks]
+0Victorinox0: checks 
+arandanos4m: checks 
+*** RIVER *** [5c 8h As Ks] [9s]
+0Victorinox0: bets 100
+arandanos4m: calls 100
+*** SHOW DOWN ***
+0Victorinox0: shows [Qc 9d] (a pair of Nines)
+arandanos4m: shows [Ad 5d] (two pair, Aces and Fives)
+arandanos4m collected 523 from pot
+*** SUMMARY ***
+Total pot 523 | Rake 0 
+Board [5c 8h As Ks 9s]
+Seat 1: bip br (button) folded before Flop (didn't bet)
+Seat 2: P34CE (small blind) folded before Flop
+Seat 3: Caio Mugarte (big blind) folded on the Flop
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High folded before Flop (didn't bet)
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 showed [Qc 9d] and lost with a pair of Nines
+Seat 9: arandanos4m showed [Ad 5d] and won (523) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #245424549942: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:04:56 AT [2023/08/16 13:04:56 ET]
+Table '3632150804 3' 9-max Seat #2 is the button
+Seat 1: bip br (996 in chips) 
+Seat 2: P34CE (2664 in chips) 
+Seat 3: Caio Mugarte (814 in chips) 
+Seat 4: Jfariass (2914 in chips) 
+Seat 5: Summer-High (987 in chips) 
+Seat 6: lucasveiga20 (2360 in chips) 
+Seat 8: 0Victorinox0 (3336 in chips) 
+Seat 9: arandanos4m (1753 in chips) 
+bip br: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+Caio Mugarte: posts small blind 25
+Jfariass: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s 4h]
+Summer-High: folds 
+lucasveiga20: folds 
+0Victorinox0: calls 50
+arandanos4m: folds 
+bip br: folds 
+P34CE: folds 
+Caio Mugarte: raises 758 to 808 and is all-in
+Jfariass: folds 
+0Victorinox0: folds 
+Uncalled bet (758) returned to Caio Mugarte
+Caio Mugarte collected 198 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 198 | Rake 0 
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE (button) folded before Flop (didn't bet)
+Seat 3: Caio Mugarte (small blind) collected (198)
+Seat 4: Jfariass (big blind) folded before Flop
+Seat 5: Summer-High folded before Flop (didn't bet)
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 folded before Flop
+Seat 9: arandanos4m folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424557746: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:05:25 AT [2023/08/16 13:05:25 ET]
+Table '3632150804 3' 9-max Seat #3 is the button
+Seat 1: bip br (990 in chips) 
+Seat 2: P34CE (2658 in chips) 
+Seat 3: Caio Mugarte (956 in chips) 
+Seat 4: Jfariass (2858 in chips) 
+Seat 5: Summer-High (981 in chips) 
+Seat 6: lucasveiga20 (2354 in chips) 
+Seat 8: 0Victorinox0 (3280 in chips) 
+Seat 9: arandanos4m (1747 in chips) 
+bip br: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+Jfariass: posts small blind 25
+Summer-High: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [As 9d]
+lucasveiga20: folds 
+0Victorinox0: folds 
+arandanos4m: folds 
+bip br: folds 
+P34CE: folds 
+Caio Mugarte: raises 50 to 100
+Jfariass: folds 
+Summer-High: calls 50
+*** FLOP *** [Td 6h 4s]
+Summer-High: checks 
+Caio Mugarte: checks 
+*** TURN *** [Td 6h 4s] [5d]
+Summer-High: checks 
+Caio Mugarte: checks 
+*** RIVER *** [Td 6h 4s 5d] [2d]
+Summer-High: bets 273
+Caio Mugarte: folds 
+Uncalled bet (273) returned to Summer-High
+Summer-High collected 273 from pot
+Summer-High: doesn't show hand 
+*** SUMMARY ***
+Total pot 273 | Rake 0 
+Board [Td 6h 4s 5d 2d]
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE folded before Flop (didn't bet)
+Seat 3: Caio Mugarte (button) folded on the River
+Seat 4: Jfariass (small blind) folded before Flop
+Seat 5: Summer-High (big blind) collected (273)
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 folded before Flop (didn't bet)
+Seat 9: arandanos4m folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424571883: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:06:18 AT [2023/08/16 13:06:18 ET]
+Table '3632150804 3' 9-max Seat #4 is the button
+Seat 1: bip br (984 in chips) 
+Seat 2: P34CE (2652 in chips) 
+Seat 3: Caio Mugarte (850 in chips) 
+Seat 4: Jfariass (2827 in chips) 
+Seat 5: Summer-High (1148 in chips) 
+Seat 6: lucasveiga20 (2348 in chips) 
+Seat 8: 0Victorinox0 (3274 in chips) 
+Seat 9: arandanos4m (1741 in chips) 
+bip br: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+Summer-High: posts small blind 25
+lucasveiga20: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3c 2h]
+0Victorinox0: folds 
+arandanos4m: folds 
+bip br: folds 
+P34CE: folds 
+Caio Mugarte: folds 
+Jfariass: folds 
+Summer-High: folds 
+Uncalled bet (25) returned to lucasveiga20
+lucasveiga20 collected 98 from pot
+lucasveiga20: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE folded before Flop (didn't bet)
+Seat 3: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Jfariass (button) folded before Flop (didn't bet)
+Seat 5: Summer-High (small blind) folded before Flop
+Seat 6: lucasveiga20 (big blind) collected (98)
+Seat 8: 0Victorinox0 folded before Flop (didn't bet)
+Seat 9: arandanos4m folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424574876: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:06:29 AT [2023/08/16 13:06:29 ET]
+Table '3632150804 3' 9-max Seat #5 is the button
+Seat 1: bip br (978 in chips) 
+Seat 2: P34CE (2646 in chips) 
+Seat 3: Caio Mugarte (844 in chips) 
+Seat 4: Jfariass (2821 in chips) 
+Seat 5: Summer-High (1117 in chips) 
+Seat 6: lucasveiga20 (2415 in chips) 
+Seat 8: 0Victorinox0 (3268 in chips) 
+Seat 9: arandanos4m (1735 in chips) 
+bip br: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+lucasveiga20: posts small blind 25
+0Victorinox0: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts Js]
+arandanos4m: calls 50
+bip br: folds 
+P34CE: folds 
+Caio Mugarte: folds 
+Jfariass: folds 
+Summer-High: calls 50
+lucasveiga20: folds 
+0Victorinox0: checks 
+*** FLOP *** [7d 7s 8d]
+0Victorinox0: bets 50
+arandanos4m has timed out
+arandanos4m: folds 
+arandanos4m is sitting out
+Summer-High: calls 50
+*** TURN *** [7d 7s 8d] [Ks]
+arandanos4m has returned
+0Victorinox0: checks 
+Summer-High: bets 162
+0Victorinox0: calls 162
+*** RIVER *** [7d 7s 8d Ks] [2s]
+0Victorinox0: checks 
+Summer-High: checks 
+*** SHOW DOWN ***
+0Victorinox0: shows [2h 8s] (two pair, Eights and Sevens)
+Summer-High: shows [Td Kh] (two pair, Kings and Sevens)
+Summer-High collected 647 from pot
+*** SUMMARY ***
+Total pot 647 | Rake 0 
+Board [7d 7s 8d Ks 2s]
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE folded before Flop (didn't bet)
+Seat 3: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High (button) showed [Td Kh] and won (647) with two pair, Kings and Sevens
+Seat 6: lucasveiga20 (small blind) folded before Flop
+Seat 8: 0Victorinox0 (big blind) showed [2h 8s] and lost with two pair, Eights and Sevens
+Seat 9: arandanos4m folded on the Flop
+
+
+
+PokerStars Hand #245424595496: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:07:46 AT [2023/08/16 13:07:46 ET]
+Table '3632150804 3' 9-max Seat #6 is the button
+Seat 1: bip br (972 in chips) 
+Seat 2: P34CE (2640 in chips) 
+Seat 3: Caio Mugarte (838 in chips) 
+Seat 4: Jfariass (2815 in chips) 
+Seat 5: Summer-High (1496 in chips) 
+Seat 6: lucasveiga20 (2384 in chips) 
+Seat 8: 0Victorinox0 (3000 in chips) 
+Seat 9: arandanos4m (1679 in chips) 
+bip br: posts the ante 6
+P34CE: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+0Victorinox0: posts small blind 25
+arandanos4m: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c 4d]
+bip br: folds 
+P34CE: folds 
+Caio Mugarte: folds 
+Jfariass: folds 
+Summer-High: raises 50 to 100
+lucasveiga20: folds 
+0Victorinox0: calls 75
+arandanos4m: calls 50
+*** FLOP *** [Kc 9d 4c]
+0Victorinox0: checks 
+arandanos4m: checks 
+Summer-High: checks 
+*** TURN *** [Kc 9d 4c] [Ks]
+0Victorinox0: checks 
+arandanos4m: checks 
+Summer-High: checks 
+*** RIVER *** [Kc 9d 4c Ks] [3s]
+0Victorinox0: bets 50
+arandanos4m: folds 
+Summer-High: calls 50
+*** SHOW DOWN ***
+0Victorinox0: shows [Jd 9c] (two pair, Kings and Nines)
+Summer-High: mucks hand 
+0Victorinox0 collected 448 from pot
+*** SUMMARY ***
+Total pot 448 | Rake 0 
+Board [Kc 9d 4c Ks 3s]
+Seat 1: bip br folded before Flop (didn't bet)
+Seat 2: P34CE folded before Flop (didn't bet)
+Seat 3: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High mucked [Ah Qc]
+Seat 6: lucasveiga20 (button) folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 (small blind) showed [Jd 9c] and won (448) with two pair, Kings and Nines
+Seat 9: arandanos4m (big blind) folded on the River
+
+
+
+PokerStars Hand #245424614023: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:08:54 AT [2023/08/16 13:08:54 ET]
+Table '3632150804 3' 9-max Seat #8 is the button
+Seat 1: bip br (966 in chips) 
+Seat 3: Caio Mugarte (832 in chips) 
+Seat 4: Jfariass (2809 in chips) 
+Seat 5: Summer-High (1340 in chips) 
+Seat 6: lucasveiga20 (2378 in chips) 
+Seat 8: 0Victorinox0 (3292 in chips) 
+Seat 9: arandanos4m (1573 in chips) 
+bip br: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+arandanos4m: posts small blind 25
+bip br: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7h 5d]
+Caio Mugarte: folds 
+Jfariass: folds 
+Summer-High: folds 
+lucasveiga20: folds 
+0Victorinox0: folds 
+arandanos4m: calls 25
+bip br: checks 
+*** FLOP *** [Jd 5s Td]
+arandanos4m: checks 
+bip br: checks 
+*** TURN *** [Jd 5s Td] [9h]
+arandanos4m: checks 
+bip br: checks 
+*** RIVER *** [Jd 5s Td 9h] [8c]
+arandanos4m: checks 
+bip br: checks 
+*** SHOW DOWN ***
+arandanos4m: shows [3c 5c] (a pair of Fives)
+bip br: shows [4c 9s] (a pair of Nines)
+bip br collected 142 from pot
+*** SUMMARY ***
+Total pot 142 | Rake 0 
+Board [Jd 5s Td 9h 8c]
+Seat 1: bip br (big blind) showed [4c 9s] and won (142) with a pair of Nines
+Seat 3: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High folded before Flop (didn't bet)
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 (button) folded before Flop (didn't bet)
+Seat 9: arandanos4m (small blind) showed [3c 5c] and lost with a pair of Fives
+
+
+
+PokerStars Hand #245424624540: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:09:33 AT [2023/08/16 13:09:33 ET]
+Table '3632150804 3' 9-max Seat #9 is the button
+Seat 1: bip br (1052 in chips) 
+Seat 3: Caio Mugarte (826 in chips) 
+Seat 4: Jfariass (2803 in chips) 
+Seat 5: Summer-High (1334 in chips) 
+Seat 6: lucasveiga20 (2372 in chips) 
+Seat 8: 0Victorinox0 (3286 in chips) 
+Seat 9: arandanos4m (1517 in chips) 
+bip br: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+bip br: posts small blind 25
+Caio Mugarte: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9c 8h]
+Jfariass: folds 
+Summer-High: calls 50
+lucasveiga20: folds 
+0Victorinox0: folds 
+arandanos4m: folds 
+bip br: folds 
+Caio Mugarte: checks 
+*** FLOP *** [Kd Ac Qd]
+Caio Mugarte: checks 
+Summer-High: bets 84
+Caio Mugarte: folds 
+Uncalled bet (84) returned to Summer-High
+Summer-High collected 167 from pot
+Summer-High: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Board [Kd Ac Qd]
+Seat 1: bip br (small blind) folded before Flop
+Seat 3: Caio Mugarte (big blind) folded on the Flop
+Seat 4: Jfariass folded before Flop (didn't bet)
+Seat 5: Summer-High collected (167)
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 folded before Flop (didn't bet)
+Seat 9: arandanos4m (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424633179: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2023/08/16 14:10:06 AT [2023/08/16 13:10:06 ET]
+Table '3632150804 3' 9-max Seat #1 is the button
+Seat 1: bip br (1021 in chips) 
+Seat 3: Caio Mugarte (770 in chips) 
+Seat 4: Jfariass (2797 in chips) 
+Seat 5: Summer-High (1445 in chips) 
+Seat 6: lucasveiga20 (2366 in chips) 
+Seat 8: 0Victorinox0 (3280 in chips) 
+Seat 9: arandanos4m (1511 in chips) 
+bip br: posts the ante 6
+Caio Mugarte: posts the ante 6
+Jfariass: posts the ante 6
+Summer-High: posts the ante 6
+lucasveiga20: posts the ante 6
+0Victorinox0: posts the ante 6
+arandanos4m: posts the ante 6
+Caio Mugarte: posts small blind 25
+Jfariass: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6h 6d]
+Summer-High: folds 
+lucasveiga20: raises 75 to 125
+0Victorinox0: calls 125
+arandanos4m: folds 
+bip br: folds 
+Caio Mugarte: raises 639 to 764 and is all-in
+Jfariass: folds 
+lucasveiga20: folds 
+0Victorinox0: folds 
+Uncalled bet (639) returned to Caio Mugarte
+Caio Mugarte collected 467 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 467 | Rake 0 
+Seat 1: bip br (button) folded before Flop (didn't bet)
+Seat 3: Caio Mugarte (small blind) collected (467)
+Seat 4: Jfariass (big blind) folded before Flop
+Seat 5: Summer-High folded before Flop (didn't bet)
+Seat 6: lucasveiga20 folded before Flop
+Seat 8: 0Victorinox0 folded before Flop
+Seat 9: arandanos4m folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424647824: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:11:00 AT [2023/08/16 13:11:00 ET]
+Table '3632150804 3' 9-max Seat #3 is the button
+Seat 1: bip br (1015 in chips) 
+Seat 3: Caio Mugarte (1106 in chips) 
+Seat 4: Jfariass (2741 in chips) 
+Seat 5: Summer-High (1439 in chips) 
+Seat 6: lucasveiga20 (2235 in chips) 
+Seat 8: 0Victorinox0 (3149 in chips) 
+Seat 9: arandanos4m (1505 in chips) 
+bip br: posts the ante 10
+Caio Mugarte: posts the ante 10
+Jfariass: posts the ante 10
+Summer-High: posts the ante 10
+lucasveiga20: posts the ante 10
+0Victorinox0: posts the ante 10
+arandanos4m: posts the ante 10
+Jfariass: posts small blind 40
+Summer-High: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s 8c]
+lucasveiga20: folds 
+0Victorinox0: folds 
+arandanos4m: folds 
+bip br: raises 925 to 1005 and is all-in
+Caio Mugarte: folds 
+Jfariass: calls 965
+Summer-High: folds 
+*** FLOP *** [9h 4c 8h]
+*** TURN *** [9h 4c 8h] [5s]
+*** RIVER *** [9h 4c 8h 5s] [3h]
+*** SHOW DOWN ***
+Jfariass: shows [Kh Ac] (high card Ace)
+bip br: shows [Qc Ks] (high card King)
+Jfariass collected 2160 from pot
+bip br finished the tournament in 28th place
+*** SUMMARY ***
+Total pot 2160 | Rake 0 
+Board [9h 4c 8h 5s 3h]
+Seat 1: bip br showed [Qc Ks] and lost with high card King
+Seat 3: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 4: Jfariass (small blind) showed [Kh Ac] and won (2160) with high card Ace
+Seat 5: Summer-High (big blind) folded before Flop
+Seat 6: lucasveiga20 folded before Flop (didn't bet)
+Seat 8: 0Victorinox0 folded before Flop (didn't bet)
+Seat 9: arandanos4m folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424666046: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:12:08 AT [2023/08/16 13:12:08 ET]
+Table '3632150804 4' 9-max Seat #8 is the button
+Seat 1: ash19802023 (8562 in chips) 
+Seat 2: arandanos4m (1495 in chips) 
+Seat 3: pqno riu (1966 in chips) 
+Seat 4: ArgosSans (3078 in chips) 
+Seat 5: Caio Mugarte (1096 in chips) 
+Seat 6: Xuki_Norri (728 in chips) 
+Seat 7: the vege (1401 in chips) 
+Seat 8: gucci99 (640 in chips) 
+Seat 9: Rosa885 (941 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+Rosa885: posts small blind 40
+ash19802023: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6h 5c]
+arandanos4m: folds 
+pqno riu: folds 
+ArgosSans: folds 
+Caio Mugarte: folds 
+Xuki_Norri: raises 638 to 718 and is all-in
+the vege: folds 
+gucci99: folds 
+Rosa885: folds 
+ash19802023: calls 638
+*** FLOP *** [7d 4h 9s]
+*** TURN *** [7d 4h 9s] [Jc]
+*** RIVER *** [7d 4h 9s Jc] [7h]
+*** SHOW DOWN ***
+ash19802023: shows [5s Td] (a pair of Sevens)
+Xuki_Norri: shows [Ac 8s] (a pair of Sevens - Ace kicker)
+Xuki_Norri collected 1566 from pot
+*** SUMMARY ***
+Total pot 1566 | Rake 0 
+Board [7d 4h 9s Jc 7h]
+Seat 1: ash19802023 (big blind) showed [5s Td] and lost with a pair of Sevens
+Seat 2: arandanos4m folded before Flop (didn't bet)
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 4: ArgosSans folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri showed [Ac 8s] and won (1566) with a pair of Sevens
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 (button) folded before Flop (didn't bet)
+Seat 9: Rosa885 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245424676406: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:12:46 AT [2023/08/16 13:12:46 ET]
+Table '3632150804 4' 9-max Seat #9 is the button
+Seat 1: ash19802023 (7834 in chips) 
+Seat 2: arandanos4m (1485 in chips) 
+Seat 3: pqno riu (1956 in chips) 
+Seat 4: ArgosSans (3068 in chips) 
+Seat 5: Caio Mugarte (1086 in chips) 
+Seat 6: Xuki_Norri (1566 in chips) 
+Seat 7: the vege (1391 in chips) 
+Seat 8: gucci99 (630 in chips) 
+Seat 9: Rosa885 (891 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+ash19802023: posts small blind 40
+arandanos4m: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc 4c]
+pqno riu: folds 
+ArgosSans: raises 80 to 160
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: folds 
+gucci99: folds 
+Rosa885: folds 
+ash19802023: folds 
+arandanos4m: folds 
+Uncalled bet (80) returned to ArgosSans
+ArgosSans collected 290 from pot
+ArgosSans: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: ash19802023 (small blind) folded before Flop
+Seat 2: arandanos4m (big blind) folded before Flop
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 4: ArgosSans collected (290)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 folded before Flop (didn't bet)
+Seat 9: Rosa885 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424681340: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:13:04 AT [2023/08/16 13:13:04 ET]
+Table '3632150804 4' 9-max Seat #1 is the button
+Seat 1: ash19802023 (7784 in chips) 
+Seat 2: arandanos4m (1395 in chips) 
+Seat 3: pqno riu (1946 in chips) 
+Seat 4: ArgosSans (3268 in chips) 
+Seat 5: Caio Mugarte (1076 in chips) 
+Seat 6: Xuki_Norri (1556 in chips) 
+Seat 7: the vege (1381 in chips) 
+Seat 8: gucci99 (620 in chips) 
+Seat 9: Rosa885 (881 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+arandanos4m: posts small blind 40
+pqno riu: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7c Ks]
+ArgosSans: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: calls 80
+gucci99: folds 
+Rosa885: folds 
+ash19802023: raises 160 to 240
+arandanos4m: folds 
+pqno riu: calls 160
+the vege: folds 
+*** FLOP *** [3c Qd Kh]
+pqno riu: checks 
+ash19802023: bets 690
+pqno riu: raises 1006 to 1696 and is all-in
+ash19802023: calls 1006
+*** TURN *** [3c Qd Kh] [8d]
+*** RIVER *** [3c Qd Kh 8d] [6s]
+*** SHOW DOWN ***
+pqno riu: shows [4s Qs] (a pair of Queens)
+ash19802023: shows [9h 9d] (a pair of Nines)
+pqno riu collected 4082 from pot
+*** SUMMARY ***
+Total pot 4082 | Rake 0 
+Board [3c Qd Kh 8d 6s]
+Seat 1: ash19802023 (button) showed [9h 9d] and lost with a pair of Nines
+Seat 2: arandanos4m (small blind) folded before Flop
+Seat 3: pqno riu (big blind) showed [4s Qs] and won (4082) with a pair of Queens
+Seat 4: ArgosSans folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege folded before Flop
+Seat 8: gucci99 folded before Flop (didn't bet)
+Seat 9: Rosa885 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424694868: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:13:54 AT [2023/08/16 13:13:54 ET]
+Table '3632150804 4' 9-max Seat #2 is the button
+Seat 1: ash19802023 (5838 in chips) 
+Seat 2: arandanos4m (1345 in chips) 
+Seat 3: pqno riu (4082 in chips) 
+Seat 4: ArgosSans (3258 in chips) 
+Seat 5: Caio Mugarte (1066 in chips) 
+Seat 6: Xuki_Norri (1546 in chips) 
+Seat 7: the vege (1291 in chips) 
+Seat 8: gucci99 (610 in chips) 
+Seat 9: Rosa885 (871 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+pqno riu: posts small blind 40
+ArgosSans: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3h 2d]
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: calls 80
+gucci99: folds 
+Rosa885: folds 
+ash19802023: calls 80
+arandanos4m: calls 80
+pqno riu: calls 40
+ArgosSans: checks 
+*** FLOP *** [Ad 9c 3d]
+pqno riu: checks 
+ArgosSans: checks 
+the vege: checks 
+ash19802023: checks 
+arandanos4m: checks 
+*** TURN *** [Ad 9c 3d] [8c]
+pqno riu: checks 
+ArgosSans: bets 80
+the vege: folds 
+ash19802023: folds 
+arandanos4m: folds 
+pqno riu: calls 80
+*** RIVER *** [Ad 9c 3d 8c] [As]
+pqno riu: checks 
+ArgosSans: checks 
+*** SHOW DOWN ***
+pqno riu: shows [3c 5s] (two pair, Aces and Threes)
+ArgosSans: shows [Kd 8s] (two pair, Aces and Eights)
+ArgosSans collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Ad 9c 3d 8c As]
+Seat 1: ash19802023 folded on the Turn
+Seat 2: arandanos4m (button) folded on the Turn
+Seat 3: pqno riu (small blind) showed [3c 5s] and lost with two pair, Aces and Threes
+Seat 4: ArgosSans (big blind) showed [Kd 8s] and won (650) with two pair, Aces and Eights
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege folded on the Turn
+Seat 8: gucci99 folded before Flop (didn't bet)
+Seat 9: Rosa885 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424712936: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:15:01 AT [2023/08/16 13:15:01 ET]
+Table '3632150804 4' 9-max Seat #3 is the button
+Seat 1: ash19802023 (5748 in chips) 
+Seat 2: arandanos4m (1255 in chips) 
+Seat 3: pqno riu (3912 in chips) 
+Seat 4: ArgosSans (3738 in chips) 
+Seat 5: Caio Mugarte (1056 in chips) 
+Seat 6: Xuki_Norri (1536 in chips) 
+Seat 7: the vege (1201 in chips) 
+Seat 8: gucci99 (600 in chips) 
+Seat 9: Rosa885 (861 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+ArgosSans: posts small blind 40
+Caio Mugarte: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h Jc]
+Xuki_Norri: folds 
+the vege: folds 
+gucci99: folds 
+Rosa885: folds 
+ash19802023: raises 290 to 370
+arandanos4m: folds 
+pqno riu: folds 
+ArgosSans: folds 
+Caio Mugarte: folds 
+Uncalled bet (290) returned to ash19802023
+ash19802023 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: ash19802023 collected (290)
+Seat 2: arandanos4m folded before Flop (didn't bet)
+Seat 3: pqno riu (button) folded before Flop (didn't bet)
+Seat 4: ArgosSans (small blind) folded before Flop
+Seat 5: Caio Mugarte (big blind) folded before Flop
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 folded before Flop (didn't bet)
+Seat 9: Rosa885 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424721490: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:15:32 AT [2023/08/16 13:15:32 ET]
+Table '3632150804 4' 9-max Seat #4 is the button
+Seat 1: ash19802023 (5948 in chips) 
+Seat 2: arandanos4m (1245 in chips) 
+Seat 3: pqno riu (3902 in chips) 
+Seat 4: ArgosSans (3688 in chips) 
+Seat 5: Caio Mugarte (966 in chips) 
+Seat 6: Xuki_Norri (1526 in chips) 
+Seat 7: the vege (1191 in chips) 
+Seat 8: gucci99 (590 in chips) 
+Seat 9: Rosa885 (851 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+Caio Mugarte: posts small blind 40
+Xuki_Norri: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9c 5s]
+the vege: folds 
+gucci99: folds 
+Rosa885: folds 
+ash19802023: calls 80
+arandanos4m: folds 
+pqno riu: raises 240 to 320
+ArgosSans: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+ash19802023: folds 
+Uncalled bet (240) returned to pqno riu
+pqno riu collected 370 from pot
+pqno riu: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: ash19802023 folded before Flop
+Seat 2: arandanos4m folded before Flop (didn't bet)
+Seat 3: pqno riu collected (370)
+Seat 4: ArgosSans (button) folded before Flop (didn't bet)
+Seat 5: Caio Mugarte (small blind) folded before Flop
+Seat 6: Xuki_Norri (big blind) folded before Flop
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 folded before Flop (didn't bet)
+Seat 9: Rosa885 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424728709: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:15:59 AT [2023/08/16 13:15:59 ET]
+Table '3632150804 4' 9-max Seat #5 is the button
+Seat 1: ash19802023 (5858 in chips) 
+Seat 2: arandanos4m (1235 in chips) 
+Seat 3: pqno riu (4182 in chips) 
+Seat 4: ArgosSans (3678 in chips) 
+Seat 5: Caio Mugarte (916 in chips) 
+Seat 6: Xuki_Norri (1436 in chips) 
+Seat 7: the vege (1181 in chips) 
+Seat 8: gucci99 (580 in chips) 
+Seat 9: Rosa885 (841 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+Xuki_Norri: posts small blind 40
+the vege: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kh 8c]
+gucci99: folds 
+Rosa885: folds 
+ash19802023: folds 
+arandanos4m: folds 
+pqno riu: folds 
+ArgosSans: raises 80 to 160
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: folds 
+Uncalled bet (80) returned to ArgosSans
+ArgosSans collected 290 from pot
+ArgosSans: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: ash19802023 folded before Flop (didn't bet)
+Seat 2: arandanos4m folded before Flop (didn't bet)
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 4: ArgosSans collected (290)
+Seat 5: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: Xuki_Norri (small blind) folded before Flop
+Seat 7: the vege (big blind) folded before Flop
+Seat 8: gucci99 folded before Flop (didn't bet)
+Seat 9: Rosa885 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424736589: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:16:28 AT [2023/08/16 13:16:28 ET]
+Table '3632150804 4' 9-max Seat #6 is the button
+Seat 1: ash19802023 (5848 in chips) 
+Seat 2: arandanos4m (1225 in chips) 
+Seat 3: pqno riu (4172 in chips) 
+Seat 4: ArgosSans (3878 in chips) 
+Seat 5: Caio Mugarte (906 in chips) 
+Seat 6: Xuki_Norri (1386 in chips) 
+Seat 7: the vege (1091 in chips) 
+Seat 8: gucci99 (570 in chips) 
+Seat 9: Rosa885 (831 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+the vege: posts small blind 40
+gucci99: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qc 7c]
+Rosa885: folds 
+ash19802023: calls 80
+arandanos4m: calls 80
+pqno riu: folds 
+ArgosSans: folds 
+Caio Mugarte: folds 
+Xuki_Norri: raises 1296 to 1376 and is all-in
+the vege: folds 
+gucci99: folds 
+ash19802023: calls 1296
+arandanos4m: folds 
+*** FLOP *** [6h Tc 5s]
+*** TURN *** [6h Tc 5s] [6d]
+*** RIVER *** [6h Tc 5s 6d] [5d]
+*** SHOW DOWN ***
+ash19802023: shows [4s As] (two pair, Sixes and Fives)
+Xuki_Norri: shows [Ad Kc] (two pair, Sixes and Fives)
+ash19802023 collected 1521 from pot
+Xuki_Norri collected 1521 from pot
+*** SUMMARY ***
+Total pot 3042 | Rake 0 
+Board [6h Tc 5s 6d 5d]
+Seat 1: ash19802023 showed [4s As] and won (1521) with two pair, Sixes and Fives
+Seat 2: arandanos4m folded before Flop
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 4: ArgosSans folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri (button) showed [Ad Kc] and won (1521) with two pair, Sixes and Fives
+Seat 7: the vege (small blind) folded before Flop
+Seat 8: gucci99 (big blind) folded before Flop
+Seat 9: Rosa885 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424746670: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:17:06 AT [2023/08/16 13:17:06 ET]
+Table '3632150804 4' 9-max Seat #7 is the button
+Seat 1: ash19802023 (5983 in chips) 
+Seat 2: arandanos4m (1135 in chips) 
+Seat 3: pqno riu (4162 in chips) 
+Seat 4: ArgosSans (3868 in chips) 
+Seat 5: Caio Mugarte (896 in chips) 
+Seat 6: Xuki_Norri (1521 in chips) 
+Seat 7: the vege (1041 in chips) 
+Seat 8: gucci99 (480 in chips) 
+Seat 9: Rosa885 (821 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+gucci99: posts small blind 40
+Rosa885: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9c As]
+ash19802023: raises 80 to 160
+arandanos4m: folds 
+pqno riu: folds 
+ArgosSans: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: folds 
+gucci99 has timed out
+gucci99: folds 
+gucci99 is sitting out
+Rosa885: folds 
+Uncalled bet (80) returned to ash19802023
+ash19802023 collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: ash19802023 collected (290)
+Seat 2: arandanos4m folded before Flop (didn't bet)
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 4: ArgosSans folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege (button) folded before Flop (didn't bet)
+Seat 8: gucci99 (small blind) folded before Flop
+Seat 9: Rosa885 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245424761420: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:18:01 AT [2023/08/16 13:18:01 ET]
+Table '3632150804 4' 9-max Seat #8 is the button
+Seat 1: ash19802023 (6183 in chips) 
+Seat 2: arandanos4m (1125 in chips) 
+Seat 3: pqno riu (4152 in chips) 
+Seat 4: ArgosSans (3858 in chips) 
+Seat 5: Caio Mugarte (886 in chips) 
+Seat 6: Xuki_Norri (1511 in chips) 
+Seat 7: the vege (1031 in chips) 
+Seat 8: gucci99 (430 in chips) is sitting out
+Seat 9: Rosa885 (731 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+Rosa885: posts small blind 40
+ash19802023: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4c Kh]
+arandanos4m: calls 80
+pqno riu: folds 
+ArgosSans: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: folds 
+gucci99: folds 
+Rosa885: folds 
+ash19802023: checks 
+*** FLOP *** [Tc Th 8h]
+gucci99 is disconnected 
+ash19802023: checks 
+arandanos4m: bets 80
+ash19802023: calls 80
+*** TURN *** [Tc Th 8h] [7d]
+ash19802023: checks 
+arandanos4m: bets 80
+ash19802023: calls 80
+*** RIVER *** [Tc Th 8h 7d] [6h]
+ash19802023: checks 
+arandanos4m: checks 
+*** SHOW DOWN ***
+ash19802023: shows [7h 2h] (a flush, Ten high)
+arandanos4m: mucks hand 
+ash19802023 collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | Rake 0 
+Board [Tc Th 8h 7d 6h]
+Seat 1: ash19802023 (big blind) showed [7h 2h] and won (610) with a flush, Ten high
+Seat 2: arandanos4m mucked [5d 5h]
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 4: ArgosSans folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 (button) folded before Flop (didn't bet)
+Seat 9: Rosa885 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245424776555: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:18:57 AT [2023/08/16 13:18:57 ET]
+Table '3632150804 4' 9-max Seat #9 is the button
+Seat 1: ash19802023 (6543 in chips) 
+Seat 2: arandanos4m (875 in chips) 
+Seat 3: pqno riu (4142 in chips) 
+Seat 4: ArgosSans (3848 in chips) 
+Seat 5: Caio Mugarte (876 in chips) 
+Seat 6: Xuki_Norri (1501 in chips) 
+Seat 7: the vege (1021 in chips) 
+Seat 8: gucci99 (420 in chips) is sitting out
+Seat 9: Rosa885 (681 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+ash19802023: posts small blind 40
+arandanos4m: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5h Jc]
+pqno riu: raises 80 to 160
+ArgosSans: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: folds 
+gucci99: folds 
+Rosa885: folds 
+ash19802023: folds 
+arandanos4m: folds 
+Uncalled bet (80) returned to pqno riu
+pqno riu collected 290 from pot
+pqno riu: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: ash19802023 (small blind) folded before Flop
+Seat 2: arandanos4m (big blind) folded before Flop
+Seat 3: pqno riu collected (290)
+Seat 4: ArgosSans folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 folded before Flop (didn't bet)
+Seat 9: Rosa885 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424784207: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:19:25 AT [2023/08/16 13:19:25 ET]
+Table '3632150804 4' 9-max Seat #1 is the button
+Seat 1: ash19802023 (6493 in chips) 
+Seat 2: arandanos4m (785 in chips) 
+Seat 3: pqno riu (4342 in chips) 
+Seat 4: ArgosSans (3838 in chips) 
+Seat 5: Caio Mugarte (866 in chips) 
+Seat 6: Xuki_Norri (1491 in chips) 
+Seat 7: the vege (1011 in chips) 
+Seat 8: gucci99 (410 in chips) is sitting out
+Seat 9: Rosa885 (671 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+arandanos4m: posts small blind 40
+pqno riu: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d 9c]
+gucci99 is disconnected 
+gucci99 has returned
+ArgosSans: calls 80
+Caio Mugarte: folds 
+Xuki_Norri: raises 96 to 176
+the vege: folds 
+gucci99: raises 224 to 400 and is all-in
+Rosa885: folds 
+ash19802023: folds 
+arandanos4m: folds 
+pqno riu: folds 
+ArgosSans: folds 
+Xuki_Norri: calls 224
+*** FLOP *** [6s Kd 2c]
+*** TURN *** [6s Kd 2c] [8c]
+*** RIVER *** [6s Kd 2c 8c] [3s]
+*** SHOW DOWN ***
+Xuki_Norri: shows [Qh Kc] (a pair of Kings)
+gucci99: shows [Ad Ks] (a pair of Kings - Ace kicker)
+gucci99 collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | Rake 0 
+Board [6s Kd 2c 8c 3s]
+Seat 1: ash19802023 (button) folded before Flop (didn't bet)
+Seat 2: arandanos4m (small blind) folded before Flop
+Seat 3: pqno riu (big blind) folded before Flop
+Seat 4: ArgosSans folded before Flop
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri showed [Qh Kc] and lost with a pair of Kings
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 showed [Ad Ks] and won (1090) with a pair of Kings
+Seat 9: Rosa885 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424797487: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2023/08/16 14:20:13 AT [2023/08/16 13:20:13 ET]
+Table '3632150804 4' 9-max Seat #2 is the button
+Seat 1: ash19802023 (6483 in chips) 
+Seat 2: arandanos4m (735 in chips) 
+Seat 3: pqno riu (4252 in chips) 
+Seat 4: ArgosSans (3748 in chips) 
+Seat 5: Caio Mugarte (856 in chips) 
+Seat 6: Xuki_Norri (1081 in chips) 
+Seat 7: the vege (1001 in chips) 
+Seat 8: gucci99 (1090 in chips) 
+Seat 9: Rosa885 (661 in chips) 
+ash19802023: posts the ante 10
+arandanos4m: posts the ante 10
+pqno riu: posts the ante 10
+ArgosSans: posts the ante 10
+Caio Mugarte: posts the ante 10
+Xuki_Norri: posts the ante 10
+the vege: posts the ante 10
+gucci99: posts the ante 10
+Rosa885: posts the ante 10
+pqno riu: posts small blind 40
+ArgosSans: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Td 9d]
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: folds 
+gucci99: raises 80 to 160
+Rosa885: folds 
+ash19802023: folds 
+arandanos4m: folds 
+pqno riu: calls 120
+ArgosSans: folds 
+*** FLOP *** [4s Qs Tc]
+pqno riu: checks 
+gucci99: checks 
+*** TURN *** [4s Qs Tc] [5h]
+pqno riu: bets 323
+gucci99: calls 323
+*** RIVER *** [4s Qs Tc 5h] [9h]
+pqno riu: bets 750
+gucci99: calls 597 and is all-in
+Uncalled bet (153) returned to pqno riu
+*** SHOW DOWN ***
+pqno riu: shows [Qd 7d] (a pair of Queens)
+gucci99: shows [Qh Jh] (a pair of Queens - Jack kicker)
+gucci99 collected 2330 from pot
+*** SUMMARY ***
+Total pot 2330 | Rake 0 
+Board [4s Qs Tc 5h 9h]
+Seat 1: ash19802023 folded before Flop (didn't bet)
+Seat 2: arandanos4m (button) folded before Flop (didn't bet)
+Seat 3: pqno riu (small blind) showed [Qd 7d] and lost with a pair of Queens
+Seat 4: ArgosSans (big blind) folded before Flop
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 showed [Qh Jh] and won (2330) with a pair of Queens
+Seat 9: Rosa885 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424810994: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:21:02 AT [2023/08/16 13:21:02 ET]
+Table '3632150804 4' 9-max Seat #3 is the button
+Seat 1: ash19802023 (6473 in chips) 
+Seat 2: arandanos4m (725 in chips) 
+Seat 3: pqno riu (3162 in chips) 
+Seat 4: ArgosSans (3658 in chips) 
+Seat 5: Caio Mugarte (846 in chips) 
+Seat 6: Xuki_Norri (1071 in chips) 
+Seat 7: the vege (991 in chips) 
+Seat 8: gucci99 (2330 in chips) 
+Seat 9: Rosa885 (651 in chips) 
+ash19802023: posts the ante 15
+arandanos4m: posts the ante 15
+pqno riu: posts the ante 15
+ArgosSans: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+the vege: posts the ante 15
+gucci99: posts the ante 15
+Rosa885: posts the ante 15
+ArgosSans: posts small blind 60
+Caio Mugarte: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ac Th]
+Xuki_Norri: folds 
+the vege: folds 
+gucci99: folds 
+Rosa885: raises 516 to 636 and is all-in
+ash19802023: folds 
+arandanos4m: folds 
+pqno riu: folds 
+ArgosSans: folds 
+Caio Mugarte: calls 516
+*** FLOP *** [6h 7d 6c]
+*** TURN *** [6h 7d 6c] [9h]
+*** RIVER *** [6h 7d 6c 9h] [Ts]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Ac Th] (two pair, Tens and Sixes)
+Rosa885: shows [Ah 5h] (a pair of Sixes)
+Caio Mugarte collected 1467 from pot
+Rosa885 finished the tournament in 24th place
+*** SUMMARY ***
+Total pot 1467 | Rake 0 
+Board [6h 7d 6c 9h Ts]
+Seat 1: ash19802023 folded before Flop (didn't bet)
+Seat 2: arandanos4m folded before Flop (didn't bet)
+Seat 3: pqno riu (button) folded before Flop (didn't bet)
+Seat 4: ArgosSans (small blind) folded before Flop
+Seat 5: Caio Mugarte (big blind) showed [Ac Th] and won (1467) with two pair, Tens and Sixes
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 folded before Flop (didn't bet)
+Seat 9: Rosa885 showed [Ah 5h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #245424818931: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:21:31 AT [2023/08/16 13:21:31 ET]
+Table '3632150804 4' 9-max Seat #5 is the button
+Seat 1: ash19802023 (6458 in chips) 
+Seat 2: arandanos4m (710 in chips) 
+Seat 3: pqno riu (3147 in chips) 
+Seat 5: Caio Mugarte (1662 in chips) 
+Seat 6: Xuki_Norri (1056 in chips) 
+Seat 7: the vege (976 in chips) 
+Seat 8: gucci99 (2315 in chips) 
+ash19802023: posts the ante 15
+arandanos4m: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+the vege: posts the ante 15
+gucci99: posts the ante 15
+Xuki_Norri: posts small blind 60
+the vege: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s Ad]
+gucci99: raises 120 to 240
+ash19802023: folds 
+arandanos4m: folds 
+pqno riu: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: folds 
+Uncalled bet (120) returned to gucci99
+gucci99 collected 405 from pot
+gucci99: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: ash19802023 folded before Flop (didn't bet)
+Seat 2: arandanos4m folded before Flop (didn't bet)
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 5: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: Xuki_Norri (small blind) folded before Flop
+Seat 7: the vege (big blind) folded before Flop
+Seat 8: gucci99 collected (405)
+
+
+
+PokerStars Hand #245424826213: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:21:57 AT [2023/08/16 13:21:57 ET]
+Table '3632150804 4' 9-max Seat #6 is the button
+Seat 1: ash19802023 (6443 in chips) 
+Seat 2: arandanos4m (695 in chips) 
+Seat 3: pqno riu (3132 in chips) 
+Seat 5: Caio Mugarte (1647 in chips) 
+Seat 6: Xuki_Norri (981 in chips) 
+Seat 7: the vege (841 in chips) 
+Seat 8: gucci99 (2585 in chips) 
+ash19802023: posts the ante 15
+arandanos4m: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+the vege: posts the ante 15
+gucci99: posts the ante 15
+the vege: posts small blind 60
+gucci99: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kc As]
+ash19802023: folds 
+arandanos4m: folds 
+pqno riu: folds 
+Caio Mugarte: raises 1512 to 1632 and is all-in
+Xuki_Norri: folds 
+the vege: folds 
+gucci99: folds 
+Uncalled bet (1512) returned to Caio Mugarte
+Caio Mugarte collected 405 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: ash19802023 folded before Flop (didn't bet)
+Seat 2: arandanos4m folded before Flop (didn't bet)
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 5: Caio Mugarte collected (405)
+Seat 6: Xuki_Norri (button) folded before Flop (didn't bet)
+Seat 7: the vege (small blind) folded before Flop
+Seat 8: gucci99 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245424833890: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:22:25 AT [2023/08/16 13:22:25 ET]
+Table '3632150804 4' 9-max Seat #7 is the button
+Seat 1: ash19802023 (6428 in chips) 
+Seat 2: arandanos4m (680 in chips) 
+Seat 3: pqno riu (3117 in chips) 
+Seat 5: Caio Mugarte (1917 in chips) 
+Seat 6: Xuki_Norri (966 in chips) 
+Seat 7: the vege (766 in chips) 
+Seat 8: gucci99 (2450 in chips) 
+ash19802023: posts the ante 15
+arandanos4m: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+the vege: posts the ante 15
+gucci99: posts the ante 15
+gucci99: posts small blind 60
+ash19802023: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d 2s]
+arandanos4m: folds 
+pqno riu: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: calls 120
+gucci99: calls 60
+ash19802023: checks 
+*** FLOP *** [2h 9s Th]
+gucci99: checks 
+ash19802023: checks 
+the vege: checks 
+*** TURN *** [2h 9s Th] [3h]
+gucci99: checks 
+ash19802023: checks 
+the vege: bets 120
+gucci99: folds 
+ash19802023: calls 120
+*** RIVER *** [2h 9s Th 3h] [Tc]
+ash19802023: checks 
+the vege: checks 
+*** SHOW DOWN ***
+ash19802023: shows [3s 7c] (two pair, Tens and Threes)
+the vege: mucks hand 
+ash19802023 collected 705 from pot
+*** SUMMARY ***
+Total pot 705 | Rake 0 
+Board [2h 9s Th 3h Tc]
+Seat 1: ash19802023 (big blind) showed [3s 7c] and won (705) with two pair, Tens and Threes
+Seat 2: arandanos4m folded before Flop (didn't bet)
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege (button) mucked [Qs Ks]
+Seat 8: gucci99 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #245424844277: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:23:02 AT [2023/08/16 13:23:02 ET]
+Table '3632150804 4' 9-max Seat #8 is the button
+Seat 1: ash19802023 (6878 in chips) 
+Seat 2: arandanos4m (665 in chips) 
+Seat 3: pqno riu (3102 in chips) 
+Seat 5: Caio Mugarte (1902 in chips) 
+Seat 6: Xuki_Norri (951 in chips) 
+Seat 7: the vege (511 in chips) 
+Seat 8: gucci99 (2315 in chips) 
+ash19802023: posts the ante 15
+arandanos4m: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+the vege: posts the ante 15
+gucci99: posts the ante 15
+ash19802023: posts small blind 60
+arandanos4m: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c 2h]
+pqno riu: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: folds 
+gucci99: raises 120 to 240
+ash19802023: calls 180
+arandanos4m: calls 120
+*** FLOP *** [Qc 6c 4h]
+ash19802023: bets 825
+arandanos4m: calls 410 and is all-in
+gucci99: raises 1235 to 2060 and is all-in
+ash19802023: folds 
+Uncalled bet (1235) returned to gucci99
+*** TURN *** [Qc 6c 4h] [6h]
+*** RIVER *** [Qc 6c 4h 6h] [3c]
+*** SHOW DOWN ***
+gucci99: shows [Qd Jc] (two pair, Queens and Sixes)
+gucci99 collected 830 from side pot
+arandanos4m: shows [Qh 5c] (two pair, Queens and Sixes - lower kicker)
+gucci99 collected 2055 from main pot
+arandanos4m finished the tournament in 22nd place
+*** SUMMARY ***
+Total pot 2885 Main pot 2055. Side pot 830. | Rake 0 
+Board [Qc 6c 4h 6h 3c]
+Seat 1: ash19802023 (small blind) folded on the Flop
+Seat 2: arandanos4m (big blind) showed [Qh 5c] and lost with two pair, Queens and Sixes
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 (button) showed [Qd Jc] and won (2885) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #245424858772: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:23:54 AT [2023/08/16 13:23:54 ET]
+Table '3632150804 4' 9-max Seat #1 is the button
+Seat 1: ash19802023 (5798 in chips) 
+Seat 3: pqno riu (3087 in chips) 
+Seat 5: Caio Mugarte (1887 in chips) 
+Seat 6: Xuki_Norri (936 in chips) 
+Seat 7: the vege (496 in chips) 
+Seat 8: gucci99 (4120 in chips) 
+ash19802023: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+the vege: posts the ante 15
+gucci99: posts the ante 15
+pqno riu: posts small blind 60
+Caio Mugarte: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qs 5d]
+Xuki_Norri: raises 801 to 921 and is all-in
+the vege: folds 
+gucci99: folds 
+ash19802023: folds 
+pqno riu: folds 
+Caio Mugarte: folds 
+Uncalled bet (801) returned to Xuki_Norri
+Xuki_Norri collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: ash19802023 (button) folded before Flop (didn't bet)
+Seat 3: pqno riu (small blind) folded before Flop
+Seat 5: Caio Mugarte (big blind) folded before Flop
+Seat 6: Xuki_Norri collected (390)
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424864406: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:24:15 AT [2023/08/16 13:24:15 ET]
+Table '3632150804 4' 9-max Seat #3 is the button
+Seat 1: ash19802023 (5783 in chips) 
+Seat 2: 0Victorinox0 (4930 in chips) 
+Seat 3: pqno riu (3012 in chips) 
+Seat 5: Caio Mugarte (1752 in chips) 
+Seat 6: Xuki_Norri (1191 in chips) 
+Seat 7: the vege (481 in chips) 
+Seat 8: gucci99 (4105 in chips) 
+ash19802023: posts the ante 15
+0Victorinox0: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+the vege: posts the ante 15
+gucci99: posts the ante 15
+Caio Mugarte: posts small blind 60
+Xuki_Norri: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d 3s]
+the vege: folds 
+gucci99: raises 120 to 240
+ash19802023: folds 
+0Victorinox0: calls 240
+pqno riu: folds 
+Caio Mugarte: calls 180
+Xuki_Norri: folds 
+*** FLOP *** [3c 2d 5s]
+Caio Mugarte: checks 
+gucci99: checks 
+0Victorinox0: bets 240
+Caio Mugarte: raises 1257 to 1497 and is all-in
+gucci99: folds 
+0Victorinox0: folds 
+Uncalled bet (1257) returned to Caio Mugarte
+Caio Mugarte collected 1425 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 1425 | Rake 0 
+Board [3c 2d 5s]
+Seat 1: ash19802023 folded before Flop (didn't bet)
+Seat 2: 0Victorinox0 folded on the Flop
+Seat 3: pqno riu (button) folded before Flop (didn't bet)
+Seat 5: Caio Mugarte (small blind) collected (1425)
+Seat 6: Xuki_Norri (big blind) folded before Flop
+Seat 7: the vege folded before Flop (didn't bet)
+Seat 8: gucci99 folded on the Flop
+
+
+
+PokerStars Hand #245424876346: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:24:58 AT [2023/08/16 13:24:58 ET]
+Table '3632150804 4' 9-max Seat #5 is the button
+Seat 1: ash19802023 (5768 in chips) 
+Seat 2: 0Victorinox0 (4435 in chips) 
+Seat 3: pqno riu (2997 in chips) 
+Seat 5: Caio Mugarte (2682 in chips) 
+Seat 6: Xuki_Norri (1056 in chips) 
+Seat 7: the vege (466 in chips) 
+Seat 8: gucci99 (3850 in chips) 
+ash19802023: posts the ante 15
+0Victorinox0: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+the vege: posts the ante 15
+gucci99: posts the ante 15
+Xuki_Norri: posts small blind 60
+the vege: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3c 4c]
+gucci99: raises 120 to 240
+ash19802023: folds 
+0Victorinox0: folds 
+pqno riu: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: calls 120
+*** FLOP *** [5h Qd 3d]
+the vege: checks 
+gucci99: bets 240
+the vege: folds 
+Uncalled bet (240) returned to gucci99
+gucci99 collected 645 from pot
+gucci99: doesn't show hand 
+*** SUMMARY ***
+Total pot 645 | Rake 0 
+Board [5h Qd 3d]
+Seat 1: ash19802023 folded before Flop (didn't bet)
+Seat 2: 0Victorinox0 folded before Flop (didn't bet)
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 5: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: Xuki_Norri (small blind) folded before Flop
+Seat 7: the vege (big blind) folded on the Flop
+Seat 8: gucci99 collected (645)
+
+
+
+PokerStars Hand #245424882694: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:25:21 AT [2023/08/16 13:25:21 ET]
+Table '3632150804 4' 9-max Seat #6 is the button
+Seat 1: ash19802023 (5753 in chips) 
+Seat 2: 0Victorinox0 (4420 in chips) 
+Seat 3: pqno riu (2982 in chips) 
+Seat 5: Caio Mugarte (2667 in chips) 
+Seat 6: Xuki_Norri (981 in chips) 
+Seat 7: the vege (211 in chips) 
+Seat 8: gucci99 (4240 in chips) 
+ash19802023: posts the ante 15
+0Victorinox0: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+the vege: posts the ante 15
+gucci99: posts the ante 15
+the vege: posts small blind 60
+gucci99: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9c Kd]
+ash19802023: folds 
+0Victorinox0: calls 120
+pqno riu: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: folds 
+gucci99: checks 
+*** FLOP *** [6c 8c Kh]
+gucci99: checks 
+0Victorinox0: bets 120
+gucci99: folds 
+Uncalled bet (120) returned to 0Victorinox0
+0Victorinox0 collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Board [6c 8c Kh]
+Seat 1: ash19802023 folded before Flop (didn't bet)
+Seat 2: 0Victorinox0 collected (405)
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri (button) folded before Flop (didn't bet)
+Seat 7: the vege (small blind) folded before Flop
+Seat 8: gucci99 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245424888610: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:25:42 AT [2023/08/16 13:25:42 ET]
+Table '3632150804 4' 9-max Seat #7 is the button
+Seat 1: ash19802023 (5738 in chips) 
+Seat 2: 0Victorinox0 (4690 in chips) 
+Seat 3: pqno riu (2967 in chips) 
+Seat 5: Caio Mugarte (2652 in chips) 
+Seat 6: Xuki_Norri (966 in chips) 
+Seat 7: the vege (136 in chips) 
+Seat 8: gucci99 (4105 in chips) 
+ash19802023: posts the ante 15
+0Victorinox0: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+the vege: posts the ante 15
+gucci99: posts the ante 15
+gucci99: posts small blind 60
+ash19802023: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4s 8c]
+0Victorinox0: calls 120
+pqno riu: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+the vege: folds 
+gucci99: folds 
+ash19802023: checks 
+*** FLOP *** [Kc 3h Js]
+ash19802023: bets 405
+0Victorinox0: calls 405
+*** TURN *** [Kc 3h Js] [9c]
+ash19802023: checks 
+0Victorinox0: checks 
+*** RIVER *** [Kc 3h Js 9c] [2d]
+ash19802023: checks 
+0Victorinox0: bets 240
+ash19802023: folds 
+Uncalled bet (240) returned to 0Victorinox0
+0Victorinox0 collected 1215 from pot
+*** SUMMARY ***
+Total pot 1215 | Rake 0 
+Board [Kc 3h Js 9c 2d]
+Seat 1: ash19802023 (big blind) folded on the River
+Seat 2: 0Victorinox0 collected (1215)
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 7: the vege (button) folded before Flop (didn't bet)
+Seat 8: gucci99 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245424903318: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:26:35 AT [2023/08/16 13:26:35 ET]
+Table '3632150804 4' 9-max Seat #8 is the button
+Seat 1: ash19802023 (5198 in chips) 
+Seat 2: 0Victorinox0 (5365 in chips) 
+Seat 3: pqno riu (2952 in chips) 
+Seat 5: Caio Mugarte (2637 in chips) 
+Seat 6: Xuki_Norri (951 in chips) 
+Seat 7: the vege (121 in chips) 
+Seat 8: gucci99 (4030 in chips) 
+ash19802023: posts the ante 15
+0Victorinox0: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+the vege: posts the ante 15
+gucci99: posts the ante 15
+ash19802023: posts small blind 60
+0Victorinox0: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5d Tc]
+pqno riu: folds 
+Caio Mugarte: folds 
+Xuki_Norri: raises 816 to 936 and is all-in
+the vege: calls 106 and is all-in
+gucci99: folds 
+ash19802023: folds 
+0Victorinox0: folds 
+Uncalled bet (816) returned to Xuki_Norri
+*** FLOP *** [Kh Qh 8c]
+*** TURN *** [Kh Qh 8c] [2c]
+*** RIVER *** [Kh Qh 8c 2c] [4c]
+*** SHOW DOWN ***
+Xuki_Norri: shows [Qd Jd] (a pair of Queens)
+Xuki_Norri collected 28 from side pot
+the vege: shows [Ad 8h] (a pair of Eights)
+Xuki_Norri collected 483 from main pot
+the vege finished the tournament in 20th place
+*** SUMMARY ***
+Total pot 511 Main pot 483. Side pot 28. | Rake 0 
+Board [Kh Qh 8c 2c 4c]
+Seat 1: ash19802023 (small blind) folded before Flop
+Seat 2: 0Victorinox0 (big blind) folded before Flop
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri showed [Qd Jd] and won (511) with a pair of Queens
+Seat 7: the vege showed [Ad 8h] and lost with a pair of Eights
+Seat 8: gucci99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424916991: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:27:25 AT [2023/08/16 13:27:25 ET]
+Table '3632150804 4' 9-max Seat #1 is the button
+Seat 1: ash19802023 (5123 in chips) 
+Seat 2: 0Victorinox0 (5230 in chips) 
+Seat 3: pqno riu (2937 in chips) 
+Seat 5: Caio Mugarte (2622 in chips) 
+Seat 6: Xuki_Norri (1327 in chips) 
+Seat 8: gucci99 (4015 in chips) 
+ash19802023: posts the ante 15
+0Victorinox0: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+gucci99: posts the ante 15
+0Victorinox0: posts small blind 60
+pqno riu: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qs 6s]
+Caio Mugarte: folds 
+Xuki_Norri: raises 1192 to 1312 and is all-in
+gucci99: folds 
+ash19802023: folds 
+0Victorinox0: calls 1252
+pqno riu: folds 
+*** FLOP *** [Jd 4s 7c]
+*** TURN *** [Jd 4s 7c] [6d]
+*** RIVER *** [Jd 4s 7c 6d] [2c]
+*** SHOW DOWN ***
+0Victorinox0: shows [Qc Kc] (high card King)
+Xuki_Norri: shows [Ks Qd] (high card King)
+0Victorinox0 collected 1417 from pot
+Xuki_Norri collected 1417 from pot
+*** SUMMARY ***
+Total pot 2834 | Rake 0 
+Board [Jd 4s 7c 6d 2c]
+Seat 1: ash19802023 (button) folded before Flop (didn't bet)
+Seat 2: 0Victorinox0 (small blind) showed [Qc Kc] and won (1417) with high card King
+Seat 3: pqno riu (big blind) folded before Flop
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri showed [Ks Qd] and won (1417) with high card King
+Seat 8: gucci99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424925319: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:27:55 AT [2023/08/16 13:27:55 ET]
+Table '3632150804 4' 9-max Seat #2 is the button
+Seat 1: ash19802023 (5108 in chips) 
+Seat 2: 0Victorinox0 (5320 in chips) 
+Seat 3: pqno riu (2802 in chips) 
+Seat 5: Caio Mugarte (2607 in chips) 
+Seat 6: Xuki_Norri (1417 in chips) 
+Seat 8: gucci99 (4000 in chips) 
+ash19802023: posts the ante 15
+0Victorinox0: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+gucci99: posts the ante 15
+pqno riu: posts small blind 60
+Caio Mugarte: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6s 7d]
+Xuki_Norri: folds 
+gucci99: folds 
+ash19802023: folds 
+0Victorinox0: folds 
+pqno riu: calls 60
+Caio Mugarte: checks 
+*** FLOP *** [5c 6c 3s]
+pqno riu: checks 
+Caio Mugarte: checks 
+*** TURN *** [5c 6c 3s] [Jc]
+pqno riu: bets 218
+Caio Mugarte: calls 218
+*** RIVER *** [5c 6c 3s Jc] [3c]
+pqno riu: bets 506
+Caio Mugarte: folds 
+Uncalled bet (506) returned to pqno riu
+pqno riu collected 766 from pot
+pqno riu: doesn't show hand 
+*** SUMMARY ***
+Total pot 766 | Rake 0 
+Board [5c 6c 3s Jc 3c]
+Seat 1: ash19802023 folded before Flop (didn't bet)
+Seat 2: 0Victorinox0 (button) folded before Flop (didn't bet)
+Seat 3: pqno riu (small blind) collected (766)
+Seat 5: Caio Mugarte (big blind) folded on the River
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 8: gucci99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424935975: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:28:34 AT [2023/08/16 13:28:34 ET]
+Table '3632150804 4' 9-max Seat #3 is the button
+Seat 1: ash19802023 (5093 in chips) 
+Seat 2: 0Victorinox0 (5305 in chips) 
+Seat 3: pqno riu (3215 in chips) 
+Seat 5: Caio Mugarte (2254 in chips) 
+Seat 6: Xuki_Norri (1402 in chips) 
+Seat 8: gucci99 (3985 in chips) 
+ash19802023: posts the ante 15
+0Victorinox0: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+gucci99: posts the ante 15
+Caio Mugarte: posts small blind 60
+Xuki_Norri: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Js 4d]
+gucci99: folds 
+ash19802023: calls 120
+0Victorinox0: calls 120
+pqno riu: calls 120
+Caio Mugarte: folds 
+Xuki_Norri: checks 
+*** FLOP *** [4h Qh 5d]
+Xuki_Norri: checks 
+ash19802023: bets 4958 and is all-in
+0Victorinox0: folds 
+pqno riu: folds 
+Xuki_Norri: folds 
+Uncalled bet (4958) returned to ash19802023
+ash19802023 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [4h Qh 5d]
+Seat 1: ash19802023 collected (630)
+Seat 2: 0Victorinox0 folded on the Flop
+Seat 3: pqno riu (button) folded on the Flop
+Seat 5: Caio Mugarte (small blind) folded before Flop
+Seat 6: Xuki_Norri (big blind) folded on the Flop
+Seat 8: gucci99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424949807: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:29:24 AT [2023/08/16 13:29:24 ET]
+Table '3632150804 4' 9-max Seat #5 is the button
+Seat 1: ash19802023 (5588 in chips) 
+Seat 2: 0Victorinox0 (5170 in chips) 
+Seat 3: pqno riu (3080 in chips) 
+Seat 5: Caio Mugarte (2179 in chips) 
+Seat 6: Xuki_Norri (1267 in chips) 
+Seat 8: gucci99 (3970 in chips) 
+ash19802023: posts the ante 15
+0Victorinox0: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+gucci99: posts the ante 15
+Xuki_Norri: posts small blind 60
+gucci99: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c Qd]
+ash19802023: folds 
+0Victorinox0: calls 120
+pqno riu: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+gucci99: checks 
+*** FLOP *** [Jc 7s Qh]
+gucci99: checks 
+0Victorinox0: bets 240
+gucci99: folds 
+Uncalled bet (240) returned to 0Victorinox0
+0Victorinox0 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [Jc 7s Qh]
+Seat 1: ash19802023 folded before Flop (didn't bet)
+Seat 2: 0Victorinox0 collected (390)
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 5: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 6: Xuki_Norri (small blind) folded before Flop
+Seat 8: gucci99 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #245424956911: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2023/08/16 14:29:50 AT [2023/08/16 13:29:50 ET]
+Table '3632150804 4' 9-max Seat #6 is the button
+Seat 1: ash19802023 (5573 in chips) 
+Seat 2: 0Victorinox0 (5425 in chips) 
+Seat 3: pqno riu (3065 in chips) 
+Seat 5: Caio Mugarte (2164 in chips) 
+Seat 6: Xuki_Norri (1192 in chips) 
+Seat 8: gucci99 (3835 in chips) 
+ash19802023: posts the ante 15
+0Victorinox0: posts the ante 15
+pqno riu: posts the ante 15
+Caio Mugarte: posts the ante 15
+Xuki_Norri: posts the ante 15
+gucci99: posts the ante 15
+gucci99: posts small blind 60
+ash19802023: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d 8c]
+0Victorinox0: folds 
+pqno riu: raises 120 to 240
+Caio Mugarte: calls 240
+Xuki_Norri: folds 
+gucci99: folds 
+ash19802023: folds 
+*** FLOP *** [3d Kh 9s]
+pqno riu: checks 
+Caio Mugarte: bets 248
+pqno riu: calls 248
+*** TURN *** [3d Kh 9s] [2c]
+pqno riu: checks 
+Caio Mugarte: checks 
+*** RIVER *** [3d Kh 9s 2c] [8s]
+pqno riu: bets 822
+Caio Mugarte: raises 839 to 1661 and is all-in
+pqno riu: calls 839
+*** SHOW DOWN ***
+Caio Mugarte: shows [8d 8c] (three of a kind, Eights)
+pqno riu: shows [Ad As] (a pair of Aces)
+Caio Mugarte collected 4568 from pot
+*** SUMMARY ***
+Total pot 4568 | Rake 0 
+Board [3d Kh 9s 2c 8s]
+Seat 1: ash19802023 (big blind) folded before Flop
+Seat 2: 0Victorinox0 folded before Flop (didn't bet)
+Seat 3: pqno riu showed [Ad As] and lost with a pair of Aces
+Seat 5: Caio Mugarte showed [8d 8c] and won (4568) with three of a kind, Eights
+Seat 6: Xuki_Norri (button) folded before Flop (didn't bet)
+Seat 8: gucci99 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245424973785: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:30:50 AT [2023/08/16 13:30:50 ET]
+Table '3632150804 4' 9-max Seat #8 is the button
+Seat 1: ash19802023 (5438 in chips) 
+Seat 2: 0Victorinox0 (5410 in chips) 
+Seat 3: pqno riu (901 in chips) 
+Seat 5: Caio Mugarte (4568 in chips) 
+Seat 6: Xuki_Norri (1177 in chips) 
+Seat 8: gucci99 (3760 in chips) 
+ash19802023: posts the ante 20
+0Victorinox0: posts the ante 20
+pqno riu: posts the ante 20
+Caio Mugarte: posts the ante 20
+Xuki_Norri: posts the ante 20
+gucci99: posts the ante 20
+ash19802023: posts small blind 80
+0Victorinox0: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c 3s]
+pqno riu: folds 
+Caio Mugarte: folds 
+Xuki_Norri: folds 
+gucci99: folds 
+ash19802023: calls 80
+0Victorinox0: checks 
+*** FLOP *** [Qs 4c 7d]
+ash19802023: checks 
+0Victorinox0: checks 
+*** TURN *** [Qs 4c 7d] [8s]
+ash19802023: checks 
+0Victorinox0: bets 160
+ash19802023: calls 160
+*** RIVER *** [Qs 4c 7d 8s] [4d]
+ash19802023: checks 
+0Victorinox0: bets 960
+ash19802023: folds 
+Uncalled bet (960) returned to 0Victorinox0
+0Victorinox0 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [Qs 4c 7d 8s 4d]
+Seat 1: ash19802023 (small blind) folded on the River
+Seat 2: 0Victorinox0 (big blind) collected (760)
+Seat 3: pqno riu folded before Flop (didn't bet)
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri folded before Flop (didn't bet)
+Seat 8: gucci99 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245424984678: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:31:28 AT [2023/08/16 13:31:28 ET]
+Table '3632150804 4' 9-max Seat #1 is the button
+Seat 1: ash19802023 (5098 in chips) 
+Seat 2: 0Victorinox0 (5830 in chips) 
+Seat 3: pqno riu (881 in chips) 
+Seat 5: Caio Mugarte (4548 in chips) 
+Seat 6: Xuki_Norri (1157 in chips) 
+Seat 8: gucci99 (3740 in chips) 
+ash19802023: posts the ante 20
+0Victorinox0: posts the ante 20
+pqno riu: posts the ante 20
+Caio Mugarte: posts the ante 20
+Xuki_Norri: posts the ante 20
+gucci99: posts the ante 20
+0Victorinox0: posts small blind 80
+pqno riu: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9c 5s]
+Caio Mugarte: folds 
+Xuki_Norri: raises 977 to 1137 and is all-in
+gucci99: folds 
+ash19802023: calls 1137
+0Victorinox0: folds 
+pqno riu: folds 
+*** FLOP *** [7h 3h 5d]
+*** TURN *** [7h 3h 5d] [9h]
+*** RIVER *** [7h 3h 5d 9h] [6c]
+*** SHOW DOWN ***
+Xuki_Norri: shows [Qs Kh] (high card King)
+ash19802023: shows [8d Ad] (a straight, Five to Nine)
+ash19802023 collected 2634 from pot
+Xuki_Norri finished the tournament in 19th place
+*** SUMMARY ***
+Total pot 2634 | Rake 0 
+Board [7h 3h 5d 9h 6c]
+Seat 1: ash19802023 (button) showed [8d Ad] and won (2634) with a straight, Five to Nine
+Seat 2: 0Victorinox0 (small blind) folded before Flop
+Seat 3: pqno riu (big blind) folded before Flop
+Seat 5: Caio Mugarte folded before Flop (didn't bet)
+Seat 6: Xuki_Norri showed [Qs Kh] and lost with high card King
+Seat 8: gucci99 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425001348: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:32:27 AT [2023/08/16 13:32:27 ET]
+Table '3632150804 5' 9-max Seat #2 is the button
+Seat 1: Caio Mugarte (4528 in chips) 
+Seat 2: lucasveiga20 (2219 in chips) 
+Seat 3: BulveBulve (1738 in chips) 
+Seat 4: Mah Higa (2057 in chips) 
+Seat 5: LukasJs (4715 in chips) 
+Seat 6: ash19802023 (7435 in chips) 
+Seat 7: stange poker (3074 in chips) 
+Seat 8: ArgosSans (3713 in chips) 
+Seat 9: falzam (7166 in chips) 
+Caio Mugarte: posts the ante 20
+lucasveiga20: posts the ante 20
+BulveBulve: posts the ante 20
+Mah Higa: posts the ante 20
+LukasJs: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+BulveBulve: posts small blind 80
+Mah Higa: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5h Tc]
+LukasJs: calls 160
+ash19802023: calls 160
+stange poker: folds 
+ArgosSans: folds 
+falzam: folds 
+Caio Mugarte: folds 
+lucasveiga20: folds 
+BulveBulve: calls 80
+Mah Higa: raises 1877 to 2037 and is all-in
+LukasJs: folds 
+ash19802023: calls 1877
+BulveBulve: folds 
+*** FLOP *** [Th Td Ts]
+*** TURN *** [Th Td Ts] [Kc]
+*** RIVER *** [Th Td Ts Kc] [3d]
+*** SHOW DOWN ***
+Mah Higa: shows [Ah Jd] (three of a kind, Tens)
+ash19802023: shows [Ad 7d] (three of a kind, Tens)
+Mah Higa collected 2287 from pot
+ash19802023 collected 2287 from pot
+*** SUMMARY ***
+Total pot 4574 | Rake 0 
+Board [Th Td Ts Kc 3d]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 2: lucasveiga20 (button) folded before Flop (didn't bet)
+Seat 3: BulveBulve (small blind) folded before Flop
+Seat 4: Mah Higa (big blind) showed [Ah Jd] and won (2287) with three of a kind, Tens
+Seat 5: LukasJs folded before Flop
+Seat 6: ash19802023 showed [Ad 7d] and won (2287) with three of a kind, Tens
+Seat 7: stange poker folded before Flop (didn't bet)
+Seat 8: ArgosSans folded before Flop (didn't bet)
+Seat 9: falzam folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425012634: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:33:08 AT [2023/08/16 13:33:08 ET]
+Table '3632150804 5' 9-max Seat #3 is the button
+Seat 1: Caio Mugarte (4508 in chips) 
+Seat 2: lucasveiga20 (2199 in chips) 
+Seat 3: BulveBulve (1558 in chips) 
+Seat 4: Mah Higa (2287 in chips) 
+Seat 5: LukasJs (4535 in chips) 
+Seat 6: ash19802023 (7665 in chips) 
+Seat 7: stange poker (3054 in chips) 
+Seat 8: ArgosSans (3693 in chips) 
+Seat 9: falzam (7146 in chips) 
+Caio Mugarte: posts the ante 20
+lucasveiga20: posts the ante 20
+BulveBulve: posts the ante 20
+Mah Higa: posts the ante 20
+LukasJs: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+Mah Higa: posts small blind 80
+LukasJs: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6h 7s]
+ash19802023: raises 2720 to 2880
+stange poker: folds 
+ArgosSans: folds 
+falzam: folds 
+Caio Mugarte: folds 
+lucasveiga20: folds 
+BulveBulve: folds 
+Mah Higa: folds 
+LukasJs: calls 2720
+*** FLOP *** [2c Ah 9c]
+LukasJs: bets 1635 and is all-in
+ash19802023: calls 1635
+*** TURN *** [2c Ah 9c] [Js]
+*** RIVER *** [2c Ah 9c Js] [6c]
+*** SHOW DOWN ***
+LukasJs: shows [4c 4d] (a pair of Fours)
+ash19802023: shows [Qh Qc] (a pair of Queens)
+ash19802023 collected 9290 from pot
+LukasJs finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 9290 | Rake 0 
+Board [2c Ah 9c Js 6c]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: BulveBulve (button) folded before Flop (didn't bet)
+Seat 4: Mah Higa (small blind) folded before Flop
+Seat 5: LukasJs (big blind) showed [4c 4d] and lost with a pair of Fours
+Seat 6: ash19802023 showed [Qh Qc] and won (9290) with a pair of Queens
+Seat 7: stange poker folded before Flop (didn't bet)
+Seat 8: ArgosSans folded before Flop (didn't bet)
+Seat 9: falzam folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425022032: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:33:42 AT [2023/08/16 13:33:42 ET]
+Table '3632150804 5' 9-max Seat #4 is the button
+Seat 1: Caio Mugarte (4488 in chips) 
+Seat 2: lucasveiga20 (2179 in chips) 
+Seat 3: BulveBulve (1538 in chips) 
+Seat 4: Mah Higa (2187 in chips) 
+Seat 6: ash19802023 (12420 in chips) 
+Seat 7: stange poker (3034 in chips) 
+Seat 8: ArgosSans (3673 in chips) 
+Seat 9: falzam (7126 in chips) 
+Caio Mugarte: posts the ante 20
+lucasveiga20: posts the ante 20
+BulveBulve: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+ash19802023: posts small blind 80
+stange poker: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3h 3c]
+ArgosSans: folds 
+falzam: folds 
+Caio Mugarte: folds 
+lucasveiga20: folds 
+BulveBulve: raises 1358 to 1518 and is all-in
+Mah Higa: folds 
+ash19802023: folds 
+stange poker: folds 
+Uncalled bet (1358) returned to BulveBulve
+BulveBulve collected 560 from pot
+BulveBulve: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: BulveBulve collected (560)
+Seat 4: Mah Higa (button) folded before Flop (didn't bet)
+Seat 6: ash19802023 (small blind) folded before Flop
+Seat 7: stange poker (big blind) folded before Flop
+Seat 8: ArgosSans folded before Flop (didn't bet)
+Seat 9: falzam folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425028735: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:34:06 AT [2023/08/16 13:34:06 ET]
+Table '3632150804 5' 9-max Seat #6 is the button
+Seat 1: Caio Mugarte (4468 in chips) 
+Seat 2: lucasveiga20 (2159 in chips) 
+Seat 3: BulveBulve (1918 in chips) 
+Seat 4: Mah Higa (2167 in chips) 
+Seat 6: ash19802023 (12320 in chips) 
+Seat 7: stange poker (2854 in chips) 
+Seat 8: ArgosSans (3653 in chips) 
+Seat 9: falzam (7106 in chips) 
+Caio Mugarte: posts the ante 20
+lucasveiga20: posts the ante 20
+BulveBulve: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+stange poker: posts small blind 80
+ArgosSans: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ah Jc]
+falzam: folds 
+Caio Mugarte: raises 160 to 320
+lucasveiga20: folds 
+BulveBulve: folds 
+Mah Higa: folds 
+ash19802023: folds 
+ash19802023 is sitting out
+stange poker: raises 2514 to 2834 and is all-in
+ArgosSans: folds 
+Caio Mugarte: folds 
+Uncalled bet (2514) returned to stange poker
+stange poker collected 960 from pot
+stange poker: doesn't show hand 
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Seat 1: Caio Mugarte folded before Flop
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: BulveBulve folded before Flop (didn't bet)
+Seat 4: Mah Higa folded before Flop (didn't bet)
+Seat 6: ash19802023 (button) folded before Flop (didn't bet)
+Seat 7: stange poker (small blind) collected (960)
+Seat 8: ArgosSans (big blind) folded before Flop
+Seat 9: falzam folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425036375: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:34:33 AT [2023/08/16 13:34:33 ET]
+Table '3632150804 5' 9-max Seat #7 is the button
+Seat 1: Caio Mugarte (4128 in chips) 
+Seat 2: lucasveiga20 (2139 in chips) 
+Seat 3: BulveBulve (1898 in chips) 
+Seat 4: Mah Higa (2147 in chips) 
+Seat 6: ash19802023 (12300 in chips) is sitting out
+Seat 7: stange poker (3474 in chips) 
+Seat 8: ArgosSans (3473 in chips) 
+Seat 9: falzam (7086 in chips) 
+Caio Mugarte: posts the ante 20
+lucasveiga20: posts the ante 20
+BulveBulve: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+ArgosSans: posts small blind 80
+falzam: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kh 9s]
+Caio Mugarte: folds 
+lucasveiga20: folds 
+BulveBulve: folds 
+Mah Higa: folds 
+ash19802023: folds 
+stange poker: folds 
+ArgosSans: folds 
+Uncalled bet (80) returned to falzam
+falzam collected 320 from pot
+falzam: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: BulveBulve folded before Flop (didn't bet)
+Seat 4: Mah Higa folded before Flop (didn't bet)
+Seat 6: ash19802023 folded before Flop (didn't bet)
+Seat 7: stange poker (button) folded before Flop (didn't bet)
+Seat 8: ArgosSans (small blind) folded before Flop
+Seat 9: falzam (big blind) collected (320)
+
+
+
+PokerStars Hand #245425039858: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:34:45 AT [2023/08/16 13:34:45 ET]
+Table '3632150804 5' 9-max Seat #8 is the button
+Seat 1: Caio Mugarte (4108 in chips) 
+Seat 2: lucasveiga20 (2119 in chips) 
+Seat 3: BulveBulve (1878 in chips) 
+Seat 4: Mah Higa (2127 in chips) 
+Seat 6: ash19802023 (12280 in chips) is sitting out
+Seat 7: stange poker (3454 in chips) 
+Seat 8: ArgosSans (3373 in chips) 
+Seat 9: falzam (7306 in chips) 
+Caio Mugarte: posts the ante 20
+lucasveiga20: posts the ante 20
+BulveBulve: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+falzam: posts small blind 80
+Caio Mugarte: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3s 4s]
+lucasveiga20: folds 
+BulveBulve: folds 
+Mah Higa: folds 
+ash19802023: folds 
+stange poker: folds 
+ArgosSans: raises 160 to 320
+falzam: folds 
+Caio Mugarte: calls 160
+*** FLOP *** [7c 5d Qs]
+Caio Mugarte: checks 
+ArgosSans: bets 440
+Caio Mugarte: folds 
+Uncalled bet (440) returned to ArgosSans
+ArgosSans collected 880 from pot
+ArgosSans: doesn't show hand 
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [7c 5d Qs]
+Seat 1: Caio Mugarte (big blind) folded on the Flop
+Seat 2: lucasveiga20 folded before Flop (didn't bet)
+Seat 3: BulveBulve folded before Flop (didn't bet)
+Seat 4: Mah Higa folded before Flop (didn't bet)
+Seat 6: ash19802023 folded before Flop (didn't bet)
+Seat 7: stange poker folded before Flop (didn't bet)
+Seat 8: ArgosSans (button) collected (880)
+Seat 9: falzam (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425047192: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:35:11 AT [2023/08/16 13:35:11 ET]
+Table '3632150804 5' 9-max Seat #9 is the button
+Seat 1: Caio Mugarte (3768 in chips) 
+Seat 2: lucasveiga20 (2099 in chips) 
+Seat 3: BulveBulve (1858 in chips) 
+Seat 4: Mah Higa (2107 in chips) 
+Seat 6: ash19802023 (12260 in chips) is sitting out
+Seat 7: stange poker (3434 in chips) 
+Seat 8: ArgosSans (3913 in chips) 
+Seat 9: falzam (7206 in chips) 
+Caio Mugarte: posts the ante 20
+lucasveiga20: posts the ante 20
+BulveBulve: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+Caio Mugarte: posts small blind 80
+lucasveiga20: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts 4d]
+ash19802023 has returned
+BulveBulve: folds 
+Mah Higa: folds 
+ash19802023: calls 160
+stange poker: raises 3254 to 3414 and is all-in
+ArgosSans: folds 
+falzam: folds 
+Caio Mugarte: folds 
+lucasveiga20: folds 
+ash19802023: calls 3254
+*** FLOP *** [6d 5s 4s]
+*** TURN *** [6d 5s 4s] [8c]
+*** RIVER *** [6d 5s 4s 8c] [9s]
+*** SHOW DOWN ***
+ash19802023: shows [Ah 2c] (high card Ace)
+stange poker: shows [As Qd] (high card Ace - Queen kicker)
+stange poker collected 7228 from pot
+*** SUMMARY ***
+Total pot 7228 | Rake 0 
+Board [6d 5s 4s 8c 9s]
+Seat 1: Caio Mugarte (small blind) folded before Flop
+Seat 2: lucasveiga20 (big blind) folded before Flop
+Seat 3: BulveBulve folded before Flop (didn't bet)
+Seat 4: Mah Higa folded before Flop (didn't bet)
+Seat 6: ash19802023 showed [Ah 2c] and lost with high card Ace
+Seat 7: stange poker showed [As Qd] and won (7228) with high card Ace
+Seat 8: ArgosSans folded before Flop (didn't bet)
+Seat 9: falzam (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425056333: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:35:44 AT [2023/08/16 13:35:44 ET]
+Table '3632150804 5' 9-max Seat #1 is the button
+Seat 1: Caio Mugarte (3668 in chips) 
+Seat 2: lucasveiga20 (1919 in chips) 
+Seat 3: BulveBulve (1838 in chips) 
+Seat 4: Mah Higa (2087 in chips) 
+Seat 6: ash19802023 (8826 in chips) 
+Seat 7: stange poker (7228 in chips) 
+Seat 8: ArgosSans (3893 in chips) 
+Seat 9: falzam (7186 in chips) 
+Caio Mugarte: posts the ante 20
+lucasveiga20: posts the ante 20
+BulveBulve: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+lucasveiga20: posts small blind 80
+BulveBulve: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Kd Qc]
+Mah Higa: folds 
+ash19802023: folds 
+stange poker: folds 
+ArgosSans: raises 320 to 480
+falzam: folds 
+Caio Mugarte: folds 
+lucasveiga20: folds 
+BulveBulve: folds 
+Uncalled bet (320) returned to ArgosSans
+ArgosSans collected 560 from pot
+ArgosSans: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 2: lucasveiga20 (small blind) folded before Flop
+Seat 3: BulveBulve (big blind) folded before Flop
+Seat 4: Mah Higa folded before Flop (didn't bet)
+Seat 6: ash19802023 folded before Flop (didn't bet)
+Seat 7: stange poker folded before Flop (didn't bet)
+Seat 8: ArgosSans collected (560)
+Seat 9: falzam folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425064468: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:36:13 AT [2023/08/16 13:36:13 ET]
+Table '3632150804 5' 9-max Seat #2 is the button
+Seat 1: Caio Mugarte (3648 in chips) 
+Seat 2: lucasveiga20 (1819 in chips) 
+Seat 3: BulveBulve (1658 in chips) 
+Seat 4: Mah Higa (2067 in chips) 
+Seat 6: ash19802023 (8806 in chips) 
+Seat 7: stange poker (7208 in chips) 
+Seat 8: ArgosSans (4273 in chips) 
+Seat 9: falzam (7166 in chips) 
+Caio Mugarte: posts the ante 20
+lucasveiga20: posts the ante 20
+BulveBulve: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+BulveBulve: posts small blind 80
+Mah Higa: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d Jd]
+ash19802023: folds 
+stange poker: folds 
+ArgosSans: calls 160
+falzam: folds 
+Caio Mugarte: folds 
+lucasveiga20: raises 1639 to 1799 and is all-in
+BulveBulve: calls 1558 and is all-in
+Mah Higa: folds 
+ArgosSans: folds 
+Uncalled bet (161) returned to lucasveiga20
+*** FLOP *** [Js 2s 6s]
+*** TURN *** [Js 2s 6s] [Qc]
+*** RIVER *** [Js 2s 6s Qc] [9h]
+*** SHOW DOWN ***
+BulveBulve: shows [9c 9d] (three of a kind, Nines)
+lucasveiga20: shows [7c Ac] (high card Ace)
+BulveBulve collected 3756 from pot
+*** SUMMARY ***
+Total pot 3756 | Rake 0 
+Board [Js 2s 6s Qc 9h]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 2: lucasveiga20 (button) showed [7c Ac] and lost with high card Ace
+Seat 3: BulveBulve (small blind) showed [9c 9d] and won (3756) with three of a kind, Nines
+Seat 4: Mah Higa (big blind) folded before Flop
+Seat 6: ash19802023 folded before Flop (didn't bet)
+Seat 7: stange poker folded before Flop (didn't bet)
+Seat 8: ArgosSans folded before Flop
+Seat 9: falzam folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425073925: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:36:46 AT [2023/08/16 13:36:46 ET]
+Table '3632150804 5' 9-max Seat #3 is the button
+Seat 1: Caio Mugarte (3628 in chips) 
+Seat 2: lucasveiga20 (161 in chips) 
+Seat 3: BulveBulve (3756 in chips) 
+Seat 4: Mah Higa (1887 in chips) 
+Seat 6: ash19802023 (8786 in chips) 
+Seat 7: stange poker (7188 in chips) 
+Seat 8: ArgosSans (4093 in chips) 
+Seat 9: falzam (7146 in chips) 
+Caio Mugarte: posts the ante 20
+lucasveiga20: posts the ante 20
+BulveBulve: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+Mah Higa: posts small blind 80
+ash19802023: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5h 4s]
+stange poker has timed out
+stange poker: folds 
+stange poker is sitting out
+ArgosSans: folds 
+falzam: raises 320 to 480
+Caio Mugarte: folds 
+lucasveiga20: calls 141 and is all-in
+BulveBulve: raises 3256 to 3736 and is all-in
+Mah Higa: folds 
+ash19802023: folds 
+stange poker has returned
+falzam: calls 3256
+*** FLOP *** [Kc 4c 7h]
+*** TURN *** [Kc 4c 7h] [Qc]
+*** RIVER *** [Kc 4c 7h Qc] [3s]
+*** SHOW DOWN ***
+falzam: shows [Ad As] (a pair of Aces)
+BulveBulve: shows [8s 8d] (a pair of Eights)
+falzam collected 7209 from side pot
+lucasveiga20: shows [9c 9h] (a pair of Nines)
+falzam collected 804 from main pot
+BulveBulve finished the tournament in 14th place
+lucasveiga20 finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 8013 Main pot 804. Side pot 7209. | Rake 0 
+Board [Kc 4c 7h Qc 3s]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 2: lucasveiga20 showed [9c 9h] and lost with a pair of Nines
+Seat 3: BulveBulve (button) showed [8s 8d] and lost with a pair of Eights
+Seat 4: Mah Higa (small blind) folded before Flop
+Seat 6: ash19802023 (big blind) folded before Flop
+Seat 7: stange poker folded before Flop (didn't bet)
+Seat 8: ArgosSans folded before Flop (didn't bet)
+Seat 9: falzam showed [Ad As] and won (8013) with a pair of Aces
+
+
+
+PokerStars Hand #245425087305: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:37:34 AT [2023/08/16 13:37:34 ET]
+Table '3632150804 5' 9-max Seat #4 is the button
+Seat 1: Caio Mugarte (3608 in chips) 
+Seat 4: Mah Higa (1787 in chips) 
+Seat 6: ash19802023 (8606 in chips) 
+Seat 7: stange poker (7168 in chips) 
+Seat 8: ArgosSans (4073 in chips) 
+Seat 9: falzam (11403 in chips) 
+Caio Mugarte: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+ash19802023: posts small blind 80
+stange poker: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3c 8h]
+ArgosSans: raises 320 to 480
+falzam: folds 
+Caio Mugarte: folds 
+Mah Higa: folds 
+ash19802023: folds 
+stange poker: folds 
+Uncalled bet (320) returned to ArgosSans
+ArgosSans collected 520 from pot
+ArgosSans: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Mah Higa (button) folded before Flop (didn't bet)
+Seat 6: ash19802023 (small blind) folded before Flop
+Seat 7: stange poker (big blind) folded before Flop
+Seat 8: ArgosSans collected (520)
+Seat 9: falzam folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425093033: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:37:54 AT [2023/08/16 13:37:54 ET]
+Table '3632150804 5' 9-max Seat #6 is the button
+Seat 1: Caio Mugarte (3588 in chips) 
+Seat 4: Mah Higa (1767 in chips) 
+Seat 6: ash19802023 (8506 in chips) 
+Seat 7: stange poker (6988 in chips) 
+Seat 8: ArgosSans (4413 in chips) 
+Seat 9: falzam (11383 in chips) 
+Caio Mugarte: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+stange poker: posts small blind 80
+ArgosSans: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8s Ks]
+falzam: folds 
+Caio Mugarte: folds 
+Mah Higa: folds 
+ash19802023: calls 160
+stange poker: folds 
+ArgosSans: checks 
+*** FLOP *** [9c As Kc]
+ArgosSans: checks 
+ash19802023: bets 160
+ArgosSans: folds 
+Uncalled bet (160) returned to ash19802023
+ash19802023 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [9c As Kc]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Mah Higa folded before Flop (didn't bet)
+Seat 6: ash19802023 (button) collected (520)
+Seat 7: stange poker (small blind) folded before Flop
+Seat 8: ArgosSans (big blind) folded on the Flop
+Seat 9: falzam folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425100164: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:38:19 AT [2023/08/16 13:38:19 ET]
+Table '3632150804 5' 9-max Seat #7 is the button
+Seat 1: Caio Mugarte (3568 in chips) 
+Seat 4: Mah Higa (1747 in chips) 
+Seat 6: ash19802023 (8846 in chips) 
+Seat 7: stange poker (6888 in chips) 
+Seat 8: ArgosSans (4233 in chips) 
+Seat 9: falzam (11363 in chips) 
+Caio Mugarte: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+ArgosSans: posts small blind 80
+falzam: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5h 8c]
+Caio Mugarte: folds 
+Mah Higa: folds 
+ash19802023: calls 160
+stange poker: folds 
+ArgosSans: folds 
+falzam: raises 160 to 320
+ash19802023: calls 160
+*** FLOP *** [Ad Qs 6s]
+falzam: bets 11023 and is all-in
+ash19802023: folds 
+Uncalled bet (11023) returned to falzam
+falzam collected 840 from pot
+falzam: doesn't show hand 
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Ad Qs 6s]
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Mah Higa folded before Flop (didn't bet)
+Seat 6: ash19802023 folded on the Flop
+Seat 7: stange poker (button) folded before Flop (didn't bet)
+Seat 8: ArgosSans (small blind) folded before Flop
+Seat 9: falzam (big blind) collected (840)
+
+
+
+PokerStars Hand #245425106519: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:38:42 AT [2023/08/16 13:38:42 ET]
+Table '3632150804 5' 9-max Seat #8 is the button
+Seat 1: Caio Mugarte (3548 in chips) 
+Seat 4: Mah Higa (1727 in chips) 
+Seat 6: ash19802023 (8506 in chips) 
+Seat 7: stange poker (6868 in chips) 
+Seat 8: ArgosSans (4133 in chips) 
+Seat 9: falzam (11863 in chips) 
+Caio Mugarte: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+falzam: posts small blind 80
+Caio Mugarte: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [7h Js]
+Mah Higa: folds 
+ash19802023: calls 160
+stange poker: folds 
+ArgosSans: folds 
+falzam: folds 
+Caio Mugarte: checks 
+*** FLOP *** [3d 9h 9c]
+Caio Mugarte: checks 
+ash19802023: checks 
+*** TURN *** [3d 9h 9c] [8c]
+Caio Mugarte: bets 172
+ash19802023: calls 172
+*** RIVER *** [3d 9h 9c 8c] [Ks]
+Caio Mugarte: checks 
+ash19802023: checks 
+*** SHOW DOWN ***
+Caio Mugarte: shows [7h Js] (a pair of Nines)
+ash19802023: shows [Ah 8s] (two pair, Nines and Eights)
+ash19802023 collected 864 from pot
+*** SUMMARY ***
+Total pot 864 | Rake 0 
+Board [3d 9h 9c 8c Ks]
+Seat 1: Caio Mugarte (big blind) showed [7h Js] and lost with a pair of Nines
+Seat 4: Mah Higa folded before Flop (didn't bet)
+Seat 6: ash19802023 showed [Ah 8s] and won (864) with two pair, Nines and Eights
+Seat 7: stange poker folded before Flop (didn't bet)
+Seat 8: ArgosSans (button) folded before Flop (didn't bet)
+Seat 9: falzam (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425115387: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:39:13 AT [2023/08/16 13:39:13 ET]
+Table '3632150804 5' 9-max Seat #9 is the button
+Seat 1: Caio Mugarte (3196 in chips) 
+Seat 4: Mah Higa (1707 in chips) 
+Seat 6: ash19802023 (9018 in chips) 
+Seat 7: stange poker (6848 in chips) 
+Seat 8: ArgosSans (4113 in chips) 
+Seat 9: falzam (11763 in chips) 
+Caio Mugarte: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+Caio Mugarte: posts small blind 80
+Mah Higa: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ac Ts]
+ash19802023: calls 160
+stange poker: folds 
+ArgosSans: folds 
+falzam: calls 160
+Caio Mugarte: folds 
+Mah Higa: checks 
+*** FLOP *** [7s 3h 8c]
+Mah Higa: checks 
+ash19802023: bets 680
+falzam: folds 
+Mah Higa: folds 
+Uncalled bet (680) returned to ash19802023
+ash19802023 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [7s 3h 8c]
+Seat 1: Caio Mugarte (small blind) folded before Flop
+Seat 4: Mah Higa (big blind) folded on the Flop
+Seat 6: ash19802023 collected (680)
+Seat 7: stange poker folded before Flop (didn't bet)
+Seat 8: ArgosSans folded before Flop (didn't bet)
+Seat 9: falzam (button) folded on the Flop
+
+
+
+PokerStars Hand #245425127136: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:39:55 AT [2023/08/16 13:39:55 ET]
+Table '3632150804 5' 9-max Seat #1 is the button
+Seat 1: Caio Mugarte (3096 in chips) 
+Seat 4: Mah Higa (1527 in chips) 
+Seat 6: ash19802023 (9518 in chips) 
+Seat 7: stange poker (6828 in chips) 
+Seat 8: ArgosSans (4093 in chips) 
+Seat 9: falzam (11583 in chips) 
+Caio Mugarte: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+Mah Higa: posts small blind 80
+ash19802023: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qh 8s]
+stange poker: folds 
+ArgosSans: folds 
+falzam: folds 
+Caio Mugarte: folds 
+Mah Higa: folds 
+Uncalled bet (80) returned to ash19802023
+ash19802023 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 4: Mah Higa (small blind) folded before Flop
+Seat 6: ash19802023 (big blind) collected (280)
+Seat 7: stange poker folded before Flop (didn't bet)
+Seat 8: ArgosSans folded before Flop (didn't bet)
+Seat 9: falzam folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425131845: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2023/08/16 14:40:11 AT [2023/08/16 13:40:11 ET]
+Table '3632150804 5' 9-max Seat #4 is the button
+Seat 1: Caio Mugarte (3076 in chips) 
+Seat 4: Mah Higa (1427 in chips) 
+Seat 6: ash19802023 (9698 in chips) 
+Seat 7: stange poker (6808 in chips) 
+Seat 8: ArgosSans (4073 in chips) 
+Seat 9: falzam (11563 in chips) 
+Caio Mugarte: posts the ante 20
+Mah Higa: posts the ante 20
+ash19802023: posts the ante 20
+stange poker: posts the ante 20
+ArgosSans: posts the ante 20
+falzam: posts the ante 20
+ash19802023: posts small blind 80
+stange poker: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [5s Qh]
+ArgosSans: folds 
+falzam: folds 
+Caio Mugarte: folds 
+Mah Higa: raises 1247 to 1407 and is all-in
+ash19802023: folds 
+stange poker: folds 
+Uncalled bet (1247) returned to Mah Higa
+Mah Higa collected 520 from pot
+Mah Higa: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Mah Higa (button) collected (520)
+Seat 6: ash19802023 (small blind) folded before Flop
+Seat 7: stange poker (big blind) folded before Flop
+Seat 8: ArgosSans folded before Flop (didn't bet)
+Seat 9: falzam folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425136962: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2023/08/16 14:40:30 AT [2023/08/16 13:40:30 ET]
+Table '3632150804 5' 9-max Seat #6 is the button
+Seat 1: Caio Mugarte (3056 in chips) 
+Seat 4: Mah Higa (1767 in chips) 
+Seat 6: ash19802023 (9598 in chips) 
+Seat 7: stange poker (6628 in chips) 
+Seat 8: ArgosSans (4053 in chips) 
+Seat 9: falzam (11543 in chips) 
+Caio Mugarte: posts the ante 25
+Mah Higa: posts the ante 25
+ash19802023: posts the ante 25
+stange poker: posts the ante 25
+ArgosSans: posts the ante 25
+falzam: posts the ante 25
+stange poker: posts small blind 100
+ArgosSans: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3h 8d]
+falzam: folds 
+Caio Mugarte: folds 
+Mah Higa: raises 1542 to 1742 and is all-in
+ash19802023: folds 
+stange poker: folds 
+ArgosSans: folds 
+Uncalled bet (1542) returned to Mah Higa
+Mah Higa collected 650 from pot
+Mah Higa: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Mah Higa collected (650)
+Seat 6: ash19802023 (button) folded before Flop (didn't bet)
+Seat 7: stange poker (small blind) folded before Flop
+Seat 8: ArgosSans (big blind) folded before Flop
+Seat 9: falzam folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425142078: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2023/08/16 14:40:48 AT [2023/08/16 13:40:48 ET]
+Table '3632150804 5' 9-max Seat #7 is the button
+Seat 1: Caio Mugarte (3031 in chips) 
+Seat 4: Mah Higa (2192 in chips) 
+Seat 6: ash19802023 (9573 in chips) 
+Seat 7: stange poker (6503 in chips) 
+Seat 8: ArgosSans (3828 in chips) 
+Seat 9: falzam (11518 in chips) 
+Caio Mugarte: posts the ante 25
+Mah Higa: posts the ante 25
+ash19802023: posts the ante 25
+stange poker: posts the ante 25
+ArgosSans: posts the ante 25
+falzam: posts the ante 25
+ArgosSans: posts small blind 100
+falzam: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [6d 7s]
+Caio Mugarte: folds 
+Mah Higa: folds 
+ash19802023: folds 
+stange poker: raises 200 to 400
+ArgosSans: folds 
+falzam: folds 
+Uncalled bet (200) returned to stange poker
+stange poker collected 650 from pot
+stange poker: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: Caio Mugarte folded before Flop (didn't bet)
+Seat 4: Mah Higa folded before Flop (didn't bet)
+Seat 6: ash19802023 folded before Flop (didn't bet)
+Seat 7: stange poker (button) collected (650)
+Seat 8: ArgosSans (small blind) folded before Flop
+Seat 9: falzam (big blind) folded before Flop
+
+
+
+PokerStars Hand #245425148355: Tournament #3632150804, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2023/08/16 14:41:10 AT [2023/08/16 13:41:10 ET]
+Table '3632150804 5' 9-max Seat #8 is the button
+Seat 1: Caio Mugarte (3006 in chips) 
+Seat 4: Mah Higa (2167 in chips) 
+Seat 6: ash19802023 (9548 in chips) 
+Seat 7: stange poker (6928 in chips) 
+Seat 8: ArgosSans (3703 in chips) 
+Seat 9: falzam (11293 in chips) 
+Caio Mugarte: posts the ante 25
+Mah Higa: posts the ante 25
+ash19802023: posts the ante 25
+stange poker: posts the ante 25
+ArgosSans: posts the ante 25
+falzam: posts the ante 25
+falzam: posts small blind 100
+Caio Mugarte: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ac Jd]
+Mah Higa: folds 
+ash19802023: raises 200 to 400
+stange poker: folds 
+ArgosSans: folds 
+falzam: calls 300
+Caio Mugarte: raises 2581 to 2981 and is all-in
+ash19802023: folds 
+falzam: calls 2581
+*** FLOP *** [4c 3d 8d]
+*** TURN *** [4c 3d 8d] [7d]
+*** RIVER *** [4c 3d 8d 7d] [8c]
+*** SHOW DOWN ***
+falzam: shows [5d 5s] (two pair, Eights and Fives)
+Caio Mugarte: shows [Ac Jd] (a pair of Eights)
+falzam collected 6512 from pot
+Caio Mugarte finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 6512 | Rake 0 
+Board [4c 3d 8d 7d 8c]
+Seat 1: Caio Mugarte (big blind) showed [Ac Jd] and lost with a pair of Eights
+Seat 4: Mah Higa folded before Flop (didn't bet)
+Seat 6: ash19802023 folded before Flop
+Seat 7: stange poker folded before Flop (didn't bet)
+Seat 8: ArgosSans (button) folded before Flop (didn't bet)
+Seat 9: falzam (small blind) showed [5d 5s] and won (6512) with two pair, Eights and Fives
+
+
+

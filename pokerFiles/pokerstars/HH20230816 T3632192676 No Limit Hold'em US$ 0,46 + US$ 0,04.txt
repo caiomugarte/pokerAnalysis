@@ -1,0 +1,505 @@
+﻿PokerStars Hand #245425790334: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:19:52 AT [2023/08/16 14:19:52 ET]
+Table '3632192676 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (500 in chips) 
+Seat 2: INMIGRANTE1967 (500 in chips) 
+Seat 3: Böörning666 (500 in chips) 
+INMIGRANTE1967: posts small blind 10
+Böörning666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th 7s]
+Caio Mugarte: folds 
+INMIGRANTE1967: calls 10
+Böörning666: checks 
+*** FLOP *** [Js 6h 2c]
+INMIGRANTE1967: checks 
+Böörning666: bets 40
+INMIGRANTE1967: folds 
+Uncalled bet (40) returned to Böörning666
+Böörning666 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js 6h 2c]
+Seat 1: Caio Mugarte (button) folded before Flop (didn't bet)
+Seat 2: INMIGRANTE1967 (small blind) folded on the Flop
+Seat 3: Böörning666 (big blind) collected (40)
+
+
+
+PokerStars Hand #245425796032: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:20:10 AT [2023/08/16 14:20:10 ET]
+Table '3632192676 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (500 in chips) 
+Seat 2: INMIGRANTE1967 (480 in chips) 
+Seat 3: Böörning666 (520 in chips) 
+Böörning666: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ad Jh]
+INMIGRANTE1967: raises 20 to 40
+Böörning666: folds 
+Caio Mugarte: raises 60 to 100
+INMIGRANTE1967: calls 60
+*** FLOP *** [2h 7s 8s]
+Caio Mugarte: checks 
+INMIGRANTE1967: bets 380 and is all-in
+Caio Mugarte: folds 
+Uncalled bet (380) returned to INMIGRANTE1967
+INMIGRANTE1967 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [2h 7s 8s]
+Seat 1: Caio Mugarte (big blind) folded on the Flop
+Seat 2: INMIGRANTE1967 (button) collected (210)
+Seat 3: Böörning666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425804342: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:20:39 AT [2023/08/16 14:20:39 ET]
+Table '3632192676 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (400 in chips) 
+Seat 2: INMIGRANTE1967 (590 in chips) 
+Seat 3: Böörning666 (510 in chips) 
+Caio Mugarte: posts small blind 10
+INMIGRANTE1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4h Ts]
+Böörning666: folds 
+Caio Mugarte: folds 
+Uncalled bet (10) returned to INMIGRANTE1967
+INMIGRANTE1967 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Caio Mugarte (small blind) folded before Flop
+Seat 2: INMIGRANTE1967 (big blind) collected (20)
+Seat 3: Böörning666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425806340: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:20:46 AT [2023/08/16 14:20:46 ET]
+Table '3632192676 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (390 in chips) 
+Seat 2: INMIGRANTE1967 (600 in chips) 
+Seat 3: Böörning666 (510 in chips) 
+INMIGRANTE1967: posts small blind 10
+Böörning666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c Jh]
+Caio Mugarte: raises 20 to 40
+INMIGRANTE1967: calls 30
+Böörning666: raises 470 to 510 and is all-in
+Caio Mugarte: folds 
+INMIGRANTE1967: calls 470
+*** FLOP *** [9c 5h 8s]
+*** TURN *** [9c 5h 8s] [Jc]
+*** RIVER *** [9c 5h 8s Jc] [2h]
+*** SHOW DOWN ***
+INMIGRANTE1967: shows [Ad 2d] (a pair of Deuces)
+Böörning666: shows [9s 9h] (three of a kind, Nines)
+Böörning666 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [9c 5h 8s Jc 2h]
+Seat 1: Caio Mugarte (button) folded before Flop
+Seat 2: INMIGRANTE1967 (small blind) showed [Ad 2d] and lost with a pair of Deuces
+Seat 3: Böörning666 (big blind) showed [9s 9h] and won (1060) with three of a kind, Nines
+
+
+
+PokerStars Hand #245425812216: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:21:06 AT [2023/08/16 14:21:06 ET]
+Table '3632192676 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (350 in chips) 
+Seat 2: INMIGRANTE1967 (90 in chips) 
+Seat 3: Böörning666 (1060 in chips) 
+Böörning666: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Ts Th]
+INMIGRANTE1967: raises 20 to 40
+Böörning666: folds 
+Caio Mugarte: raises 310 to 350 and is all-in
+INMIGRANTE1967: calls 50 and is all-in
+Uncalled bet (260) returned to Caio Mugarte
+*** FLOP *** [Js 6h Td]
+*** TURN *** [Js 6h Td] [9s]
+*** RIVER *** [Js 6h Td 9s] [8d]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Ts Th] (three of a kind, Tens)
+INMIGRANTE1967: shows [7s 5c] (a straight, Seven to Jack)
+INMIGRANTE1967 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | Rake 0 
+Board [Js 6h Td 9s 8d]
+Seat 1: Caio Mugarte (big blind) showed [Ts Th] and lost with three of a kind, Tens
+Seat 2: INMIGRANTE1967 (button) showed [7s 5c] and won (190) with a straight, Seven to Jack
+Seat 3: Böörning666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425817283: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:21:23 AT [2023/08/16 14:21:23 ET]
+Table '3632192676 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (260 in chips) 
+Seat 2: INMIGRANTE1967 (190 in chips) 
+Seat 3: Böörning666 (1050 in chips) 
+Caio Mugarte: posts small blind 10
+INMIGRANTE1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qc 5h]
+Böörning666: folds 
+Caio Mugarte: folds 
+Uncalled bet (10) returned to INMIGRANTE1967
+INMIGRANTE1967 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Caio Mugarte (small blind) folded before Flop
+Seat 2: INMIGRANTE1967 (big blind) collected (20)
+Seat 3: Böörning666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425819093: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:21:29 AT [2023/08/16 14:21:29 ET]
+Table '3632192676 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (250 in chips) 
+Seat 2: INMIGRANTE1967 (200 in chips) 
+Seat 3: Böörning666 (1050 in chips) 
+INMIGRANTE1967: posts small blind 10
+Böörning666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Jc 9d]
+Caio Mugarte: raises 230 to 250 and is all-in
+INMIGRANTE1967: folds 
+Böörning666: folds 
+Uncalled bet (230) returned to Caio Mugarte
+Caio Mugarte collected 50 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Caio Mugarte (button) collected (50)
+Seat 2: INMIGRANTE1967 (small blind) folded before Flop
+Seat 3: Böörning666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245425821597: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:21:37 AT [2023/08/16 14:21:37 ET]
+Table '3632192676 1' 3-max Seat #2 is the button
+Seat 1: Caio Mugarte (280 in chips) 
+Seat 2: INMIGRANTE1967 (190 in chips) 
+Seat 3: Böörning666 (1030 in chips) 
+Böörning666: posts small blind 10
+Caio Mugarte: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc 7d]
+INMIGRANTE1967: raises 40 to 60
+Böörning666: folds 
+Caio Mugarte: folds 
+Uncalled bet (40) returned to INMIGRANTE1967
+INMIGRANTE1967 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Caio Mugarte (big blind) folded before Flop
+Seat 2: INMIGRANTE1967 (button) collected (50)
+Seat 3: Böörning666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425824268: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2023/08/16 15:21:46 AT [2023/08/16 14:21:46 ET]
+Table '3632192676 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (260 in chips) 
+Seat 2: INMIGRANTE1967 (220 in chips) 
+Seat 3: Böörning666 (1020 in chips) 
+Caio Mugarte: posts small blind 10
+INMIGRANTE1967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th Js]
+Böörning666: folds 
+Caio Mugarte: raises 240 to 260 and is all-in
+INMIGRANTE1967: calls 200 and is all-in
+Uncalled bet (40) returned to Caio Mugarte
+*** FLOP *** [4s Jh 7d]
+*** TURN *** [4s Jh 7d] [4h]
+*** RIVER *** [4s Jh 7d 4h] [5c]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Th Js] (two pair, Jacks and Fours)
+INMIGRANTE1967: shows [Ks 5s] (two pair, Fives and Fours)
+Caio Mugarte collected 440 from pot
+INMIGRANTE1967 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [4s Jh 7d 4h 5c]
+Seat 1: Caio Mugarte (small blind) showed [Th Js] and won (440) with two pair, Jacks and Fours
+Seat 2: INMIGRANTE1967 (big blind) showed [Ks 5s] and lost with two pair, Fives and Fours
+Seat 3: Böörning666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #245425829502: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:22:04 AT [2023/08/16 14:22:04 ET]
+Table '3632192676 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (480 in chips) 
+Seat 3: Böörning666 (1020 in chips) 
+Caio Mugarte: posts small blind 15
+Böörning666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d Qd]
+Caio Mugarte: calls 15
+Böörning666: checks 
+*** FLOP *** [9s 3d 5h]
+Böörning666: checks 
+Caio Mugarte: checks 
+*** TURN *** [9s 3d 5h] [4s]
+Böörning666: checks 
+Caio Mugarte: checks 
+*** RIVER *** [9s 3d 5h 4s] [3s]
+Böörning666: checks 
+Caio Mugarte: checks 
+*** SHOW DOWN ***
+Böörning666: shows [Th 7s] (a pair of Threes)
+Caio Mugarte: shows [2d Qd] (a pair of Threes - Queen kicker)
+Caio Mugarte collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s 3d 5h 4s 3s]
+Seat 1: Caio Mugarte (button) (small blind) showed [2d Qd] and won (60) with a pair of Threes
+Seat 3: Böörning666 (big blind) showed [Th 7s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #245425841642: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:22:45 AT [2023/08/16 14:22:45 ET]
+Table '3632192676 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (510 in chips) 
+Seat 3: Böörning666 (990 in chips) 
+Böörning666: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [4d Tc]
+Böörning666: raises 30 to 60
+Caio Mugarte: folds 
+Uncalled bet (30) returned to Böörning666
+Böörning666 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Caio Mugarte (big blind) folded before Flop
+Seat 3: Böörning666 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #245425844972: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:22:56 AT [2023/08/16 14:22:56 ET]
+Table '3632192676 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (480 in chips) 
+Seat 3: Böörning666 (1020 in chips) 
+Caio Mugarte: posts small blind 15
+Böörning666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3h 9c]
+Caio Mugarte: folds 
+Uncalled bet (15) returned to Böörning666
+Böörning666 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: Böörning666 (big blind) collected (30)
+
+
+
+PokerStars Hand #245425846402: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:23:01 AT [2023/08/16 14:23:01 ET]
+Table '3632192676 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (465 in chips) 
+Seat 3: Böörning666 (1035 in chips) 
+Böörning666: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Qd Kd]
+Böörning666: raises 30 to 60
+Caio Mugarte: raises 405 to 465 and is all-in
+Böörning666: folds 
+Uncalled bet (405) returned to Caio Mugarte
+Caio Mugarte collected 120 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Caio Mugarte (big blind) collected (120)
+Seat 3: Böörning666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425849351: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:23:11 AT [2023/08/16 14:23:11 ET]
+Table '3632192676 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (525 in chips) 
+Seat 3: Böörning666 (975 in chips) 
+Caio Mugarte: posts small blind 15
+Böörning666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2d Th]
+Caio Mugarte: folds 
+Uncalled bet (15) returned to Böörning666
+Böörning666 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: Böörning666 (big blind) collected (30)
+
+
+
+PokerStars Hand #245425850660: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:23:16 AT [2023/08/16 14:23:16 ET]
+Table '3632192676 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (510 in chips) 
+Seat 3: Böörning666 (990 in chips) 
+Böörning666: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s Tc]
+Böörning666: raises 30 to 60
+Caio Mugarte: calls 30
+*** FLOP *** [4d 8s 9h]
+Caio Mugarte: checks 
+Böörning666: bets 120
+Caio Mugarte: raises 330 to 450 and is all-in
+Böörning666: calls 330
+*** TURN *** [4d 8s 9h] [6s]
+*** RIVER *** [4d 8s 9h 6s] [Jd]
+*** SHOW DOWN ***
+Caio Mugarte: shows [9s Tc] (a pair of Nines)
+Böörning666: shows [9d 7h] (a pair of Nines - lower kicker)
+Caio Mugarte collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [4d 8s 9h 6s Jd]
+Seat 1: Caio Mugarte (big blind) showed [9s Tc] and won (1020) with a pair of Nines
+Seat 3: Böörning666 (button) (small blind) showed [9d 7h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #245425857248: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:23:38 AT [2023/08/16 14:23:38 ET]
+Table '3632192676 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (1020 in chips) 
+Seat 3: Böörning666 (480 in chips) 
+Caio Mugarte: posts small blind 15
+Böörning666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [8d 3h]
+Caio Mugarte: folds 
+Uncalled bet (15) returned to Böörning666
+Böörning666 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Caio Mugarte (button) (small blind) folded before Flop
+Seat 3: Böörning666 (big blind) collected (30)
+
+
+
+PokerStars Hand #245425858693: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2023/08/16 15:23:43 AT [2023/08/16 14:23:43 ET]
+Table '3632192676 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (1005 in chips) 
+Seat 3: Böörning666 (495 in chips) 
+Böörning666: posts small blind 15
+Caio Mugarte: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [9s Kc]
+Böörning666: calls 15
+Caio Mugarte: raises 60 to 90
+Böörning666: folds 
+Uncalled bet (60) returned to Caio Mugarte
+Caio Mugarte collected 60 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Caio Mugarte (big blind) collected (60)
+Seat 3: Böörning666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425863652: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:23:59 AT [2023/08/16 14:23:59 ET]
+Table '3632192676 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (1035 in chips) 
+Seat 3: Böörning666 (465 in chips) 
+Caio Mugarte: posts small blind 20
+Böörning666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Tc Kd]
+Caio Mugarte: raises 80 to 120
+Böörning666: calls 80
+*** FLOP *** [7h 2c Jc]
+Böörning666: checks 
+Caio Mugarte: checks 
+*** TURN *** [7h 2c Jc] [4h]
+Böörning666: checks 
+Caio Mugarte: checks 
+*** RIVER *** [7h 2c Jc 4h] [4c]
+Böörning666: checks 
+Caio Mugarte: checks 
+*** SHOW DOWN ***
+Böörning666: shows [Qd 9h] (a pair of Fours)
+Caio Mugarte: shows [Tc Kd] (a pair of Fours - King kicker)
+Caio Mugarte collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h 2c Jc 4h 4c]
+Seat 1: Caio Mugarte (button) (small blind) showed [Tc Kd] and won (240) with a pair of Fours
+Seat 3: Böörning666 (big blind) showed [Qd 9h] and lost with a pair of Fours
+
+
+
+PokerStars Hand #245425874433: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:24:36 AT [2023/08/16 14:24:36 ET]
+Table '3632192676 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (1155 in chips) 
+Seat 3: Böörning666 (345 in chips) 
+Böörning666: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [3d Jc]
+Böörning666: folds 
+Uncalled bet (20) returned to Caio Mugarte
+Caio Mugarte collected 40 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Caio Mugarte (big blind) collected (40)
+Seat 3: Böörning666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #245425875889: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:24:40 AT [2023/08/16 14:24:40 ET]
+Table '3632192676 1' 3-max Seat #1 is the button
+Seat 1: Caio Mugarte (1175 in chips) 
+Seat 3: Böörning666 (325 in chips) 
+Caio Mugarte: posts small blind 20
+Böörning666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [2c Kh]
+Caio Mugarte: raises 60 to 100
+Böörning666: folds 
+Uncalled bet (60) returned to Caio Mugarte
+Caio Mugarte collected 80 from pot
+Caio Mugarte: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Caio Mugarte (button) (small blind) collected (80)
+Seat 3: Böörning666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #245425878187: Tournament #3632192676, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2023/08/16 15:24:48 AT [2023/08/16 14:24:48 ET]
+Table '3632192676 1' 3-max Seat #3 is the button
+Seat 1: Caio Mugarte (1215 in chips) 
+Seat 3: Böörning666 (285 in chips) 
+Böörning666: posts small blind 20
+Caio Mugarte: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Caio Mugarte [Th Qs]
+Böörning666: raises 245 to 285 and is all-in
+Caio Mugarte: calls 245
+*** FLOP *** [7c 5s Jh]
+*** TURN *** [7c 5s Jh] [Qc]
+*** RIVER *** [7c 5s Jh Qc] [9h]
+*** SHOW DOWN ***
+Caio Mugarte: shows [Th Qs] (a pair of Queens)
+Böörning666: shows [9c Td] (a pair of Nines)
+Caio Mugarte collected 570 from pot
+Böörning666 finished the tournament in 2nd place
+Caio Mugarte wins the tournament - congratulations!
+Caio Mugarte wins a '$1.00 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [7c 5s Jh Qc 9h]
+Seat 1: Caio Mugarte (big blind) showed [Th Qs] and won (570) with a pair of Queens
+Seat 3: Böörning666 (button) (small blind) showed [9c Td] and lost with a pair of Nines
+
+
+
