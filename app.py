@@ -11,7 +11,7 @@ def sort_by_tournament_id(hand):
 app = Flask(__name__)
 path_pokerstars = "pokerfiles/pokerstars"
 analisador = Analisador()
-tournaments = []
+tournaments = {}
 
 @app.route('/', methods=['GET', 'POST'])
 def welcome():
@@ -23,8 +23,7 @@ def pokerstars():
 
 def get_tournaments_info(path, analisador: Analisador, tournaments):
     for file in os.listdir(path):
-        tournaments.append(analisador.get_hands(file))
-    analisador.montar_estatisticias(tournaments)
+        tournaments.update(analisador.get_hands(file))
     return tournaments
 
 if __name__ == '__main__':

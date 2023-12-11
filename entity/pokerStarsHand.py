@@ -9,6 +9,8 @@ class PokerStarsHand:
         self.my_position = None
         self.battle = None
         self.my_cards = None
+        self.my_blinds = None
+        self.actions = None
     
     def serialize_pokerstars_hand(obj):
         if isinstance(obj, PokerStarsHand):
@@ -20,6 +22,8 @@ class PokerStarsHand:
                 "my_chip_count": obj.my_chip_count,
                 "my_position": obj.my_position,
                 "battle": obj.battle,
-                "my_cards": obj.my_cards
+                "my_cards": obj.my_cards,
+                "my_blinds": obj.my_blinds,
+                "actions": obj.actions
             }
         raise TypeError(f"Object of type {type(obj)} is not JSON serializable")

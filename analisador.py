@@ -3,24 +3,22 @@ from entity.pokerStarsHand import PokerStarsHand
 from collections import defaultdict
 import re
 
-POSITIONS = ["BTN", "SB", "BB", "UTG", "UTG+1", "UTG+2", "MP", "LJ", "HJ", "CO"]
+POSITIONS = ["BTN", "SB", "BB", "UTG", "UTG+1", "MP", "LJ", "HJ", "CO"]
 
 class Analisador: 
     def get_hands(self, file):
-        return fill_hands(file)
-    
-    def montar_estatisticias(self, tournaments):
-        for tournament in tournaments:
-            vpip = 0
-            tournament.setdefault("vpip", 0)
-            for key, hand_list in tournament.items():
-                for hand in hand_list:
-                    is_vpip = get_is_vpip(hand.description)
-                    if(is_vpip):
-                        vpip += 1
-            tournament.vpip = vpip
-        print(vpip)            
+        hands_details = get_detalhes_maos(file)
+        hands = defaultdict(list)
 
+        fill_hands(hands_details, hands)
+
+        filtered_dict = {}
+        for tournament_id, hands_list in hands.items():
+            filtered_dict[tournament_id] = hands_list
+
+
+        return filtered_dict
+    
 def get_is_vpip(descricao):
     for line in descricao:
         if "Caio Mugarte: folds" in line:
@@ -30,22 +28,7 @@ def get_is_vpip(descricao):
             
 
 
-def fill_hands(file):
-    hands_details = get_detalhes_maos(file)
-    hands = defaultdict(list)
-
-    monta_objeto_hand(hands_details, hands)
-
-    filtered_dict = {}
-    for tournament_id, hands_list in hands.items():
-        played_hands = [hand for hand in hands_list if hand.is_played]
-        if played_hands:
-            filtered_dict[tournament_id] = played_hands
-
-
-    return filtered_dict
-
-def monta_objeto_hand(hands_details, hands):
+def fill_hands(hands_details, hands):
     for hand in hands_details:
         lines = hand.split('\n')
         hand_info = lines[0]
@@ -59,17 +42,44 @@ def monta_objeto_hand(hands_details, hands):
         hand.is_played = get_is_played(lines)
         hand.my_chip_count = get_chip_count(lines)
 
-        if hand.is_played: 
-            hand.my_position = get_position(lines, "Caio Mugarte")
-            hand.battle = get_battle(lines)
+        hand.my_blinds = get_my_blinds(hand)
+
+        hand.my_position = get_position(lines, "Caio Mugarte")
+        hand.battle = get_battle(lines)
         
         trata_battle(hand)
 
         hand.my_cards = get_my_cards(lines)
         hand.result = get_result(lines)
 
+        hand.actions = get_actions(lines)
+
         hands[tournament_id].append(hand)
 
+def get_actions(lines):
+    actions = []
+    preflop_started = False  # Flag para indicar se o preflop começou
+
+    for line in lines:
+        # Verifica se o flop começou
+        if "*** FLOP ***" in line:
+            preflop_started = False
+
+        # Verifica se a linha contém informações sobre as ações dos jogadores
+        if preflop_started and re.match(r'^[A-Za-z0-9\s]+: (posts|folds|calls|raises|bets|checks|shows)', line):
+            actions.append(line.strip())
+
+        # Verifica se o preflop começou
+        if "*** HOLE CARDS ***" in line:
+            preflop_started = True
+
+    return actions
+
+def get_my_blinds(hand: PokerStarsHand):
+    bb = int(hand.blind_level.split('/')[1][:-1])
+    return int(hand.my_chip_count) / bb
+    
+        
 def get_result(lines):
     collected = []
     for line in lines:
@@ -131,9 +141,8 @@ def get_position(lines, player):
             name = player_match.group(2).strip()
             player_seats[seat_number] = name
 
-    seat = int(next((seat for seat, name in player_seats.items() if player in name), None))
-    position = POSITIONS[botao - seat - 1]
-    return position
+    seat = next((seat for seat, name in player_seats.items() if player in name), None)
+    return POSITIONS[(9+ seat - botao)%9] 
 
 def get_hand_id(hand_info):
     return re.search(r'#(\d+):', hand_info).group(1)
