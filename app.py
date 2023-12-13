@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, jsonify
 from analisador import Analisador
 from entity.pokerStarsHand import PokerStarsHand
 from collections import defaultdict
@@ -11,7 +11,6 @@ def sort_by_tournament_id(hand):
 app = Flask(__name__)
 path_pokerstars = "pokerfiles/pokerstars"
 analisador = Analisador()
-tournaments = {}
 
 @app.route('/', methods=['GET', 'POST'])
 def welcome():
@@ -19,12 +18,18 @@ def welcome():
 
 @app.route('/api/rest/pokerstars', methods=['GET', 'POST'])
 def pokerstars():
-    return json.dumps(get_tournaments_info(path_pokerstars, analisador, tournaments), default=PokerStarsHand.serialize_pokerstars_hand, indent=4)
+    torneios = get_tournaments_info(path_pokerstars, analisador)
+    return jsonify({"torneios": torneios})
 
-def get_tournaments_info(path, analisador: Analisador, tournaments):
+def get_tournaments_info(path, analisador: Analisador):
+    torneios = []
     for file in os.listdir(path):
-        tournaments.update(analisador.get_hands(file))
-    return tournaments
+        hands = analisador.get_hands(file)
+        torneio = [];
+        for hand in hands: 
+            torneio.append(hand.serialize_pokerstars_hand())
+        torneios.append({'torneio': hands[0].tournament_id, "hands": torneio})
+    return torneios
 
 if __name__ == '__main__':
     app.run()

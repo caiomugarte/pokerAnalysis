@@ -8,26 +8,10 @@ POSITIONS = ["BTN", "SB", "BB", "UTG", "UTG+1", "MP", "LJ", "HJ", "CO"]
 class Analisador: 
     def get_hands(self, file):
         hands_details = get_detalhes_maos(file)
-        hands = defaultdict(list)
-
+        hands = []
         fill_hands(hands_details, hands)
-
-        filtered_dict = {}
-        for tournament_id, hands_list in hands.items():
-            filtered_dict[tournament_id] = hands_list
-
-
-        return filtered_dict
+        return hands
     
-def get_is_vpip(descricao):
-    for line in descricao:
-        if "Caio Mugarte: folds" in line:
-            return False
-        else:
-            return True
-            
-
-
 def fill_hands(hands_details, hands):
     for hand in hands_details:
         lines = hand.split('\n')
@@ -54,7 +38,7 @@ def fill_hands(hands_details, hands):
 
         hand.actions = get_actions(lines)
 
-        hands[tournament_id].append(hand)
+        hands.append(hand)
 
 def get_actions(lines):
     actions = []

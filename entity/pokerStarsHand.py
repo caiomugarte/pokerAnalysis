@@ -12,18 +12,18 @@ class PokerStarsHand:
         self.my_blinds = None
         self.actions = None
     
-    def serialize_pokerstars_hand(obj):
-        if isinstance(obj, PokerStarsHand):
+    def serialize_pokerstars_hand(self):
+        if isinstance(self, PokerStarsHand):
             return {
-                "hand_id": obj.hand_id,
-                "tournament_id": obj.tournament_id,
-                "blind_level": obj.blind_level,
-                "is_played": obj.is_played,
-                "my_chip_count": obj.my_chip_count,
-                "my_position": obj.my_position,
-                "battle": obj.battle,
-                "my_cards": obj.my_cards,
-                "my_blinds": obj.my_blinds,
-                "actions": obj.actions
+                "hand_id": self.hand_id,
+                "tournament_id": self.tournament_id,
+                "blind_level": self.blind_level,
+                "is_played": self.is_played,
+                "my_chip_count": self.my_chip_count,
+                "my_position": self.my_position,
+                "battle": self.battle,
+                "my_cards": self.my_cards,
+                "my_blinds": self.my_blinds,
+                "actions": self.actions
             }
-        raise TypeError(f"Object of type {type(obj)} is not JSON serializable")
+        raise TypeError(f"Object of type {type(self)} is not JSON serializable")
